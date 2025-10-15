@@ -1,0 +1,4435 @@
+{
+  "version": "1.0",
+  "description": "TravelEval Progressive Difficulty Dataset",
+  "query_groups": [
+    [
+      {
+        "uid": "G01-1",
+        "tag": "easy",
+        "start_city": "北京",
+        "target_city": "上海",
+        "days": 3,
+        "people_number": 2,
+        "people_composition": {
+          "adults": 2,
+          "children": 0,
+          "seniors": 0
+        },
+        "budget": 5000,
+        "dates": "2024-11-01 to 2024-11-03",
+        "transportation": {},
+        "accommodations": {},
+        "diet": {},
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我们两个人从北京去上海玩3天，预算5000元。",
+        "nature_language_en": "Two of us want to travel from Beijing to Shanghai for 3 days with a budget of 5000 RMB."
+      },
+      {
+        "uid": "G01-2",
+        "tag": "medium",
+        "start_city": "北京",
+        "target_city": "上海",
+        "days": 3,
+        "people_number": 2,
+        "people_composition": {
+          "adults": 2,
+          "children": 0,
+          "seniors": 0
+        },
+        "budget": 5000,
+        "dates": "2024-11-01 to 2024-11-03",
+        "transportation": {
+          "preferences": ["高铁"],
+          "constraints": []
+        },
+        "accommodations": {},
+        "diet": {
+          "preferences": ["本帮菜", "小吃"],
+          "constraints": []
+        },
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我们两个人从北京坐高铁去上海玩3天，预算5000元，想吃正宗的本帮菜和上海小吃。",
+        "nature_language_en": "Two of us want to take high-speed rail from Beijing to Shanghai for 3 days with a budget of 5000 RMB, hoping to try authentic Shanghai cuisine and local snacks."
+      },
+      {
+        "uid": "G01-3",
+        "tag": "hard",
+        "start_city": "北京",
+        "target_city": "上海",
+        "days": 3,
+        "people_number": 2,
+        "people_composition": {
+          "adults": 2,
+          "children": 0,
+          "seniors": 0
+        },
+        "budget": 5000,
+        "dates": "2024-11-01 to 2024-11-03",
+        "transportation": {
+          "preferences": ["高铁"],
+          "constraints": ["飞机"]
+        },
+        "accommodations": {
+          "preferences": ["位置超好"],
+          "constraints": []
+        },
+        "diet": {
+          "preferences": ["本帮菜", "小吃"],
+          "constraints": []
+        },
+        "attractions": {
+          "preferences": ["城市地标", "历史古迹"],
+          "constraints": []
+        },
+        "rhythm": {},
+        "nature_language": "我们两个人从北京坐高铁去上海玩3天，预算5000元，想住位置好的酒店，吃正宗本帮菜和小吃，参观城市地标和历史古迹，不要坐飞机。",
+        "nature_language_en": "Two of us want to take high-speed rail (no flights) from Beijing to Shanghai for 3 days with a budget of 5000 RMB, staying in well-located hotels, trying authentic Shanghai cuisine and snacks, visiting city landmarks and historical sites."
+      }
+    ],
+    [
+      {
+        "uid": "G02-1",
+        "tag": "easy",
+        "start_city": "广州",
+        "target_city": "成都",
+        "days": 4,
+        "people_number": 1,
+        "people_composition": {
+          "adults": 1,
+          "children": 0,
+          "seniors": 0
+        },
+        "budget": 3000,
+        "dates": "2024-11-15 to 2024-11-18",
+        "transportation": {},
+        "accommodations": {},
+        "diet": {},
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我一个人从广州去成都旅行4天，预算3000元。",
+        "nature_language_en": "I want to travel alone from Guangzhou to Chengdu for 4 days with a budget of 3000 RMB."
+      },
+      {
+        "uid": "G02-2",
+        "tag": "medium",
+        "start_city": "广州",
+        "target_city": "成都",
+        "days": 4,
+        "people_number": 1,
+        "people_composition": {
+          "adults": 1,
+          "children": 0,
+          "seniors": 0
+        },
+        "budget": 3000,
+        "dates": "2024-11-15 to 2024-11-18",
+        "transportation": {},
+        "accommodations": {
+          "preferences": ["设计师酒店"],
+          "constraints": []
+        },
+        "diet": {
+          "preferences": ["川菜", "火锅"],
+          "constraints": []
+        },
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我一个人从广州去成都旅行4天，预算3000元，想住设计师酒店，品尝正宗川菜和火锅。",
+        "nature_language_en": "I want to travel alone from Guangzhou to Chengdu for 4 days with a budget of 3000 RMB, staying in designer hotels and trying authentic Sichuan cuisine and hotpot."
+      },
+      {
+        "uid": "G02-3",
+        "tag": "hard",
+        "start_city": "广州",
+        "target_city": "成都",
+        "days": 4,
+        "people_number": 1,
+        "people_composition": {
+          "adults": 1,
+          "children": 0,
+          "seniors": 0
+        },
+        "budget": 3000,
+        "dates": "2024-11-15 to 2024-11-18",
+        "transportation": {
+          "preferences": ["飞机"],
+          "constraints": []
+        },
+        "accommodations": {
+          "preferences": ["设计师酒店"],
+          "constraints": ["民宿"]
+        },
+        "diet": {
+          "preferences": ["川菜", "火锅"],
+          "constraints": []
+        },
+        "attractions": {
+          "preferences": ["美食目的地", "小众秘境"],
+          "constraints": []
+        },
+        "rhythm": {
+          "preferences": ["慢游"],
+          "constraints": []
+        },
+        "nature_language": "我一个人坐飞机从广州去成都慢游4天，预算3000元，想住设计师酒店但不要民宿，品尝川菜火锅，探索美食目的地和小众秘境。",
+        "nature_language_en": "I want to fly alone from Guangzhou to Chengdu for a slow 4-day trip with a budget of 3000 RMB, staying in designer hotels (no homestays), trying Sichuan cuisine and hotpot, exploring food destinations and hidden gems."
+      }
+    ],
+    [
+      {
+        "uid": "G03-1",
+        "tag": "easy",
+        "start_city": "深圳",
+        "target_city": "杭州",
+        "days": 5,
+        "people_number": 3,
+        "people_composition": {
+          "adults": 2,
+          "children": 1,
+          "seniors": 0
+        },
+        "budget": 8000,
+        "dates": "2024-12-01 to 2024-12-05",
+        "transportation": {},
+        "accommodations": {},
+        "diet": {},
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我们一家三口从深圳去杭州旅行5天，预算8000元。",
+        "nature_language_en": "Our family of three wants to travel from Shenzhen to Hangzhou for 5 days with a budget of 8000 RMB."
+      },
+      {
+        "uid": "G03-2",
+        "tag": "medium",
+        "start_city": "深圳",
+        "target_city": "杭州",
+        "days": 5,
+        "people_number": 3,
+        "people_composition": {
+          "adults": 2,
+          "children": 1,
+          "seniors": 0
+        },
+        "budget": 8000,
+        "dates": "2024-12-01 to 2024-12-05",
+        "transportation": {
+          "preferences": ["高铁"],
+          "constraints": []
+        },
+        "accommodations": {
+          "preferences": ["家庭房", "儿童俱乐部"],
+          "constraints": []
+        },
+        "diet": {},
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我们一家三口坐高铁从深圳去杭州旅行5天，预算8000元，需要家庭房和有儿童俱乐部的酒店。",
+        "nature_language_en": "Our family of three wants to take high-speed rail from Shenzhen to Hangzhou for 5 days with a budget of 8000 RMB, needing family rooms and hotels with kids' club."
+      },
+      {
+        "uid": "G03-3",
+        "tag": "hard",
+        "start_city": "深圳",
+        "target_city": "杭州",
+        "days": 5,
+        "people_number": 3,
+        "people_composition": {
+          "adults": 2,
+          "children": 1,
+          "seniors": 0
+        },
+        "budget": 8000,
+        "dates": "2024-12-01 to 2024-12-05",
+        "transportation": {
+          "preferences": ["高铁"],
+          "constraints": []
+        },
+        "accommodations": {
+          "preferences": ["家庭房", "儿童俱乐部"],
+          "constraints": []
+        },
+        "diet": {
+          "preferences": ["江浙菜"],
+          "constraints": ["辣菜"]
+        },
+        "attractions": {
+          "preferences": ["亲子友好", "自然风光", "园林"],
+          "constraints": []
+        },
+        "rhythm": {},
+        "nature_language": "我们一家三口坐高铁从深圳去杭州旅行5天，预算8000元，需要家庭房和儿童俱乐部，想吃江浙菜但不要太辣，参观适合亲子的自然风光和园林景点。",
+        "nature_language_en": "Our family of three wants to take high-speed rail from Shenzhen to Hangzhou for 5 days with a budget of 8000 RMB, needing family rooms and kids' club, trying Jiangzhe cuisine (not spicy), visiting family-friendly natural scenery and garden attractions."
+      }
+    ],
+    [
+      {
+        "uid": "G04-1",
+        "tag": "easy",
+        "start_city": "武汉",
+        "target_city": "南京",
+        "days": 2,
+        "people_number": 4,
+        "people_composition": {
+          "adults": 3,
+          "children": 1,
+          "seniors": 0
+        },
+        "budget": 3200,
+        "dates": "2024-11-20 to 2024-11-21",
+        "transportation": {},
+        "accommodations": {},
+        "diet": {},
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我们四个人从武汉去南京玩2天，预算3200元。",
+        "nature_language_en": "Four of us want to travel from Wuhan to Nanjing for 2 days with a budget of 3200 RMB."
+      },
+      {
+        "uid": "G04-2",
+        "tag": "medium",
+        "start_city": "武汉",
+        "target_city": "南京",
+        "days": 2,
+        "people_number": 4,
+        "people_composition": {
+          "adults": 3,
+          "children": 1,
+          "seniors": 0
+        },
+        "budget": 3200,
+        "dates": "2024-11-20 to 2024-11-21",
+        "transportation": {},
+        "accommodations": {
+          "preferences": ["亲子主题房"],
+          "constraints": []
+        },
+        "diet": {
+          "preferences": ["江浙菜"],
+          "constraints": []
+        },
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我们四个人从武汉去南京玩2天，预算3200元，想住亲子主题房，品尝江浙菜。",
+        "nature_language_en": "Four of us want to travel from Wuhan to Nanjing for 2 days with a budget of 3200 RMB, staying in family-themed rooms and trying Jiangzhe cuisine."
+      },
+      {
+        "uid": "G04-3",
+        "tag": "hard",
+        "start_city": "武汉",
+        "target_city": "南京",
+        "days": 2,
+        "people_number": 4,
+        "people_composition": {
+          "adults": 3,
+          "children": 1,
+          "seniors": 0
+        },
+        "budget": 3200,
+        "dates": "2024-11-20 to 2024-11-21",
+        "transportation": {
+          "preferences": ["高铁"],
+          "constraints": ["自驾"]
+        },
+        "accommodations": {
+          "preferences": ["亲子主题房"],
+          "constraints": []
+        },
+        "diet": {
+          "preferences": ["江浙菜"],
+          "constraints": []
+        },
+        "attractions": {
+          "preferences": ["历史古迹", "亲子友好"],
+          "constraints": []
+        },
+        "rhythm": {
+          "preferences": ["特种兵式"],
+          "constraints": []
+        },
+        "nature_language": "我们四个人坐高铁从武汉去南京特种兵式2天游，预算3200元，不要自驾，住亲子主题房，吃江浙菜，参观历史古迹和亲子景点。",
+        "nature_language_en": "Four of us want to take high-speed rail (no self-driving) from Wuhan to Nanjing for an intensive 2-day trip with a budget of 3200 RMB, staying in family-themed rooms, trying Jiangzhe cuisine, visiting historical sites and family-friendly attractions."
+      }
+    ],
+    [
+      {
+        "uid": "G05-1",
+        "tag": "easy",
+        "start_city": "苏州",
+        "target_city": "重庆",
+        "days": 6,
+        "people_number": 2,
+        "people_composition": {
+          "adults": 1,
+          "children": 0,
+          "seniors": 1
+        },
+        "budget": 4800,
+        "dates": "2024-11-25 to 2024-11-30",
+        "transportation": {},
+        "accommodations": {},
+        "diet": {},
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我和老人从苏州去重庆旅行6天，预算4800元。",
+        "nature_language_en": "I want to travel with an elderly person from Suzhou to Chongqing for 6 days with a budget of 4800 RMB."
+      },
+      {
+        "uid": "G05-2",
+        "tag": "medium",
+        "start_city": "苏州",
+        "target_city": "重庆",
+        "days": 6,
+        "people_number": 2,
+        "people_composition": {
+          "adults": 1,
+          "children": 0,
+          "seniors": 1
+        },
+        "budget": 4800,
+        "dates": "2024-11-25 to 2024-11-30",
+        "transportation": {
+          "preferences": ["飞机"],
+          "constraints": []
+        },
+        "accommodations": {
+          "preferences": ["24小时前台"],
+          "constraints": []
+        },
+        "diet": {},
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我和老人坐飞机从苏州去重庆旅行6天，预算4800元，需要24小时前台服务的酒店。",
+        "nature_language_en": "I want to fly with an elderly person from Suzhou to Chongqing for 6 days with a budget of 4800 RMB, needing hotels with 24-hour front desk service."
+      },
+      {
+        "uid": "G05-3",
+        "tag": "hard",
+        "start_city": "苏州",
+        "target_city": "重庆",
+        "days": 6,
+        "people_number": 2,
+        "people_composition": {
+          "adults": 1,
+          "children": 0,
+          "seniors": 1
+        },
+        "budget": 4800,
+        "dates": "2024-11-25 to 2024-11-30",
+        "transportation": {
+          "preferences": ["飞机"],
+          "constraints": []
+        },
+        "accommodations": {
+          "preferences": ["24小时前台", "电梯"],
+          "constraints": []
+        },
+        "diet": {
+          "preferences": ["川菜"],
+          "constraints": ["辣菜"]
+        },
+        "attractions": {
+          "preferences": ["自然风光", "人文景观"],
+          "constraints": []
+        },
+        "rhythm": {
+          "preferences": ["慢游"],
+          "constraints": []
+        },
+        "nature_language": "我和老人坐飞机从苏州去重庆慢游6天，预算4800元，需要有24小时前台和电梯的酒店，想吃不辣的川菜，参观自然风光和人文景观。",
+        "nature_language_en": "I want to fly with an elderly person from Suzhou to Chongqing for a slow 6-day trip with a budget of 4800 RMB, needing hotels with 24-hour front desk and elevators, trying non-spicy Sichuan cuisine, visiting natural scenery and cultural attractions."
+      }
+    ],
+    [
+      {
+        "uid": "G06-1",
+        "tag": "easy",
+        "start_city": "杭州",
+        "target_city": "北京",
+        "days": 4,
+        "people_number": 5,
+        "people_composition": {
+          "adults": 3,
+          "children": 2,
+          "seniors": 0
+        },
+        "budget": 12000,
+        "dates": "2024-12-05 to 2024-12-08",
+        "transportation": {},
+        "accommodations": {},
+        "diet": {},
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我们五个人从杭州去北京玩4天，预算12000元。",
+        "nature_language_en": "Five of us want to travel from Hangzhou to Beijing for 4 days with a budget of 12000 RMB."
+      },
+      {
+        "uid": "G06-2",
+        "tag": "medium",
+        "start_city": "杭州",
+        "target_city": "北京",
+        "days": 4,
+        "people_number": 5,
+        "people_composition": {
+          "adults": 3,
+          "children": 2,
+          "seniors": 0
+        },
+        "budget": 12000,
+        "dates": "2024-12-05 to 2024-12-08",
+        "transportation": {
+          "preferences": ["高铁"],
+          "constraints": []
+        },
+        "accommodations": {},
+        "diet": {
+          "preferences": ["北京菜", "烤鸭"],
+          "constraints": []
+        },
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我们五个人坐高铁从杭州去北京玩4天，预算12000元，想吃正宗的北京菜和烤鸭。",
+        "nature_language_en": "Five of us want to take high-speed rail from Hangzhou to Beijing for 4 days with a budget of 12000 RMB, trying authentic Beijing cuisine and Peking duck."
+      },
+      {
+        "uid": "G06-3",
+        "tag": "hard",
+        "start_city": "杭州",
+        "target_city": "北京",
+        "days": 4,
+        "people_number": 5,
+        "people_composition": {
+          "adults": 3,
+          "children": 2,
+          "seniors": 0
+        },
+        "budget": 12000,
+        "dates": "2024-12-05 to 2024-12-08",
+        "transportation": {
+          "preferences": ["高铁"],
+          "constraints": []
+        },
+        "accommodations": {
+          "preferences": ["家庭房", "儿童乐园"],
+          "constraints": ["单人房"]
+        },
+        "diet": {
+          "preferences": ["北京菜"],
+          "constraints": []
+        },
+        "attractions": {
+          "preferences": ["历史古迹", "亲子友好", "城市地标"],
+          "constraints": []
+        },
+        "rhythm": {},
+        "nature_language": "我们五个人坐高铁从杭州去北京玩4天，预算12000元，需要家庭房和儿童乐园但不要单人房，吃北京菜，参观历史古迹、亲子景点和城市地标。",
+        "nature_language_en": "Five of us want to take high-speed rail from Hangzhou to Beijing for 4 days with a budget of 12000 RMB, needing family rooms and kids' playgrounds (no single rooms), trying Beijing cuisine, visiting historical sites, family-friendly attractions, and city landmarks."
+      }
+    ],
+    [
+      {
+        "uid": "G07-1",
+        "tag": "easy",
+        "start_city": "南京",
+        "target_city": "广州",
+        "days": 3,
+        "people_number": 1,
+        "people_composition": {
+          "adults": 1,
+          "children": 0,
+          "seniors": 0
+        },
+        "budget": 2100,
+        "dates": "2024-11-10 to 2024-11-12",
+        "transportation": {},
+        "accommodations": {},
+        "diet": {},
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我一个人从南京去广州旅行3天，预算2100元。",
+        "nature_language_en": "I want to travel alone from Nanjing to Guangzhou for 3 days with a budget of 2100 RMB."
+      },
+      {
+        "uid": "G07-2",
+        "tag": "medium",
+        "start_city": "南京",
+        "target_city": "广州",
+        "days": 3,
+        "people_number": 1,
+        "people_composition": {
+          "adults": 1,
+          "children": 0,
+          "seniors": 0
+        },
+        "budget": 2100,
+        "dates": "2024-11-10 to 2024-11-12",
+        "transportation": {},
+        "accommodations": {
+          "preferences": ["位置超好"],
+          "constraints": []
+        },
+        "diet": {
+          "preferences": ["粤菜"],
+          "constraints": []
+        },
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我一个人从南京去广州旅行3天，预算2100元，想住位置好的酒店，品尝正宗粤菜。",
+        "nature_language_en": "I want to travel alone from Nanjing to Guangzhou for 3 days with a budget of 2100 RMB, staying in well-located hotels and trying authentic Cantonese cuisine."
+      },
+      {
+        "uid": "G07-3",
+        "tag": "hard",
+        "start_city": "南京",
+        "target_city": "广州",
+        "days": 3,
+        "people_number": 1,
+        "people_composition": {
+          "adults": 1,
+          "children": 0,
+          "seniors": 0
+        },
+        "budget": 2100,
+        "dates": "2024-11-10 to 2024-11-12",
+        "transportation": {
+          "preferences": ["飞机"],
+          "constraints": []
+        },
+        "accommodations": {
+          "preferences": ["位置超好"],
+          "constraints": ["民宿"]
+        },
+        "diet": {
+          "preferences": ["粤菜"],
+          "constraints": []
+        },
+        "attractions": {
+          "preferences": ["美食目的地", "商业街区"],
+          "constraints": []
+        },
+        "rhythm": {
+          "preferences": ["特种兵式"],
+          "constraints": []
+        },
+        "nature_language": "我一个人坐飞机从南京去广州特种兵式3天游，预算2100元，住位置好的酒店但不要民宿，吃粤菜，逛美食目的地和商业街区。",
+        "nature_language_en": "I want to fly alone from Nanjing to Guangzhou for an intensive 3-day trip with a budget of 2100 RMB, staying in well-located hotels (no homestays), trying Cantonese cuisine, visiting food destinations and shopping districts."
+      }
+    ],
+    [
+      {
+        "uid": "G08-1",
+        "tag": "easy",
+        "start_city": "成都",
+        "target_city": "苏州",
+        "days": 5,
+        "people_number": 2,
+        "people_composition": {
+          "adults": 2,
+          "children": 0,
+          "seniors": 0
+        },
+        "budget": 6000,
+        "dates": "2024-12-10 to 2024-12-14",
+        "transportation": {},
+        "accommodations": {},
+        "diet": {},
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我们两个人从成都去苏州旅行5天，预算6000元。",
+        "nature_language_en": "Two of us want to travel from Chengdu to Suzhou for 5 days with a budget of 6000 RMB."
+      },
+      {
+        "uid": "G08-2",
+        "tag": "medium",
+        "start_city": "成都",
+        "target_city": "苏州",
+        "days": 5,
+        "people_number": 2,
+        "people_composition": {
+          "adults": 2,
+          "children": 0,
+          "seniors": 0
+        },
+        "budget": 6000,
+        "dates": "2024-12-10 to 2024-12-14",
+        "transportation": {
+          "preferences": ["飞机"],
+          "constraints": []
+        },
+        "accommodations": {},
+        "diet": {
+          "preferences": ["江浙菜", "小吃"],
+          "constraints": []
+        },
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我们两个人坐飞机从成都去苏州旅行5天，预算6000元，想品尝江浙菜和当地小吃。",
+        "nature_language_en": "Two of us want to fly from Chengdu to Suzhou for 5 days with a budget of 6000 RMB, trying Jiangzhe cuisine and local snacks."
+      },
+      {
+        "uid": "G08-3",
+        "tag": "hard",
+        "start_city": "成都",
+        "target_city": "苏州",
+        "days": 5,
+        "people_number": 2,
+        "people_composition": {
+          "adults": 2,
+          "children": 0,
+          "seniors": 0
+        },
+        "budget": 6000,
+        "dates": "2024-12-10 to 2024-12-14",
+        "transportation": {
+          "preferences": ["飞机"],
+          "constraints": ["高铁"]
+        },
+        "accommodations": {
+          "preferences": ["园林建筑", "中式庭院"],
+          "constraints": []
+        },
+        "diet": {
+          "preferences": ["江浙菜", "小吃"],
+          "constraints": []
+        },
+        "attractions": {
+          "preferences": ["园林", "历史古迹", "人文景观"],
+          "constraints": []
+        },
+        "rhythm": {
+          "preferences": ["慢游"],
+          "constraints": []
+        },
+        "nature_language": "我们两个人坐飞机从成都去苏州慢游5天，预算6000元，不坐高铁，住园林建筑或中式庭院，品尝江浙菜和小吃，参观园林、历史古迹和人文景观。",
+        "nature_language_en": "Two of us want to fly (no high-speed rail) from Chengdu to Suzhou for a slow 5-day trip with a budget of 6000 RMB, staying in garden architecture or Chinese courtyard hotels, trying Jiangzhe cuisine and snacks, visiting gardens, historical sites, and cultural attractions."
+      }
+    ],
+    [
+      {
+        "uid": "G09-1",
+        "tag": "easy",
+        "start_city": "上海",
+        "target_city": "武汉",
+        "days": 3,
+        "people_number": 6,
+        "people_composition": {
+          "adults": 4,
+          "children": 1,
+          "seniors": 1
+        },
+        "budget": 5400,
+        "dates": "2024-11-28 to 2024-11-30",
+        "transportation": {},
+        "accommodations": {},
+        "diet": {},
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我们六个人从上海去武汉玩3天，预算5400元。",
+        "nature_language_en": "Six of us want to travel from Shanghai to Wuhan for 3 days with a budget of 5400 RMB."
+      },
+      {
+        "uid": "G09-2",
+        "tag": "medium",
+        "start_city": "上海",
+        "target_city": "武汉",
+        "days": 3,
+        "people_number": 6,
+        "people_composition": {
+          "adults": 4,
+          "children": 1,
+          "seniors": 1
+        },
+        "budget": 5400,
+        "dates": "2024-11-28 to 2024-11-30",
+        "transportation": {
+          "preferences": ["高铁"],
+          "constraints": []
+        },
+        "accommodations": {
+          "preferences": ["家庭房"],
+          "constraints": []
+        },
+        "diet": {},
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我们六个人坐高铁从上海去武汉玩3天，预算5400元，需要家庭房。",
+        "nature_language_en": "Six of us want to take high-speed rail from Shanghai to Wuhan for 3 days with a budget of 5400 RMB, needing family rooms."
+      },
+      {
+        "uid": "G09-3",
+        "tag": "hard",
+        "start_city": "上海",
+        "target_city": "武汉",
+        "days": 3,
+        "people_number": 6,
+        "people_composition": {
+          "adults": 4,
+          "children": 1,
+          "seniors": 1
+        },
+        "budget": 5400,
+        "dates": "2024-11-28 to 2024-11-30",
+        "transportation": {
+          "preferences": ["高铁"],
+          "constraints": []
+        },
+        "accommodations": {
+          "preferences": ["家庭房", "24小时前台"],
+          "constraints": []
+        },
+        "diet": {
+          "preferences": ["湖北菜"],
+          "constraints": ["辣菜"]
+        },
+        "attractions": {
+          "preferences": ["历史古迹", "亲子友好"],
+          "constraints": []
+        },
+        "rhythm": {
+          "preferences": ["慢游"],
+          "constraints": []
+        },
+        "nature_language": "我们六个人坐高铁从上海去武汉慢游3天，预算5400元，需要家庭房和24小时前台，吃不辣的湖北菜，参观历史古迹和亲子景点。",
+        "nature_language_en": "Six of us want to take high-speed rail from Shanghai to Wuhan for a slow 3-day trip with a budget of 5400 RMB, needing family rooms with 24-hour front desk, trying non-spicy Hubei cuisine, visiting historical sites and family-friendly attractions."
+      }
+    ],
+    [
+      {
+        "uid": "G10-1",
+        "tag": "easy",
+        "start_city": "重庆",
+        "target_city": "深圳",
+        "days": 4,
+        "people_number": 1,
+        "people_composition": {
+          "adults": 1,
+          "children": 0,
+          "seniors": 0
+        },
+        "budget": 4000,
+        "dates": "2024-12-15 to 2024-12-18",
+        "transportation": {},
+        "accommodations": {},
+        "diet": {},
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我一个人从重庆去深圳旅行4天，预算4000元。",
+        "nature_language_en": "I want to travel alone from Chongqing to Shenzhen for 4 days with a budget of 4000 RMB."
+      },
+      {
+        "uid": "G10-2",
+        "tag": "medium",
+        "start_city": "重庆",
+        "target_city": "深圳",
+        "days": 4,
+        "people_number": 1,
+        "people_composition": {
+          "adults": 1,
+          "children": 0,
+          "seniors": 0
+        },
+        "budget": 4000,
+        "dates": "2024-12-15 to 2024-12-18",
+        "transportation": {
+          "preferences": ["飞机"],
+          "constraints": []
+        },
+        "accommodations": {
+          "preferences": ["商务中心"],
+          "constraints": []
+        },
+        "diet": {},
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我一个人坐飞机从重庆去深圳旅行4天，预算4000元，需要有商务中心的酒店。",
+        "nature_language_en": "I want to fly alone from Chongqing to Shenzhen for 4 days with a budget of 4000 RMB, needing hotels with business center."
+      },
+      {
+        "uid": "G10-3",
+        "tag": "hard",
+        "start_city": "重庆",
+        "target_city": "深圳",
+        "days": 4,
+        "people_number": 1,
+        "people_composition": {
+          "adults": 1,
+          "children": 0,
+          "seniors": 0
+        },
+        "budget": 4000,
+        "dates": "2024-12-15 to 2024-12-18",
+        "transportation": {
+          "preferences": ["飞机"],
+          "constraints": []
+        },
+        "accommodations": {
+          "preferences": ["商务中心", "海景房"],
+          "constraints": ["民宿"]
+        },
+        "diet": {
+          "preferences": ["粤菜", "海鲜"],
+          "constraints": []
+        },
+        "attractions": {
+          "preferences": ["城市地标", "商业街区", "现代建筑"],
+          "constraints": []
+        },
+        "rhythm": {},
+        "nature_language": "我一个人坐飞机从重庆去深圳旅行4天，预算4000元，住有商务中心的海景房但不要民宿，吃粤菜和海鲜，参观城市地标、商业街区和现代建筑。",
+        "nature_language_en": "I want to fly alone from Chongqing to Shenzhen for 4 days with a budget of 4000 RMB, staying in sea-view rooms with business center (no homestays), trying Cantonese cuisine and seafood, visiting city landmarks, shopping districts, and modern architecture."
+      }
+    ],
+    [
+      {
+        "uid": "G11-1",
+        "tag": "easy",
+        "start_city": "北京",
+        "target_city": "成都",
+        "days": 7,
+        "people_number": 2,
+        "people_composition": {
+          "adults": 1,
+          "children": 1,
+          "seniors": 0
+        },
+        "budget": 4900,
+        "dates": "2024-11-05 to 2024-11-11",
+        "transportation": {},
+        "accommodations": {},
+        "diet": {},
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我和孩子从北京去成都旅行7天，预算4900元。",
+        "nature_language_en": "I want to travel with a child from Beijing to Chengdu for 7 days with a budget of 4900 RMB."
+      },
+      {
+        "uid": "G11-2",
+        "tag": "medium",
+        "start_city": "北京",
+        "target_city": "成都",
+        "days": 7,
+        "people_number": 2,
+        "people_composition": {
+          "adults": 1,
+          "children": 1,
+          "seniors": 0
+        },
+        "budget": 4900,
+        "dates": "2024-11-05 to 2024-11-11",
+        "transportation": {},
+        "accommodations": {
+          "preferences": ["亲子主题房"],
+          "constraints": []
+        },
+        "diet": {
+          "preferences": ["川菜"],
+          "constraints": []
+        },
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我和孩子从北京去成都旅行7天，预算4900元，需要亲子主题房，想品尝川菜。",
+        "nature_language_en": "I want to travel with a child from Beijing to Chengdu for 7 days with a budget of 4900 RMB, needing family-themed rooms and trying Sichuan cuisine."
+      },
+      {
+        "uid": "G11-3",
+        "tag": "hard",
+        "start_city": "北京",
+        "target_city": "成都",
+        "days": 7,
+        "people_number": 2,
+        "people_composition": {
+          "adults": 1,
+          "children": 1,
+          "seniors": 0
+        },
+        "budget": 4900,
+        "dates": "2024-11-05 to 2024-11-11",
+        "transportation": {
+          "preferences": ["飞机"],
+          "constraints": []
+        },
+        "accommodations": {
+          "preferences": ["亲子主题房", "儿童乐园"],
+          "constraints": []
+        },
+        "diet": {
+          "preferences": ["川菜"],
+          "constraints": ["太辣"]
+        },
+        "attractions": {
+          "preferences": ["亲子友好", "自然风光"],
+          "constraints": []
+        },
+        "rhythm": {
+          "preferences": ["慢游"],
+          "constraints": []
+        },
+        "nature_language": "我和孩子坐飞机从北京去成都慢游7天，预算4900元，需要亲子主题房和儿童乐园，吃不太辣的川菜，参观亲子景点和自然风光。",
+        "nature_language_en": "I want to fly with a child from Beijing to Chengdu for a slow 7-day trip with a budget of 4900 RMB, needing family-themed rooms and kids' playground, trying mild Sichuan cuisine, visiting family-friendly attractions and natural scenery."
+      }
+    ],
+    [
+      {
+        "uid": "G12-1",
+        "tag": "easy",
+        "start_city": "广州",
+        "target_city": "杭州",
+        "days": 2,
+        "people_number": 3,
+        "people_composition": {
+          "adults": 2,
+          "children": 0,
+          "seniors": 1
+        },
+        "budget": 2400,
+        "dates": "2024-12-20 to 2024-12-21",
+        "transportation": {},
+        "accommodations": {},
+        "diet": {},
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我们三个人从广州去杭州旅行2天，预算2400元。",
+        "nature_language_en": "Three of us want to travel from Guangzhou to Hangzhou for 2 days with a budget of 2400 RMB."
+      },
+      {
+        "uid": "G12-2",
+        "tag": "medium",
+        "start_city": "广州",
+        "target_city": "杭州",
+        "days": 2,
+        "people_number": 3,
+        "people_composition": {
+          "adults": 2,
+          "children": 0,
+          "seniors": 1
+        },
+        "budget": 2400,
+        "dates": "2024-12-20 to 2024-12-21",
+        "transportation": {
+          "preferences": ["高铁"],
+          "constraints": []
+        },
+        "accommodations": {},
+        "diet": {
+          "preferences": ["江浙菜"],
+          "constraints": []
+        },
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我们三个人坐高铁从广州去杭州旅行2天，预算2400元，想品尝江浙菜。",
+        "nature_language_en": "Three of us want to take high-speed rail from Guangzhou to Hangzhou for 2 days with a budget of 2400 RMB, trying Jiangzhe cuisine."
+      },
+      {
+        "uid": "G12-3",
+        "tag": "hard",
+        "start_city": "广州",
+        "target_city": "杭州",
+        "days": 2,
+        "people_number": 3,
+        "people_composition": {
+          "adults": 2,
+          "children": 0,
+          "seniors": 1
+        },
+        "budget": 2400,
+        "dates": "2024-12-20 to 2024-12-21",
+        "transportation": {
+          "preferences": ["高铁"],
+          "constraints": []
+        },
+        "accommodations": {
+          "preferences": ["24小时前台", "电梯"],
+          "constraints": []
+        },
+        "diet": {
+          "preferences": ["江浙菜"],
+          "constraints": []
+        },
+        "attractions": {
+          "preferences": ["自然风光", "园林"],
+          "constraints": []
+        },
+        "rhythm": {
+          "preferences": ["慢游"],
+          "constraints": []
+        },
+        "nature_language": "我们三个人坐高铁从广州去杭州慢游2天，预算2400元，需要有24小时前台和电梯的酒店，品尝江浙菜，参观自然风光和园林。",
+        "nature_language_en": "Three of us want to take high-speed rail from Guangzhou to Hangzhou for a slow 2-day trip with a budget of 2400 RMB, needing hotels with 24-hour front desk and elevators, trying Jiangzhe cuisine, visiting natural scenery and gardens."
+      }
+    ],
+    [
+      {
+        "uid": "G13-1",
+        "tag": "easy",
+        "start_city": "深圳",
+        "target_city": "武汉",
+        "days": 3,
+        "people_number": 4,
+        "people_composition": {
+          "adults": 3,
+          "children": 0,
+          "seniors": 1
+        },
+        "budget": 3600,
+        "dates": "2024-11-12 to 2024-11-14",
+        "transportation": {},
+        "accommodations": {},
+        "diet": {},
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我们四个人从深圳去武汉旅行3天，预算3600元。",
+        "nature_language_en": "Four of us want to travel from Shenzhen to Wuhan for 3 days with a budget of 3600 RMB."
+      },
+      {
+        "uid": "G13-2",
+        "tag": "medium",
+        "start_city": "深圳",
+        "target_city": "武汉",
+        "days": 3,
+        "people_number": 4,
+        "people_composition": {
+          "adults": 3,
+          "children": 0,
+          "seniors": 1
+        },
+        "budget": 3600,
+        "dates": "2024-11-12 to 2024-11-14",
+        "transportation": {
+          "preferences": ["飞机"],
+          "constraints": []
+        },
+        "accommodations": {
+          "preferences": ["24小时前台"],
+          "constraints": []
+        },
+        "diet": {},
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我们四个人坐飞机从深圳去武汉旅行3天，预算3600元，需要24小时前台服务的酒店。",
+        "nature_language_en": "Four of us want to fly from Shenzhen to Wuhan for 3 days with a budget of 3600 RMB, needing hotels with 24-hour front desk service."
+      },
+      {
+        "uid": "G13-3",
+        "tag": "hard",
+        "start_city": "深圳",
+        "target_city": "武汉",
+        "days": 3,
+        "people_number": 4,
+        "people_composition": {
+          "adults": 3,
+          "children": 0,
+          "seniors": 1
+        },
+        "budget": 3600,
+        "dates": "2024-11-12 to 2024-11-14",
+        "transportation": {
+          "preferences": ["飞机"],
+          "constraints": ["高铁"]
+        },
+        "accommodations": {
+          "preferences": ["24小时前台", "电梯"],
+          "constraints": []
+        },
+        "diet": {
+          "preferences": ["湖北菜"],
+          "constraints": []
+        },
+        "attractions": {
+          "preferences": ["历史古迹", "人文景观"],
+          "constraints": []
+        },
+        "rhythm": {
+          "preferences": ["慢游"],
+          "constraints": []
+        },
+        "nature_language": "我们四个人坐飞机从深圳去武汉慢游3天，预算3600元，不坐高铁，需要有24小时前台和电梯的酒店，品尝湖北菜，参观历史古迹和人文景观。",
+        "nature_language_en": "Four of us want to fly (no high-speed rail) from Shenzhen to Wuhan for a slow 3-day trip with a budget of 3600 RMB, needing hotels with 24-hour front desk and elevators, trying Hubei cuisine, visiting historical sites and cultural attractions."
+      }
+    ],
+    [
+      {
+        "uid": "G14-1",
+        "tag": "easy",
+        "start_city": "苏州",
+        "target_city": "北京",
+        "days": 5,
+        "people_number": 1,
+        "people_composition": {
+          "adults": 1,
+          "children": 0,
+          "seniors": 0
+        },
+        "budget": 5500,
+        "dates": "2024-12-25 to 2024-12-29",
+        "transportation": {},
+        "accommodations": {},
+        "diet": {},
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我一个人从苏州去北京旅行5天，预算5500元。",
+        "nature_language_en": "I want to travel alone from Suzhou to Beijing for 5 days with a budget of 5500 RMB."
+      },
+      {
+        "uid": "G14-2",
+        "tag": "medium",
+        "start_city": "苏州",
+        "target_city": "北京",
+        "days": 5,
+        "people_number": 1,
+        "people_composition": {
+          "adults": 1,
+          "children": 0,
+          "seniors": 0
+        },
+        "budget": 5500,
+        "dates": "2024-12-25 to 2024-12-29",
+        "transportation": {
+          "preferences": ["高铁"],
+          "constraints": []
+        },
+        "accommodations": {},
+        "diet": {
+          "preferences": ["北京菜"],
+          "constraints": []
+        },
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我一个人坐高铁从苏州去北京旅行5天，预算5500元，想品尝正宗北京菜。",
+        "nature_language_en": "I want to take high-speed rail alone from Suzhou to Beijing for 5 days with a budget of 5500 RMB, trying authentic Beijing cuisine."
+      },
+      {
+        "uid": "G14-3",
+        "tag": "hard",
+        "start_city": "苏州",
+        "target_city": "北京",
+        "days": 5,
+        "people_number": 1,
+        "people_composition": {
+          "adults": 1,
+          "children": 0,
+          "seniors": 0
+        },
+        "budget": 5500,
+        "dates": "2024-12-25 to 2024-12-29",
+        "transportation": {
+          "preferences": ["高铁"],
+          "constraints": []
+        },
+        "accommodations": {
+          "preferences": ["位置超好", "设计师酒店"],
+          "constraints": ["民宿"]
+        },
+        "diet": {
+          "preferences": ["北京菜"],
+          "constraints": []
+        },
+        "attractions": {
+          "preferences": ["历史古迹", "城市地标", "博物馆/纪念馆"],
+          "constraints": []
+        },
+        "rhythm": {},
+        "nature_language": "我一个人坐高铁从苏州去北京旅行5天，预算5500元，住位置好的设计师酒店但不要民宿，品尝北京菜，参观历史古迹、城市地标和博物馆。",
+        "nature_language_en": "I want to take high-speed rail alone from Suzhou to Beijing for 5 days with a budget of 5500 RMB, staying in well-located designer hotels (no homestays), trying Beijing cuisine, visiting historical sites, city landmarks, and museums."
+      }
+    ],
+    [
+      {
+        "uid": "G15-1",
+        "tag": "easy",
+        "start_city": "武汉",
+        "target_city": "上海",
+        "days": 6,
+        "people_number": 5,
+        "people_composition": {
+          "adults": 3,
+          "children": 2,
+          "seniors": 0
+        },
+        "budget": 9000,
+        "dates": "2024-11-18 to 2024-11-23",
+        "transportation": {},
+        "accommodations": {},
+        "diet": {},
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我们五个人从武汉去上海玩6天，预算9000元。",
+        "nature_language_en": "Five of us want to travel from Wuhan to Shanghai for 6 days with a budget of 9000 RMB."
+      },
+      {
+        "uid": "G15-2",
+        "tag": "medium",
+        "start_city": "武汉",
+        "target_city": "上海",
+        "days": 6,
+        "people_number": 5,
+        "people_composition": {
+          "adults": 3,
+          "children": 2,
+          "seniors": 0
+        },
+        "budget": 9000,
+        "dates": "2024-11-18 to 2024-11-23",
+        "transportation": {},
+        "accommodations": {
+          "preferences": ["家庭房", "儿童俱乐部"],
+          "constraints": []
+        },
+        "diet": {
+          "preferences": ["本帮菜"],
+          "constraints": []
+        },
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我们五个人从武汉去上海玩6天，预算9000元，需要家庭房和儿童俱乐部，想品尝本帮菜。",
+        "nature_language_en": "Five of us want to travel from Wuhan to Shanghai for 6 days with a budget of 9000 RMB, needing family rooms and kids' club, trying Shanghai cuisine."
+      },
+      {
+        "uid": "G15-3",
+        "tag": "hard",
+        "start_city": "武汉",
+        "target_city": "上海",
+        "days": 6,
+        "people_number": 5,
+        "people_composition": {
+          "adults": 3,
+          "children": 2,
+          "seniors": 0
+        },
+        "budget": 9000,
+        "dates": "2024-11-18 to 2024-11-23",
+        "transportation": {
+          "preferences": ["高铁"],
+          "constraints": []
+        },
+        "accommodations": {
+          "preferences": ["家庭房", "儿童俱乐部"],
+          "constraints": []
+        },
+        "diet": {
+          "preferences": ["本帮菜"],
+          "constraints": ["辣菜"]
+        },
+        "attractions": {
+          "preferences": ["亲子友好", "城市地标", "游乐园/体育娱乐"],
+          "constraints": []
+        },
+        "rhythm": {
+          "preferences": ["慢游"],
+          "constraints": []
+        },
+        "nature_language": "我们五个人坐高铁从武汉去上海慢游6天，预算9000元，需要家庭房和儿童俱乐部，吃不辣的本帮菜，参观亲子景点、城市地标和游乐园。",
+        "nature_language_en": "Five of us want to take high-speed rail from Wuhan to Shanghai for a slow 6-day trip with a budget of 9000 RMB, needing family rooms and kids' club, trying non-spicy Shanghai cuisine, visiting family-friendly attractions, city landmarks, and amusement parks."
+      }
+    ],
+    [
+      {
+        "uid": "G16-1",
+        "tag": "easy",
+        "start_city": "南京",
+        "target_city": "重庆",
+        "days": 4,
+        "people_number": 2,
+        "people_composition": {
+          "adults": 2,
+          "children": 0,
+          "seniors": 0
+        },
+        "budget": 3200,
+        "dates": "2024-12-03 to 2024-12-06",
+        "transportation": {},
+        "accommodations": {},
+        "diet": {},
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我们两个人从南京去重庆玩4天，预算3200元。",
+        "nature_language_en": "Two of us want to travel from Nanjing to Chongqing for 4 days with a budget of 3200 RMB."
+      },
+      {
+        "uid": "G16-2",
+        "tag": "medium",
+        "start_city": "南京",
+        "target_city": "重庆",
+        "days": 4,
+        "people_number": 2,
+        "people_composition": {
+          "adults": 2,
+          "children": 0,
+          "seniors": 0
+        },
+        "budget": 3200,
+        "dates": "2024-12-03 to 2024-12-06",
+        "transportation": {
+          "preferences": ["飞机"],
+          "constraints": []
+        },
+        "accommodations": {},
+        "diet": {
+          "preferences": ["川菜", "火锅"],
+          "constraints": []
+        },
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我们两个人坐飞机从南京去重庆玩4天，预算3200元，想品尝川菜和火锅。",
+        "nature_language_en": "Two of us want to fly from Nanjing to Chongqing for 4 days with a budget of 3200 RMB, trying Sichuan cuisine and hotpot."
+      },
+      {
+        "uid": "G16-3",
+        "tag": "hard",
+        "start_city": "南京",
+        "target_city": "重庆",
+        "days": 4,
+        "people_number": 2,
+        "people_composition": {
+          "adults": 2,
+          "children": 0,
+          "seniors": 0
+        },
+        "budget": 3200,
+        "dates": "2024-12-03 to 2024-12-06",
+        "transportation": {
+          "preferences": ["飞机"],
+          "constraints": ["高铁"]
+        },
+        "accommodations": {
+          "preferences": ["江河景房", "动人夜景"],
+          "constraints": []
+        },
+        "diet": {
+          "preferences": ["川菜", "火锅"],
+          "constraints": []
+        },
+        "attractions": {
+          "preferences": ["夜经济热点", "网红打卡点", "美食目的地"],
+          "constraints": []
+        },
+        "rhythm": {},
+        "nature_language": "我们两个人坐飞机从南京去重庆玩4天，预算3200元，不坐高铁，住江河景房看夜景，品尝川菜火锅，逛夜经济热点、网红打卡点和美食目的地。",
+        "nature_language_en": "Two of us want to fly (no high-speed rail) from Nanjing to Chongqing for 4 days with a budget of 3200 RMB, staying in river-view rooms with night views, trying Sichuan cuisine and hotpot, visiting night economy hotspots, internet-famous spots, and food destinations."
+      }
+    ],
+    [
+      {
+        "uid": "G17-1",
+        "tag": "easy",
+        "start_city": "杭州",
+        "target_city": "成都",
+        "days": 3,
+        "people_number": 1,
+        "people_composition": {
+          "adults": 1,
+          "children": 0,
+          "seniors": 0
+        },
+        "budget": 2100,
+        "dates": "2024-11-08 to 2024-11-10",
+        "transportation": {},
+        "accommodations": {},
+        "diet": {},
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我一个人从杭州去成都旅行3天，预算2100元。",
+        "nature_language_en": "I want to travel alone from Hangzhou to Chengdu for 3 days with a budget of 2100 RMB."
+      },
+      {
+        "uid": "G17-2",
+        "tag": "medium",
+        "start_city": "杭州",
+        "target_city": "成都",
+        "days": 3,
+        "people_number": 1,
+        "people_composition": {
+          "adults": 1,
+          "children": 0,
+          "seniors": 0
+        },
+        "budget": 2100,
+        "dates": "2024-11-08 to 2024-11-10",
+        "transportation": {},
+        "accommodations": {
+          "preferences": ["小而美"],
+          "constraints": []
+        },
+        "diet": {
+          "preferences": ["川菜"],
+          "constraints": []
+        },
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我一个人从杭州去成都旅行3天，预算2100元，想住小而美的酒店，品尝川菜。",
+        "nature_language_en": "I want to travel alone from Hangzhou to Chengdu for 3 days with a budget of 2100 RMB, staying in boutique hotels and trying Sichuan cuisine."
+      },
+      {
+        "uid": "G17-3",
+        "tag": "hard",
+        "start_city": "杭州",
+        "target_city": "成都",
+        "days": 3,
+        "people_number": 1,
+        "people_composition": {
+          "adults": 1,
+          "children": 0,
+          "seniors": 0
+        },
+        "budget": 2100,
+        "dates": "2024-11-08 to 2024-11-10",
+        "transportation": {
+          "preferences": ["飞机"],
+          "constraints": []
+        },
+        "accommodations": {
+          "preferences": ["小而美"],
+          "constraints": ["连锁酒店"]
+        },
+        "diet": {
+          "preferences": ["川菜"],
+          "constraints": []
+        },
+        "attractions": {
+          "preferences": ["小众秘境", "美食目的地", "人文景观"],
+          "constraints": []
+        },
+        "rhythm": {
+          "preferences": ["慢游"],
+          "constraints": []
+        },
+        "nature_language": "我一个人坐飞机从杭州去成都慢游3天，预算2100元，住小而美的酒店但不要连锁的，品尝川菜，探索小众秘境、美食目的地和人文景观。",
+        "nature_language_en": "I want to fly alone from Hangzhou to Chengdu for a slow 3-day trip with a budget of 2100 RMB, staying in boutique hotels (no chain hotels), trying Sichuan cuisine, exploring hidden gems, food destinations, and cultural attractions."
+      }
+    ],
+    [
+      {
+        "uid": "G18-1",
+        "tag": "easy",
+        "start_city": "广州",
+        "target_city": "苏州",
+        "days": 5,
+        "people_number": 3,
+        "people_composition": {
+          "adults": 2,
+          "children": 1,
+          "seniors": 0
+        },
+        "budget": 4500,
+        "dates": "2024-12-12 to 2024-12-16",
+        "transportation": {},
+        "accommodations": {},
+        "diet": {},
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我们三个人从广州去苏州旅行5天，预算4500元。",
+        "nature_language_en": "Three of us want to travel from Guangzhou to Suzhou for 5 days with a budget of 4500 RMB."
+      },
+      {
+        "uid": "G18-2",
+        "tag": "medium",
+        "start_city": "广州",
+        "target_city": "苏州",
+        "days": 5,
+        "people_number": 3,
+        "people_composition": {
+          "adults": 2,
+          "children": 1,
+          "seniors": 0
+        },
+        "budget": 4500,
+        "dates": "2024-12-12 to 2024-12-16",
+        "transportation": {
+          "preferences": ["高铁"],
+          "constraints": []
+        },
+        "accommodations": {
+          "preferences": ["家庭房"],
+          "constraints": []
+        },
+        "diet": {},
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我们三个人坐高铁从广州去苏州旅行5天，预算4500元，需要家庭房。",
+        "nature_language_en": "Three of us want to take high-speed rail from Guangzhou to Suzhou for 5 days with a budget of 4500 RMB, needing family rooms."
+      },
+      {
+        "uid": "G18-3",
+        "tag": "hard",
+        "start_city": "广州",
+        "target_city": "苏州",
+        "days": 5,
+        "people_number": 3,
+        "people_composition": {
+          "adults": 2,
+          "children": 1,
+          "seniors": 0
+        },
+        "budget": 4500,
+        "dates": "2024-12-12 to 2024-12-16",
+        "transportation": {
+          "preferences": ["高铁"],
+          "constraints": []
+        },
+        "accommodations": {
+          "preferences": ["家庭房", "园林建筑"],
+          "constraints": []
+        },
+        "diet": {
+          "preferences": ["江浙菜"],
+          "constraints": ["辣菜"]
+        },
+        "attractions": {
+          "preferences": ["园林", "亲子友好", "历史古迹"],
+          "constraints": []
+        },
+        "rhythm": {
+          "preferences": ["慢游"],
+          "constraints": []
+        },
+        "nature_language": "我们三个人坐高铁从广州去苏州慢游5天，预算4500元，需要园林建筑风格的家庭房，吃不辣的江浙菜，参观园林、亲子景点和历史古迹。",
+        "nature_language_en": "Three of us want to take high-speed rail from Guangzhou to Suzhou for a slow 5-day trip with a budget of 4500 RMB, needing family rooms in garden-style architecture, trying non-spicy Jiangzhe cuisine, visiting gardens, family-friendly attractions, and historical sites."
+      }
+    ],
+    [
+      {
+        "uid": "G19-1",
+        "tag": "easy",
+        "start_city": "成都",
+        "target_city": "上海",
+        "days": 2,
+        "people_number": 4,
+        "people_composition": {
+          "adults": 4,
+          "children": 0,
+          "seniors": 0
+        },
+        "budget": 4800,
+        "dates": "2024-11-22 to 2024-11-23",
+        "transportation": {},
+        "accommodations": {},
+        "diet": {},
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我们四个人从成都去上海玩2天，预算4800元。",
+        "nature_language_en": "Four of us want to travel from Chengdu to Shanghai for 2 days with a budget of 4800 RMB."
+      },
+      {
+        "uid": "G19-2",
+        "tag": "medium",
+        "start_city": "成都",
+        "target_city": "上海",
+        "days": 2,
+        "people_number": 4,
+        "people_composition": {
+          "adults": 4,
+          "children": 0,
+          "seniors": 0
+        },
+        "budget": 4800,
+        "dates": "2024-11-22 to 2024-11-23",
+        "transportation": {
+          "preferences": ["飞机"],
+          "constraints": []
+        },
+        "accommodations": {},
+        "diet": {
+          "preferences": ["本帮菜"],
+          "constraints": []
+        },
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我们四个人坐飞机从成都去上海玩2天，预算4800元，想品尝本帮菜。",
+        "nature_language_en": "Four of us want to fly from Chengdu to Shanghai for 2 days with a budget of 4800 RMB, trying Shanghai cuisine."
+      },
+      {
+        "uid": "G19-3",
+        "tag": "hard",
+        "start_city": "成都",
+        "target_city": "上海",
+        "days": 2,
+        "people_number": 4,
+        "people_composition": {
+          "adults": 4,
+          "children": 0,
+          "seniors": 0
+        },
+        "budget": 4800,
+        "dates": "2024-11-22 to 2024-11-23",
+        "transportation": {
+          "preferences": ["飞机"],
+          "constraints": []
+        },
+        "accommodations": {
+          "preferences": ["位置超好", "商务中心"],
+          "constraints": ["民宿"]
+        },
+        "diet": {
+          "preferences": ["本帮菜"],
+          "constraints": []
+        },
+        "attractions": {
+          "preferences": ["城市地标", "夜经济热点", "商业街区"],
+          "constraints": []
+        },
+        "rhythm": {
+          "preferences": ["特种兵式"],
+          "constraints": []
+        },
+        "nature_language": "我们四个人坐飞机从成都去上海特种兵式2天游，预算4800元，住位置好有商务中心的酒店但不要民宿，品尝本帮菜，打卡城市地标、夜经济热点和商业街区。",
+        "nature_language_en": "Four of us want to fly from Chengdu to Shanghai for an intensive 2-day trip with a budget of 4800 RMB, staying in well-located hotels with business center (no homestays), trying Shanghai cuisine, visiting city landmarks, night economy hotspots, and shopping districts."
+      }
+    ],
+    [
+      {
+        "uid": "G20-1",
+        "tag": "easy",
+        "start_city": "深圳",
+        "target_city": "南京",
+        "days": 6,
+        "people_number": 2,
+        "people_composition": {
+          "adults": 1,
+          "children": 0,
+          "seniors": 1
+        },
+        "budget": 3600,
+        "dates": "2024-12-18 to 2024-12-23",
+        "transportation": {},
+        "accommodations": {},
+        "diet": {},
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我和老人从深圳去南京旅行6天，预算3600元。",
+        "nature_language_en": "I want to travel with an elderly person from Shenzhen to Nanjing for 6 days with a budget of 3600 RMB."
+      },
+      {
+        "uid": "G20-2",
+        "tag": "medium",
+        "start_city": "深圳",
+        "target_city": "南京",
+        "days": 6,
+        "people_number": 2,
+        "people_composition": {
+          "adults": 1,
+          "children": 0,
+          "seniors": 1
+        },
+        "budget": 3600,
+        "dates": "2024-12-18 to 2024-12-23",
+        "transportation": {
+          "preferences": ["飞机"],
+          "constraints": []
+        },
+        "accommodations": {
+          "preferences": ["24小时前台"],
+          "constraints": []
+        },
+        "diet": {},
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我和老人坐飞机从深圳去南京旅行6天，预算3600元，需要24小时前台服务的酒店。",
+        "nature_language_en": "I want to fly with an elderly person from Shenzhen to Nanjing for 6 days with a budget of 3600 RMB, needing hotels with 24-hour front desk service."
+      },
+      {
+        "uid": "G20-3",
+        "tag": "hard",
+        "start_city": "深圳",
+        "target_city": "南京",
+        "days": 6,
+        "people_number": 2,
+        "people_composition": {
+          "adults": 1,
+          "children": 0,
+          "seniors": 1
+        },
+        "budget": 3600,
+        "dates": "2024-12-18 to 2024-12-23",
+        "transportation": {
+          "preferences": ["飞机"],
+          "constraints": []
+        },
+        "accommodations": {
+          "preferences": ["24小时前台", "电梯"],
+          "constraints": []
+        },
+        "diet": {
+          "preferences": ["江浙菜"],
+          "constraints": ["辣菜"]
+        },
+        "attractions": {
+          "preferences": ["历史古迹", "人文景观", "博物馆/纪念馆"],
+          "constraints": []
+        },
+        "rhythm": {
+          "preferences": ["慢游"],
+          "constraints": []
+        },
+        "nature_language": "我和老人坐飞机从深圳去南京慢游6天，预算3600元，需要有24小时前台和电梯的酒店，吃不辣的江浙菜，参观历史古迹、人文景观和博物馆。",
+        "nature_language_en": "I want to fly with an elderly person from Shenzhen to Nanjing for a slow 6-day trip with a budget of 3600 RMB, needing hotels with 24-hour front desk and elevators, trying non-spicy Jiangzhe cuisine, visiting historical sites, cultural attractions, and museums."
+      }
+    ],
+    [
+      {
+        "uid": "G21-1",
+        "tag": "easy",
+        "start_city": "武汉",
+        "target_city": "杭州",
+        "days": 4,
+        "people_number": 5,
+        "people_composition": {
+          "adults": 3,
+          "children": 1,
+          "seniors": 1
+        },
+        "budget": 6000,
+        "dates": "2024-11-26 to 2024-11-29",
+        "transportation": {},
+        "accommodations": {},
+        "diet": {},
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我们五个人从武汉去杭州玩4天，预算6000元。",
+        "nature_language_en": "Five of us want to travel from Wuhan to Hangzhou for 4 days with a budget of 6000 RMB."
+      },
+      {
+        "uid": "G21-2",
+        "tag": "medium",
+        "start_city": "武汉",
+        "target_city": "杭州",
+        "days": 4,
+        "people_number": 5,
+        "people_composition": {
+          "adults": 3,
+          "children": 1,
+          "seniors": 1
+        },
+        "budget": 6000,
+        "dates": "2024-11-26 to 2024-11-29",
+        "transportation": {
+          "preferences": ["高铁"],
+          "constraints": []
+        },
+        "accommodations": {
+          "preferences": ["家庭房"],
+          "constraints": []
+        },
+        "diet": {},
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我们五个人坐高铁从武汉去杭州玩4天，预算6000元，需要家庭房。",
+        "nature_language_en": "Five of us want to take high-speed rail from Wuhan to Hangzhou for 4 days with a budget of 6000 RMB, needing family rooms."
+      },
+      {
+        "uid": "G21-3",
+        "tag": "hard",
+        "start_city": "武汉",
+        "target_city": "杭州",
+        "days": 4,
+        "people_number": 5,
+        "people_composition": {
+          "adults": 3,
+          "children": 1,
+          "seniors": 1
+        },
+        "budget": 6000,
+        "dates": "2024-11-26 to 2024-11-29",
+        "transportation": {
+          "preferences": ["高铁"],
+          "constraints": []
+        },
+        "accommodations": {
+          "preferences": ["家庭房", "24小时前台"],
+          "constraints": []
+        },
+        "diet": {
+          "preferences": ["江浙菜"],
+          "constraints": ["辣菜"]
+        },
+        "attractions": {
+          "preferences": ["自然风光", "亲子友好"],
+          "constraints": []
+        },
+        "rhythm": {
+          "preferences": ["慢游"],
+          "constraints": []
+        },
+        "nature_language": "我们五个人坐高铁从武汉去杭州慢游4天，预算6000元，需要有24小时前台的家庭房，吃不辣的江浙菜，参观自然风光和亲子景点。",
+        "nature_language_en": "Five of us want to take high-speed rail from Wuhan to Hangzhou for a slow 4-day trip with a budget of 6000 RMB, needing family rooms with 24-hour front desk, trying non-spicy Jiangzhe cuisine, visiting natural scenery and family-friendly attractions."
+      }
+    ],
+    [
+      {
+        "uid": "G22-1",
+        "tag": "easy",
+        "start_city": "北京",
+        "target_city": "广州",
+        "days": 3,
+        "people_number": 1,
+        "people_composition": {
+          "adults": 1,
+          "children": 0,
+          "seniors": 0
+        },
+        "budget": 2700,
+        "dates": "2024-12-01 to 2024-12-03",
+        "transportation": {},
+        "accommodations": {},
+        "diet": {},
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我一个人从北京去广州旅行3天，预算2700元。",
+        "nature_language_en": "I want to travel alone from Beijing to Guangzhou for 3 days with a budget of 2700 RMB."
+      },
+      {
+        "uid": "G22-2",
+        "tag": "medium",
+        "start_city": "北京",
+        "target_city": "广州",
+        "days": 3,
+        "people_number": 1,
+        "people_composition": {
+          "adults": 1,
+          "children": 0,
+          "seniors": 0
+        },
+        "budget": 2700,
+        "dates": "2024-12-01 to 2024-12-03",
+        "transportation": {},
+        "accommodations": {
+          "preferences": ["位置超好"],
+          "constraints": []
+        },
+        "diet": {
+          "preferences": ["粤菜", "茶餐厅"],
+          "constraints": []
+        },
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我一个人从北京去广州旅行3天，预算2700元，住位置好的酒店，品尝粤菜和茶餐厅。",
+        "nature_language_en": "I want to travel alone from Beijing to Guangzhou for 3 days with a budget of 2700 RMB, staying in well-located hotels, trying Cantonese cuisine and tea restaurants."
+      },
+      {
+        "uid": "G22-3",
+        "tag": "hard",
+        "start_city": "北京",
+        "target_city": "广州",
+        "days": 3,
+        "people_number": 1,
+        "people_composition": {
+          "adults": 1,
+          "children": 0,
+          "seniors": 0
+        },
+        "budget": 2700,
+        "dates": "2024-12-01 to 2024-12-03",
+        "transportation": {
+          "preferences": ["飞机"],
+          "constraints": []
+        },
+        "accommodations": {
+          "preferences": ["位置超好"],
+          "constraints": ["民宿"]
+        },
+        "diet": {
+          "preferences": ["粤菜"],
+          "constraints": []
+        },
+        "attractions": {
+          "preferences": ["美食目的地", "商业街区", "人文景观"],
+          "constraints": []
+        },
+        "rhythm": {
+          "preferences": ["特种兵式"],
+          "constraints": []
+        },
+        "nature_language": "我一个人坐飞机从北京去广州特种兵式3天游，预算2700元，住位置好的酒店但不要民宿，品尝粤菜，打卡美食目的地、商业街区和人文景观。",
+        "nature_language_en": "I want to fly alone from Beijing to Guangzhou for an intensive 3-day trip with a budget of 2700 RMB, staying in well-located hotels (no homestays), trying Cantonese cuisine, visiting food destinations, shopping districts, and cultural attractions."
+      }
+    ],
+    [
+      {
+        "uid": "G23-1",
+        "tag": "easy",
+        "start_city": "苏州",
+        "target_city": "深圳",
+        "days": 7,
+        "people_number": 3,
+        "people_composition": {
+          "adults": 2,
+          "children": 0,
+          "seniors": 1
+        },
+        "budget": 8400,
+        "dates": "2024-11-15 to 2024-11-21",
+        "transportation": {},
+        "accommodations": {},
+        "diet": {},
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我们三个人从苏州去深圳旅行7天，预算8400元。",
+        "nature_language_en": "Three of us want to travel from Suzhou to Shenzhen for 7 days with a budget of 8400 RMB."
+      },
+      {
+        "uid": "G23-2",
+        "tag": "medium",
+        "start_city": "苏州",
+        "target_city": "深圳",
+        "days": 7,
+        "people_number": 3,
+        "people_composition": {
+          "adults": 2,
+          "children": 0,
+          "seniors": 1
+        },
+        "budget": 8400,
+        "dates": "2024-11-15 to 2024-11-21",
+        "transportation": {
+          "preferences": ["飞机"],
+          "constraints": []
+        },
+        "accommodations": {
+          "preferences": ["24小时前台"],
+          "constraints": []
+        },
+        "diet": {},
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我们三个人坐飞机从苏州去深圳旅行7天，预算8400元，需要24小时前台服务的酒店。",
+        "nature_language_en": "Three of us want to fly from Suzhou to Shenzhen for 7 days with a budget of 8400 RMB, needing hotels with 24-hour front desk service."
+      },
+      {
+        "uid": "G23-3",
+        "tag": "hard",
+        "start_city": "苏州",
+        "target_city": "深圳",
+        "days": 7,
+        "people_number": 3,
+        "people_composition": {
+          "adults": 2,
+          "children": 0,
+          "seniors": 1
+        },
+        "budget": 8400,
+        "dates": "2024-11-15 to 2024-11-21",
+        "transportation": {
+          "preferences": ["飞机"],
+          "constraints": ["高铁"]
+        },
+        "accommodations": {
+          "preferences": ["24小时前台", "海景房"],
+          "constraints": []
+        },
+        "diet": {
+          "preferences": ["粤菜", "海鲜"],
+          "constraints": []
+        },
+        "attractions": {
+          "preferences": ["海滨风光", "现代建筑", "公园"],
+          "constraints": []
+        },
+        "rhythm": {
+          "preferences": ["慢游"],
+          "constraints": []
+        },
+        "nature_language": "我们三个人坐飞机从苏州去深圳慢游7天，预算8400元，不坐高铁，住有24小时前台的海景房，品尝粤菜和海鲜，游览海滨风光、现代建筑和公园。",
+        "nature_language_en": "Three of us want to fly (no high-speed rail) from Suzhou to Shenzhen for a slow 7-day trip with a budget of 8400 RMB, staying in sea-view rooms with 24-hour front desk, trying Cantonese cuisine and seafood, visiting coastal scenery, modern architecture, and parks."
+      }
+    ],
+    [
+      {
+        "uid": "G24-1",
+        "tag": "easy",
+        "start_city": "重庆",
+        "target_city": "北京",
+        "days": 5,
+        "people_number": 6,
+        "people_composition": {
+          "adults": 4,
+          "children": 2,
+          "seniors": 0
+        },
+        "budget": 9000,
+        "dates": "2024-12-08 to 2024-12-12",
+        "transportation": {},
+        "accommodations": {},
+        "diet": {},
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我们六个人从重庆去北京玩5天，预算9000元。",
+        "nature_language_en": "Six of us want to travel from Chongqing to Beijing for 5 days with a budget of 9000 RMB."
+      },
+      {
+        "uid": "G24-2",
+        "tag": "medium",
+        "start_city": "重庆",
+        "target_city": "北京",
+        "days": 5,
+        "people_number": 6,
+        "people_composition": {
+          "adults": 4,
+          "children": 2,
+          "seniors": 0
+        },
+        "budget": 9000,
+        "dates": "2024-12-08 to 2024-12-12",
+        "transportation": {
+          "preferences": ["飞机"],
+          "constraints": []
+        },
+        "accommodations": {
+          "preferences": ["家庭房", "儿童俱乐部"],
+          "constraints": []
+        },
+        "diet": {},
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我们六个人坐飞机从重庆去北京玩5天，预算9000元，需要家庭房和儿童俱乐部。",
+        "nature_language_en": "Six of us want to fly from Chongqing to Beijing for 5 days with a budget of 9000 RMB, needing family rooms and kids' club."
+      },
+      {
+        "uid": "G24-3",
+        "tag": "hard",
+        "start_city": "重庆",
+        "target_city": "北京",
+        "days": 5,
+        "people_number": 6,
+        "people_composition": {
+          "adults": 4,
+          "children": 2,
+          "seniors": 0
+        },
+        "budget": 9000,
+        "dates": "2024-12-08 to 2024-12-12",
+        "transportation": {
+          "preferences": ["飞机"],
+          "constraints": []
+        },
+        "accommodations": {
+          "preferences": ["家庭房", "儿童俱乐部"],
+          "constraints": ["单人房"]
+        },
+        "diet": {
+          "preferences": ["北京菜"],
+          "constraints": ["辣菜"]
+        },
+        "attractions": {
+          "preferences": ["历史古迹", "亲子友好", "城市地标"],
+          "constraints": []
+        },
+        "rhythm": {
+          "preferences": ["慢游"],
+          "constraints": []
+        },
+        "nature_language": "我们六个人坐飞机从重庆去北京慢游5天，预算9000元，需要家庭房和儿童俱乐部但不要单人房，吃不辣的北京菜，参观历史古迹、亲子景点和城市地标。",
+        "nature_language_en": "Six of us want to fly from Chongqing to Beijing for a slow 5-day trip with a budget of 9000 RMB, needing family rooms and kids' club (no single rooms), trying non-spicy Beijing cuisine, visiting historical sites, family-friendly attractions, and city landmarks."
+      }
+    ],
+    [
+      {
+        "uid": "G25-1",
+        "tag": "easy",
+        "start_city": "杭州",
+        "target_city": "武汉",
+        "days": 2,
+        "people_number": 2,
+        "people_composition": {
+          "adults": 2,
+          "children": 0,
+          "seniors": 0
+        },
+        "budget": 1600,
+        "dates": "2024-11-13 to 2024-11-14",
+        "transportation": {},
+        "accommodations": {},
+        "diet": {},
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我们两个人从杭州去武汉玩2天，预算1600元。",
+        "nature_language_en": "Two of us want to travel from Hangzhou to Wuhan for 2 days with a budget of 1600 RMB."
+      },
+      {
+        "uid": "G25-2",
+        "tag": "medium",
+        "start_city": "杭州",
+        "target_city": "武汉",
+        "days": 2,
+        "people_number": 2,
+        "people_composition": {
+          "adults": 2,
+          "children": 0,
+          "seniors": 0
+        },
+        "budget": 1600,
+        "dates": "2024-11-13 to 2024-11-14",
+        "transportation": {
+          "preferences": ["高铁"],
+          "constraints": []
+        },
+        "accommodations": {},
+        "diet": {
+          "preferences": ["湖北菜"],
+          "constraints": []
+        },
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我们两个人坐高铁从杭州去武汉玩2天，预算1600元，想品尝湖北菜。",
+        "nature_language_en": "Two of us want to take high-speed rail from Hangzhou to Wuhan for 2 days with a budget of 1600 RMB, trying Hubei cuisine."
+      },
+      {
+        "uid": "G25-3",
+        "tag": "hard",
+        "start_city": "杭州",
+        "target_city": "武汉",
+        "days": 2,
+        "people_number": 2,
+        "people_composition": {
+          "adults": 2,
+          "children": 0,
+          "seniors": 0
+        },
+        "budget": 1600,
+        "dates": "2024-11-13 to 2024-11-14",
+        "transportation": {
+          "preferences": ["高铁"],
+          "constraints": []
+        },
+        "accommodations": {
+          "preferences": ["位置超好"],
+          "constraints": ["民宿"]
+        },
+        "diet": {
+          "preferences": ["湖北菜"],
+          "constraints": []
+        },
+        "attractions": {
+          "preferences": ["历史古迹", "人文景观"],
+          "constraints": []
+        },
+        "rhythm": {
+          "preferences": ["特种兵式"],
+          "constraints": []
+        },
+        "nature_language": "我们两个人坐高铁从杭州去武汉特种兵式2天游，预算1600元，住位置好的酒店但不要民宿，品尝湖北菜，快速打卡历史古迹和人文景观。",
+        "nature_language_en": "Two of us want to take high-speed rail from Hangzhou to Wuhan for an intensive 2-day trip with a budget of 1600 RMB, staying in well-located hotels (no homestays), trying Hubei cuisine, quickly visiting historical sites and cultural attractions."
+      }
+    ],
+    [
+      {
+        "uid": "G26-1",
+        "tag": "easy",
+        "start_city": "南京",
+        "target_city": "成都",
+        "days": 6,
+        "people_number": 1,
+        "people_composition": {
+          "adults": 1,
+          "children": 0,
+          "seniors": 0
+        },
+        "budget": 4200,
+        "dates": "2024-12-22 to 2024-12-27",
+        "transportation": {},
+        "accommodations": {},
+        "diet": {},
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我一个人从南京去成都旅行6天，预算4200元。",
+        "nature_language_en": "I want to travel alone from Nanjing to Chengdu for 6 days with a budget of 4200 RMB."
+      },
+      {
+        "uid": "G26-2",
+        "tag": "medium",
+        "start_city": "南京",
+        "target_city": "成都",
+        "days": 6,
+        "people_number": 1,
+        "people_composition": {
+          "adults": 1,
+          "children": 0,
+          "seniors": 0
+        },
+        "budget": 4200,
+        "dates": "2024-12-22 to 2024-12-27",
+        "transportation": {
+          "preferences": ["飞机"],
+          "constraints": []
+        },
+        "accommodations": {
+          "preferences": ["设计师酒店"],
+          "constraints": []
+        },
+        "diet": {},
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我一个人坐飞机从南京去成都旅行6天，预算4200元，想住设计师酒店。",
+        "nature_language_en": "I want to fly alone from Nanjing to Chengdu for 6 days with a budget of 4200 RMB, staying in designer hotels."
+      },
+      {
+        "uid": "G26-3",
+        "tag": "hard",
+        "start_city": "南京",
+        "target_city": "成都",
+        "days": 6,
+        "people_number": 1,
+        "people_composition": {
+          "adults": 1,
+          "children": 0,
+          "seniors": 0
+        },
+        "budget": 4200,
+        "dates": "2024-12-22 to 2024-12-27",
+        "transportation": {
+          "preferences": ["飞机"],
+          "constraints": []
+        },
+        "accommodations": {
+          "preferences": ["设计师酒店"],
+          "constraints": ["连锁酒店"]
+        },
+        "diet": {
+          "preferences": ["川菜", "火锅"],
+          "constraints": []
+        },
+        "attractions": {
+          "preferences": ["美食目的地", "小众秘境", "人文景观"],
+          "constraints": []
+        },
+        "rhythm": {
+          "preferences": ["慢游"],
+          "constraints": []
+        },
+        "nature_language": "我一个人坐飞机从南京去成都慢游6天，预算4200元，住设计师酒店但不要连锁的，品尝川菜火锅，探索美食目的地、小众秘境和人文景观。",
+        "nature_language_en": "I want to fly alone from Nanjing to Chengdu for a slow 6-day trip with a budget of 4200 RMB, staying in designer hotels (no chain hotels), trying Sichuan cuisine and hotpot, exploring food destinations, hidden gems, and cultural attractions."
+      }
+    ],
+    [
+      {
+        "uid": "G27-1",
+        "tag": "easy",
+        "start_city": "上海",
+        "target_city": "苏州",
+        "days": 3,
+        "people_number": 4,
+        "people_composition": {
+          "adults": 2,
+          "children": 2,
+          "seniors": 0
+        },
+        "budget": 2400,
+        "dates": "2024-11-30 to 2024-12-02",
+        "transportation": {},
+        "accommodations": {},
+        "diet": {},
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我们四个人从上海去苏州玩3天，预算2400元。",
+        "nature_language_en": "Four of us want to travel from Shanghai to Suzhou for 3 days with a budget of 2400 RMB."
+      },
+      {
+        "uid": "G27-2",
+        "tag": "medium",
+        "start_city": "上海",
+        "target_city": "苏州",
+        "days": 3,
+        "people_number": 4,
+        "people_composition": {
+          "adults": 2,
+          "children": 2,
+          "seniors": 0
+        },
+        "budget": 2400,
+        "dates": "2024-11-30 to 2024-12-02",
+        "transportation": {
+          "preferences": ["高铁"],
+          "constraints": []
+        },
+        "accommodations": {
+          "preferences": ["亲子主题房"],
+          "constraints": []
+        },
+        "diet": {},
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我们四个人坐高铁从上海去苏州玩3天，预算2400元，需要亲子主题房。",
+        "nature_language_en": "Four of us want to take high-speed rail from Shanghai to Suzhou for 3 days with a budget of 2400 RMB, needing family-themed rooms."
+      },
+      {
+        "uid": "G27-3",
+        "tag": "hard",
+        "start_city": "上海",
+        "target_city": "苏州",
+        "days": 3,
+        "people_number": 4,
+        "people_composition": {
+          "adults": 2,
+          "children": 2,
+          "seniors": 0
+        },
+        "budget": 2400,
+        "dates": "2024-11-30 to 2024-12-02",
+        "transportation": {
+          "preferences": ["高铁"],
+          "constraints": []
+        },
+        "accommodations": {
+          "preferences": ["亲子主题房", "园林建筑"],
+          "constraints": []
+        },
+        "diet": {
+          "preferences": ["江浙菜"],
+          "constraints": ["辣菜"]
+        },
+        "attractions": {
+          "preferences": ["园林", "亲子友好"],
+          "constraints": []
+        },
+        "rhythm": {
+          "preferences": ["慢游"],
+          "constraints": []
+        },
+        "nature_language": "我们四个人坐高铁从上海去苏州慢游3天，预算2400元，住园林建筑风格的亲子主题房，吃不辣的江浙菜，参观园林和亲子景点。",
+        "nature_language_en": "Four of us want to take high-speed rail from Shanghai to Suzhou for a slow 3-day trip with a budget of 2400 RMB, staying in family-themed rooms in garden-style architecture, trying non-spicy Jiangzhe cuisine, visiting gardens and family-friendly attractions."
+      }
+    ],
+    [
+      {
+        "uid": "G28-1",
+        "tag": "easy",
+        "start_city": "广州",
+        "target_city": "北京",
+        "days": 4,
+        "people_number": 3,
+        "people_composition": {
+          "adults": 2,
+          "children": 0,
+          "seniors": 1
+        },
+        "budget": 4800,
+        "dates": "2024-12-14 to 2024-12-17",
+        "transportation": {},
+        "accommodations": {},
+        "diet": {},
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我们三个人从广州去北京旅行4天，预算4800元。",
+        "nature_language_en": "Three of us want to travel from Guangzhou to Beijing for 4 days with a budget of 4800 RMB."
+      },
+      {
+        "uid": "G28-2",
+        "tag": "medium",
+        "start_city": "广州",
+        "target_city": "北京",
+        "days": 4,
+        "people_number": 3,
+        "people_composition": {
+          "adults": 2,
+          "children": 0,
+          "seniors": 1
+        },
+        "budget": 4800,
+        "dates": "2024-12-14 to 2024-12-17",
+        "transportation": {
+          "preferences": ["飞机"],
+          "constraints": []
+        },
+        "accommodations": {},
+        "diet": {
+          "preferences": ["北京菜"],
+          "constraints": []
+        },
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我们三个人坐飞机从广州去北京旅行4天，预算4800元，想品尝北京菜。",
+        "nature_language_en": "Three of us want to fly from Guangzhou to Beijing for 4 days with a budget of 4800 RMB, trying Beijing cuisine."
+      },
+      {
+        "uid": "G28-3",
+        "tag": "hard",
+        "start_city": "广州",
+        "target_city": "北京",
+        "days": 4,
+        "people_number": 3,
+        "people_composition": {
+          "adults": 2,
+          "children": 0,
+          "seniors": 1
+        },
+        "budget": 4800,
+        "dates": "2024-12-14 to 2024-12-17",
+        "transportation": {
+          "preferences": ["飞机"],
+          "constraints": []
+        },
+        "accommodations": {
+          "preferences": ["24小时前台", "电梯"],
+          "constraints": []
+        },
+        "diet": {
+          "preferences": ["北京菜"],
+          "constraints": []
+        },
+        "attractions": {
+          "preferences": ["历史古迹", "城市地标", "博物馆/纪念馆"],
+          "constraints": []
+        },
+        "rhythm": {
+          "preferences": ["慢游"],
+          "constraints": []
+        },
+        "nature_language": "我们三个人坐飞机从广州去北京慢游4天，预算4800元，需要有24小时前台和电梯的酒店，品尝北京菜，参观历史古迹、城市地标和博物馆。",
+        "nature_language_en": "Three of us want to fly from Guangzhou to Beijing for a slow 4-day trip with a budget of 4800 RMB, needing hotels with 24-hour front desk and elevators, trying Beijing cuisine, visiting historical sites, city landmarks, and museums."
+      }
+    ],
+    [
+      {
+        "uid": "G29-1",
+        "tag": "easy",
+        "start_city": "成都",
+        "target_city": "杭州",
+        "days": 5,
+        "people_number": 2,
+        "people_composition": {
+          "adults": 1,
+          "children": 1,
+          "seniors": 0
+        },
+        "budget": 3500,
+        "dates": "2024-11-25 to 2024-11-29",
+        "transportation": {},
+        "accommodations": {},
+        "diet": {},
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我和孩子从成都去杭州旅行5天，预算3500元。",
+        "nature_language_en": "I want to travel with a child from Chengdu to Hangzhou for 5 days with a budget of 3500 RMB."
+      },
+      {
+        "uid": "G29-2",
+        "tag": "medium",
+        "start_city": "成都",
+        "target_city": "杭州",
+        "days": 5,
+        "people_number": 2,
+        "people_composition": {
+          "adults": 1,
+          "children": 1,
+          "seniors": 0
+        },
+        "budget": 3500,
+        "dates": "2024-11-25 to 2024-11-29",
+        "transportation": {},
+        "accommodations": {
+          "preferences": ["亲子主题房"],
+          "constraints": []
+        },
+        "diet": {
+          "preferences": ["江浙菜"],
+          "constraints": []
+        },
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我和孩子从成都去杭州旅行5天，预算3500元，需要亲子主题房，想品尝江浙菜。",
+        "nature_language_en": "I want to travel with a child from Chengdu to Hangzhou for 5 days with a budget of 3500 RMB, needing family-themed rooms and trying Jiangzhe cuisine."
+      },
+      {
+        "uid": "G29-3",
+        "tag": "hard",
+        "start_city": "成都",
+        "target_city": "杭州",
+        "days": 5,
+        "people_number": 2,
+        "people_composition": {
+          "adults": 1,
+          "children": 1,
+          "seniors": 0
+        },
+        "budget": 3500,
+        "dates": "2024-11-25 to 2024-11-29",
+        "transportation": {
+          "preferences": ["飞机"],
+          "constraints": []
+        },
+        "accommodations": {
+          "preferences": ["亲子主题房", "儿童乐园"],
+          "constraints": []
+        },
+        "diet": {
+          "preferences": ["江浙菜"],
+          "constraints": ["辣菜"]
+        },
+        "attractions": {
+          "preferences": ["自然风光", "亲子友好", "园林"],
+          "constraints": []
+        },
+        "rhythm": {
+          "preferences": ["慢游"],
+          "constraints": []
+        },
+        "nature_language": "我和孩子坐飞机从成都去杭州慢游5天，预算3500元，需要亲子主题房和儿童乐园，吃不辣的江浙菜，参观自然风光、亲子景点和园林。",
+        "nature_language_en": "I want to fly with a child from Chengdu to Hangzhou for a slow 5-day trip with a budget of 3500 RMB, needing family-themed rooms and kids' playground, trying non-spicy Jiangzhe cuisine, visiting natural scenery, family-friendly attractions, and gardens."
+      }
+    ],
+    [
+      {
+        "uid": "G30-1",
+        "tag": "easy",
+        "start_city": "武汉",
+        "target_city": "重庆",
+        "days": 3,
+        "people_number": 5,
+        "people_composition": {
+          "adults": 4,
+          "children": 0,
+          "seniors": 1
+        },
+        "budget": 3600,
+        "dates": "2024-12-05 to 2024-12-07",
+        "transportation": {},
+        "accommodations": {},
+        "diet": {},
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我们五个人从武汉去重庆玩3天，预算3600元。",
+        "nature_language_en": "Five of us want to travel from Wuhan to Chongqing for 3 days with a budget of 3600 RMB."
+      },
+      {
+        "uid": "G30-2",
+        "tag": "medium",
+        "start_city": "武汉",
+        "target_city": "重庆",
+        "days": 3,
+        "people_number": 5,
+        "people_composition": {
+          "adults": 4,
+          "children": 0,
+          "seniors": 1
+        },
+        "budget": 3600,
+        "dates": "2024-12-05 to 2024-12-07",
+        "transportation": {
+          "preferences": ["高铁"],
+          "constraints": []
+        },
+        "accommodations": {
+          "preferences": ["24小时前台"],
+          "constraints": []
+        },
+        "diet": {},
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我们五个人坐高铁从武汉去重庆玩3天，预算3600元，需要24小时前台服务的酒店。",
+        "nature_language_en": "Five of us want to take high-speed rail from Wuhan to Chongqing for 3 days with a budget of 3600 RMB, needing hotels with 24-hour front desk service."
+      },
+      {
+        "uid": "G30-3",
+        "tag": "hard",
+        "start_city": "武汉",
+        "target_city": "重庆",
+        "days": 3,
+        "people_number": 5,
+        "people_composition": {
+          "adults": 4,
+          "children": 0,
+          "seniors": 1
+        },
+        "budget": 3600,
+        "dates": "2024-12-05 to 2024-12-07",
+        "transportation": {
+          "preferences": ["高铁"],
+          "constraints": []
+        },
+        "accommodations": {
+          "preferences": ["24小时前台", "江河景房"],
+          "constraints": []
+        },
+        "diet": {
+          "preferences": ["川菜", "火锅"],
+          "constraints": ["太辣"]
+        },
+        "attractions": {
+          "preferences": ["夜经济热点", "网红打卡点"],
+          "constraints": []
+        },
+        "rhythm": {
+          "preferences": ["慢游"],
+          "constraints": []
+        },
+        "nature_language": "我们五个人坐高铁从武汉去重庆慢游3天，预算3600元，住有24小时前台的江河景房，吃不太辣的川菜火锅，游览夜经济热点和网红打卡点。",
+        "nature_language_en": "Five of us want to take high-speed rail from Wuhan to Chongqing for a slow 3-day trip with a budget of 3600 RMB, staying in river-view rooms with 24-hour front desk, trying mild Sichuan cuisine and hotpot, visiting night economy hotspots and internet-famous spots."
+      }
+    ],
+    [
+      {
+        "uid": "G31-1",
+        "tag": "easy",
+        "start_city": "深圳",
+        "target_city": "上海",
+        "days": 6,
+        "people_number": 1,
+        "people_composition": {
+          "adults": 1,
+          "children": 0,
+          "seniors": 0
+        },
+        "budget": 4800,
+        "dates": "2024-11-18 to 2024-11-23",
+        "transportation": {},
+        "accommodations": {},
+        "diet": {},
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我一个人从深圳去上海旅行6天，预算4800元。",
+        "nature_language_en": "I want to travel alone from Shenzhen to Shanghai for 6 days with a budget of 4800 RMB."
+      },
+      {
+        "uid": "G31-2",
+        "tag": "medium",
+        "start_city": "深圳",
+        "target_city": "上海",
+        "days": 6,
+        "people_number": 1,
+        "people_composition": {
+          "adults": 1,
+          "children": 0,
+          "seniors": 0
+        },
+        "budget": 4800,
+        "dates": "2024-11-18 to 2024-11-23",
+        "transportation": {
+          "preferences": ["飞机"],
+          "constraints": []
+        },
+        "accommodations": {},
+        "diet": {
+          "preferences": ["本帮菜", "小吃"],
+          "constraints": []
+        },
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我一个人坐飞机从深圳去上海旅行6天，预算4800元，想品尝本帮菜和上海小吃。",
+        "nature_language_en": "I want to fly alone from Shenzhen to Shanghai for 6 days with a budget of 4800 RMB, trying Shanghai cuisine and local snacks."
+      },
+      {
+        "uid": "G31-3",
+        "tag": "hard",
+        "start_city": "深圳",
+        "target_city": "上海",
+        "days": 6,
+        "people_number": 1,
+        "people_composition": {
+          "adults": 1,
+          "children": 0,
+          "seniors": 0
+        },
+        "budget": 4800,
+        "dates": "2024-11-18 to 2024-11-23",
+        "transportation": {
+          "preferences": ["飞机"],
+          "constraints": []
+        },
+        "accommodations": {
+          "preferences": ["位置超好", "设计师酒店"],
+          "constraints": ["民宿"]
+        },
+        "diet": {
+          "preferences": ["本帮菜", "小吃"],
+          "constraints": []
+        },
+        "attractions": {
+          "preferences": ["城市地标", "网红打卡点", "夜经济热点"],
+          "constraints": []
+        },
+        "rhythm": {},
+        "nature_language": "我一个人坐飞机从深圳去上海旅行6天，预算4800元，住位置好的设计师酒店但不要民宿，品尝本帮菜和小吃，打卡城市地标、网红景点和夜经济热点。",
+        "nature_language_en": "I want to fly alone from Shenzhen to Shanghai for 6 days with a budget of 4800 RMB, staying in well-located designer hotels (no homestays), trying Shanghai cuisine and snacks, visiting city landmarks, internet-famous spots, and night economy hotspots."
+      }
+    ],
+    [
+      {
+        "uid": "G32-1",
+        "tag": "easy",
+        "start_city": "北京",
+        "target_city": "苏州",
+        "days": 4,
+        "people_number": 4,
+        "people_composition": {
+          "adults": 3,
+          "children": 1,
+          "seniors": 0
+        },
+        "budget": 3200,
+        "dates": "2024-12-20 to 2024-12-23",
+        "transportation": {},
+        "accommodations": {},
+        "diet": {},
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我们四个人从北京去苏州玩4天，预算3200元。",
+        "nature_language_en": "Four of us want to travel from Beijing to Suzhou for 4 days with a budget of 3200 RMB."
+      },
+      {
+        "uid": "G32-2",
+        "tag": "medium",
+        "start_city": "北京",
+        "target_city": "苏州",
+        "days": 4,
+        "people_number": 4,
+        "people_composition": {
+          "adults": 3,
+          "children": 1,
+          "seniors": 0
+        },
+        "budget": 3200,
+        "dates": "2024-12-20 to 2024-12-23",
+        "transportation": {},
+        "accommodations": {
+          "preferences": ["亲子主题房"],
+          "constraints": []
+        },
+        "diet": {
+          "preferences": ["江浙菜"],
+          "constraints": []
+        },
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我们四个人从北京去苏州玩4天，预算3200元，需要亲子主题房，想品尝江浙菜。",
+        "nature_language_en": "Four of us want to travel from Beijing to Suzhou for 4 days with a budget of 3200 RMB, needing family-themed rooms and trying Jiangzhe cuisine."
+      },
+      {
+        "uid": "G32-3",
+        "tag": "hard",
+        "start_city": "北京",
+        "target_city": "苏州",
+        "days": 4,
+        "people_number": 4,
+        "people_composition": {
+          "adults": 3,
+          "children": 1,
+          "seniors": 0
+        },
+        "budget": 3200,
+        "dates": "2024-12-20 to 2024-12-23",
+        "transportation": {
+          "preferences": ["高铁"],
+          "constraints": []
+        },
+        "accommodations": {
+          "preferences": ["亲子主题房", "园林建筑"],
+          "constraints": []
+        },
+        "diet": {
+          "preferences": ["江浙菜"],
+          "constraints": ["辣菜"]
+        },
+        "attractions": {
+          "preferences": ["园林", "亲子友好", "历史古迹"],
+          "constraints": []
+        },
+        "rhythm": {
+          "preferences": ["慢游"],
+          "constraints": []
+        },
+        "nature_language": "我们四个人坐高铁从北京去苏州慢游4天，预算3200元，住园林建筑风格的亲子主题房，吃不辣的江浙菜，参观园林、亲子景点和历史古迹。",
+        "nature_language_en": "Four of us want to take high-speed rail from Beijing to Suzhou for a slow 4-day trip with a budget of 3200 RMB, staying in family-themed rooms in garden-style architecture, trying non-spicy Jiangzhe cuisine, visiting gardens, family-friendly attractions, and historical sites."
+      }
+    ],
+    [
+      {
+        "uid": "G33-1",
+        "tag": "easy",
+        "start_city": "杭州",
+        "target_city": "广州",
+        "days": 7,
+        "people_number": 2,
+        "people_composition": {
+          "adults": 1,
+          "children": 0,
+          "seniors": 1
+        },
+        "budget": 4900,
+        "dates": "2024-11-12 to 2024-11-18",
+        "transportation": {},
+        "accommodations": {},
+        "diet": {},
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我和老人从杭州去广州旅行7天，预算4900元。",
+        "nature_language_en": "I want to travel with an elderly person from Hangzhou to Guangzhou for 7 days with a budget of 4900 RMB."
+      },
+      {
+        "uid": "G33-2",
+        "tag": "medium",
+        "start_city": "杭州",
+        "target_city": "广州",
+        "days": 7,
+        "people_number": 2,
+        "people_composition": {
+          "adults": 1,
+          "children": 0,
+          "seniors": 1
+        },
+        "budget": 4900,
+        "dates": "2024-11-12 to 2024-11-18",
+        "transportation": {
+          "preferences": ["高铁"],
+          "constraints": []
+        },
+        "accommodations": {
+          "preferences": ["24小时前台"],
+          "constraints": []
+        },
+        "diet": {},
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我和老人坐高铁从杭州去广州旅行7天，预算4900元，需要24小时前台服务的酒店。",
+        "nature_language_en": "I want to take high-speed rail with an elderly person from Hangzhou to Guangzhou for 7 days with a budget of 4900 RMB, needing hotels with 24-hour front desk service."
+      },
+      {
+        "uid": "G33-3",
+        "tag": "hard",
+        "start_city": "杭州",
+        "target_city": "广州",
+        "days": 7,
+        "people_number": 2,
+        "people_composition": {
+          "adults": 1,
+          "children": 0,
+          "seniors": 1
+        },
+        "budget": 4900,
+        "dates": "2024-11-12 to 2024-11-18",
+        "transportation": {
+          "preferences": ["高铁"],
+          "constraints": []
+        },
+        "accommodations": {
+          "preferences": ["24小时前台", "电梯"],
+          "constraints": []
+        },
+        "diet": {
+          "preferences": ["粤菜"],
+          "constraints": ["辣菜"]
+        },
+        "attractions": {
+          "preferences": ["人文景观", "公园"],
+          "constraints": []
+        },
+        "rhythm": {
+          "preferences": ["慢游"],
+          "constraints": []
+        },
+        "nature_language": "我和老人坐高铁从杭州去广州慢游7天，预算4900元，需要有24小时前台和电梯的酒店，吃不辣的粤菜，参观人文景观和公园。",
+        "nature_language_en": "I want to take high-speed rail with an elderly person from Hangzhou to Guangzhou for a slow 7-day trip with a budget of 4900 RMB, needing hotels with 24-hour front desk and elevators, trying non-spicy Cantonese cuisine, visiting cultural attractions and parks."
+      }
+    ],
+    [
+      {
+        "uid": "G34-1",
+        "tag": "easy",
+        "start_city": "重庆",
+        "target_city": "南京",
+        "days": 2,
+        "people_number": 6,
+        "people_composition": {
+          "adults": 4,
+          "children": 2,
+          "seniors": 0
+        },
+        "budget": 3600,
+        "dates": "2024-12-28 to 2024-12-29",
+        "transportation": {},
+        "accommodations": {},
+        "diet": {},
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我们六个人从重庆去南京玩2天，预算3600元。",
+        "nature_language_en": "Six of us want to travel from Chongqing to Nanjing for 2 days with a budget of 3600 RMB."
+      },
+      {
+        "uid": "G34-2",
+        "tag": "medium",
+        "start_city": "重庆",
+        "target_city": "南京",
+        "days": 2,
+        "people_number": 6,
+        "people_composition": {
+          "adults": 4,
+          "children": 2,
+          "seniors": 0
+        },
+        "budget": 3600,
+        "dates": "2024-12-28 to 2024-12-29",
+        "transportation": {
+          "preferences": ["飞机"],
+          "constraints": []
+        },
+        "accommodations": {
+          "preferences": ["家庭房"],
+          "constraints": []
+        },
+        "diet": {},
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我们六个人坐飞机从重庆去南京玩2天，预算3600元，需要家庭房。",
+        "nature_language_en": "Six of us want to fly from Chongqing to Nanjing for 2 days with a budget of 3600 RMB, needing family rooms."
+      },
+      {
+        "uid": "G34-3",
+        "tag": "hard",
+        "start_city": "重庆",
+        "target_city": "南京",
+        "days": 2,
+        "people_number": 6,
+        "people_composition": {
+          "adults": 4,
+          "children": 2,
+          "seniors": 0
+        },
+        "budget": 3600,
+        "dates": "2024-12-28 to 2024-12-29",
+        "transportation": {
+          "preferences": ["飞机"],
+          "constraints": []
+        },
+        "accommodations": {
+          "preferences": ["家庭房", "儿童乐园"],
+          "constraints": ["单人房"]
+        },
+        "diet": {
+          "preferences": ["江浙菜"],
+          "constraints": []
+        },
+        "attractions": {
+          "preferences": ["历史古迹", "亲子友好"],
+          "constraints": []
+        },
+        "rhythm": {
+          "preferences": ["特种兵式"],
+          "constraints": []
+        },
+        "nature_language": "我们六个人坐飞机从重庆去南京特种兵式2天游，预算3600元，需要家庭房和儿童乐园但不要单人房，品尝江浙菜，快速打卡历史古迹和亲子景点。",
+        "nature_language_en": "Six of us want to fly from Chongqing to Nanjing for an intensive 2-day trip with a budget of 3600 RMB, needing family rooms and kids' playground (no single rooms), trying Jiangzhe cuisine, quickly visiting historical sites and family-friendly attractions."
+      }
+    ],
+    [
+      {
+        "uid": "G35-1",
+        "tag": "easy",
+        "start_city": "苏州",
+        "target_city": "成都",
+        "days": 5,
+        "people_number": 1,
+        "people_composition": {
+          "adults": 1,
+          "children": 0,
+          "seniors": 0
+        },
+        "budget": 3500,
+        "dates": "2024-11-08 to 2024-11-12",
+        "transportation": {},
+        "accommodations": {},
+        "diet": {},
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我一个人从苏州去成都旅行5天，预算3500元。",
+        "nature_language_en": "I want to travel alone from Suzhou to Chengdu for 5 days with a budget of 3500 RMB."
+      },
+      {
+        "uid": "G35-2",
+        "tag": "medium",
+        "start_city": "苏州",
+        "target_city": "成都",
+        "days": 5,
+        "people_number": 1,
+        "people_composition": {
+          "adults": 1,
+          "children": 0,
+          "seniors": 0
+        },
+        "budget": 3500,
+        "dates": "2024-11-08 to 2024-11-12",
+        "transportation": {
+          "preferences": ["飞机"],
+          "constraints": []
+        },
+        "accommodations": {},
+        "diet": {
+          "preferences": ["川菜", "火锅"],
+          "constraints": []
+        },
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我一个人坐飞机从苏州去成都旅行5天，预算3500元，想品尝川菜和火锅。",
+        "nature_language_en": "I want to fly alone from Suzhou to Chengdu for 5 days with a budget of 3500 RMB, trying Sichuan cuisine and hotpot."
+      },
+      {
+        "uid": "G35-3",
+        "tag": "hard",
+        "start_city": "苏州",
+        "target_city": "成都",
+        "days": 5,
+        "people_number": 1,
+        "people_composition": {
+          "adults": 1,
+          "children": 0,
+          "seniors": 0
+        },
+        "budget": 3500,
+        "dates": "2024-11-08 to 2024-11-12",
+        "transportation": {
+          "preferences": ["飞机"],
+          "constraints": []
+        },
+        "accommodations": {
+          "preferences": ["小而美", "设计师酒店"],
+          "constraints": ["连锁酒店"]
+        },
+        "diet": {
+          "preferences": ["川菜", "火锅"],
+          "constraints": []
+        },
+        "attractions": {
+          "preferences": ["美食目的地", "小众秘境", "人文景观"],
+          "constraints": []
+        },
+        "rhythm": {
+          "preferences": ["慢游"],
+          "constraints": []
+        },
+        "nature_language": "我一个人坐飞机从苏州去成都慢游5天，预算3500元，住小而美的设计师酒店但不要连锁的，品尝川菜火锅，探索美食目的地、小众秘境和人文景观。",
+        "nature_language_en": "I want to fly alone from Suzhou to Chengdu for a slow 5-day trip with a budget of 3500 RMB, staying in boutique designer hotels (no chain hotels), trying Sichuan cuisine and hotpot, exploring food destinations, hidden gems, and cultural attractions."
+      }
+    ],
+    [
+      {
+        "uid": "G36-1",
+        "tag": "easy",
+        "start_city": "南京",
+        "target_city": "武汉",
+        "days": 3,
+        "people_number": 3,
+        "people_composition": {
+          "adults": 2,
+          "children": 1,
+          "seniors": 0
+        },
+        "budget": 2100,
+        "dates": "2024-12-08 to 2024-12-10",
+        "transportation": {},
+        "accommodations": {},
+        "diet": {},
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我们三个人从南京去武汉玩3天，预算2100元。",
+        "nature_language_en": "Three of us want to travel from Nanjing to Wuhan for 3 days with a budget of 2100 RMB."
+      },
+      {
+        "uid": "G36-2",
+        "tag": "medium",
+        "start_city": "南京",
+        "target_city": "武汉",
+        "days": 3,
+        "people_number": 3,
+        "people_composition": {
+          "adults": 2,
+          "children": 1,
+          "seniors": 0
+        },
+        "budget": 2100,
+        "dates": "2024-12-08 to 2024-12-10",
+        "transportation": {
+          "preferences": ["高铁"],
+          "constraints": []
+        },
+        "accommodations": {
+          "preferences": ["家庭房"],
+          "constraints": []
+        },
+        "diet": {},
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我们三个人坐高铁从南京去武汉玩3天，预算2100元，需要家庭房。",
+        "nature_language_en": "Three of us want to take high-speed rail from Nanjing to Wuhan for 3 days with a budget of 2100 RMB, needing family rooms."
+      },
+      {
+        "uid": "G36-3",
+        "tag": "hard",
+        "start_city": "南京",
+        "target_city": "武汉",
+        "days": 3,
+        "people_number": 3,
+        "people_composition": {
+          "adults": 2,
+          "children": 1,
+          "seniors": 0
+        },
+        "budget": 2100,
+        "dates": "2024-12-08 to 2024-12-10",
+        "transportation": {
+          "preferences": ["高铁"],
+          "constraints": []
+        },
+        "accommodations": {
+          "preferences": ["家庭房"],
+          "constraints": []
+        },
+        "diet": {
+          "preferences": ["湖北菜"],
+          "constraints": ["辣菜"]
+        },
+        "attractions": {
+          "preferences": ["历史古迹", "亲子友好"],
+          "constraints": []
+        },
+        "rhythm": {
+          "preferences": ["慢游"],
+          "constraints": []
+        },
+        "nature_language": "我们三个人坐高铁从南京去武汉慢游3天，预算2100元，需要家庭房，吃不辣的湖北菜，参观历史古迹和亲子景点。",
+        "nature_language_en": "Three of us want to take high-speed rail from Nanjing to Wuhan for a slow 3-day trip with a budget of 2100 RMB, needing family rooms, trying non-spicy Hubei cuisine, visiting historical sites and family-friendly attractions."
+      }
+    ],
+    [
+      {
+        "uid": "G37-1",
+        "tag": "easy",
+        "start_city": "广州",
+        "target_city": "上海",
+        "days": 6,
+        "people_number": 4,
+        "people_composition": {
+          "adults": 3,
+          "children": 0,
+          "seniors": 1
+        },
+        "budget": 7200,
+        "dates": "2024-11-23 to 2024-11-28",
+        "transportation": {},
+        "accommodations": {},
+        "diet": {},
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我们四个人从广州去上海旅行6天，预算7200元。",
+        "nature_language_en": "Four of us want to travel from Guangzhou to Shanghai for 6 days with a budget of 7200 RMB."
+      },
+      {
+        "uid": "G37-2",
+        "tag": "medium",
+        "start_city": "广州",
+        "target_city": "上海",
+        "days": 6,
+        "people_number": 4,
+        "people_composition": {
+          "adults": 3,
+          "children": 0,
+          "seniors": 1
+        },
+        "budget": 7200,
+        "dates": "2024-11-23 to 2024-11-28",
+        "transportation": {
+          "preferences": ["飞机"],
+          "constraints": []
+        },
+        "accommodations": {
+          "preferences": ["24小时前台"],
+          "constraints": []
+        },
+        "diet": {},
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我们四个人坐飞机从广州去上海旅行6天，预算7200元，需要24小时前台服务的酒店。",
+        "nature_language_en": "Four of us want to fly from Guangzhou to Shanghai for 6 days with a budget of 7200 RMB, needing hotels with 24-hour front desk service."
+      },
+      {
+        "uid": "G37-3",
+        "tag": "hard",
+        "start_city": "广州",
+        "target_city": "上海",
+        "days": 6,
+        "people_number": 4,
+        "people_composition": {
+          "adults": 3,
+          "children": 0,
+          "seniors": 1
+        },
+        "budget": 7200,
+        "dates": "2024-11-23 to 2024-11-28",
+        "transportation": {
+          "preferences": ["飞机"],
+          "constraints": []
+        },
+        "accommodations": {
+          "preferences": ["24小时前台", "电梯"],
+          "constraints": []
+        },
+        "diet": {
+          "preferences": ["本帮菜"],
+          "constraints": ["辣菜"]
+        },
+        "attractions": {
+          "preferences": ["城市地标", "博物馆/纪念馆", "人文景观"],
+          "constraints": []
+        },
+        "rhythm": {
+          "preferences": ["慢游"],
+          "constraints": []
+        },
+        "nature_language": "我们四个人坐飞机从广州去上海慢游6天，预算7200元，需要有24小时前台和电梯的酒店，吃不辣的本帮菜，参观城市地标、博物馆和人文景观。",
+        "nature_language_en": "Four of us want to fly from Guangzhou to Shanghai for a slow 6-day trip with a budget of 7200 RMB, needing hotels with 24-hour front desk and elevators, trying non-spicy Shanghai cuisine, visiting city landmarks, museums, and cultural attractions."
+      }
+    ],
+    [
+      {
+        "uid": "G38-1",
+        "tag": "easy",
+        "start_city": "成都",
+        "target_city": "深圳",
+        "days": 4,
+        "people_number": 2,
+        "people_composition": {
+          "adults": 2,
+          "children": 0,
+          "seniors": 0
+        },
+        "budget": 3200,
+        "dates": "2024-12-12 to 2024-12-15",
+        "transportation": {},
+        "accommodations": {},
+        "diet": {},
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我们两个人从成都去深圳玩4天，预算3200元。",
+        "nature_language_en": "Two of us want to travel from Chengdu to Shenzhen for 4 days with a budget of 3200 RMB."
+      },
+      {
+        "uid": "G38-2",
+        "tag": "medium",
+        "start_city": "成都",
+        "target_city": "深圳",
+        "days": 4,
+        "people_number": 2,
+        "people_composition": {
+          "adults": 2,
+          "children": 0,
+          "seniors": 0
+        },
+        "budget": 3200,
+        "dates": "2024-12-12 to 2024-12-15",
+        "transportation": {
+          "preferences": ["飞机"],
+          "constraints": []
+        },
+        "accommodations": {},
+        "diet": {
+          "preferences": ["粤菜", "海鲜"],
+          "constraints": []
+        },
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我们两个人坐飞机从成都去深圳玩4天，预算3200元，想品尝粤菜和海鲜。",
+        "nature_language_en": "Two of us want to fly from Chengdu to Shenzhen for 4 days with a budget of 3200 RMB, trying Cantonese cuisine and seafood."
+      },
+      {
+        "uid": "G38-3",
+        "tag": "hard",
+        "start_city": "成都",
+        "target_city": "深圳",
+        "days": 4,
+        "people_number": 2,
+        "people_composition": {
+          "adults": 2,
+          "children": 0,
+          "seniors": 0
+        },
+        "budget": 3200,
+        "dates": "2024-12-12 to 2024-12-15",
+        "transportation": {
+          "preferences": ["飞机"],
+          "constraints": []
+        },
+        "accommodations": {
+          "preferences": ["海景房", "位置超好"],
+          "constraints": ["民宿"]
+        },
+        "diet": {
+          "preferences": ["粤菜", "海鲜"],
+          "constraints": []
+        },
+        "attractions": {
+          "preferences": ["现代建筑", "商业街区", "海滨风光"],
+          "constraints": []
+        },
+        "rhythm": {
+          "preferences": ["特种兵式"],
+          "constraints": []
+        },
+        "nature_language": "我们两个人坐飞机从成都去深圳特种兵式4天游，预算3200元，住位置好的海景房但不要民宿，品尝粤菜海鲜，打卡现代建筑、商业街区和海滨风光。",
+        "nature_language_en": "Two of us want to fly from Chengdu to Shenzhen for an intensive 4-day trip with a budget of 3200 RMB, staying in well-located sea-view rooms (no homestays), trying Cantonese cuisine and seafood, visiting modern architecture, shopping districts, and coastal scenery."
+      }
+    ],
+    [
+      {
+        "uid": "G39-1",
+        "tag": "easy",
+        "start_city": "上海",
+        "target_city": "杭州",
+        "days": 2,
+        "people_number": 5,
+        "people_composition": {
+          "adults": 3,
+          "children": 2,
+          "seniors": 0
+        },
+        "budget": 2000,
+        "dates": "2024-11-16 to 2024-11-17",
+        "transportation": {},
+        "accommodations": {},
+        "diet": {},
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我们五个人从上海去杭州玩2天，预算2000元。",
+        "nature_language_en": "Five of us want to travel from Shanghai to Hangzhou for 2 days with a budget of 2000 RMB."
+      },
+      {
+        "uid": "G39-2",
+        "tag": "medium",
+        "start_city": "上海",
+        "target_city": "杭州",
+        "days": 2,
+        "people_number": 5,
+        "people_composition": {
+          "adults": 3,
+          "children": 2,
+          "seniors": 0
+        },
+        "budget": 2000,
+        "dates": "2024-11-16 to 2024-11-17",
+        "transportation": {},
+        "accommodations": {
+          "preferences": ["家庭房"],
+          "constraints": []
+        },
+        "diet": {
+          "preferences": ["江浙菜"],
+          "constraints": []
+        },
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我们五个人从上海去杭州玩2天，预算2000元，需要家庭房，想品尝江浙菜。",
+        "nature_language_en": "Five of us want to travel from Shanghai to Hangzhou for 2 days with a budget of 2000 RMB, needing family rooms and trying Jiangzhe cuisine."
+      },
+      {
+        "uid": "G39-3",
+        "tag": "hard",
+        "start_city": "上海",
+        "target_city": "杭州",
+        "days": 2,
+        "people_number": 5,
+        "people_composition": {
+          "adults": 3,
+          "children": 2,
+          "seniors": 0
+        },
+        "budget": 2000,
+        "dates": "2024-11-16 to 2024-11-17",
+        "transportation": {
+          "preferences": ["高铁"],
+          "constraints": []
+        },
+        "accommodations": {
+          "preferences": ["家庭房"],
+          "constraints": ["单人房"]
+        },
+        "diet": {
+          "preferences": ["江浙菜"],
+          "constraints": []
+        },
+        "attractions": {
+          "preferences": ["自然风光", "亲子友好"],
+          "constraints": []
+        },
+        "rhythm": {
+          "preferences": ["特种兵式"],
+          "constraints": []
+        },
+        "nature_language": "我们五个人坐高铁从上海去杭州特种兵式2天游，预算2000元，需要家庭房但不要单人房，品尝江浙菜，快速游览自然风光和亲子景点。",
+        "nature_language_en": "Five of us want to take high-speed rail from Shanghai to Hangzhou for an intensive 2-day trip with a budget of 2000 RMB, needing family rooms (no single rooms), trying Jiangzhe cuisine, quickly visiting natural scenery and family-friendly attractions."
+      }
+    ],
+    [
+      {
+        "uid": "G40-1",
+        "tag": "easy",
+        "start_city": "武汉",
+        "target_city": "苏州",
+        "days": 7,
+        "people_number": 1,
+        "people_composition": {
+          "adults": 1,
+          "children": 0,
+          "seniors": 0
+        },
+        "budget": 4900,
+        "dates": "2024-12-01 to 2024-12-07",
+        "transportation": {},
+        "accommodations": {},
+        "diet": {},
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我一个人从武汉去苏州旅行7天，预算4900元。",
+        "nature_language_en": "I want to travel alone from Wuhan to Suzhou for 7 days with a budget of 4900 RMB."
+      },
+      {
+        "uid": "G40-2",
+        "tag": "medium",
+        "start_city": "武汉",
+        "target_city": "苏州",
+        "days": 7,
+        "people_number": 1,
+        "people_composition": {
+          "adults": 1,
+          "children": 0,
+          "seniors": 0
+        },
+        "budget": 4900,
+        "dates": "2024-12-01 to 2024-12-07",
+        "transportation": {
+          "preferences": ["高铁"],
+          "constraints": []
+        },
+        "accommodations": {
+          "preferences": ["园林建筑"],
+          "constraints": []
+        },
+        "diet": {},
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我一个人坐高铁从武汉去苏州旅行7天，预算4900元，想住园林建筑风格的酒店。",
+        "nature_language_en": "I want to take high-speed rail alone from Wuhan to Suzhou for 7 days with a budget of 4900 RMB, staying in garden-style architecture hotels."
+      },
+      {
+        "uid": "G40-3",
+        "tag": "hard",
+        "start_city": "武汉",
+        "target_city": "苏州",
+        "days": 7,
+        "people_number": 1,
+        "people_composition": {
+          "adults": 1,
+          "children": 0,
+          "seniors": 0
+        },
+        "budget": 4900,
+        "dates": "2024-12-01 to 2024-12-07",
+        "transportation": {
+          "preferences": ["高铁"],
+          "constraints": []
+        },
+        "accommodations": {
+          "preferences": ["园林建筑", "中式庭院"],
+          "constraints": ["现代酒店"]
+        },
+        "diet": {
+          "preferences": ["江浙菜", "小吃"],
+          "constraints": []
+        },
+        "attractions": {
+          "preferences": ["园林", "历史古迹", "人文景观"],
+          "constraints": []
+        },
+        "rhythm": {
+          "preferences": ["慢游"],
+          "constraints": []
+        },
+        "nature_language": "我一个人坐高铁从武汉去苏州慢游7天，预算4900元，住园林建筑或中式庭院但不要现代酒店，品尝江浙菜和小吃，深度游览园林、历史古迹和人文景观。",
+        "nature_language_en": "I want to take high-speed rail alone from Wuhan to Suzhou for a slow 7-day trip with a budget of 4900 RMB, staying in garden architecture or Chinese courtyard hotels (no modern hotels), trying Jiangzhe cuisine and snacks, deeply exploring gardens, historical sites, and cultural attractions."
+      }
+    ],
+    [
+      {
+        "uid": "G41-1",
+        "tag": "easy",
+        "start_city": "北京",
+        "target_city": "重庆",
+        "days": 5,
+        "people_number": 3,
+        "people_composition": {
+          "adults": 2,
+          "children": 0,
+          "seniors": 1
+        },
+        "budget": 3600,
+        "dates": "2024-11-20 to 2024-11-24",
+        "transportation": {},
+        "accommodations": {},
+        "diet": {},
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我们三个人从北京去重庆旅行5天，预算3600元。",
+        "nature_language_en": "Three of us want to travel from Beijing to Chongqing for 5 days with a budget of 3600 RMB."
+      },
+      {
+        "uid": "G41-2",
+        "tag": "medium",
+        "start_city": "北京",
+        "target_city": "重庆",
+        "days": 5,
+        "people_number": 3,
+        "people_composition": {
+          "adults": 2,
+          "children": 0,
+          "seniors": 1
+        },
+        "budget": 3600,
+        "dates": "2024-11-20 to 2024-11-24",
+        "transportation": {
+          "preferences": ["飞机"],
+          "constraints": []
+        },
+        "accommodations": {
+          "preferences": ["24小时前台"],
+          "constraints": []
+        },
+        "diet": {},
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我们三个人坐飞机从北京去重庆旅行5天，预算3600元，需要24小时前台服务的酒店。",
+        "nature_language_en": "Three of us want to fly from Beijing to Chongqing for 5 days with a budget of 3600 RMB, needing hotels with 24-hour front desk service."
+      },
+      {
+        "uid": "G41-3",
+        "tag": "hard",
+        "start_city": "北京",
+        "target_city": "重庆",
+        "days": 5,
+        "people_number": 3,
+        "people_composition": {
+          "adults": 2,
+          "children": 0,
+          "seniors": 1
+        },
+        "budget": 3600,
+        "dates": "2024-11-20 to 2024-11-24",
+        "transportation": {
+          "preferences": ["飞机"],
+          "constraints": []
+        },
+        "accommodations": {
+          "preferences": ["24小时前台", "江河景房"],
+          "constraints": []
+        },
+        "diet": {
+          "preferences": ["川菜", "火锅"],
+          "constraints": ["太辣"]
+        },
+        "attractions": {
+          "preferences": ["夜经济热点", "网红打卡点"],
+          "constraints": []
+        },
+        "rhythm": {
+          "preferences": ["慢游"],
+          "constraints": []
+        },
+        "nature_language": "我们三个人坐飞机从北京去重庆慢游5天，预算3600元，住有24小时前台的江河景房，吃不太辣的川菜火锅，游览夜经济热点和网红打卡点。",
+        "nature_language_en": "Three of us want to fly from Beijing to Chongqing for a slow 5-day trip with a budget of 3600 RMB, staying in river-view rooms with 24-hour front desk, trying mild Sichuan cuisine and hotpot, visiting night economy hotspots and internet-famous spots."
+      }
+    ],
+    [
+      {
+        "uid": "G42-1",
+        "tag": "easy",
+        "start_city": "深圳",
+        "target_city": "成都",
+        "days": 3,
+        "people_number": 6,
+        "people_composition": {
+          "adults": 4,
+          "children": 1,
+          "seniors": 1
+        },
+        "budget": 5400,
+        "dates": "2024-12-18 to 2024-12-20",
+        "transportation": {},
+        "accommodations": {},
+        "diet": {},
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我们六个人从深圳去成都玩3天，预算5400元。",
+        "nature_language_en": "Six of us want to travel from Shenzhen to Chengdu for 3 days with a budget of 5400 RMB."
+      },
+      {
+        "uid": "G42-2",
+        "tag": "medium",
+        "start_city": "深圳",
+        "target_city": "成都",
+        "days": 3,
+        "people_number": 6,
+        "people_composition": {
+          "adults": 4,
+          "children": 1,
+          "seniors": 1
+        },
+        "budget": 5400,
+        "dates": "2024-12-18 to 2024-12-20",
+        "transportation": {
+          "preferences": ["飞机"],
+          "constraints": []
+        },
+        "accommodations": {
+          "preferences": ["家庭房"],
+          "constraints": []
+        },
+        "diet": {},
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我们六个人坐飞机从深圳去成都玩3天，预算5400元，需要家庭房。",
+        "nature_language_en": "Six of us want to fly from Shenzhen to Chengdu for 3 days with a budget of 5400 RMB, needing family rooms."
+      },
+      {
+        "uid": "G42-3",
+        "tag": "hard",
+        "start_city": "深圳",
+        "target_city": "成都",
+        "days": 3,
+        "people_number": 6,
+        "people_composition": {
+          "adults": 4,
+          "children": 1,
+          "seniors": 1
+        },
+        "budget": 5400,
+        "dates": "2024-12-18 to 2024-12-20",
+        "transportation": {
+          "preferences": ["飞机"],
+          "constraints": []
+        },
+        "accommodations": {
+          "preferences": ["家庭房", "24小时前台"],
+          "constraints": []
+        },
+        "diet": {
+          "preferences": ["川菜"],
+          "constraints": ["太辣"]
+        },
+        "attractions": {
+          "preferences": ["亲子友好", "美食目的地"],
+          "constraints": []
+        },
+        "rhythm": {
+          "preferences": ["慢游"],
+          "constraints": []
+        },
+        "nature_language": "我们六个人坐飞机从深圳去成都慢游3天，预算5400元，需要有24小时前台的家庭房，吃不太辣的川菜，参观亲子景点和美食目的地。",
+        "nature_language_en": "Six of us want to fly from Shenzhen to Chengdu for a slow 3-day trip with a budget of 5400 RMB, needing family rooms with 24-hour front desk, trying mild Sichuan cuisine, visiting family-friendly attractions and food destinations."
+      }
+    ],
+    [
+      {
+        "uid": "G43-1",
+        "tag": "easy",
+        "start_city": "杭州",
+        "target_city": "南京",
+        "days": 4,
+        "people_number": 2,
+        "people_composition": {
+          "adults": 2,
+          "children": 0,
+          "seniors": 0
+        },
+        "budget": 2400,
+        "dates": "2024-11-28 to 2024-12-01",
+        "transportation": {},
+        "accommodations": {},
+        "diet": {},
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我们两个人从杭州去南京玩4天，预算2400元。",
+        "nature_language_en": "Two of us want to travel from Hangzhou to Nanjing for 4 days with a budget of 2400 RMB."
+      },
+      {
+        "uid": "G43-2",
+        "tag": "medium",
+        "start_city": "杭州",
+        "target_city": "南京",
+        "days": 4,
+        "people_number": 2,
+        "people_composition": {
+          "adults": 2,
+          "children": 0,
+          "seniors": 0
+        },
+        "budget": 2400,
+        "dates": "2024-11-28 to 2024-12-01",
+        "transportation": {
+          "preferences": ["高铁"],
+          "constraints": []
+        },
+        "accommodations": {},
+        "diet": {
+          "preferences": ["江浙菜"],
+          "constraints": []
+        },
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我们两个人坐高铁从杭州去南京玩4天，预算2400元，想品尝江浙菜。",
+        "nature_language_en": "Two of us want to take high-speed rail from Hangzhou to Nanjing for 4 days with a budget of 2400 RMB, trying Jiangzhe cuisine."
+      },
+      {
+        "uid": "G43-3",
+        "tag": "hard",
+        "start_city": "杭州",
+        "target_city": "南京",
+        "days": 4,
+        "people_number": 2,
+        "people_composition": {
+          "adults": 2,
+          "children": 0,
+          "seniors": 0
+        },
+        "budget": 2400,
+        "dates": "2024-11-28 to 2024-12-01",
+        "transportation": {
+          "preferences": ["高铁"],
+          "constraints": []
+        },
+        "accommodations": {
+          "preferences": ["位置超好", "历史名宅"],
+          "constraints": ["民宿"]
+        },
+        "diet": {
+          "preferences": ["江浙菜"],
+          "constraints": []
+        },
+        "attractions": {
+          "preferences": ["历史古迹", "人文景观", "博物馆/纪念馆"],
+          "constraints": []
+        },
+        "rhythm": {
+          "preferences": ["慢游"],
+          "constraints": []
+        },
+        "nature_language": "我们两个人坐高铁从杭州去南京慢游4天，预算2400元，住位置好的历史名宅但不要民宿，品尝江浙菜，深度游览历史古迹、人文景观和博物馆。",
+        "nature_language_en": "Two of us want to take high-speed rail from Hangzhou to Nanjing for a slow 4-day trip with a budget of 2400 RMB, staying in well-located historical mansions (no homestays), trying Jiangzhe cuisine, deeply exploring historical sites, cultural attractions, and museums."
+      }
+    ],
+    [
+      {
+        "uid": "G44-1",
+        "tag": "easy",
+        "start_city": "苏州",
+        "target_city": "广州",
+        "days": 6,
+        "people_number": 4,
+        "people_composition": {
+          "adults": 2,
+          "children": 2,
+          "seniors": 0
+        },
+        "budget": 6000,
+        "dates": "2024-12-10 to 2024-12-15",
+        "transportation": {},
+        "accommodations": {},
+        "diet": {},
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我们四个人从苏州去广州旅行6天，预算6000元。",
+        "nature_language_en": "Four of us want to travel from Suzhou to Guangzhou for 6 days with a budget of 6000 RMB."
+      },
+      {
+        "uid": "G44-2",
+        "tag": "medium",
+        "start_city": "苏州",
+        "target_city": "广州",
+        "days": 6,
+        "people_number": 4,
+        "people_composition": {
+          "adults": 2,
+          "children": 2,
+          "seniors": 0
+        },
+        "budget": 6000,
+        "dates": "2024-12-10 to 2024-12-15",
+        "transportation": {
+          "preferences": ["高铁"],
+          "constraints": []
+        },
+        "accommodations": {
+          "preferences": ["亲子主题房"],
+          "constraints": []
+        },
+        "diet": {},
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我们四个人坐高铁从苏州去广州旅行6天，预算6000元，需要亲子主题房。",
+        "nature_language_en": "Four of us want to take high-speed rail from Suzhou to Guangzhou for 6 days with a budget of 6000 RMB, needing family-themed rooms."
+      },
+      {
+        "uid": "G44-3",
+        "tag": "hard",
+        "start_city": "苏州",
+        "target_city": "广州",
+        "days": 6,
+        "people_number": 4,
+        "people_composition": {
+          "adults": 2,
+          "children": 2,
+          "seniors": 0
+        },
+        "budget": 6000,
+        "dates": "2024-12-10 to 2024-12-15",
+        "transportation": {
+          "preferences": ["高铁"],
+          "constraints": []
+        },
+        "accommodations": {
+          "preferences": ["亲子主题房", "儿童乐园"],
+          "constraints": []
+        },
+        "diet": {
+          "preferences": ["粤菜"],
+          "constraints": ["辣菜"]
+        },
+        "attractions": {
+          "preferences": ["亲子友好", "游乐园/体育娱乐", "公园"],
+          "constraints": []
+        },
+        "rhythm": {
+          "preferences": ["慢游"],
+          "constraints": []
+        },
+        "nature_language": "我们四个人坐高铁从苏州去广州慢游6天，预算6000元，需要亲子主题房和儿童乐园，吃不辣的粤菜，参观亲子景点、游乐园和公园。",
+        "nature_language_en": "Four of us want to take high-speed rail from Suzhou to Guangzhou for a slow 6-day trip with a budget of 6000 RMB, needing family-themed rooms and kids' playground, trying non-spicy Cantonese cuisine, visiting family-friendly attractions, amusement parks, and parks."
+      }
+    ],
+    [
+      {
+        "uid": "G45-1",
+        "tag": "easy",
+        "start_city": "重庆",
+        "target_city": "杭州",
+        "days": 3,
+        "people_number": 1,
+        "people_composition": {
+          "adults": 1,
+          "children": 0,
+          "seniors": 0
+        },
+        "budget": 2100,
+        "dates": "2024-11-14 to 2024-11-16",
+        "transportation": {},
+        "accommodations": {},
+        "diet": {},
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我一个人从重庆去杭州旅行3天，预算2100元。",
+        "nature_language_en": "I want to travel alone from Chongqing to Hangzhou for 3 days with a budget of 2100 RMB."
+      },
+      {
+        "uid": "G45-2",
+        "tag": "medium",
+        "start_city": "重庆",
+        "target_city": "杭州",
+        "days": 3,
+        "people_number": 1,
+        "people_composition": {
+          "adults": 1,
+          "children": 0,
+          "seniors": 0
+        },
+        "budget": 2100,
+        "dates": "2024-11-14 to 2024-11-16",
+        "transportation": {
+          "preferences": ["飞机"],
+          "constraints": []
+        },
+        "accommodations": {},
+        "diet": {
+          "preferences": ["江浙菜"],
+          "constraints": []
+        },
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我一个人坐飞机从重庆去杭州旅行3天，预算2100元，想品尝江浙菜。",
+        "nature_language_en": "I want to fly alone from Chongqing to Hangzhou for 3 days with a budget of 2100 RMB, trying Jiangzhe cuisine."
+      },
+      {
+        "uid": "G45-3",
+        "tag": "hard",
+        "start_city": "重庆",
+        "target_city": "杭州",
+        "days": 3,
+        "people_number": 1,
+        "people_composition": {
+          "adults": 1,
+          "children": 0,
+          "seniors": 0
+        },
+        "budget": 2100,
+        "dates": "2024-11-14 to 2024-11-16",
+        "transportation": {
+          "preferences": ["飞机"],
+          "constraints": []
+        },
+        "accommodations": {
+          "preferences": ["湖景房", "位置超好"],
+          "constraints": ["民宿"]
+        },
+        "diet": {
+          "preferences": ["江浙菜"],
+          "constraints": []
+        },
+        "attractions": {
+          "preferences": ["自然风光", "园林", "人文景观"],
+          "constraints": []
+        },
+        "rhythm": {
+          "preferences": ["慢游"],
+          "constraints": []
+        },
+        "nature_language": "我一个人坐飞机从重庆去杭州慢游3天，预算2100元，住位置好的湖景房但不要民宿，品尝江浙菜，欣赏自然风光、园林和人文景观。",
+        "nature_language_en": "I want to fly alone from Chongqing to Hangzhou for a slow 3-day trip with a budget of 2100 RMB, staying in well-located lake-view rooms (no homestays), trying Jiangzhe cuisine, enjoying natural scenery, gardens, and cultural attractions."
+      }
+    ],
+    [
+      {
+        "uid": "G46-1",
+        "tag": "easy",
+        "start_city": "南京",
+        "target_city": "深圳",
+        "days": 5,
+        "people_number": 5,
+        "people_composition": {
+          "adults": 4,
+          "children": 0,
+          "seniors": 1
+        },
+        "budget": 6000,
+        "dates": "2024-12-25 to 2024-12-29",
+        "transportation": {},
+        "accommodations": {},
+        "diet": {},
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我们五个人从南京去深圳旅行5天，预算6000元。",
+        "nature_language_en": "Five of us want to travel from Nanjing to Shenzhen for 5 days with a budget of 6000 RMB."
+      },
+      {
+        "uid": "G46-2",
+        "tag": "medium",
+        "start_city": "南京",
+        "target_city": "深圳",
+        "days": 5,
+        "people_number": 5,
+        "people_composition": {
+          "adults": 4,
+          "children": 0,
+          "seniors": 1
+        },
+        "budget": 6000,
+        "dates": "2024-12-25 to 2024-12-29",
+        "transportation": {
+          "preferences": ["飞机"],
+          "constraints": []
+        },
+        "accommodations": {
+          "preferences": ["24小时前台"],
+          "constraints": []
+        },
+        "diet": {},
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我们五个人坐飞机从南京去深圳旅行5天，预算6000元，需要24小时前台服务的酒店。",
+        "nature_language_en": "Five of us want to fly from Nanjing to Shenzhen for 5 days with a budget of 6000 RMB, needing hotels with 24-hour front desk service."
+      },
+      {
+        "uid": "G46-3",
+        "tag": "hard",
+        "start_city": "南京",
+        "target_city": "深圳",
+        "days": 5,
+        "people_number": 5,
+        "people_composition": {
+          "adults": 4,
+          "children": 0,
+          "seniors": 1
+        },
+        "budget": 6000,
+        "dates": "2024-12-25 to 2024-12-29",
+        "transportation": {
+          "preferences": ["飞机"],
+          "constraints": []
+        },
+        "accommodations": {
+          "preferences": ["24小时前台", "海景房"],
+          "constraints": []
+        },
+        "diet": {
+          "preferences": ["粤菜", "海鲜"],
+          "constraints": ["辣菜"]
+        },
+        "attractions": {
+          "preferences": ["现代建筑", "公园", "商业街区"],
+          "constraints": []
+        },
+        "rhythm": {
+          "preferences": ["慢游"],
+          "constraints": []
+        },
+        "nature_language": "我们五个人坐飞机从南京去深圳慢游5天，预算6000元，住有24小时前台的海景房，吃不辣的粤菜海鲜，参观现代建筑、公园和商业街区。",
+        "nature_language_en": "Five of us want to fly from Nanjing to Shenzhen for a slow 5-day trip with a budget of 6000 RMB, staying in sea-view rooms with 24-hour front desk, trying non-spicy Cantonese cuisine and seafood, visiting modern architecture, parks, and shopping districts."
+      }
+    ],
+    [
+      {
+        "uid": "G47-1",
+        "tag": "easy",
+        "start_city": "广州",
+        "target_city": "武汉",
+        "days": 2,
+        "people_number": 3,
+        "people_composition": {
+          "adults": 2,
+          "children": 1,
+          "seniors": 0
+        },
+        "budget": 1800,
+        "dates": "2024-11-09 to 2024-11-10",
+        "transportation": {},
+        "accommodations": {},
+        "diet": {},
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我们三个人从广州去武汉玩2天，预算1800元。",
+        "nature_language_en": "Three of us want to travel from Guangzhou to Wuhan for 2 days with a budget of 1800 RMB."
+      },
+      {
+        "uid": "G47-2",
+        "tag": "medium",
+        "start_city": "广州",
+        "target_city": "武汉",
+        "days": 2,
+        "people_number": 3,
+        "people_composition": {
+          "adults": 2,
+          "children": 1,
+          "seniors": 0
+        },
+        "budget": 1800,
+        "dates": "2024-11-09 to 2024-11-10",
+        "transportation": {},
+        "accommodations": {
+          "preferences": ["家庭房"],
+          "constraints": []
+        },
+        "diet": {
+          "preferences": ["湖北菜"],
+          "constraints": []
+        },
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我们三个人从广州去武汉玩2天，预算1800元，需要家庭房，想品尝湖北菜。",
+        "nature_language_en": "Three of us want to travel from Guangzhou to Wuhan for 2 days with a budget of 1800 RMB, needing family rooms and trying Hubei cuisine."
+      },
+      {
+        "uid": "G47-3",
+        "tag": "hard",
+        "start_city": "广州",
+        "target_city": "武汉",
+        "days": 2,
+        "people_number": 3,
+        "people_composition": {
+          "adults": 2,
+          "children": 1,
+          "seniors": 0
+        },
+        "budget": 1800,
+        "dates": "2024-11-09 to 2024-11-10",
+        "transportation": {
+          "preferences": ["高铁"],
+          "constraints": []
+        },
+        "accommodations": {
+          "preferences": ["家庭房"],
+          "constraints": []
+        },
+        "diet": {
+          "preferences": ["湖北菜"],
+          "constraints": ["辣菜"]
+        },
+        "attractions": {
+          "preferences": ["历史古迹", "亲子友好"],
+          "constraints": []
+        },
+        "rhythm": {
+          "preferences": ["特种兵式"],
+          "constraints": []
+        },
+        "nature_language": "我们三个人坐高铁从广州去武汉特种兵式2天游，预算1800元，需要家庭房，吃不辣的湖北菜，快速打卡历史古迹和亲子景点。",
+        "nature_language_en": "Three of us want to take high-speed rail from Guangzhou to Wuhan for an intensive 2-day trip with a budget of 1800 RMB, needing family rooms, trying non-spicy Hubei cuisine, quickly visiting historical sites and family-friendly attractions."
+      }
+    ],
+    [
+      {
+        "uid": "G48-1",
+        "tag": "easy",
+        "start_city": "成都",
+        "target_city": "北京",
+        "days": 6,
+        "people_number": 2,
+        "people_composition": {
+          "adults": 1,
+          "children": 0,
+          "seniors": 1
+        },
+        "budget": 4800,
+        "dates": "2024-12-02 to 2024-12-07",
+        "transportation": {},
+        "accommodations": {},
+        "diet": {},
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我和老人从成都去北京旅行6天，预算4800元。",
+        "nature_language_en": "I want to travel with an elderly person from Chengdu to Beijing for 6 days with a budget of 4800 RMB."
+      },
+      {
+        "uid": "G48-2",
+        "tag": "medium",
+        "start_city": "成都",
+        "target_city": "北京",
+        "days": 6,
+        "people_number": 2,
+        "people_composition": {
+          "adults": 1,
+          "children": 0,
+          "seniors": 1
+        },
+        "budget": 4800,
+        "dates": "2024-12-02 to 2024-12-07",
+        "transportation": {
+          "preferences": ["飞机"],
+          "constraints": []
+        },
+        "accommodations": {
+          "preferences": ["24小时前台"],
+          "constraints": []
+        },
+        "diet": {},
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我和老人坐飞机从成都去北京旅行6天，预算4800元，需要24小时前台服务的酒店。",
+        "nature_language_en": "I want to fly with an elderly person from Chengdu to Beijing for 6 days with a budget of 4800 RMB, needing hotels with 24-hour front desk service."
+      },
+      {
+        "uid": "G48-3",
+        "tag": "hard",
+        "start_city": "成都",
+        "target_city": "北京",
+        "days": 6,
+        "people_number": 2,
+        "people_composition": {
+          "adults": 1,
+          "children": 0,
+          "seniors": 1
+        },
+        "budget": 4800,
+        "dates": "2024-12-02 to 2024-12-07",
+        "transportation": {
+          "preferences": ["飞机"],
+          "constraints": []
+        },
+        "accommodations": {
+          "preferences": ["24小时前台", "电梯"],
+          "constraints": []
+        },
+        "diet": {
+          "preferences": ["北京菜"],
+          "constraints": ["辣菜"]
+        },
+        "attractions": {
+          "preferences": ["历史古迹", "博物馆/纪念馆", "公园"],
+          "constraints": []
+        },
+        "rhythm": {
+          "preferences": ["慢游"],
+          "constraints": []
+        },
+        "nature_language": "我和老人坐飞机从成都去北京慢游6天，预算4800元，需要有24小时前台和电梯的酒店，吃不辣的北京菜，参观历史古迹、博物馆和公园。",
+        "nature_language_en": "I want to fly with an elderly person from Chengdu to Beijing for a slow 6-day trip with a budget of 4800 RMB, needing hotels with 24-hour front desk and elevators, trying non-spicy Beijing cuisine, visiting historical sites, museums, and parks."
+      }
+    ],
+    [
+      {
+        "uid": "G49-1",
+        "tag": "easy",
+        "start_city": "上海",
+        "target_city": "重庆",
+        "days": 4,
+        "people_number": 4,
+        "people_composition": {
+          "adults": 3,
+          "children": 1,
+          "seniors": 0
+        },
+        "budget": 4800,
+        "dates": "2024-11-24 to 2024-11-27",
+        "transportation": {},
+        "accommodations": {},
+        "diet": {},
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我们四个人从上海去重庆玩4天，预算4800元。",
+        "nature_language_en": "Four of us want to travel from Shanghai to Chongqing for 4 days with a budget of 4800 RMB."
+      },
+      {
+        "uid": "G49-2",
+        "tag": "medium",
+        "start_city": "上海",
+        "target_city": "重庆",
+        "days": 4,
+        "people_number": 4,
+        "people_composition": {
+          "adults": 3,
+          "children": 1,
+          "seniors": 0
+        },
+        "budget": 4800,
+        "dates": "2024-11-24 to 2024-11-27",
+        "transportation": {
+          "preferences": ["飞机"],
+          "constraints": []
+        },
+        "accommodations": {
+          "preferences": ["亲子主题房"],
+          "constraints": []
+        },
+        "diet": {},
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我们四个人坐飞机从上海去重庆玩4天，预算4800元，需要亲子主题房。",
+        "nature_language_en": "Four of us want to fly from Shanghai to Chongqing for 4 days with a budget of 4800 RMB, needing family-themed rooms."
+      },
+      {
+        "uid": "G49-3",
+        "tag": "hard",
+        "start_city": "上海",
+        "target_city": "重庆",
+        "days": 4,
+        "people_number": 4,
+        "people_composition": {
+          "adults": 3,
+          "children": 1,
+          "seniors": 0
+        },
+        "budget": 4800,
+        "dates": "2024-11-24 to 2024-11-27",
+        "transportation": {
+          "preferences": ["飞机"],
+          "constraints": []
+        },
+        "accommodations": {
+          "preferences": ["亲子主题房", "江河景房"],
+          "constraints": []
+        },
+        "diet": {
+          "preferences": ["川菜"],
+          "constraints": ["太辣"]
+        },
+        "attractions": {
+          "preferences": ["网红打卡点", "亲子友好", "夜经济热点"],
+          "constraints": []
+        },
+        "rhythm": {
+          "preferences": ["慢游"],
+          "constraints": []
+        },
+        "nature_language": "我们四个人坐飞机从上海去重庆慢游4天，预算4800元，住江河景的亲子主题房，吃不太辣的川菜，参观网红打卡点、亲子景点和夜经济热点。",
+        "nature_language_en": "Four of us want to fly from Shanghai to Chongqing for a slow 4-day trip with a budget of 4800 RMB, staying in river-view family-themed rooms, trying mild Sichuan cuisine, visiting internet-famous spots, family-friendly attractions, and night economy hotspots."
+      }
+    ],
+    [
+      {
+        "uid": "G50-1",
+        "tag": "easy",
+        "start_city": "武汉",
+        "target_city": "深圳",
+        "days": 7,
+        "people_number": 6,
+        "people_composition": {
+          "adults": 4,
+          "children": 2,
+          "seniors": 0
+        },
+        "budget": 10500,
+        "dates": "2024-12-15 to 2024-12-21",
+        "transportation": {},
+        "accommodations": {},
+        "diet": {},
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我们六个人从武汉去深圳旅行7天，预算10500元。",
+        "nature_language_en": "Six of us want to travel from Wuhan to Shenzhen for 7 days with a budget of 10500 RMB."
+      },
+      {
+        "uid": "G50-2",
+        "tag": "medium",
+        "start_city": "武汉",
+        "target_city": "深圳",
+        "days": 7,
+        "people_number": 6,
+        "people_composition": {
+          "adults": 4,
+          "children": 2,
+          "seniors": 0
+        },
+        "budget": 10500,
+        "dates": "2024-12-15 to 2024-12-21",
+        "transportation": {
+          "preferences": ["飞机"],
+          "constraints": []
+        },
+        "accommodations": {
+          "preferences": ["家庭房", "儿童俱乐部"],
+          "constraints": []
+        },
+        "diet": {},
+        "attractions": {},
+        "rhythm": {},
+        "nature_language": "我们六个人坐飞机从武汉去深圳旅行7天，预算10500元，需要家庭房和儿童俱乐部。",
+        "nature_language_en": "Six of us want to fly from Wuhan to Shenzhen for 7 days with a budget of 10500 RMB, needing family rooms and kids' club."
+      },
+      {
+        "uid": "G50-3",
+        "tag": "hard",
+        "start_city": "武汉",
+        "target_city": "深圳",
+        "days": 7,
+        "people_number": 6,
+        "people_composition": {
+          "adults": 4,
+          "children": 2,
+          "seniors": 0
+        },
+        "budget": 10500,
+        "dates": "2024-12-15 to 2024-12-21",
+        "transportation": {
+          "preferences": ["飞机"],
+          "constraints": []
+        },
+        "accommodations": {
+          "preferences": ["家庭房", "儿童俱乐部"],
+          "constraints": ["单人房"]
+        },
+        "diet": {
+          "preferences": ["粤菜", "海鲜"],
+          "constraints": []
+        },
+        "attractions": {
+          "preferences": ["亲子友好", "游乐园/体育娱乐", "现代建筑"],
+          "constraints": []
+        },
+        "rhythm": {
+          "preferences": ["慢游"],
+          "constraints": []
+        },
+        "nature_language": "我们六个人坐飞机从武汉去深圳慢游7天，预算10500元，需要家庭房和儿童俱乐部但不要单人房，品尝粤菜海鲜，参观亲子景点、游乐园和现代建筑。",
+        "nature_language_en": "Six of us want to fly from Wuhan to Shenzhen for a slow 7-day trip with a budget of 10500 RMB, needing family rooms and kids' club (no single rooms), trying Cantonese cuisine and seafood, visiting family-friendly attractions, amusement parks, and modern architecture."
+      }
+    ]
+  ]
+}
