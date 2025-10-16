@@ -64,8 +64,8 @@ def main(file_name):
             ]
 
             # 6. 遍历所有模型生成方案
-            for model_name in ["qwen3-8b"]:
-            # for model_name in ["gpt4o_mini", "deepseek-chat", "gpt4o", "qwen3-8b"]:
+            # for model_name in ["qwen3-8b"]:
+            for model_name in ["gpt4o_mini", "deepseek-chat", "gpt4o", "qwen3-8b"]:
                 try:
                     raw_response = model_router.generate_response(model_name, messages)
                     if raw_response.startswith("```json") and raw_response.endswith("```"):
@@ -99,4 +99,5 @@ def main(file_name):
 
 if __name__ == "__main__":
     for file_name in ['medium-1.json', 'hard.json', 'progressive.json']:
+
         main(file_name)
