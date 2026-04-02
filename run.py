@@ -335,7 +335,7 @@ if __name__ == "__main__":
     print(f"Strategies: {len(strategies)} of them")
 
     # 1. 生成计划
-    for f in ['test.json']:
+    for f in ['easy.json', 'medium.json', 'hard.json', 'progressive.json']:
         original_main(f, models, strategies)
 
     # 2. 清洗 POI
