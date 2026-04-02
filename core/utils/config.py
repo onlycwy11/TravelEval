@@ -28,7 +28,7 @@ class ConfigManager:
         default_config = self._get_default_config()
 
         if not os.path.exists(self.config_path):
-            print(f"配置文件不存在: {self.config_path}，使用默认配置")
+            print(f"配置文件不存在: {self.config_path}，加载默认配置")
             return default_config
 
         try:
@@ -95,7 +95,7 @@ class ConfigManager:
                 'log_level': 'INFO'
             },
             'apis': {
-                'gaode_api_key': 'e2798b0529532fca9ec02e0fc6c43233',
+                'gaode_api_key': '',
                 'gaode_base_url': 'https://restapi.amap.com/v5/direction/walking',
                 'request_timeout': 10,
                 'rate_limit_delay': 0.5

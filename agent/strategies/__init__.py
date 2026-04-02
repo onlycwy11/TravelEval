@@ -1,7 +1,7 @@
 from .base import BaseStrategy
 from .direct import DirectPromptingStrategy
 from .zero_shot_cot import ZeroShotCoTStrategy
-from .react_reflection import ReActReflectionStrategy
+from .react_reflection import ReActReflexionStrategy
 
 
 class StrategyFactory:
@@ -22,7 +22,7 @@ class StrategyFactory:
         strategies = {
             "Direct Prompting": DirectPromptingStrategy,
             "Zero-shot CoT": ZeroShotCoTStrategy,
-            "ReAct&Reflection": ReActReflectionStrategy
+            "ReAct&Reflexion": ReActReflexionStrategy
         }
 
         if strategy_name not in strategies:
@@ -36,6 +36,6 @@ __all__ = [
     'BaseStrategy',
     'DirectPromptingStrategy',
     'ZeroShotCoTStrategy',
-    'ReActReflectionStrategy',
+    'ReActReflexionStrategy',
     'StrategyFactory'
 ]

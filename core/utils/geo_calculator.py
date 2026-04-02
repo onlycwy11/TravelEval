@@ -17,7 +17,8 @@ class GeoCalculator:
     """
 
     def __init__(self, cache_file: str = "geo_cache.json"):
-        self.cache_file = cache_file
+        current_file_path = os.path.abspath(__file__)
+        self.cache_file = os.path.join(os.path.dirname(os.path.dirname(current_file_path)), cache_file)
         self.gaode_api_key = None  # 外部配置
         self.rate_limit_delay = 0.4
 

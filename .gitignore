@@ -10,6 +10,7 @@ core/utils/test_geo_cache.json
 core/utils/test2_geo_cache.json
 core/utils/travel_time_cache1.json
 core/geo_cache1.json
+config/metrics_config.yaml
 
 # 2. 临时/结果文件（本地运行生成，远程不需要）
 analysis_results.zip
@@ -43,7 +44,7 @@ core/evaluator_polish.py
 core/main_polish.py
 environment/data/queries/test.json
 
-# 5. 邮件脚本（如果包含敏感信息，不要提交）
+# 5. 邮件脚本
 mail.py
 
 # 6. 旧版数据

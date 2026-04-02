@@ -23,8 +23,14 @@ logging.getLogger('google.generativeai').setLevel(logging.ERROR)
 
 
 class ModelRouter:
-    def __init__(self, config_path="config/model_config.json"):
-        with open(config_path) as f:
+    def __init__(self):
+        # 获取当前文件所在目录
+        current_dir = os.path.dirname(os.path.abspath(__file__))
+        # 配置完整路径
+        config_path = os.path.join(current_dir, "..", "config", "model_config.json")
+        self.config_path = os.path.abspath(config_path)
+
+        with open(self.config_path) as f:
             self.config = json.load(f)
 
         self.model_instances = {
@@ -37,6 +43,60 @@ class ModelRouter:
             "qwen3-8b": self._init_qwen("qwen3-8b"),
             "open-mistral-7b": self._init_openai_compatible("open-mistral-7b")
         }
+
+    # ===================== 动态添加自定义模型 =====================
+    def add_custom_model(self, model_key: str, model_type: str, cfg: dict):
+        """
+        动态添加自定义模型
+        :param model_key: 模型名称（用户自定义）
+        :param model_type: 类型：openai / qwen / gemini
+        :param cfg: 配置：api_key, base_url, model_name, temperature, max_tokens
+        """
+        if model_type == "openai":
+            fn = self._build_openai_call(cfg)
+        elif model_type == "qwen":
+            fn = self._build_qwen_call(cfg)
+        elif model_type == "gemini":
+            fn = self._build_gemini_call(cfg)
+        else:
+            raise ValueError("不支持的模型类型：openai / qwen / gemini")
+
+        self.model_instances[model_key] = fn
+
+    # 动态构造模型调用函数
+    def _build_openai_call(self, cfg):
+        def call(messages):
+            client = OpenAI(api_key=cfg["api_key"], base_url=cfg.get("base_url", ""))
+            response = client.chat.completions.create(
+                model=cfg["model_name"], messages=messages,
+                temperature=cfg["temperature"], max_tokens=cfg["max_tokens"])
+            self._save_token_usage(cfg["model_name"], response.usage.dict() if hasattr(response, 'usage') else {})
+            return response.choices[0].message.content
+
+        return call
+
+    def _build_qwen_call(self, cfg):
+        def call(messages):
+            client = OpenAI(api_key=cfg["api_key"], base_url=cfg.get("base_url", ""))
+            response = client.chat.completions.create(
+                model=cfg["model_name"], messages=messages,
+                extra_body={"enable_thinking": False}, stream=False,
+                temperature=cfg["temperature"], max_tokens=cfg["max_tokens"])
+            self._save_token_usage(cfg["model_name"], response.usage.dict() if hasattr(response, 'usage') else {})
+            return response.choices[0].message.content
+
+        return call
+
+    def _build_gemini_call(self, cfg):
+        def call(messages):
+            client = OpenAI(api_key=cfg["api_key"], base_url=cfg.get("base_url", ""))
+            response = client.chat.completions.create(
+                model=cfg["model_name"], messages=messages,
+                temperature=cfg["temperature"], max_tokens=cfg["max_tokens"])
+            self._save_token_usage(cfg["model_name"], response.usage.dict() if hasattr(response, 'usage') else {})
+            return response.choices[0].message.content
+
+        return call
 
     def _save_token_usage(self, model_name: str, usage_data: dict, filename_suffix: str = None):
         """保存token使用情况到JSON文件"""

@@ -50,7 +50,7 @@ class OutputHandler:
         if reasoning_part:
             saved_reasoning_path = OutputHandler.save_reasoning_to_json(
                 uid, reasoning_part,
-                os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(__file__))), output_dir),
+                os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(__file__))), output_dir, "reasoning_part"),
                 model_name, strategy_name
             )
             print(f"Successfully saved reasoning part to {saved_reasoning_path}")
@@ -62,7 +62,7 @@ class OutputHandler:
         )
         saved_path = OutputHandler.save_to_file(
             travel_plan,
-            os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(__file__))), output_dir),
+            os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(__file__))), output_dir, "raw"),
             model_name, strategy_name
         )
         print(f"Successfully saved plan from {model_name} to {saved_path}")
@@ -145,7 +145,7 @@ class OutputHandler:
             os.makedirs(output_dir, exist_ok=True)
 
             # 生成文件名
-            filename = f"added_plans_{model_name}_{strategy_name}.json"
+            filename = f"plans_{model_name}_{strategy_name}.json"
             filepath = os.path.join(output_dir, filename)
 
             # 准备保存的数据

@@ -473,8 +473,10 @@ class POIBatchProcessor:
             all_failed_pois.update(failed_pois)
 
         # 生成新文件名
-        base_name = os.path.splitext(input_file)[0]
-        output_file = f"{base_name}_matched.json"
+        file_name_only = os.path.basename(input_file)
+        base_name = os.path.splitext(file_name_only)[0]
+        parent_dir = os.path.dirname(os.path.dirname(input_file))
+        output_file = os.path.join(parent_dir, f"{base_name}_matched.json")
 
         # 保存新文件
         try:
@@ -488,11 +490,11 @@ class POIBatchProcessor:
             logger.info(f"   缓存命中: {total_stats['cache_hits']} 次")
             logger.info(f"   匹配率: {(total_stats['matched_pois'] / total_stats['total_pois'] * 100):.1f}%")
 
-            # 输出总体失败POI列表
-            if all_failed_pois:
-                logger.info(f"\n[FAIL] 文件总体匹配失败的POI ({len(all_failed_pois)} 个):")
-                for i, poi in enumerate(sorted(all_failed_pois), 1):
-                    logger.info(f"   {i:2d}. {poi}")
+            # # 输出总体失败POI列表
+            # if all_failed_pois:
+            #     logger.info(f"\n[FAIL] 文件总体匹配失败的POI ({len(all_failed_pois)} 个):")
+            #     for i, poi in enumerate(sorted(all_failed_pois), 1):
+            #         logger.info(f"   {i:2d}. {poi}")
 
             logger.info(f"[SUCCESS] 已保存: {output_file}")
 

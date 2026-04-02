@@ -2,7 +2,7 @@ import copy
 import os
 import sys
 import json
-import mail
+# import mail
 import math
 import time
 import random
@@ -2405,7 +2405,7 @@ if __name__ == '__main__':
             print(f"{key}: {user_query['nature_language']}")
             planner = TravelPlanner(user_query)
             planner.generate_plan()
-        mail.sendMail(f'您的提问 {query_file} 已经运行完成！')
+        # mail.sendMail(f'您的提问 {query_file} 已经运行完成！')
     #
     # user_query = {
     #   "uid": "T0001",

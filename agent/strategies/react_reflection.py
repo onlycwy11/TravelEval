@@ -3,11 +3,11 @@ from typing import Set, Dict
 from agent.schemas.travel_plan import FinalTravelPlan
 
 
-class ReActReflectionStrategy(BaseStrategy):
-    """ReAct & Reflection 策略"""
+class ReActReflexionStrategy(BaseStrategy):
+    """ReAct & Reflexion 策略"""
 
     def __init__(self, max_reflections: int = 3):
-        super().__init__("ReAct&Reflection")
+        super().__init__("ReAct&Reflexion")
         self.max_reflections = max_reflections
 
     def get_system_prompt(self, station_constraints: Set) -> str:
@@ -131,7 +131,7 @@ class FinalTravelPlan(BaseModel):
     def get_user_prompt(self, user_query: Dict) -> str:
         return f"用户请求：{user_query}\n请开始你的 ReAct 循环，最后输出严格符合格式的 JSON。"
 
-    def get_reflection_prompt(self, response: Dict) -> str:
+    def get_reflexion_prompt(self, response: Dict) -> str:
         return f"""你是一名旅行规划评估专家，需对以下规划方案进行批判性反思。请严格按照原JSON结构输出：
 
 # 输入数据
