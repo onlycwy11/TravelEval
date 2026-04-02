@@ -3,6 +3,8 @@ import requests
 import time
 import json
 import os
+import portalocker
+import shutil
 import numpy as np
 from typing import Dict, List, Set, Tuple, Optional
 from geopy.distance import geodesic
@@ -17,7 +19,7 @@ class GeoCalculator:
     def __init__(self, cache_file: str = "geo_cache.json"):
         self.cache_file = cache_file
         self.gaode_api_key = None  # 外部配置
-        self.rate_limit_delay = 0.5
+        self.rate_limit_delay = 0.4
 
     def set_gaode_api_key(self, api_key: str):
         """设置高德API密钥"""
@@ -143,7 +145,7 @@ class GeoCalculator:
     def calculate_segment_distance(self,
                                    attractions_order: List[str],
                                    attraction_coords: Dict[str, Tuple[float, float]],
-                                   transport_type: str = "walking") -> Optional[Dict[Tuple[str, str], float]]:
+                                   transport_type: str = "driving") -> Optional[Dict[Tuple[str, str], float]]:
         """
         计算多段路径的总距离（通过高德API），并返回相邻景点对及其距离
 
@@ -259,7 +261,7 @@ class GeoCalculator:
             self,
             attractions: List[str],
             coordinates: Dict[str, Tuple[float, float]],
-            travel_mode: str = "walking",
+            travel_mode: str = "driving",
             method: str = "dp",  # 可选 "dp"（动态规划）或 "brute"（暴力搜索）
             # return_to_start: bool = False  # 新增参数：是否返回起点
     ) -> Tuple[List[str], float]:
@@ -289,9 +291,10 @@ class GeoCalculator:
         # 构建距离矩阵
         distance_matrix = {}
         for i in range(n):
+            loc1 = attractions[i]
             for j in range(n):
                 if i != j:
-                    loc1, loc2 = attractions[i], attractions[j]
+                    loc2 = attractions[j]
                     start_coord = coordinates[loc1]
                     end_coord = coordinates[loc2]
                     dist = self._call_gaode_api_with_cache(start_coord, end_coord, travel_mode)
@@ -299,19 +302,25 @@ class GeoCalculator:
                     if dist is None:
                         raise ValueError(f"Failed to compute distance from {loc1} to {loc2}")
                     distance_matrix[(loc1, loc2)] = dist
+            distance_matrix[(loc1, loc1)] = 0
 
         # 动态规划方法（适用于 n <= 20）
-        if method == "dp" and n <= 20:
-            loc_to_idx = {loc: i for i, loc in enumerate(attractions)}
-            idx_to_loc = {i: loc for i, loc in enumerate(attractions)}
+        if method == "dp" and 5 <= n <= 20:
+            # 生成唯一标识符
+            unique_attractions = [f"{loc}_{i}" for i, loc in enumerate(attractions)]
+
+            # 更新索引
+            loc_to_idx = {loc: i for i, loc in enumerate(unique_attractions)}
+            idx_to_loc = {i: loc for i, loc in enumerate(unique_attractions)}
+            # print(loc_to_idx)
 
             # DP 表：dp[mask][i] = min_distance
             dp = [[float('inf')] * n for _ in range(1 << n)]
             parent = [[-1] * n for _ in range(1 << n)]  # 记录路径
 
             # 初始化：从起点出发
-            start_idx = loc_to_idx[start]
-            end_idx = loc_to_idx[end]
+            start_idx = loc_to_idx[f"{start}_0"]
+            end_idx = loc_to_idx[f"{end}_{n-1}"]
             dp[1 << start_idx][start_idx] = 0
 
             for mask in range(1 << n):
@@ -330,6 +339,8 @@ class GeoCalculator:
 
                         new_mask = mask | (1 << j)
                         loc_i, loc_j = attractions[i], attractions[j]
+                        # print(attractions[i])
+                        # print(idx_to_loc[i])
                         dist = distance_matrix[(loc_i, loc_j)]
                         new_dist = dp[mask][i] + dist
 
@@ -354,7 +365,7 @@ class GeoCalculator:
                     if prev_node == -1:
                         break  # 路径重建失败
 
-                    path.append(idx_to_loc[prev_node])
+                    path.append(attractions[prev_node])
                     # 移除当前节点
                     current_mask ^= (1 << current_node)
                     current_node = prev_node
@@ -366,7 +377,7 @@ class GeoCalculator:
         # 暴力搜索方法（适用于 n <= 10）
         else:
             min_distance = float('inf')
-            print("brute")
+            # print("brute")
             best_order = None
             start = attractions[0]  # 固定起点
             end = attractions[-1]  # 固定终点
@@ -376,11 +387,14 @@ class GeoCalculator:
             for perm in permutations(other_attractions):
                 # 构建完整路径：起点 + 其他景点的排列 + 终点
                 full_path = (start,) + perm + (end,)
+                # print(full_path)
                 dist = 0
 
                 # 计算路径距离
                 for i in range(len(full_path) - 1):
                     dist += distance_matrix[(full_path[i], full_path[i + 1])]
+
+                # print(dist)
 
                 if dist < min_distance:
                     min_distance = dist
@@ -408,32 +422,36 @@ class GeoCalculator:
         """
         # 1. 计算实际路线总距离
         actual_total_distance = 0
-        for i in range(len(order) - 1):
-            s1, s2 = order[i], order[i + 1]
-            # 优先使用实际交通距离，如果没有则使用大圆距离
-            if (s1, s2) in actual_distances:
-                actual_total_distance += actual_distances[(s1, s2)]
-            elif (s2, s1) in actual_distances:
-                actual_total_distance += actual_distances[(s2, s1)]
-            else:
-                actual_total_distance += self.great_circle_dist(s1, s2, coordinates)
+        if actual_distances:
+            for i in range(len(order) - 1):
+                s1, s2 = order[i], order[i + 1]
+                # 优先使用实际交通距离，如果没有则使用大圆距离
+                if (s1, s2) in actual_distances:
+                    actual_total_distance += actual_distances[(s1, s2)]
+                elif (s2, s1) in actual_distances:
+                    actual_total_distance += actual_distances[(s2, s1)]
+                else:
+                    actual_total_distance += self.great_circle_dist(s1, s2, coordinates)
 
         # 2. 计算最优路线总距离
         optimal_order, optimal_total_distance = self.calculate_optimal_route(  # _ 是 Python 的惯例，表示忽略不关心的返回值。
             list(order),  # 所有景点
             coordinates,
             method=optimal_route_method,
-            travel_mode="walking",  # 统一使用步行距离
+            travel_mode="driving",  # 统一使用驾车距离
         )  # 我们只需要距离，不需要顺序，用 _ 占位
 
+        # print("\n")
         # print(optimal_order)
         # topological_penalty = calculate_topology_penalty(optimal_order, coordinates) / 180
         # print(topological_penalty)
 
         # 4. 计算Route Penalty
         if optimal_total_distance == 0:
-            return float('inf')  # 避免除以零
+            return 0  # 避免除以零
         route_penalty = actual_total_distance / optimal_total_distance - 1
+        # print(actual_distances)
+        # print(optimal_total_distance)
 
         # 5. 可视化路线（可选）
         # map_center = list(coordinates.values())[0]
@@ -485,7 +503,7 @@ class GeoCalculator:
                 loc2 = all_attractions[j]
                 start_coord = coordinates[loc1]
                 end_coord = coordinates[loc2]
-                dist = self._call_gaode_api_with_cache(start_coord, end_coord, "walking")
+                dist = self._call_gaode_api_with_cache(start_coord, end_coord, "driving")
                 # print(dist)
                 if dist is None:
                     raise ValueError(f"Failed to compute distance from {loc1} to {loc2}")
@@ -542,10 +560,11 @@ class GeoCalculator:
                     csm_values.append(mis_fit_value)
 
                     if mis_fit_value > 1.0:
+                        print(mis_fit_value)
                         optimal_day = next(day for day, avg in other_days_data if avg == min_avg_other_days)
                         avg_dists = sorted([dist for _, dist in other_days_data])
-                        second_min_avg_dist = avg_dists[1] if len(avg_dists) > 1 else None
-                        if second_min_avg_dist > avg_same_day:
+                        second_min_avg_dist = avg_dists[1] if len(avg_dists) > 1 else 0
+                        if not second_min_avg_dist or second_min_avg_dist > avg_same_day:
                             second_min_avg_dist = avg_same_day
 
                         problem_spots.append({
@@ -555,6 +574,11 @@ class GeoCalculator:
                             'recommended_day': optimal_day,
                             'improvement': f"{(mis_fit_value - min_avg_other_days / second_min_avg_dist) * 100:.1f}%"
                         })
+                else:
+                    csm_values.append(0.0)
+
+            if not csm_values:
+                csm_values.append(0.0)
 
         return {
             'csm_values': csm_values,
@@ -583,7 +607,7 @@ class GeoCalculator:
         destination = coordinate[next_activity['location_name']]
         city_code = self.city_code_converter(city)
 
-        cache_key = f"'transit'_{origin}_to_{destination}_{start_time}_"
+        cache_key = f"transit_{origin}_to_{destination}_{start_time}_"
         cache = self._load_cache()
 
         # 1. 检查缓存
@@ -706,23 +730,43 @@ class GeoCalculator:
 
         return city_dict.get(query, "未找到匹配的城市/编码")
 
-    def _load_cache(self) -> Dict:
-        """加载缓存"""
-        if os.path.exists(self.cache_file):
-            try:
-                with open(self.cache_file, 'r', encoding='utf-8') as f:
-                    return json.load(f)
-            except:
-                return {}
-        return {}
+    # def _load_cache(self) -> Dict:
+    #     """加载缓存"""
+    #     if os.path.exists(self.cache_file):
+    #         try:
+    #             with open(self.cache_file, 'r', encoding='utf-8') as f:
+    #                 return json.load(f)
+    #         except:
+    #             return {}
+    #     return {}
+
+    def _load_cache(self):
+        if not os.path.exists(self.cache_file):
+            return {}
+        try:
+            with open(self.cache_file, 'r', encoding='utf-8') as f:
+                portalocker.lock(f, portalocker.LOCK_SH)  # 共享锁
+                return json.load(f)
+        except Exception as e:
+            print(f"缓存加载失败: {e}")
+            return {}
 
     def _save_cache(self, cache):
-        """保存缓存"""
+        backup_file = f"{self.cache_file}.bak"
         try:
+            # 测试序列化
+            json.dumps(cache)
+            # 备份旧文件
+            if os.path.exists(self.cache_file):
+                shutil.copy2(self.cache_file, backup_file)
+            # 写入新文件
             with open(self.cache_file, 'w', encoding='utf-8') as f:
+                portalocker.lock(f, portalocker.LOCK_EX)  # 排他锁
                 json.dump(cache, f, ensure_ascii=False, indent=2)
-        except:
-            pass
+        except Exception as e:
+            print(f"缓存保存失败，已回滚: {e}")
+            if os.path.exists(backup_file):
+                shutil.move(backup_file, self.cache_file)
 
 # def test_geo_calculator():
 #     """测试 GeoCalculator 类的功能"""

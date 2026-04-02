@@ -1,0 +1,212 @@
+[
+  {
+    "TrainID": "G2784",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "深圳北站",
+    "BeginTime": "07:34",
+    "EndTime": "16:59",
+    "Duration": 9.42,
+    "Cost": 805.0
+  },
+  {
+    "TrainID": "G4362",
+    "TrainType": "高铁",
+    "From": "苏州南站",
+    "To": "深圳东站",
+    "BeginTime": "07:22",
+    "EndTime": "07:28",
+    "Duration": 10.1,
+    "Cost": 241.0
+  },
+  {
+    "TrainID": "G3141",
+    "TrainType": "高铁",
+    "From": "苏州盛泽站",
+    "To": "深圳北站",
+    "BeginTime": "10:06",
+    "EndTime": "20:46",
+    "Duration": 10.67,
+    "Cost": 655.50
+  },
+  {
+    "TrainID": "D2289",
+    "TrainType": "动车",
+    "From": "苏州张家港站",
+    "To": "深圳北站",
+    "BeginTime": "07:49",
+    "EndTime": "20:22",
+    "Duration": 12.55,
+    "Cost": 695.0
+  },
+  {
+    "TrainID": "D2281",
+    "TrainType": "动车",
+    "From": "苏州站",
+    "To": "深圳北站",
+    "BeginTime": "08:02",
+    "EndTime": "20:15",
+    "Duration": 12.22,
+    "Cost": 724.0
+  },
+  {
+    "TrainID": "D2289",
+    "TrainType": "动车",
+    "From": "苏州太仓站",
+    "To": "深圳北站",
+    "BeginTime": "08:16",
+    "EndTime": "20:22",
+    "Duration": 12.1,
+    "Cost": 670.0
+  },
+  {
+    "TrainID": "D3125",
+    "TrainType": "动车",
+    "From": "苏州张家港站",
+    "To": "深圳北站",
+    "BeginTime": "09:25",
+    "EndTime": "21:22",
+    "Duration": 11.95,
+    "Cost": 721.0
+  },
+  {
+    "TrainID": "D2283",
+    "TrainType": "动车",
+    "From": "苏州张家港站",
+    "To": "深圳北站",
+    "BeginTime": "10:08",
+    "EndTime": "22:27",
+    "Duration": 12.32,
+    "Cost": 748.0
+  },
+  {
+    "TrainID": "D2283",
+    "TrainType": "动车",
+    "From": "苏州常熟站",
+    "To": "深圳北站",
+    "BeginTime": "10:20",
+    "EndTime": "22:27",
+    "Duration": 12.12,
+    "Cost": 741.0
+  },
+  {
+    "TrainID": "D2283",
+    "TrainType": "动车",
+    "From": "苏州太仓站",
+    "To": "深圳北站",
+    "BeginTime": "10:42",
+    "EndTime": "22:27",
+    "Duration": 11.75,
+    "Cost": 723.0
+  },
+  {
+    "TrainID": "D2283",
+    "TrainType": "动车",
+    "From": "苏州南站",
+    "To": "深圳北站",
+    "BeginTime": "11:54",
+    "EndTime": "22:27",
+    "Duration": 10.55,
+    "Cost": 671.0
+  },
+  {
+    "TrainID": "D2283",
+    "TrainType": "动车",
+    "From": "苏州盛泽站",
+    "To": "深圳北站",
+    "BeginTime": "12:07",
+    "EndTime": "22:27",
+    "Duration": 10.33,
+    "Cost": 659.0
+  },
+  {
+    "TrainID": "G2788",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "深圳站",
+    "BeginTime": "13:18",
+    "EndTime": "22:35",
+    "Duration": 9.28,
+    "Cost": 906.0
+  },
+  {
+    "TrainID": "K36",
+    "TrainType": "快速",
+    "From": "苏州站",
+    "To": "深圳站",
+    "BeginTime": "13:58",
+    "EndTime": "14:52",
+    "Duration": 24.9,
+    "Cost": 239.0
+  },
+  {
+    "TrainID": "G99",
+    "TrainType": "高铁",
+    "From": "苏州南站",
+    "To": "深圳北站",
+    "BeginTime": "14:18",
+    "EndTime": "21:31",
+    "Duration": 7.22,
+    "Cost": 826.0
+  },
+  {
+    "TrainID": "G2754",
+    "TrainType": "高铁",
+    "From": "苏州张家港站",
+    "To": "深圳北站",
+    "BeginTime": "14:48",
+    "EndTime": "22:58",
+    "Duration": 8.17,
+    "Cost": 880.0
+  },
+  {
+    "TrainID": "G1407",
+    "TrainType": "高铁",
+    "From": "苏州南站",
+    "To": "深圳北站",
+    "BeginTime": "13:05",
+    "EndTime": "20:43",
+    "Duration": 7.63,
+    "Cost": 720.0
+  },
+  {
+    "TrainID": "D2283",
+    "TrainType": "动车",
+    "From": "苏州盛泽站",
+    "To": "深圳北站",
+    "BeginTime": "12:07",
+    "EndTime": "22:50",
+    "Duration": 10.72,
+    "Cost": 659.0
+  },
+  {
+    "TrainID": "G1305",
+    "TrainType": "高铁",
+    "From": "苏州南站",
+    "To": "深圳北站",
+    "BeginTime": "07:19",
+    "EndTime": "14:41",
+    "Duration": 7.37,
+    "Cost": 817.0
+  },
+  {
+    "TrainID": "G1437",
+    "TrainType": "高铁",
+    "From": "苏州盛泽站",
+    "To": "深圳北站",
+    "BeginTime": "14:56",
+    "EndTime": "22:22",
+    "Duration": 7.43,
+    "Cost": 817.0
+  },
+  {
+    "TrainID": "G8361",
+    "TrainType": "高铁",
+    "From": "苏州南站",
+    "To": "深圳北站",
+    "BeginTime": "12:19",
+    "EndTime": "22:27",
+    "Duration": 10.13,
+    "Cost": 682.0
+  }
+]

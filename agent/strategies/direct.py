@@ -14,7 +14,7 @@ class DirectPromptingStrategy(BaseStrategy):
 
 # 重要指令
 1. 严格按照指定的JSON格式输出
-2. 请尽可能使用标准的POI名称，如：故宫博物院、李记清真馆(打钉巷店)、上海浦东温德姆酒店
+2. 请尽可能使用标准的POI名称，如：故宫博物院、上海迪士尼度假区
 
 本次规划中城际交通必须使用以下指定站点：
 {station_constraints}

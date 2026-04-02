@@ -1,0 +1,202 @@
+[
+  {
+    "TrainID": "D3058",
+    "TrainType": "动车",
+    "From": "成都东站",
+    "To": "南京南站",
+    "BeginTime": "06:10",
+    "EndTime": "18:53",
+    "Duration": 12.72,
+    "Cost": 575.0
+  },
+  {
+    "TrainID": "G3438",
+    "TrainType": "高铁",
+    "From": "成都东站",
+    "To": "南京站",
+    "BeginTime": "16:55",
+    "EndTime": "19:39",
+    "Duration": 26.73,
+    "Cost": 415.5
+  },
+  {
+    "TrainID": "G1475",
+    "TrainType": "高铁",
+    "From": "成都东站",
+    "To": "南京南站",
+    "BeginTime": "06:31",
+    "EndTime": "18:14",
+    "Duration": 11.72,
+    "Cost": 1141.5
+  },
+  {
+    "TrainID": "D638",
+    "TrainType": "动车",
+    "From": "成都东站",
+    "To": "南京南站",
+    "BeginTime": "07:10",
+    "EndTime": "19:50",
+    "Duration": 12.67,
+    "Cost": 575.0
+  },
+  {
+    "TrainID": "D2224",
+    "TrainType": "动车",
+    "From": "成都东站",
+    "To": "南京南站",
+    "BeginTime": "07:36",
+    "EndTime": "19:31",
+    "Duration": 11.92,
+    "Cost": 575.0
+  },
+  {
+    "TrainID": "D954",
+    "TrainType": "动车",
+    "From": "成都东站",
+    "To": "南京南站",
+    "BeginTime": "07:47",
+    "EndTime": "18:30",
+    "Duration": 10.72,
+    "Cost": 575.0
+  },
+  {
+    "TrainID": "K1158",
+    "TrainType": "快速",
+    "From": "成都西站",
+    "To": "南京站",
+    "BeginTime": "07:50",
+    "EndTime": "10:55",
+    "Duration": 27.1,
+    "Cost": 236.0
+  },
+  {
+    "TrainID": "D354",
+    "TrainType": "动车",
+    "From": "成都东站",
+    "To": "南京南站",
+    "BeginTime": "07:52",
+    "EndTime": "19:55",
+    "Duration": 12.05,
+    "Cost": 575.0
+  },
+  {
+    "TrainID": "D2256",
+    "TrainType": "动车",
+    "From": "成都东站",
+    "To": "南京南站",
+    "BeginTime": "08:09",
+    "EndTime": "21:00",
+    "Duration": 12.85,
+    "Cost": 575.0
+  },
+  {
+    "TrainID": "D2374",
+    "TrainType": "动车",
+    "From": "成都东站",
+    "To": "南京南站",
+    "BeginTime": "08:15",
+    "EndTime": "20:19",
+    "Duration": 12.07,
+    "Cost": 575.0
+  },
+  {
+    "TrainID": "D3078",
+    "TrainType": "动车",
+    "From": "成都东站",
+    "To": "南京南站",
+    "BeginTime": "09:12",
+    "EndTime": "21:27",
+    "Duration": 12.25,
+    "Cost": 575.0
+  },
+  {
+    "TrainID": "G1976",
+    "TrainType": "高铁",
+    "From": "成都东站",
+    "To": "南京南站",
+    "BeginTime": "11:01",
+    "EndTime": "20:55",
+    "Duration": 9.9,
+    "Cost": 823.0
+  },
+  {
+    "TrainID": "G1888",
+    "TrainType": "高铁",
+    "From": "成都东站",
+    "To": "南京南站",
+    "BeginTime": "11:51",
+    "EndTime": "22:42",
+    "Duration": 10.85,
+    "Cost": 862.5
+  },
+  {
+    "TrainID": "K292",
+    "TrainType": "快速",
+    "From": "成都西站",
+    "To": "南京站",
+    "BeginTime": "17:42",
+    "EndTime": "01:43",
+    "Duration": 32.0,
+    "Cost": 243.0
+  },
+  {
+    "TrainID": "K284",
+    "TrainType": "快速",
+    "From": "成都西站",
+    "To": "南京站",
+    "BeginTime": "18:30",
+    "EndTime": "03:39",
+    "Duration": 33.1,
+    "Cost": 251.0
+  },
+  {
+    "TrainID": "D954",
+    "TrainType": "动车",
+    "From": "成都东站",
+    "To": "南京南站",
+    "BeginTime": "07:47",
+    "EndTime": "18:53",
+    "Duration": 11.1,
+    "Cost": 575.0
+  },
+  {
+    "TrainID": "D2224",
+    "TrainType": "动车",
+    "From": "成都东站",
+    "To": "南京南站",
+    "BeginTime": "07:36",
+    "EndTime": "19:50",
+    "Duration": 12.23,
+    "Cost": 575.0
+  },
+  {
+    "TrainID": "D2208",
+    "TrainType": "动车",
+    "From": "成都东站",
+    "To": "南京南站",
+    "BeginTime": "08:03",
+    "EndTime": "20:19",
+    "Duration": 12.27,
+    "Cost": 575.0
+  },
+  {
+    "TrainID": "D3078",
+    "TrainType": "动车",
+    "From": "成都东站",
+    "To": "南京南站",
+    "BeginTime": "09:12",
+    "EndTime": "21:45",
+    "Duration": 12.55,
+    "Cost": 575.0
+  },
+  {
+    "TrainID": "D3058",
+    "TrainType": "动车",
+    "From": "成都东站",
+    "To": "南京南站",
+    "BeginTime": "06:10",
+    "EndTime": "18:58",
+    "Duration": 12.8,
+    "Cost": 575.0
+  }
+]

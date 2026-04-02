@@ -1,0 +1,484 @@
+﻿id,name,hotelname_en,featurehoteltype,lat,lon,single_room_price,single_room_stock,king_room_price,king_room_stock,double_bed_price,double_bed_stock,family_room_price,family_room_stock
+0,重庆清阅·OneJasper精选酒店,Qingyue OneJasper select Hotel,管家服务,29.538263,106.51261,221,2,262,2,291,1,396,1
+1,重庆美利亚酒店,Melia Chongqing,泳池,29.600078,106.681531,430,0,509,0,566,0,770,3
+2,重庆雾都宾馆,Wudu Hotel,泳池,29.564909,106.551346,320,1,379,1,421,1,573,1
+3,重庆渝商国际大酒店,Yushang International Hotel,免费停车,29.617377,106.519009,321,2,380,1,422,1,574,0
+4,重庆世纪金源大饭店,Chongqing Empark Grand Hotel,免费停车,29.574811,106.529797,303,1,359,1,399,1,543,2
+5,重庆北站亚朵酒店,Chongqing North Railway Station Atour Hotel,免费停车,29.603878,106.553201,252,1,299,1,332,2,452,4
+6,重庆君豪大饭店,King World Hotel,泳池,29.559289,106.527161,271,0,321,1,357,1,486,0
+7,重庆沙磁公馆,Such Mansion,管家服务,29.579584,106.454819,287,0,340,0,378,1,514,0
+8,重庆华辰国际大酒店,HC International Hotel,湖景房,29.705983,106.611381,255,3,302,1,336,1,457,1
+9,重庆两江假日酒店,River & Holiday  Hotel ChongQing,管家服务,29.583068,106.527963,335,2,397,1,441,0,600,2
+10,重庆解放碑洪崖洞江景亚朵S酒店,Chongqing Jiefangbei Hongyadong  river view Atour s Hotel,动人夜景,29.561356,106.573953,326,2,386,0,429,0,583,1
+11,朗丽兹酒店(重庆南滨路圣地温泉店),Palace Hotels (Chongqing Nanbin Road Holy Land Hot Spring Branch),温泉泡汤,29.539985,106.582452,290,1,344,0,382,0,520,0
+12,重庆观音桥华美达安可酒店,Ramada Encore by Wyndham Chongqing Yubei,SPA,29.589353,106.533117,233,0,276,1,307,3,418,3
+13,重庆万垚酒店,Chongqing Wanyao Hotel,家庭房,29.528644,106.576643,303,0,359,1,399,0,543,6
+14,重庆铜梁天喜大酒店,The  grand Tianxi  plaza chong qing,免费停车,29.836587,106.080117,246,2,292,3,324,2,441,0
+15,麗枫酒店(重庆悦来国际博览中心中央公园店),Lavande Hotel (Chongqing Yuelai International Expo Center Central Park),窗外好景,29.722563,106.577262,186,0,220,2,245,1,333,1
+16,仙女山中科依云酒店,Zhongke Yiyun Hotel,泳池,29.419497,107.759671,281,1,333,0,370,0,503,0
+17,重庆仙女山明宇尚雅酒店,Galaxy Minyoun Hotel,山景房,29.406302,107.768157,262,0,310,0,345,3,469,1
+18,重庆威灵顿酒店,Wellington Hotel,管家服务,29.610207,106.519735,351,1,416,0,462,0,628,0
+19,重庆上邦酒店,Sun Kingdom Hotel Chongqing,泳池,29.492403,106.295199,280,2,331,1,368,1,500,1
+20,重庆南岸茶园新区亚朵酒店,"Atour Hotel, Nan'an Tea Garden New District, Chongqing",家庭房,29.513985,106.660125,266,1,315,1,350,0,476,2
+21,重庆解放碑美居酒店,Mercure Hotel Chongqing Jiefangbei,江河景房,29.555306,106.577444,301,0,356,1,396,2,539,2
+22,重庆来住·千寻空中酒店,Laizhu Qianxun Sky Hotel,动人夜景,29.557624,106.582099,296,3,351,3,390,0,530,2
+23,FunGee欢致江景酒店(重庆洪崖洞解放碑步行街店),FunGee Riverview Hotel (Chongqing Hongyadong Jiefangbei Pedestrian Street),江河景房,29.561224,106.573207,272,2,322,1,358,2,487,1
+24,S·island高空江景酒店(重庆解放碑洪崖洞店),S · island High Altitude River View Hotel,管家服务,29.556026,106.57641,254,0,301,3,334,3,454,0
+25,Aspera高空花园全景酒店(解放碑洪崖洞店),ASPERA HIGH-ALTITUDE GARDEN PANORAMIC HOTEL,免费停车,29.559912,106.580112,264,0,313,3,348,1,473,0
+26,重庆解放碑亚朵酒店,Atour Hotel (Chongqing Jiefangbei),免费停车,29.552169,106.57637,290,1,344,0,382,2,520,0
+27,重庆恒大酒店,Hengda Hotel,泳池,29.424455,106.262405,220,2,260,1,289,1,393,2
+28,鑫山酒店·King Shinning(重庆解放碑洪崖洞店),Xinshan Hotel King Shinning (Chongqing Jiefangbei Hongyadong Shop),江河景房,29.55514,106.579401,212,1,251,2,279,2,379,0
+29,Asiam亚美国际酒店(重庆解放碑洪崖洞店),Asiam International Hotel Chongqing Jiefangbei Hongya Cave,江河景房,29.555141,106.57941,257,1,304,0,338,2,460,1
+30,重庆国贸格兰维大酒店,Glenview ITC PLAZA Chongqing,泳池,29.5562,106.573796,387,0,458,1,509,1,692,0
+31,罗斯福服务公寓(重庆解放碑洪崖洞店),Roosevelt Service Apartment (Chongqing Jiefangbei Hongyadong Branch),窗外好景,29.554231,106.578484,265,3,314,1,349,3,475,1
+32,重庆解放碑来福士广场江景亚朵酒店,"Atour Hotel (Chongqing Jiefangbei, Raffles Plaza, Riverview)",免费停车,29.560725,106.584164,293,3,346,1,385,2,524,0
+33,重庆凯宾斯基酒店,Kempinski Hotel Chongqing,泳池,29.534982,106.561369,409,0,484,0,538,4,732,2
+34,重庆尼依格罗酒店,Niccolo Chongqing,动人夜景,29.575798,106.573186,782,1,926,0,1029,1,1399,0
+35,重庆两江豪生Life酒店,Howard Johnson Life Chongqing,影音房,29.608514,106.525443,318,1,376,1,418,2,568,2
+36,重庆熙美酒店,Chongqing Ximei Hotel,免费停车,29.718793,106.602827,325,3,384,0,427,1,581,2
+37,重庆来福士洲际酒店,InterContinental Chongqing Raffles City,桑拿,29.565669,106.587901,1142,1,1352,0,1502,2,2043,2
+38,MOUNTWELL·山栖行政套房酒店(解放碑洪崖洞店),Mountwell Executive Suites (Jiefangbei Hongyadong),江河景房,29.554624,106.578081,302,2,358,0,398,1,541,2
+39,重庆滨乐·宝轩酒店,Binle Hotel,桑拿,29.644627,106.568776,362,0,428,0,476,0,647,1
+40,Freely智能江景酒店(重庆江北嘴金融城店),Freely Smart Riverview Hotel (Chongqing Jiangbeizui Financial City Store),江河景房,29.57026,106.562753,179,4,212,2,236,1,321,1
+41,重庆丽思瑞凯悦臻选酒店,"The Lixury Hotel Chongqing, in The Unbound Collection by Hyatt",动人夜景,29.558967,106.57789,845,3,1001,2,1112,0,1512,2
+42,重庆渝州宾馆,Yuzhou Hotel,泳池,29.529172,106.504552,785,0,930,0,1033,1,1405,0
+43,重庆南岸希尔顿惠庭酒店,Home2 Suites by Hilton Chongqing Nan'an,免费停车,29.529466,106.56863,249,1,295,1,328,2,446,3
+44,重庆喜来登大酒店,Sheraton Chongqing Hotel,桑拿,29.543281,106.586925,462,0,547,0,608,1,827,0
+45,重庆南滨路万达安柏酒店,Wanda Amber Hotel,江河景房,29.543097,106.585527,347,1,410,0,456,1,620,1
+46,重庆丽晶酒店,Regent Chongqing,动人夜景,29.571168,106.570692,1014,0,1201,1,1334,0,1814,1
+47,重庆北碚悦榕庄,Banyan Tree Chongqing Beibei,温泉泡汤,29.85638,106.380304,1125,3,1332,0,1480,1,2013,2
+48,仙女山天怡芳草地度假酒店,Tianyi Fangcaodi Holiday Hotel,山景房,29.43637,107.768976,366,3,434,2,482,1,656,1
+49,重庆涪陵金科大酒店,Fuling Jinke Hotel,山景房,29.711322,107.40078,371,0,439,0,488,1,664,1
+50,重庆洪崖洞江景亚朵酒店,Atour Hotel (Chongqing Hongyadong Jiangjing ),免费停车,29.561635,106.577985,299,0,355,2,394,2,536,0
+51,浮尘高空酒店(重庆解放碑步行街店),Fuchen Gaokong Hotel (Chongqing Jiefangbei Pedestrian Street),管家服务,29.55788,106.578179,226,0,268,4,298,3,405,1
+52,重庆柏联酒店,Bolian Resorts & Spa Chongqing,窗外好景,29.857164,106.416437,3032,0,3591,0,3990,0,5426,1
+53,重庆大都会凯悦酒店,Hyatt Regency Metropolitan Chongqing,桑拿,29.556522,106.578666,492,2,582,1,647,2,880,3
+54,重庆皇冠国际江景亚朵S酒店,Atour S Hotel (Chongqing Huangguan International Riverview),免费停车,29.543447,106.585602,299,0,355,2,394,1,536,1
+55,重庆雅诗阁来福士服务公寓,Ascott Raffles City Chongqing,桑拿,29.564785,106.588312,505,0,598,1,665,0,904,4
+56,重庆维景国际大酒店,Grand Metropark Hotel Chongqing,桑拿,29.677001,106.566561,335,0,397,0,441,1,600,0
+57,重庆天地网易云音乐亚朵酒店,Chongqing Tiandi Netease Cloud Music Atour Hotel,免费停车,29.552882,106.508433,313,1,371,0,412,0,560,0
+58,重庆山前宋品酒店,SONG HOTEL CHONGQING,泳池,29.636063,106.359111,1164,0,1378,3,1531,3,2082,1
+59,重庆解放碑威斯汀酒店,The Westin Chongqing Liberation Square,Boss推荐,29.556739,106.580112,798,0,945,0,1050,1,1428,1
+60,重庆金科大酒店,Chongqing Jinke Grand Hotel,泳池,29.649617,106.526544,575,1,681,2,757,0,1030,2
+61,重庆解放碑博斯嘉酒店,"Boska Hotel Monument to the people's Liberation, Chongqing",儿童俱乐部,29.554624,106.578081,280,0,332,2,369,5,502,1
+62,重庆W PLUS HOTEL,W PLUS HOTEL,免费停车,29.559814,106.594812,348,0,412,1,458,0,623,0
+63,缇·酒店,Hotel-T,免费停车,29.616871,106.480399,265,1,314,2,349,0,475,1
+64,重庆融创施柏阁酒店,Steigenberger Chogqing,泳池,29.635156,106.363169,471,2,558,3,620,2,843,1
+65,重庆丽笙世嘉酒店,Radisson Blu Plaza Chongqing,动人夜景,29.539687,106.566065,462,3,547,2,608,1,827,2
+66,杰夫杰夫高空江景酒店(重庆北滨路鎏嘉码头店),Jeff Jeff Hotel (Chongqing Beibin Road Liujia Wharf),管家服务,29.570863,106.558867,189,1,224,0,249,4,339,1
+67,麗枫酒店(重庆两江幸福广场店),Lavande Hotel (Chongqing Liangjiang Xingfu Plaza),免费停车,29.616916,106.502737,243,1,288,1,320,1,435,3
+68,重庆观音桥希尔顿欢朋酒店,Hampton by Hilton,免费停车,29.583867,106.530251,333,0,394,1,438,2,596,5
+69,重庆沙坪坝高铁站三峡广场亚朵酒店,Atour Hotel,免费停车,29.558913,106.467437,280,4,331,2,368,0,500,1
+70,红墣假日江景酒店(重庆洪崖洞解放碑步行街店),Hongyan Holiday Riverview Hotel (Chongqing Jiefangbei Hongyadong Branch),充电桩,29.561411,106.57327,240,0,284,1,316,2,430,0
+71,重庆解放碑步行街亚朵X酒店,Atour Hotel,免费停车,29.549589,106.575786,266,1,315,0,350,1,476,2
+72,宽融全套房酒店(重庆江北源著店),Kuanrong All Suite Hotel (Chongqing Jiangbei Yuanzhu),酒店公寓,29.603119,106.483446,268,0,317,1,352,0,479,3
+73,格美·城市庭院花园酒店(重庆解放碑步行街洪崖洞店),Gemei City Courtyard Garden Hotel (Chongqing Jiefangbei Pedestrian Street Hongyadong Branch),家庭房,29.555849,106.573164,207,0,246,0,273,0,371,5
+74,重庆翰文大酒店,C Plaza Hotel,泳池,29.560533,106.564245,382,1,453,2,503,1,684,0
+75,格雷斯精选酒店(重庆江北嘴金融城店),Grace Collection Hotel (Chongqing Jiangbeizui Financial City),免费停车,29.578535,106.562353,262,1,310,2,345,3,469,0
+76,重庆朴乡金佛山度假酒店,PUSHINE,SPA,29.079259,107.207203,1587,0,1879,3,2088,2,2840,1
+77,宽融全套房酒店(重庆观音桥店),Kuanrong Suites Hotel (Chongqing Guanyinqiao),酒店公寓,29.582236,106.527349,264,1,312,0,347,0,472,1
+78,桔子水晶重庆观音桥酒店,Orange Crystal Hotel (Chongqing Guanyinqiao Branch),免费停车,29.59018,106.535957,308,2,364,0,405,0,551,1
+79,重庆千合日善高空江景酒店,Qianhe Rishan River View Hotel,酒店公寓,29.557489,106.582351,235,1,278,0,309,0,420,1
+80,仙女山华邦酒店,Fairy Mountain Huapont Hotel,山景房,29.509144,107.750695,617,0,731,0,812,2,1104,0
+81,曼庚公馆,MANQUE,窗外好景,29.550697,106.593372,2069,2,2450,1,2722,4,3702,0
+82,重庆银鑫世纪酒店,Yinxin Century Hotel,湖景房,29.681661,106.606845,733,0,868,1,965,1,1312,2
+83,仙女山拙雅酒店,The Joya Hotel,管家服务,29.508083,107.748553,1055,1,1249,2,1388,0,1888,0
+84,慕思·禅睡眠酒店(重庆磁器口地铁站店),DeRucci Hotel (Chongqing Ciqikou Metro Station Store),免费停车,29.578007,106.446748,261,1,309,2,343,2,466,1
+85,重庆欧瑞大酒店,Ourui Hotel,泳池,29.607379,106.504726,378,1,448,0,498,1,677,1
+86,宽融全套房酒店(重庆时代天街D馆店),Le Comforto All Suite Hotel (Chongqing Paradise Walk D),多功能厅,29.533058,106.512601,318,3,377,2,419,0,570,1
+87,重庆壹棠酒店公寓,Chongqing Yitang Hotel Apartment,酒店公寓,29.631298,106.575149,249,4,294,1,327,2,445,1
+88,重庆陆海国际Pagoda君亭设计酒店,Pagoda Hotel Chongqing International  Land-sea,家庭房,29.550566,106.518479,394,1,467,0,519,0,706,2
+89,YIAN伊岸高空江景酒店(重庆解放碑云端之眼店)),Yianhotel,家庭房,29.557301,106.582166,325,0,385,1,428,0,582,4
+90,重庆汽博奥特莱斯亚朵酒店,Chongqing Auto Bo Outlet Atour Hotel,免费停车,29.641606,106.592414,286,0,338,1,376,0,511,0
+91,重庆珠江豪生酒店,Howard Johnson Zhujiang Hotel Chongqing,江河景房,29.571123,106.558783,504,3,597,3,663,1,902,0
+92,东方蔚莱酒店(重庆新牌坊店),Oriental Velky Hotel (Chongqing Xinpaifang Branch),免费停车,29.599513,106.528291,237,0,281,1,312,1,424,0
+93,重庆大世界君亭酒店(解放碑洪崖洞店),SSAW BOUTIQUE HOTEL DASHIJIE CHONGQING,家庭房,29.55858,106.574827,276,1,327,3,363,1,494,3
+94,重庆璞悦•空中花园酒店,Puyue Hotel,智能客控,29.535561,106.511716,236,2,279,2,310,1,422,1
+95,重庆浅憩In酒店,Qianqi In Hotel,免费停车,29.54286,106.58241,270,1,320,4,355,0,483,1
+96,重庆金佛山良瑜国际度假酒店,Chongqing Jinfoshan Liangyu International Resort,泳池,29.030396,107.103168,591,2,700,2,778,1,1058,2
+97,YES野式酒店·重庆,THE  YES  Hotel,免费停车,29.507464,106.493339,219,0,259,1,288,1,392,0
+98,金山江悦酒店,Jinshan Jianyue Hotel,充电桩,29.161609,107.084771,258,0,305,0,339,2,461,0
+99,泊联汇别院·设计师酒店(重庆棕榈泉店),ELITE POLINK RETREAT,泳池,29.638836,106.540368,295,3,349,2,388,1,528,2
+100,桔子酒店(重庆观音桥龙湖新壹街店),"Orange Hotel (Chongqing Guanyinqiao, Longhu Xinyijie)",免费停车,29.581389,106.526866,289,3,342,2,380,3,517,0
+101,重庆两江新区丽呈君顿酒店,Rezen Kingtown Hotel (Chongqing Liangjiang New District),免费停车,29.666407,106.559718,339,1,401,3,446,2,607,0
+102,重庆珊顿国际公寓酒店(棕榈泉国际中心店),Chongqing Shandun International Apartment Hotel Palm Springs International Center,酒店公寓,29.636831,106.541953,198,0,234,0,260,0,354,3
+103,重庆华舫酒店(磁器口古镇店),Chongqing Huafang Hotel,免费停车,29.578767,106.448985,271,1,321,2,357,2,486,1
+104,维也纳国际酒店(重庆中央公园店),Vienna International Hotel,免费停车,29.724086,106.570456,274,0,325,0,361,2,491,1
+105,柏天酒店(沙坪坝高铁站三峡广场店),Bertian Hotel (Shapingba High Speed Railway Station Sanxia Plaza),茶室,29.558442,106.462937,276,3,327,0,363,1,494,0
+106,嘉瑞酒店(重庆袁家岗地铁站店),Jia Rui Hotel (Chongqing Yuanjiagang Metro Station),免费停车,29.523249,106.513197,296,1,350,2,389,0,529,0
+107,重庆江北希尔顿惠庭酒店,Home2 Suites by Hilton Chongqing Jiangbei,家庭房,29.571275,106.49538,326,2,386,2,429,1,583,1
+108,SENSE SCENE三时森印酒店(重庆解放碑店),SENSE SCENE HOTEL,家庭房,29.559469,106.575534,245,1,291,3,323,2,439,1
+109,重庆沙磁时光酒店,Such Time Hotel,免费停车,29.57967,106.454395,240,3,284,1,316,3,430,0
+110,重庆丽呈温特莱酒店,Rezen Winterless Hotel Chongqing,机器人服务,29.524881,106.486682,274,2,324,3,360,0,490,1
+111,重庆禧满鸿福酒店(蔡家地铁站店),Hilmanhomeful Hotel (Caijia Subway Station Store),免费停车,29.735534,106.495525,215,1,255,3,283,0,385,0
+112,金科圣嘉酒店(解放碑洪崖洞店),Jinke Saint Hotel,充电桩,29.560134,106.580105,201,0,238,1,264,0,359,3
+113,山觉·行舍(涂山寺店),Shanjue Xingshe Guesthouse,免费停车,29.550618,106.607803,339,0,401,0,446,0,607,5
+114,望山栖轻奢重庆光环购物街酒店,Theme Wangshanqi Light Luxury Hotel,智能客控,29.650255,106.531301,233,0,276,1,307,2,418,1
+115,天雅·雾兮高空江景花园度假酒店(解放碑来福士店),Tianya · Wuxi High Altitude river Garden Resort Hotel (Jiefangbei Raffles Store),免费停车,29.563212,106.585075,359,1,425,0,472,0,642,1
+116,重庆上丁里酒店(两江幸福广场店),Chongqing Shangdingli Hotel (Chongqing Liangjiang Xingfu Square),充电桩,29.60803,106.502497,223,3,264,1,293,1,398,1
+117,富廷格高空江景酒店(解放碑店),Chongqing Fortinger Hotel (Jiefangbei Branch),江河景房,29.563084,106.58598,226,4,267,1,297,2,404,1
+118,泊联汇·观澜酒店(重庆微电园地铁站店),Bolianhui·Guanlan Hotel (Chongqing Microdianyuan Subway Station),家庭房,29.611222,106.360319,207,0,245,0,272,1,370,2
+119,重庆永川柏天酒店,Boutin Hotel,免费停车,29.339108,105.944455,287,3,340,2,378,2,514,1
+120,重庆长城酒店,Great Wall Hotel,免费停车,29.533538,106.514773,258,1,305,0,339,1,461,0
+121,重庆盈田酒店,Intan Hotel,免费停车,29.639214,106.548448,226,0,268,1,298,0,405,1
+122,重庆融汇上泉坊温泉酒店,Chongqing Rongghui Up-Spring Alley Hotel,棋牌室,29.543355,106.43885,217,2,256,1,285,3,388,1
+123,慢屋·仙女山归原精品度假民宿,"Slow house, xiannvushan guiyuan boutique holiday home stay",民宿,29.371473,107.735068,303,1,359,1,399,3,543,2
+124,重庆涪陵漫涛酒店,Chongqing Fuling Mantao Hotel,停车场,29.711221,107.377313,184,1,218,1,242,2,329,2
+125,华熙LIVE·鱼洞·华熙玻尿酸酒店,HA Up Hotel,停车场,29.377989,106.509913,223,2,265,3,294,2,400,1
+126,重庆千合智选高空江景酒店,Qianhe Zhixuan River View Hotel,动人夜景,29.55732,106.581643,234,0,277,1,308,1,419,1
+127,重庆遇你民宿,MEET YOU,停车场,29.54232,106.632513,268,0,318,0,353,0,480,1
+128,重庆柏雾酒店(南滨路店),Brave Hotel,家庭房,29.57314,106.593589,226,2,268,1,298,2,405,3
+129,重庆悦磁江景花园酒店(磁器口古镇店),Yueci Hotel,免费停车,29.588673,106.446295,265,0,314,0,349,1,475,2
+130,仙女山新华酒店,Xinhua Hotel Fairy Mountain,免费停车,29.483634,107.727399,273,1,323,1,359,2,488,2
+131,高远凤翎酒店,FengLingHotel,免费停车,29.517408,106.344206,257,0,304,0,338,2,460,0
+132,江上朗月酒店,Jiangshang Langyue Hotel,窗外好景,29.605939,106.472902,326,3,386,2,429,1,583,2
+133,重庆IN BETWEEN柳杉间酒店,In Between Hotel,免费停车,28.928282,107.005006,299,3,355,1,394,0,536,1
+134,重庆南山1898民宿,Chongqing Nanshan 1898 Homestay,停车场,29.557357,106.620682,312,3,369,4,410,1,558,0
+135,爰居爰处民宿,Yuanju Yuanchu Homestay,免费停车,29.543037,106.633145,340,0,402,0,447,2,608,0
+136,e家酒店,e Home Hotel,免费停车,29.625697,106.4673,233,2,275,2,306,0,416,4
+137,红楼银杏大酒店(重庆西站),Honglou Yinxing Hotel,免费停车,29.505712,106.450364,261,1,310,2,344,2,468,1
+138,伊凡酒店(重庆南坪步行街上海城店),Yifan Hotel,洗衣房,29.528706,106.560489,242,0,287,1,319,2,434,0
+139,重庆东方花苑饭店,East Garden Hotel,免费停车,29.559173,106.550958,219,1,259,0,288,5,392,2
+140,重庆荷和原乡民宿,Hehe Yuanxiang Hotle,免费停车,29.794865,105.993135,336,1,398,0,442,2,601,0
+141,重庆曼德姆酒店,Mandemu Hotel,免费停车,29.722738,106.541658,313,2,371,2,412,1,560,1
+142,花筑奢·重庆西郊雅社酒店,Floral Lux Hotel·Chongqing West Suburb Yashe Hotel,免费停车,29.822998,106.028578,319,3,378,1,420,1,571,1
+143,重庆师范大学国风楼酒店,Chongqing Normal University Guofenglou Hotel,免费停车,29.610185,106.306629,302,1,358,2,398,0,541,2
+144,椿山悦民宿(重庆南山店),Yueshanyue Homestay (Chongqing Nanshan Branch),免费停车,29.553885,106.629138,241,3,285,0,317,2,431,1
+145,重庆Indition英迪逊高空酒店,Chongqing Indition High Altitude Hotel,私人泳池,29.563347,106.585958,476,0,563,1,626,1,851,0
+146,郎玺度假酒店(重庆解放碑洪崖洞店),Langxi Resort Hotel (Chongqing Monument to the people's Liberation Hongyadong Store),家庭房,29.559988,106.580498,236,0,279,0,310,0,422,7
+147,红楼长箭大酒店(重庆巴山地铁站店),HONG LOU CHANG JIAN HOTLE,家庭房,29.519664,106.465226,302,0,357,1,397,0,540,1
+148,重庆嘉澜四季酒店,Jialan Siji Hotel,免费停车,29.576236,106.564011,223,2,265,0,294,0,400,0
+149,东方时代酒店(重庆观音桥步行街时代中心店),APEX EAST TIMES HOTEL,行政酒廊,29.575854,106.535691,210,0,248,1,276,1,375,2
+150,全季酒店(重庆万州万达广场店),Ji Hotel (Zhongqing Wanzhou Wanda Plaza),免费停车,30.814133,108.380917,239,1,284,0,315,0,428,3
+151,艺龙壹棠酒店(重庆江北国际机场店),ELONG ETANG (CHONG QING  JIANG BEI INTERNATIONAL AIRPORT  HOTEL)),免费停车,29.742057,106.654158,272,3,322,3,358,0,487,2
+152,重庆INSOMNIALAB·隐桑眠高空江景地标酒店,INSOMNIALAB·hotel,江河景房,29.563477,106.585946,253,2,300,1,333,3,453,0
+153,重庆木溪酒店,Moci Hotel,免费停车,29.553532,106.510341,201,0,238,1,264,2,359,1
+154,丽呈君顿酒店(重庆观音桥店),Rezen Kingtown Hotel (Chongqing Guanyinqiao),免费停车,29.589804,106.525058,224,1,266,2,295,3,401,1
+155,悠舍S·高空全景酒店(重庆观音桥九街店),Youshe S High-altitude Panorama Hotel (Chongqing Guanyinqiao 9th Street),江河景房,29.579705,106.54157,193,1,229,0,254,1,345,1
+156,重庆江津大酒店,Jiang Jin Grand Hotel,免费停车,29.270344,106.275263,212,0,251,0,279,0,379,2
+157,落脚城市·海蒂花园民宿(武隆仙女山店),Unimore Heidi Garden Homestay (Wulong Fairy Mountain Branch),免费停车,29.430764,107.747614,271,3,321,0,357,3,486,2
+158,麗枫酒店(重庆解放碑中心步行街店),Lavande Hotel (Chongqing Jiefangbei Center Pedestrian Street),管家服务,29.557208,106.575533,180,2,213,2,237,0,322,2
+159,千合智选高空酒店(洪崖洞店),Qianhe Zhixuan Gaokong Hotel (Jiefangbei Hongyadong Branch),江河景房,29.559812,106.582407,158,0,187,1,208,1,283,1
+160,洪崖叠院酒店(重庆解放碑洪崖洞店),Hongya Dieyuan Hotel (Chongqing Jiefangbei Hongyadong Branch),江河景房,29.561939,106.577084,445,0,527,1,586,1,797,1
+161,七仙女民宿(仙女山店),Qixiannv Homestay (Xiannv Mountain Shop),免费停车,29.438595,107.76264,349,2,413,2,459,3,624,1
+162,重庆假日江景酒店(解放碑洪崖洞店),CHONGQING HOLIDAY RIVERVIEW HOTEL,江河景房,29.561399,106.578636,150,1,178,2,198,1,269,1
+163,沃林净旅酒店(重庆解放碑洪崖洞店),Walling Hotel (Chongqing Hongyadong Jiefangbei),江河景房,29.560231,106.575669,195,1,231,1,257,0,350,2
+164,TheMove江景酒店(重庆解放碑洪崖洞店),The Move River View Hotel (Chongqing Jiefangbei Hongyadong),江河景房,29.556316,106.579647,119,1,140,1,156,3,212,1
+165,重山什舍民宿(重庆解放碑步行街洪崖洞店),REUNION REST (Chongqing Jiefangbei Pedestrian Street Hongyadong Branch),江河景房,29.558352,106.57693,335,0,397,1,441,1,600,0
+166,栖上酒店(重庆观音桥步行街店),Qishang B & B (Chongqing Guanyinqiao Pedestrian Street store),拍照出片,29.580086,106.530814,262,0,310,4,345,1,469,0
+167,富诚酒店(重庆大学城店),Fucheng Hotel (Chongqing University Town),管家服务,29.601833,106.308191,261,3,310,1,344,1,468,2
+168,一瓦涧民宿(重庆南滨路弹子石老街店),Yiwajian Homestay,免费停车,29.579026,106.585508,184,1,218,1,242,4,329,0
+169,山觉人文美宿(南滨路长江索道店),Shanjue Humanities Meisu (Changjiang Cableway Branch),窗外好景,29.551687,106.593751,279,0,330,1,367,0,499,0
+170,重庆解放碑丽呈睿轩酒店,Rezen Select  Chongqing Jiefangbei,山景房,29.555156,106.577381,174,1,206,0,229,0,311,0
+171,全季酒店(重庆江北国际机场鹿山地铁站店),JI hotel (Chongqing Jiangbei International Airport Lushan subway station store),免费停车,29.719228,106.604489,258,1,305,1,339,4,461,1
+172,桔子水晶重庆解放碑洪崖洞酒店,Orange Crystal Chongqing Jiefangbei Hongyadong Hotel,江河景房,29.561997,106.584913,287,1,340,0,378,1,514,1
+173,无隅酒店(重庆杨家坪万象城店),WuYu Hotel (Chongqing Yangjiaping Vientiane City),充电桩,29.517828,106.519236,287,1,340,1,378,2,514,0
+174,重庆宿于龙槐山院,Chongqing Suyu Longqishanyuan,免费停车,29.873014,106.93799,287,0,339,2,377,2,513,0
+175,重庆嘉泊汀酒店,Chongqing Jiaboting Hotel,免费停车,29.643453,106.564621,363,2,430,4,478,1,650,1
+176,奥普酒店(重庆蔡家轻轨站店),Aopu Hotel,免费停车,29.73494,106.481423,198,3,235,1,261,0,355,2
+177,ARISTON·艾瑞斯顿酒店(重庆解放碑洪崖洞店),ARISTON AIRESTON HOTEL (Chongqing Jiefangbei Hongyadong Branch),家庭房,29.554624,106.578081,249,0,294,1,327,0,445,4
+178,ISBELLO丽鑫·地标高空酒店(解放碑店),ISBELLO Lixin Landmark High Altitude Hotel (Jiefangbei Branch),管家服务,29.557975,106.57832,196,6,232,0,258,1,351,1
+179,重庆仙女山喜宿民宿,Xisu B&B,免费停车,29.415945,107.765318,264,0,313,1,348,0,473,1
+180,重庆BERKIN佰利金高空酒店,CHONG QING BERKIN HOTEL,影音房,29.563382,106.586252,364,0,431,0,479,0,651,2
+181,丽呈東谷酒店(重庆观音桥店),Rezen Dong Hotel (Chongqing Guanyinqiao),免费停车,29.567425,106.536312,254,2,301,1,334,2,454,1
+182,重庆南山别院民宿(南山火锅一条街店),Nanshan Bieyuan Guesthouse,免费停车,29.499548,106.59022,249,1,295,0,328,1,446,0
+183,阁外·城隐民宿,Chengyin Homestay,免费停车,29.273952,106.977026,230,0,273,0,303,0,412,1
+184,金佛山银杏皇后酒店,Ginkgo Queen Hotel,免费停车,29.065212,107.202256,249,2,295,1,328,0,446,0
+185,重庆花田小院,Hua Tian Xiao Yuan,免费停车,29.270005,106.976337,249,1,295,2,328,1,446,3
+186,丽呈君顿酒店(重庆中央公园店),Licheng Jundun Hotel (Chongqing Central Park),情侣房,29.725677,106.579323,334,2,396,2,440,1,598,0
+187,重庆桷度南山民宿,Juedu Nanshan Hostel,免费停车,29.558868,106.639139,308,0,364,2,405,1,551,1
+188,重庆野墅民宿,Yeshu Homestay,民宿,29.217937,106.964051,244,0,289,2,321,1,437,0
+189,拾壹居亲子民宿(重庆金刀峡偏岩古镇店),Shiyiju Parent-child Homestay,儿童乐园,30.002862,106.655107,318,3,377,2,419,2,570,0
+190,丽呈君顿酒店(重庆新牌坊店),Rezen Kingtown Hotel (Chongqing Xinpaifang),免费停车,29.600985,106.521804,197,2,233,1,259,1,352,4
+191,重庆星屿星院帐篷民宿,Chongqing Xingyu Xingyuan Tent Homestay please,免费停车,28.842035,106.903869,295,2,349,0,388,0,528,0
+192,杉屿树森林营地(山王坪店),Shanyushu Forest Camp (Shanwangping Branch),停车场,29.099368,107.331205,249,1,294,4,327,1,445,1
+193,重庆木原町酒店,Muyuanding Hotel,免费停车,29.527321,106.546048,221,4,262,0,291,2,396,2
+194,美豪丽致酒店(重庆渝中店),Mehood Lestie Hotel (Zhongqing Yuzhong),免费停车,29.556079,106.550203,220,0,261,2,290,3,394,0
+195,悠舍S·Loft酒店(重庆观音桥步行街店),Youshe S Loft Hotel (Chongqing Guanyinqiao Pedestrian Street),管家服务,29.582309,106.527391,170,1,202,2,224,2,305,0
+196,麗枫酒店(大足石刻昌州古城店),Lavande Hotel (Dazu stone Carving changzhou gucheng),免费停车,29.68445,105.733627,186,4,220,1,245,2,333,1
+197,麗枫酒店(重庆龙头寺火车北站店),Lavande Hotel (Chongqing Longtousi North Railway Station),管家服务,29.613612,106.547709,223,2,264,1,293,3,398,0
+198,重庆尚悦·明清客栈,Landscape  Shangyue Dynasty Inn,管家服务,29.55732,106.58656,264,1,313,1,348,1,473,1
+199,重庆观音桥亚朵酒店,Atour Hotel (Chongqing Guanyinqiao),免费停车,29.589229,106.533168,246,0,292,1,324,0,441,0
+200,来住酒店(重庆解放碑店),LAIZHU hotel (Chongqing Jiefangbei Branch),管家服务,29.565034,106.556945,112,2,132,1,147,2,200,2
+201,重庆鄉根乡舍(金刀峡度假区店),Chongqing Xianggen Cottage (Jindaoxia Resort),免费停车,29.988755,106.578367,283,0,335,0,372,1,506,1
+202,重庆鸭血粉丝窝·倾城之巅民宿,Duck Blood and Vermicelli Qingcheng Zhidian Guesthouse,民宿,29.54698,106.473244,220,1,261,0,290,1,394,1
+203,重庆魔名奇妙花园民宿,Moming Qimiao Garden Guesthouse,山景房,29.569072,106.659347,287,2,340,2,378,1,514,3
+204,重庆花啦·十二舍Loft高空美宿公寓,flower`Twelve houses loft,充电桩,29.579487,106.541655,281,0,333,1,370,1,503,0
+205,仙女山·归原·好院子民宿,Homecoming·Good Yard Guesthouse,民宿,29.372119,107.734431,374,1,443,0,492,1,669,0
+206,THE HUMBLE 厚居高空江景酒店 (重庆解放碑洪崖洞店),THE HUMBLE  River View Hotel (Chongqing Jiefangbei Hongyadong),山景房,29.556026,106.57641,146,1,173,1,192,0,261,2
+207,花筑·星悦荟江景酒店(重庆观音桥步行街店),Floral Hotel·Star hotel (Chongqing Guanyinqiao pedestrian street),充电桩,29.570006,106.547859,158,0,187,1,208,1,283,2
+208,玺豪酒店(重庆悦来会展中心),Xihao Hotel,免费停车,29.722327,106.541526,204,0,242,1,269,0,366,1
+209,希岸酒店(重庆解放碑步行街中心店),Xana Hotelle (Jiefangbei Pedestrian Street Zhongxin),智能客控,29.556245,106.576553,160,0,189,3,210,1,286,2
+210,重庆亚善高空江景酒店(解放碑来福士广场店),Chongqing Ashan River View Hotel (Jiefangbei Raffles Square Branch),江河景房,29.563166,106.585846,154,3,182,1,202,0,275,4
+211,格雷斯精选酒店(重庆江北国际机场中心店),Grace Select Hotel (Zhongqing Jiangbei International Airport Center),管家服务,29.687683,106.601529,188,3,222,0,247,5,336,0
+212,丽呈安寐酒店(重庆观音桥地铁站店),Licheng An Hotel (ChongQing Guanyinqiao Subway Station),免费停车,29.573876,106.535307,181,1,214,0,238,0,324,0
+213,维也纳国际酒店(重庆解放碑十八梯店),Vienna International Hotel,江河景房,29.54933,106.57164,160,1,189,2,210,1,286,0
+214,桔子酒店(重庆解放碑步行街店),Orange Hotel (Chongqing Jiefangbei Pedestrian Street),管家服务,29.558462,106.582343,170,1,202,1,224,1,305,1
+215,Asiam亚美国际酒店(重庆观音桥步行街时代中心店),Asiam International Hotel (Chongqing Guanyinqiao Pedestrian Street Times Center Branch),免费停车,29.575854,106.535691,196,1,232,1,258,1,351,3
+216,九龙国际酒店(开州区政府店),Jiulong Hotel (Kaizhou District Government),棋牌室,31.163129,108.394465,169,1,200,0,222,1,302,1
+217,重庆科苑戴斯酒店,Days Hotel By Wyndham Chongqing Keyuan,免费停车,29.568512,106.462503,383,0,454,0,504,0,685,1
+218,维也纳酒店(重庆袁家岗地铁站店),Vienna Hotel (Chongqing Yuanjiagang Metro Station),影音房,29.528639,106.513202,196,2,232,0,258,2,351,0
+219,维也纳国际酒店(重庆涪陵宝龙广场店),Vienna International Hotel (Chongqing Fuling Baolong Plaza Branch),家庭房,29.707922,107.365639,223,0,265,0,294,0,400,2
+220,重庆璞悦酒店(解放碑洪崖洞店),Chongqing Yue Hotel(Jiefangbei Hongyadong Store),家庭房,29.556026,106.57641,179,2,212,0,236,0,321,2
+221,炫栖民宿(重庆解放碑洪崖洞店),Xuanqi Homestay (Chongqing Jiefangbei Hongyadong Branch),窗外好景,29.553926,106.573652,296,1,350,1,389,4,529,2
+222,全季酒店(重庆观音桥步行街店),Ji Hotel (Chongqing Guanyinqiao Pedestrian Street),免费停车,29.580201,106.529991,213,1,252,1,280,3,381,0
+223,溪谷酒店(长寿清明上河坊店),Valley Hotel,家庭房,29.854476,107.09845,206,0,244,0,271,1,369,2
+224,蔚徕酒店(重庆观音桥北城天街店),Vyluk Hotel (Chongqing Guanyinqiao Beicheng Tianjie Store),健身室,29.580052,106.540734,174,3,206,0,229,3,311,2
+225,重庆丽森酒店(两江幸福广场店),Beautisson Hotel (Liangjiang Love Square store),免费停车,29.617689,106.502928,430,0,509,1,566,1,770,1
+226,重庆冉家坝丽呈君顿酒店,Rezen Kingtown Hotel (Chongqing Ranjiaba),免费停车,29.590345,106.499625,280,1,331,2,368,2,500,1
+227,重庆INDITION英迪逊酒店(江北嘴金融城店),CHONGQING INDITION HOTEL(JIANG BEI),窗外好景,29.570231,106.565766,361,1,428,0,475,5,646,1
+228,泊联汇环球云端酒店(重庆大渡口步行街店),Elite Polink Global Hotel (Chongqing Dadukou District),免费停车,29.472094,106.478698,205,1,243,3,270,1,367,1
+229,麗枫酒店(重庆江北国际机场T3航站楼店),Lavande Hotel (Chongqing Jiangbei International Airport T3),免费停车,29.664398,106.615536,168,1,199,2,221,0,301,0
+230,重庆璞悦酒店(江北机场店),Chongqing PuYue Hotel (Jiangbei Airport),免费停车,29.727119,106.62996,204,1,241,2,268,3,364,1
+231,罗斯弗服务公寓(重庆观音桥步行街九街店),Roosevelt Service Apartment (Chongqing Guanyinqiao Pedestrian Street 9th Street Branch),管家服务,29.575814,106.535785,173,1,205,3,228,1,310,0
+232,重庆李子坝两路口地铁站亚朵酒店,Atour Hotel(Chongqing Liziba Lianglukou Metro Station),免费停车,29.557098,106.548364,252,1,299,2,332,1,452,2
+233,重庆闹市小窝民宿酒店,Chongqing Downtown Xiaowo Homestay,24小时前台,29.568412,106.444792,274,0,325,0,361,1,491,1
+234,黑山谷度假酒店,Black Valley Resort,免费停车,28.92615,107.01181,432,3,511,1,568,0,772,0
+235,悠舍S·江景酒店(重庆江北嘴鎏嘉码头店),Youshe S River View Hotel (Chongqing Jiangbeizui Liujia Wharf),管家服务,29.570188,106.56253,170,1,202,1,224,0,305,1
+236,天晴高空江景酒店(重庆解放碑店),Tianqing River View Hotel (Chongqing Jiefangbei),江河景房,29.557489,106.582351,180,1,213,0,237,1,322,0
+237,181地标壹号酒店(解放碑店),181 Landmark No.1 Hotel (Jiefangbei Branch),动人夜景,29.555089,106.577319,216,1,256,0,284,1,386,0
+238,松隅酒店(江与城大竹林店),Sunyu  Hotel,充电桩,29.619815,106.476255,187,1,221,1,246,2,335,3
+239,悠舍·智能酒店(重庆大学城微电园店),Youshe Smart Hotel (Chongqing University Town Microelectronics Park),家庭房,29.61191,106.360767,120,0,142,0,158,0,215,2
+240,重庆泊逸云栖酒店(万州万达广场店),chongqing Boyi Yunqi Hotel (wanzhou Wanda Plaza),免费停车,30.817209,108.361291,143,2,169,1,188,2,256,1
+241,H酒店(重庆爱琴海购物广场店),H Hotel (Chongqing Aegean Sea Shopping Plaza),管家服务,29.64345,106.545022,182,0,215,1,239,1,325,0
+242,爱电竞酒店(重庆冉家坝龙湖MOCO店),Love E-sports Hotel (Chongqing Ranjiaba Longhu MOCO),电竞房,29.601772,106.498178,225,1,266,2,296,0,403,1
+243,重庆解放碑洪崖洞恩季M酒店,ACE High-altitude Designer Homestay (Jiefangbei Haochi Street Branch),影音房,29.555642,106.577966,120,0,142,0,158,1,215,1
+244,重庆成都信息工程大学培训中心酒店(重庆江北机场店),Chengdu University of Information Technology Training Center,健身室,29.739779,106.6324,128,3,151,0,168,1,228,2
+245,慧苑酒店(重庆沙坪坝高铁站金沙天街店),Huiyuan Hotel (Chongqing Shapingba High Speed Railway Station Jinsha Tianjie Branch),窗外好景,29.556907,106.45884,201,1,238,2,264,2,359,0
+246,重庆佳源星光酒店(永川高铁站奥特莱斯店),Jiayuan Starlight Hotel,免费停车,29.364056,105.942784,133,2,158,0,175,6,238,0
+247,重庆钓鱼城合院民宿,Chongqing Fishing City Heyuan Homestay,免费停车,30.002402,106.30655,179,1,212,0,236,0,321,2
+248,美朵怡然酒店(袁家岗轻轨站奥体店),Meiduo Yiran Hotel (Yuanjiagang Light Rail Station Olympic Sports Store),山景房,29.520871,106.505609,137,1,162,2,180,2,245,3
+249,喜番世嘉高空江景酒店(北滨一路华新街地铁站店),Xifan Sega Sky Riverview Hotel (North Bin 1st Road),影音房,29.564234,106.538855,148,2,176,3,195,2,265,1
+250,重庆庆泰金贸酒店,Qingtai Hotel,免费停车,29.509234,106.458534,141,3,167,1,186,1,253,1
+251,两江盛锦酒店(重庆园博园店),Liangjiang Shengjin Hotel (Chongqing Garden Expo Park),充电桩,29.675728,106.565523,173,1,204,0,227,0,309,0
+252,开州学苑公寓酒店,COMMON  IVY HOTEL,酒店公寓,31.160333,108.370224,111,1,131,1,146,1,199,2
+253,宽融套房酒店(重庆两江爱情海购物公园店),Kuanrong Suites Hotel (Liangjiang love sea shopping park),管家服务,29.639578,106.54474,210,3,248,2,276,1,375,1
+254,弈鸣居公寓(重庆洪崖洞店),Yimingju Hotel,停车场,29.559747,106.5797,70,0,83,3,92,1,125,2
+255,Mallorca高空酒店(重庆解放碑洪崖洞店),Mallorca Sky Hotel (Chongqing Jiefangbei Hongyadong Branch),江河景房,29.549138,106.568993,122,2,144,3,160,0,218,2
+256,云舒酒店(重庆天地店),Yunshu Hotel (Chongqing Tiandi Branch),家庭房,29.547735,106.517242,128,0,151,0,168,0,228,1
+257,伊布酒店(重庆解放碑洪崖洞店),Ibu Hotel (Chongqing Jiefangbei Hongyadong Branch),家庭房,29.556893,106.573159,74,0,87,0,97,0,132,4
+258,建国铂萃酒店(重庆杨家坪步行街店),JIANGUO BOUTIQUE HOTEL,健身室,29.507432,106.515804,221,3,262,2,291,2,396,0
+259,丽朵酒店(重庆解放碑朝天门店),Lido Hotel (Chongqing Hongyadong store),江河景房,29.552192,106.580892,74,1,87,1,97,2,132,4
+260,乌米酒店(重庆企业天地店),UMI HOTEL,影音房,29.547768,106.517224,114,1,135,1,150,0,204,3
+261,云幕国际酒店(重庆解放碑步行街店),Cloud Screen International Hotel,充电桩,29.555937,106.567254,153,2,181,1,201,3,273,0
+262,重庆格特酒店公寓(解放碑日月光店),Chongqing Gete Huami Miguel Hotel,酒店公寓,29.554276,106.572682,90,0,107,0,119,1,162,1
+263,花屿里酒店(重庆陆海国际企业天地店),FLOWER ISLAND HOTEL,江河景房,29.547735,106.517242,184,1,218,1,242,2,329,1
+264,维森酒店(重庆观音桥九街店),Wesson Hotel (Chongqing Guanyinqiao 9th Street),影音房,29.579478,106.540768,138,4,164,0,182,1,248,1
+265,港城花园酒店(重庆沙坪坝三峡广场店),Gangcheng Garden Hotel,家庭房,29.549249,106.459429,103,2,122,0,135,1,184,4
+266,重庆RIGEL深空酒店,Rigel Hotel,免费停车,29.563477,106.585946,383,2,454,1,504,4,685,0
+267,丽怡酒店(重庆光环购物公园重光地铁站店),"Country Inn & Suites by Radisson,Chongqing Guanghuan Shopping Park Hotel",家庭房,29.651437,106.525816,232,0,274,0,305,0,415,2
+268,丽晶公寓(重庆沙坪坝高铁站金沙天街店),Regent Apartment,管家服务,29.554501,106.463225,124,0,147,1,163,3,222,2
+269,重庆万州万达广场美仑酒店,"Meilun Hotel, Wanda Plaza, Chongqing",免费停车,30.807487,108.37963,209,0,248,2,275,2,374,2
+270,重庆贝壳酒店(解放碑洪崖洞店),Shell Hotel Chongqing,拍照出片,29.559244,106.576995,73,3,86,1,96,2,131,2
+271,鹿也山居民宿(仙女山店),Luyeshanju  B&B (Fairy Mountain Branch),免费停车,29.415893,107.771455,135,2,160,0,178,0,242,0
+272,重庆栖林·楠苑酒店(黑山谷景区店),Chongqing Qilin·Nanyuan Hotel,免费停车,28.921095,107.00619,587,0,695,1,772,2,1050,1
+273,桔子酒店(重庆解放碑洪崖洞江景店),Orange Hotel (Chongqing Jiefangbei Hongyadong Riverview),江河景房,29.561244,106.573628,194,0,230,1,255,0,347,1
+274,有涧酒店(重庆爱琴海购物公园店),Youyi Homestay (Chongqing Aegean Shopping Park),停车场,29.639608,106.544977,140,2,166,2,184,1,250,2
+275,斯普兰精品酒店(江北国际机场店),Speland Boutique Hotel (Jiangbei International Airport Branch),24小时前台,29.719456,106.632923,56,3,67,2,74,1,101,1
+276,重庆解放碑中心美居酒店,MERCURE CHONGQING JIEFANGBEI HONGYA CAVE,免费停车,29.560382,106.579912,273,0,323,0,359,1,488,1
+277,蔚徕酒店(重庆观音桥店),Vluky Hotel (Chongqing Guanyinqiao),健身室,29.573392,106.541404,168,3,199,1,221,0,301,2
+278,重庆典雅戴斯酒店(九公里轻轨站店),Days Inn Chongqing Festival (Nine Kilometers Light Rail Station),免费停车,29.461605,106.560949,181,0,214,1,238,1,324,0
+279,雪洪酒店(仙女山游客中心店),Xuehong Hotel (Fairy Mountain Visitor Center),免费停车,29.422461,107.770461,81,0,96,0,107,1,146,0
+280,重庆界外美术馆民宿,Chongqing jiewai Art Museum Homestay,免费停车,29.539702,106.259394,325,1,384,2,427,0,581,3
+281,柏特酒店(鱼嘴鱼复工业园区店),Park Hotel (Yuzuiyu Fu Industrial Park),免费停车,29.630136,106.754193,142,2,168,1,187,2,254,1
+282,沐林栖酒店(重庆两江新区爱琴海购物公园店),Mulinqi Hotel (Chongqing Liangjiang New Area Aegean Shopping Park),充电桩,29.639578,106.54474,125,0,148,1,165,0,224,0
+283,云幕国际酒店(重庆北滨路鎏嘉码头店),"Yunmu International Hotel (Jiujia Wharf, Beibin Road, Chongqing)",酒店公寓,29.570561,106.558842,165,1,195,4,217,0,295,1
+284,维也纳酒店(重庆江津万达广场圣泉寺地铁站店),Vienna Hotel (Chongqing Jiangjin WandaPlaza Shengquan TempleMetro Station Branch),免费停车,29.306124,106.258264,158,1,187,1,208,2,283,0
+285,如家精选酒店(重庆牛角沱轻轨站李子坝店),Home Inn (Chongqing Niujiaoyu Light Rail Station Liziba Branch),空调,29.557856,106.542163,181,1,214,1,238,1,324,3
+286,重庆国航饭店(观音桥店),Chongqing Air China Hotel (Guanyin Bridge Branch),免费停车,29.584683,106.526997,201,2,238,2,264,0,359,2
+287,重庆NASITING·纳斯汀酒店(解放碑洪崖洞店),Chongqing NASITING Hotel (Monument to the people's Liberation Hongyadong Store),家庭房,29.559158,106.579154,220,0,260,0,289,0,393,4
+288,芭丽酒店(重庆冉家坝大龙山轻轨站店),Chongqing Bali Hotel,棋牌室,29.588503,106.498069,202,3,239,1,266,1,362,1
+289,维也纳酒店(重庆上清寺牛角沱轻轨站店),Vienna Hotel (Chongqing Shangqing Temple Niujiaotuo Light Rail Station),家庭房,29.560169,106.546108,211,0,249,0,277,0,377,1
+290,重庆仙女山山行居民宿,Chongqing Fairy Mountain Homestay,免费停车,29.41518,107.764209,224,0,266,2,295,3,401,2
+291,珮馥居客栈(重庆南滨路店),Peifuju,江河景房,29.540508,106.572472,145,4,172,1,191,1,260,2
+292,宜必思酒店(重庆江北国际机场店),Ibis Hotel (Jiangbei International Airport),管家服务,29.71348,106.627641,128,2,151,1,168,3,228,1
+293,北城酒店(重庆观音桥步行街店),Beicheng Hotel (Chongqing Guanyinqiao Pedestrian Street),情侣房,29.576475,106.531357,162,1,192,5,213,0,290,0
+294,名人酒店(华厦城店),Celebrity Hotel (Huaxiacheng Branch),免费停车,30.193893,105.83363,146,1,173,2,192,1,261,2
+295,麗枫酒店(重庆杨家坪步行街地铁站店),Lavande Hotel (Chongqing Yangjiaping Pedestrian Street Metro Station),洗衣房,29.509498,106.515427,138,2,164,2,182,0,248,2
+296,重庆南川新华酒店,Xinhua Hotel Nanchuan,棋牌室,29.157059,107.100034,141,0,167,1,186,0,253,0
+297,维也纳酒店(重庆西站西南医院店),Vienna Hotel(Chongqing West Railway Station Southwest Hospital Branch),免费停车,29.526092,106.451347,161,2,191,1,212,2,288,3
+298,里舍民宿(重庆解放碑较场口店),Lisir Apartmemt,江河景房,29.558578,106.577127,74,1,87,1,97,1,132,1
+299,喜客精品酒店(重庆江北工商大学店),Seeker Hotel (Chongqing Technology and Business University),免费停车,29.558852,106.529005,169,1,201,3,223,2,303,1
+300,维也纳酒店(重庆江津鼎山公园店),Vienna Hotel (Chongqing Jiangjin Dingshan Park),免费停车,29.262396,106.283619,160,3,189,4,210,0,286,1
+301,万州太白宾馆,Taibai Hotel,棋牌室,30.813325,108.372172,172,0,203,1,226,2,307,0
+302,重庆尚高酒店,Shanggao Hotel,免费停车,30.190248,105.841388,122,0,144,0,160,1,218,4
+303,君琦酒店,Junqi Hotel,免费停车,29.425891,107.769172,86,2,102,2,113,1,154,3
+304,四季有你假日酒店(长寿古镇长寿北站店),Four Seasons Youyou Holiday Hotel(Changshou Ancient Town Changshou North Station Store),家庭房,29.855009,107.067394,118,1,140,2,155,0,211,4
+305,重庆诺娅方州酒店,Chongqing Noia Fangzhou Hotel,管家服务,29.031035,106.654156,87,0,104,1,115,1,156,0
+306,恋磁逸客酒店(重庆磁器口地铁站店),Lianci Yike Hotel (Chongqing Ciqikou Subway Station),山景房,29.577423,106.44799,91,1,108,1,120,4,163,1
+307,重庆北站伊可莎大酒店,Excel Hotel,免费停车,29.607063,106.544171,226,0,267,1,297,2,404,1
+308,IU酒店(重庆大渡口步行街新山村地铁站店),IU Hotel (Chongqing Dadukou Pedestrian Street Xinshan Village Subway Station),棋牌室,29.47266,106.476949,126,1,149,1,166,3,226,2
+309,山栖厚舍高空江景酒店(重庆北滨路鎏嘉码头店),Shanqi Houshe High-altitude Riverview Hotel (Chongqing Beibin Road Yujia Wharf),江河景房,29.570328,106.56,186,2,220,4,245,1,333,0
+310,漫州国际酒店(重庆万盛汽车客运站宏恩财富广场店),Manzhou International Hotel (Wansheng Yaocheng),免费停车,28.947449,106.92589,84,2,100,2,111,1,151,1
+311,IU酒店(重庆西站新桥医院店),IU Hotel (West Railway Station Xinqiao Hospital),窗外好景,29.522869,106.449743,143,0,169,0,188,0,256,1
+312,重庆福瑞猫Free mall酒店(聚信建材城花卉园地铁站店),Chongqing Furui Cat Free mall Hotel,充电桩,29.580777,106.507321,141,1,167,1,186,1,253,2
+313,星程酒店(重庆观音桥步行街店),Starway Hotel (Zhongqing Guanyinqiao Pedestrian Street),商务中心,29.58777,106.524704,160,0,190,1,211,1,287,0
+314,麗枫酒店(重庆解放碑步行街店),Lavande Hotel (Chongqing Jiefangbei Pedestrian Street),管家服务,29.553363,106.578127,132,1,157,1,174,1,237,2
+315,重庆梦雪居酒店(重庆邮电大学店),Chongqing Mengxueju Hotel,24小时前台,29.537292,106.604322,285,0,338,1,375,0,510,2
+316,IU酒店(重庆万州万达广场店),IU Hotel (Chongqing Wanzhou Gaosuntang Plaza),山景房,30.811203,108.378098,105,3,124,2,138,0,188,1
+317,沃林酒店(重庆悦来国博会展中心店),Wolin Hotel (In Chongqing Yuelai National Expo Convention and Exhibition Center),24小时前台,29.709257,106.544715,163,1,194,2,215,3,292,0
+318,free·仰望高空酒店(重庆大坪时代天街店),Xuyu Boutique Hotel (Chongqing Daping Times Paradise Walk),茶室,29.533253,106.512363,92,1,109,0,121,0,165,0
+319,君顿酒店(开州汉丰湖店),Hanting Hotel (Kaizhou Hanfeng Lake),家庭房,31.17756,108.41001,125,1,148,0,165,1,224,3
+320,地中海酒店(重庆铜梁步行街万达广场店),Mediterranean Hotel,免费停车,29.836391,106.053155,89,2,105,0,117,0,159,0
+321,诗贝儿酒店(重庆电子科技职业大学店),Spell hotel,充电桩,29.614,106.322051,115,0,136,1,151,1,205,0
+322,宜必思酒店(重庆解放碑洪崖洞店),Ibis Hotel (Chongqing Jiefangbei Hongyadong),管家服务,29.558775,106.579548,131,1,155,2,172,0,234,0
+323,香奈酒店(重庆北站郑家院子地铁站店),Chanel Hotel (Chongqing North Railway Station Shin Kong Plaza),停车场,29.599546,106.527165,146,3,173,0,192,2,261,0
+324,雲山民宿(重庆解放碑洪崖洞店),Lushan Homestay (Chongqing Jiefangbei Hongyadong Branch),家庭房,29.55208,106.580391,89,0,105,0,117,0,159,1
+325,暴走熊电竞酒店(爱琴海光环购物公园店),Baozouxiong E-sports Hotel,茶室,29.639473,106.545685,72,2,86,2,95,1,129,2
+326,Ufia Hotel优菲娅解放碑设计师酒店,Ufia Jiefangbei Designer Hotel,设计师酒店,29.556026,106.57641,195,0,230,1,256,2,348,4
+327,重庆苏比克酒店(万州万达广场店),Subike Hotel,免费停车,30.813269,108.381596,111,2,131,2,146,0,199,0
+328,重庆瑞事成酒店,Chongqing Ruishicheng Hotel,管家服务,29.55034,106.439725,128,1,151,0,168,3,228,3
+329,富屿花园酒店(西南大学状元碑地铁站店),Fuyu Garden Hotel (Southwest University Zhuangyuanbei Subway Station),空调,29.802809,106.399743,83,1,98,0,109,0,148,1
+330,重庆天菲艺术酒店(奥体中心袁家岗地铁站店),Chongqing Tianfei Art Hotel (Olympic Sports Center Yuanjiagang Subway Station),停车场,29.523695,106.512528,88,1,104,0,116,3,158,1
+331,栖悦·江景精品公寓(重庆南滨路烟雨公园店),Qiyue River-view Boutique Apartment (Chongqing Nanbin Road Yanyu Park),酒店公寓,29.543225,106.586111,73,2,86,0,96,1,131,2
+332,榛果酒店(石桥铺仁悦天地店),Luguo Hotel (Shiqiaopu Renyue World Shop),24小时前台,29.527012,106.48249,87,1,104,1,115,2,156,1
+333,清华綦瑞酒店(重庆南滨路店),Qinghua Qirui Hotel,棋牌室,29.574981,106.601524,122,1,145,2,161,1,219,0
+334,丽程酒店(交通大学店),Licheng Hotel (Jiaotong University),免费停车,29.4146,106.304916,62,3,73,2,81,1,110,2
+335,希曼影院式酒店(重庆悦来国博中心中央公园店),Ximan Cinema Hotel (Chongqing Yuelai Convention and Exhibition Central Park),影音房,29.722059,106.572947,100,1,118,1,131,0,178,3
+336,森屿酒店(大竹林江与城店),Senyu Hotel (Dazhulin River and City),家庭房,29.620513,106.476098,135,0,160,1,178,0,242,3
+337,洛可艺术酒店(重庆西站西南医院店),Luoke Hotel (Chongqing Shapingba),棋牌室,29.529681,106.453409,91,0,108,1,120,0,163,0
+338,沁悦精品酒店(合川财富广场店),Hunyue Boutique Hotel (Hechuan Fortune Plaza Branch),免费停车,29.997571,106.260983,86,2,102,2,113,1,154,0
+339,Flcc 丽顿·春季酒店(泽胜中央广场店),Flcc Spring Hotel (Zesheng Central Plaza),24小时前台,29.700397,107.398658,112,4,133,0,148,1,201,0
+340,璞舍公寓(重庆冉家坝龙湖源著店),Yushe Apartment (Chongqing Ranjiaba Longhu Yuanzhu Branch),酒店公寓,29.603089,106.483408,107,3,127,1,141,2,192,0
+341,华爵酒店(重庆同景国际店),Huajue Hotel,24小时前台,29.499169,106.654527,52,1,62,1,69,2,94,1
+342,汉庭酒店(重庆荣昌南门桥步行街店),Hanting Hotel (Rongchang Pedestrain Street),免费停车,29.400866,105.591457,90,0,107,2,119,0,162,0
+343,汀兰酒店(重庆西站华龙地铁站店),Ting Lan Hotel,24小时前台,29.493545,106.454161,78,2,93,2,103,0,140,1
+344,重庆源旭酒店(江北机场店),"Yuanxuan Hotel, Chongqing",24小时前台,29.726315,106.629904,56,0,67,1,74,3,101,2
+345,重庆雅巢连锁时尚太空舱青年旅社,Yachao Capsule Apartment,情侣房,29.559171,106.580084,24,0,28,1,31,0,42,1
+346,凡辰江景酒店,shiguang hotel,民宿,29.55616,106.565573,93,1,110,1,122,1,166,1
+347,穗假日酒店,Sui Holiday lnn,家庭房,29.599231,106.313448,113,0,134,0,149,0,203,1
+348,观江心语酒店(重庆解放碑洪崖洞店),Guanjiang Xinyu Hotel (Chongqing Jiefangbei Hongyadong Branch),家庭房,29.561782,106.568648,108,0,128,0,142,1,193,1
+349,赛菲特酒店(重庆火车北站店),Saifert Hotel (Chongqing North Railway Station),24小时前台,29.603901,106.549755,80,4,94,0,105,1,143,2
+350,重庆仁安山茶酒店,REN'AN CAMELLIA HOTEL,免费停车,29.599454,106.559572,429,3,508,3,564,0,767,2
+351,豪庭精品酒店(重庆解放碑洪崖洞店),Haoting boutique hotel (chongqing jiefangbei hotel),24小时前台,29.558583,106.573659,62,1,73,0,81,0,110,1
+352,重庆欧润酒店(江北机场店),Chongqing Ou run hotel,棋牌室,29.702331,106.623566,71,0,85,0,94,1,128,0
+353,99优选酒店(重庆龙头寺火车北站店),99youxuan,山景房,29.60398,106.555289,59,1,69,1,77,0,105,0
+354,21ºC伴.高空观景酒店(重庆解放碑步行街店),21oC Ban. High-altitude View Hotel (Chongqing Jiefangbei Pedestrian Street),穿梭机场班车,29.558577,106.577405,134,0,158,0,176,2,239,3
+355,万澳致选酒店(重庆解放碑步行街店),Wan'ao Zhixuan Hotel (Chongqing Monument to the people's Liberation Pedestrian Street Store),家庭房,29.559467,106.575611,123,1,146,1,162,1,220,2
+356,重庆38.6℃主题影院酒店(杨家坪步行街店),38. 6℃ Cinema Thematic Hotel,酒店公寓,29.51143,106.517461,109,0,130,1,144,0,196,0
+357,都市118连锁酒店(重庆儿童医院本部店),City 118 Chain Hotel (Chongqing Children's Hospital),24小时前台,29.553928,106.552978,65,0,76,2,85,0,116,0
+358,哈啰轻酒店(重庆微电园地铁站店),Hello Hotel (Chongqing Weidian Metro Station Store),洗衣机,29.61306,106.363037,59,0,70,1,78,0,106,1
+359,重庆今与今至酒店,JinyuJinzhi Hotel,24小时前台,29.602926,106.553715,60,0,71,1,79,4,107,3
+360,新华酒店(重庆解放碑店),Xin Hua Hotel (Chongqing Jiefangbei),免费停车,29.556944,106.575825,182,2,215,1,239,0,325,4
+361,7天优品酒店(重庆南川政府广场店),qi tan you ping jiu dian chong qing nan chuan zheng fu guang chang dian,免费停车,29.16715,107.086234,86,1,102,1,113,1,154,2
+362,重庆天赐温泉度假酒店,Tianci Hot Spring Resort,桑拿,29.512364,106.369488,123,4,146,1,162,1,220,0
+363,柏曼酒店(重庆渝中大礼堂店),Berman Hotel (Chongqing Yuzhong Da Auditorium),家庭房,29.558778,106.551999,142,0,168,0,187,0,254,1
+364,维也纳3好酒店(重庆江北机场国际博览中心店),Vienna 3 Best Hotel (Chongqing Jiangbei International Airport ),棋牌室,29.718685,106.601704,141,1,166,3,185,0,252,3
+365,重庆融汇泉·别院,Ronghui Hot Spring Resort,免费停车,29.541731,106.440782,1519,3,1799,1,1999,0,2719,1
+366,7天酒店(重庆江北国际机场店),7 Days Inn (Chongqing Jiangbei International Airport),24小时前台,29.754093,106.633537,72,0,86,0,95,0,129,2
+367,汉庭酒店(重庆海尔工业园店),"Unit 2, Building 1, No. 53 Gangcheng West Road, Jiangbei District, Chongqing",停车场,29.622867,106.645143,160,0,189,2,210,0,286,1
+368,重庆柒悦度假酒店,Qiyue Resort Hotel,免费停车,29.42838,107.771257,235,1,278,3,309,1,420,1
+369,伊尔顿酒店(重庆能源职业学院店),Elton Hotel Chongqing Energy Vocational College Branch,影音房,29.425725,106.303522,86,0,102,0,113,1,154,1
+370,迷山上·SOMMET度假酒店(解放碑洪崖洞店),MISS SOMMET HOTEL,免费停车,29.556485,106.569096,415,1,491,1,546,3,743,2
+371,重庆艺术云界酒店(解放碑洪崖洞店),Chongqing Art Yunshang Hotel (Jiefangbei Hongyadong Shop),江河景房,29.55814,106.576786,89,4,105,1,117,0,159,2
+372,7天优品Premium酒店(重庆上清寺牛角沱地铁站店),7Days Premium Chongqing Shangqing Temple Niujiaotuo Light Rail Station Branch,智能马桶,29.558569,106.547863,94,2,112,0,124,0,169,0
+373,到此一栈店（重庆北站店）,A Stop Inn (Chongqing North Station Branch),行李寄存,29.604225,106.545648,29,2,33,7,36,0,61,1
+374,橙馨轻享酒店（解放碑洪崖洞店）,Orange Comfort Hotel (Jiefangbei Hongyadong Branch),行李寄存,29.55843,106.566636,55,3,63,7,68,2,116,4
+375,北欧X.time江景酒店(重庆解放碑店),Nordic X.time Riverside Hotel (Chongqing Jiefangbei Branch),停车场,29.558004,106.576603,95,8,110,2,118,4,201,7
+376,Mcsrh麦嘉·拾趣酒店（重庆解放碑洪崖洞店）,Mcsrh Maijia·Shiqu Hotel (Chongqing Jiefangbei Hongyadong Branch),儿童乐园,29.562216,106.587364,104,0,121,6,129,6,220,6
+377,云中阁酒店（重庆北站北广场店）,Cloud Pavilion Hotel (Chongqing North Station North Square Branch),停车场,29.613713,106.548952,47,4,55,0,59,2,100,4
+378,云庭酒店(石桥铺地铁站店),Yunting Hotel (Shiqiaopu Metro Station Branch),停车场,29.531387,106.48573,82,6,95,3,102,5,174,8
+379,重庆喜棠酒店（解放碑大礼堂店）,Chongqing Xitang Hotel (Jiefangbei Grand Hall Branch),停车场,29.562676,106.558449,52,4,61,3,65,0,111,6
+380,锦悦西畔酒店（重庆火车西站店）,Jinyue Westbank Hotel (Chongqing West Railway Station Branch),停车场,29.485553,106.438244,95,5,110,4,118,1,201,4
+381,重庆喜山酒店(解放碑洪崖洞店),Chongqing Xishan Hotel (Jiefangbei Hongyadong Branch),停车场,29.556947,106.561586,69,5,80,6,86,3,147,4
+382,东篱江畔酒店（重庆解放碑洪崖洞店）,Dongli Riverside Hotel (Chongqing Jiefangbei Hongyadong Branch),健身室,29.561369,106.573486,121,3,141,0,150,4,256,0
+383,泰宏住宿（重庆西站店）,Taihong Accommodation (Chongqing West Station Branch),停车场,29.49595,106.4416,38,3,44,6,47,4,80,8
+384,Mcsrh麦嘉·拾趣酒店（重庆解放碑步行街店）,Mcsrh Maijia Shiqu Hotel (Chongqing Jiefangbei Pedestrian Street Branch),停车场,29.557306,106.571902,112,5,130,7,139,1,237,3
+385,煊煊安丞江景民宿（重庆解放碑步行街洪崖洞店）,"Xuanxuan Ancheng Riverside Homestay (Hongyadong, Jiefangbei Pedestrian Street, Chongqing)",停车场,29.549969,106.57978,106,4,124,4,132,8,225,8
+386,城市云S酒店(重庆解放碑洪崖洞店）,City Cloud S Hotel (Chongqing Jiefangbei Hongyadong Branch),停车场,29.554565,106.575567,87,7,101,0,108,6,184,0
+387,山行间智能酒店（解放碑洪崖洞店）,Mountain Walk Smart Hotel (Jiefangbei Hongyadong Branch),停车场,29.557822,106.568146,89,7,103,3,110,1,188,3
+388,汉庭酒店(重庆荣昌南门桥步行街店),Hanting Hotel (Chongqing Rongchang Nanmenqiao Pedestrian Street Branch),停车场,29.400799,105.591396,119,1,138,1,147,8,251,3
+389,重庆万宸·蓝顿公寓酒店（重庆江北国际机场金港国际购物中心店）,Chongqing Wancheng Landun Apartment Hotel (Chongqing Jiangbei International Airport Jingang International Shopping Center Branch),停车场,29.715921,106.633601,50,6,58,5,62,7,106,4
+390,知友高空江景民宿（重庆解放碑洪崖洞店）,Zhiyou Riverside Sky-view Homestay (Chongqing Jiefangbei Hongyadong Branch),停车场,29.549201,106.568979,86,0,100,5,107,4,182,8
+391,扬际悦雅酒店（重庆解放碑中心店）,Yangji Yueya Hotel (Chongqing Jiefangbei Central Branch),停车场,29.554741,106.579448,117,0,136,8,145,4,247,3
+392,金格酒店(解放碑步行街洪崖洞店),Jinge Hotel (Jiefangbei Pedestrian Street Hongyadong Branch),停车场,29.549905,106.57484,61,8,71,4,76,0,129,7
+393,如家索特兰纳酒店（重庆石桥铺地铁站店）,Home Inn Soteranna Hotel (Chongqing Shiqiaopu Metro Station Branch),健身室,29.532874,106.48721,82,5,95,0,102,5,174,3
+394,重庆悦荟美酒店（重庆西站二郎地铁站店）,Chongqing Yuehui Mei Hotel (Chongqing West Station Erlang Metro Station Branch),停车场,29.504666,106.458026,111,7,129,6,138,3,235,7
+395,岚山·高空江景酒店（解放碑洪崖洞店）,Lanshan · High-Altitude River View Hotel (Jiefangbei Hongyadong Branch),停车场,29.54912,106.568887,114,8,132,0,141,2,241,5
+396,棠舍拙季江景酒店（重庆解放碑洪崖洞店）,Tangshe Zhuoji Riverside Hotel (Chongqing Jiefangbei Hongyadong Branch),儿童乐园,29.551579,106.582395,105,3,122,1,130,6,222,8
+397,重庆观邸·轻居酒店（人民大礼堂曾家岩轻轨站店）,Chongqing Guandi · Light Residence Hotel (People's Great Hall Zengjiayan Light Rail Station Branch),停车场,29.56095,106.550795,95,7,110,2,118,8,201,6
+398,凡雅小舍酒店（重庆永川东站文理学院店）,Fanya Little House Hotel (Chongqing Yongchuan East Station Wenli College Branch),停车场,29.360439,105.936204,71,5,82,8,88,6,150,0
+399,重庆蔚蓝拾光酒店,Chongqing Azure Time Hotel,停车场,29.582368,106.527383,62,8,72,3,77,6,131,6
+400,悦漫智能酒店（重庆解放碑十八梯店）,Yuemann Smart Hotel (Chongqing Jiefangbei Shibat Ladder Branch),行李寄存,29.549221,106.572657,71,6,82,4,88,7,150,0
+401,重庆彩嘉酒店（解放碑洪崖洞店）,Chongqing Caijia Hotel (Jiefangbei Hongyadong Branch),停车场,29.556581,106.572427,61,8,71,8,76,4,129,2
+402,重庆米未酒店,Chongqing Miwei Hotel,停车场,29.582765,106.524715,48,6,56,3,60,4,102,4
+403,中奕酒店（重庆西站店）,Zhongyi Hotel (Chongqing West Station Branch),停车场,29.51824,106.450757,59,2,68,6,73,1,124,1
+404,华翔大酒店(重庆解放碑步行街洪崖洞店),Huaxiang Grand Hotel (Chongqing Jiefangbei Pedestrian Street Hongyadong Branch),停车场,29.559553,106.575488,71,5,82,5,88,7,150,7
+405,斯悦酒店（软件产业中心财富Mall店）,Siyue Hotel (Software Industry Center Fortune Mall Branch),停车场,29.608131,106.500321,97,0,112,3,120,2,205,1
+406,泊尊·雲境高空酒店（龙湖时代天街袁家岗地铁站店）,Bozun · Yunjing High-Altitude Hotel (Longhu Times Tianjie Yuanjiagang Metro Station Branch),健身室,29.526564,106.516837,118,0,137,2,146,6,249,5
+407,望山栖酒店（重庆上清寺牛角沱地铁站店）,Wangshanqi Hotel (Chongqing Shangqingsi Niujiaotuo Metro Station Branch),健身室,29.558595,106.548153,119,5,139,7,148,1,253,8
+408,玥辰酒店（时代天街歇台子地铁站店）,Yuechen Hotel (Times Tianjie Xietaizi Metro Station Branch),停车场,29.536356,106.498566,106,2,123,7,131,4,224,5
+409,来住·View丨云端书舍酒店（上清寺牛角沱地铁站店）,Laizhu · View | Cloud Top Book House Hotel (Shangqingsi Niujiaotuo Metro Station Branch),停车场,29.561193,106.546385,85,4,98,1,105,7,179,8
+410,东东熊影音民宿（重庆高铁东站茶园店）,Dongdong Bear Audio-Visual Homestay (Chongqing High-Speed Rail East Station Chayuan Branch),停车场,29.49551,106.664481,29,0,33,4,36,7,61,3
+411,枝烁青年旅舍（解放碑洪崖洞店）,Zhishuo Youth Hostel (Jiefangbei Hongyadong Branch),停车场,29.558028,106.57221,24,7,28,8,30,6,51,5
+412,吃山02救赎青年旅店（重庆两路口皇冠大扶梯店）,Chishan 02 Redemption Youth Hostel (Chongqing Lianglukou Crown Escalator Store),行李寄存,29.552173,106.548793,58,4,67,3,72,2,123,5
+413,维尔斯酒店（重庆解放碑七星岗地铁站店）,Wells Hotel (Chongqing Jiefangbei Qixinggang Metro Station Store),停车场,29.556308,106.567201,97,3,112,6,120,0,205,1
+414,重庆晚语loft复式精品酒店（观音桥龙湖新壹街店）,Chongqing Wanyu Loft Duplex Boutique Hotel (Guanyinqiao Longhu New Yijie Store),停车场,29.581751,106.525254,98,1,114,4,122,7,208,5
+415,重庆一叙·庆遇酒店（解放碑洪崖洞店）,Chongqing Yixu Qingyu Hotel (Jiefangbei Hongyadong Store),停车场,29.55684,106.5769,120,1,140,2,149,2,254,8
+416,安绮美酒店（观音桥红旗河沟地铁站店）,Anqimei Hotel (Guanyinqiao Hongqihegou Metro Station Store),停车场,29.587755,106.524543,56,0,65,8,70,0,119,8
+417,卡兰斯酒店（重庆江北国际机场渝北广场地铁站店）,Karance Hotel (Chongqing Jiangbei International Airport Yubei Square Metro Station Store),行李寄存,29.719414,106.63237,54,0,62,6,67,6,114,4
+418,山屿江澜高空江景民宿（解放碑步行街洪崖洞店）,Shanyu Jianglan High-altitude River View Homestay (Jiefangbei Pedestrian Street Hongyadong Store),行李寄存,29.56185,106.581036,76,0,89,6,95,0,162,8
+419,扬际•墨庭江景酒店（解放碑洪崖洞店）,Yangji • Moting River View Hotel (Jiefangbei Hongyadong Store),停车场,29.560784,106.579319,109,8,126,3,135,4,230,3
+420,IU酒店（重庆石桥铺地铁站店）,IU Hotel (Chongqing Shiqiaopu Metro Station Store),停车场,29.533512,106.491368,95,2,110,1,118,5,201,4
+421,冉小姐的家江景民宿（解放碑步行街洪崖洞店）,Miss Ran's Home River View Homestay (Jiefangbei Pedestrian Street Hongyadong Store),停车场,29.550014,106.579806,89,0,104,5,111,3,189,5
+422,21ºC伴.高空观景酒店（重庆解放碑步行街店）,21ºC Companion High-altitude Viewing Hotel (Chongqing Jiefangbei Pedestrian Street Store),停车场,29.558464,106.577092,118,2,137,0,146,1,249,8
+423,Sebory喜铂丽酒店（重庆南坪万达协信店）,Sebory Hotel (Chongqing Nanping Wanda Xiexin Store),停车场,29.522985,106.571897,89,7,103,3,110,3,188,1
+424,宏源酒店（重庆沙坪坝三峡广场店）,Hongyuan Hotel (Chongqing Shapingba Three Gorges Square Store),停车场,29.55817,106.464452,38,2,44,4,47,8,80,2
+425,和谐宾馆（重庆万达广场店）,Harmony Guesthouse (Chongqing Wanda Plaza Store),停车场,29.527999,106.562936,38,2,44,6,47,2,80,1
+426,重庆全家福酒店（大学城地铁站熙街店）,Chongqing Family Happiness Hotel (University Town Metro Station Xijie Store),停车场,29.600659,106.30516,46,4,54,1,58,4,99,8
+427,泊仟客高空江景酒店（解放碑洪崖洞店）,Boqianke High-altitude River View Hotel (Jiefangbei Hongyadong Store),停车场,29.559629,106.579757,94,4,109,7,117,0,200,2
+428,7天优品酒店(重庆南坪步行街轻轨站店),7 Days Premium Hotel (Chongqing Nanping Pedestrian Street Light Rail Station Store),停车场,29.521893,106.564624,77,0,90,2,96,6,164,0
+429,重庆达达酒店,Chongqing Dada Hotel,停车场,29.57204,106.52919,51,8,60,6,64,0,109,8
+430,宽念酒店（重庆西站高铁站店）,Kuannian Hotel (Chongqing West Station High-speed Rail Station Store),停车场,29.495319,106.448011,87,0,101,5,108,7,184,4
+431,新重庆甜橙民宿（解放碑洪崖洞店）,New Chongqing Sweet Orange Homestay (Jiefangbei Hongyadong Store),停车场,29.561151,106.582025,113,7,131,0,140,3,239,7
+432,重庆喜都TopView高空酒店（重庆冉家坝大龙山轻轨店）,Chongqing Xidu TopView Sky Hotel (Chongqing Ranjia Ba Dalongshan Light Rail Store),停车场,29.584636,106.497403,102,8,119,1,127,3,217,2
+433,重庆·云尚|Vista观景·多元素影音美宿（解放碑步行街洪崖洞店）,Chongqing Yunshang | Vista Scenic Multi-element Audiovisual Boutique Hotel (Jiefangbei Pedestrian Street Hongyadong Store),停车场,29.554173,106.574088,85,5,98,5,105,7,179,7
+434,青柚共享酒店（解放碑步行街洪崖洞店）,Qingyou Shared Hotel (Jiefangbei Pedestrian Street Hongyadong Store),健身室,29.555177,106.572297,34,3,40,1,43,1,73,7
+435,创星酒店（大坪医院店）,Chuangxing Hotel (Daping Hospital Store),停车场,29.542443,106.526839,61,1,71,3,76,1,129,7
+436,7天优品Premium酒店（重庆西站站前广场店）,7 Days Premium Hotel (Chongqing West Station Front Square Store),停车场,29.508177,106.437014,102,0,118,1,126,8,215,5
+437,知北游江景民宿(解放碑步行街店）,Zhibei You River View Homestay (Jiefangbei Pedestrian Street Store),停车场,29.549954,106.577264,49,4,57,0,61,3,104,3
+438,重庆金阳馨缘酒店（西南医院店）,Chongqing Jinyang Xinyuan Hotel (Southwest Hospital Store),停车场,29.534965,106.457086,42,0,48,2,52,4,88,2
+439,凡尘·slow life江景民宿(重庆解放碑洪崖洞店),Fancheng Slow Life River View Homestay (Chongqing Jiefangbei Hongyadong Store),停车场,29.56132,106.588398,102,5,119,3,127,2,217,0
+440,重庆悦庭・映象民宿（南滨路长江索道店）,Chongqing Yueting · Impression Homestay (Nanbin Road Yangtze River Cableway Store),停车场,29.542625,106.586125,66,6,77,0,82,6,140,4
+441,波罗的海酒店（重庆解放碑步行街洪崖洞店）,Baltic Hotel (Chongqing Jiefangbei Pedestrian Street Hongyadong Store),停车场,29.55224,106.576,71,1,82,8,88,0,150,8
+442,百合酒店（重庆解放碑洪崖洞店）,Lily Hotel (Chongqing Jiefangbei Hongyadong Store),行李寄存,29.557605,106.569762,56,2,65,4,70,5,119,7
+443,阿刚民宿（巴国城店）,Agang Homestay (Baguo City Store),普通酒店,29.50192,106.4767,39,6,46,0,49,1,83,0
+444,SY·百屿江景民宿(解放碑洪崖洞店）,SY · Baiyu River View Homestay (Jiefangbei Hongyadong Store),停车场,29.560464,106.570979,76,0,89,4,95,5,162,6
+445,落脚城市青年旅舍(重庆中山四路店),Luojiao City Youth Hostel (Chongqing Zhongshan Fourth Road Store),行李寄存,29.559418,106.54779,29,4,34,7,37,1,63,6
+446,巴里岛假日酒店(重庆江北国际机场店),Bali Island Holiday Hotel (Chongqing Jiangbei International Airport Store),棋牌室,29.718185,106.601742,50,6,58,4,62,7,106,5
+447,SeeU来寓酒店（璧山轻轨站店）,SeeU Laiyu Hotel (Bishan Light Rail Station Store),停车场,29.613748,106.229372,55,2,64,8,69,2,117,4
+448,映月居酒店（重庆火车北站店）,Yingyueju Hotel (Chongqing North Railway Station Store),停车场,29.613742,106.547429,91,1,106,2,113,3,193,8
+449,重庆·7天|WelcomeGoodSleepDailys酒店(石桥铺陈家坪地铁站店),Chongqing · 7 Days | Welcome Good Sleep Dailys Hotel (Shiqiaopu Chenjiaping Metro Station Store),停车场,29.523808,106.510588,61,1,71,0,76,3,129,5
+450,栖渲独栋江景酒店（解放碑洪崖洞店）,Qixuan Detached River View Hotel (Jiefangbei Hongyadong Store),停车场,29.553242,106.582405,97,2,112,8,120,5,205,2
+451,相柠酒店(重庆解放碑步行街洪崖洞店),Xiangning Hotel (Chongqing Jiefangbei Pedestrian Street Hongyadong Store),停车场,29.558599,106.575249,78,2,91,3,97,6,165,3
+452,海尚丨 HONORABLEINCOMPARADBLE酒店(石桥铺陈家坪地铁站店),Haishang | HONORABLE INCOMPARABLE Hotel (Shiqiaopu Chenjiaping Metro Station Branch),停车场,29.525816,106.485785,84,0,97,4,104,8,177,0
+453,重庆芸缦丨Yuman・Blue设计酒店(袁家岗地铁站重医附一院店),Chongqing Yuman | Yuman Blue Design Hotel (Yuanjiagang Metro Station Chongqing Medical University Affiliated Hospital Branch),停车场,29.52898,106.512525,87,6,101,6,108,1,184,3
+454,月来月好民宿（重庆北站店）,Yuellaiyuehao Homestay (Chongqing North Station Branch),行李寄存,29.604147,106.545476,30,0,35,6,38,1,64,0
+455,重庆慕云思酒店（观音桥九街店）,Chongqing Muyunsi Hotel (Guanyinqiao Jiujie Branch),停车场,29.579665,106.543124,92,3,107,4,114,8,194,1
+456,泊逸•臻品酒店（重庆北站狮子坪地铁站店）,Boyi • Premium Hotel (Chongqing North Station Shiziping Metro Station Branch),停车场,29.599199,106.548706,72,7,83,2,89,7,152,3
+457,重庆・栖岸酒店（袁家岗地铁站重医附一院店),Chongqing • Qian Hotel (Yuanjiagang Metro Station Chongqing Medical University Affiliated Hospital Branch),停车场,29.529609,106.510012,78,0,91,2,97,5,165,8
+458,重庆铭悦小栈（重庆西站店）,Chongqing Mingyue Inn (Chongqing West Station Branch),停车场,29.518188,106.450833,43,3,50,6,54,0,92,6
+459,悦客家江景公寓（重庆解放碑洪崖洞店）,Yueke Home River-view Apartment (Chongqing Jiefangbei Hongyadong Branch),停车场,29.553625,106.577575,68,2,78,1,84,2,143,7
+460,重生·原木风民宿(巴南万达广场店),Reborn • Original Wood Style Homestay (Banan Wanda Plaza Branch),停车场,29.839177,106.075598,66,8,77,0,82,6,140,6
+461,往来商务酒店（重庆北站店）,Wanglai Business Hotel (Chongqing North Station Branch),普通酒店,29.604099,106.549808,44,5,51,4,55,3,94,4
+462,渝里设计师民宿（解放碑七星岗地铁站店）,Yuli Designer Homestay (Jiefangbei Qixinggang Metro Station Branch),停车场,29.555246,106.564694,118,6,137,8,146,3,249,4
+463,7天优品酒店(重庆铜梁传媒职业学院店),7 Days Premium Hotel (Chongqing Tongliang Media Vocational College Branch),行李寄存,29.849225,106.06955,63,7,73,5,78,1,133,1
+464,云见栖舍酒店（重庆观音桥步行街九街店）,Yunjian Qishe Hotel (Chongqing Guanyinqiao Pedestrian Street Jiujie Branch),停车场,29.572536,106.54195,107,6,125,8,133,4,227,0
+465,DADA木马酒店(重庆观音桥步行街店),DADA Trojan Horse Hotel (Chongqing Guanyinqiao Pedestrian Street Branch),停车场,29.578428,106.53285,93,0,108,8,115,2,196,8
+466,重庆•易佰｜WARMWIPEWHLBATHMERGEMNIMALMOD酒店(观音桥地铁站店),Chongqing • Yibai | WARMWIPEWHLBATHMERGEMNIMALMOD Hotel (Guanyinqiao Metro Station Branch),停车场,29.572247,106.532639,69,0,80,5,86,7,147,7
+467,亮艳•半岛高空江景青年旅舍（解放碑洪崖洞店）,Liangyan • Peninsula High-altitude River-view Youth Hostel (Jiefangbei Hongyadong Branch),洗衣房,29.563299,106.586965,22,3,26,6,28,1,47,3
+468,贝斯特酒店(重庆观音桥黄泥磅地铁站店),Best Hotel (Chongqing Guanyinqiao Huangnibang Metro Station Branch),停车场,29.590043,106.539841,98,7,113,0,121,4,206,5
+469,落脚城市·江景民宿,Luo Jiao City • River-view Homestay,普通酒店,29.559929,106.514584,106,7,123,1,131,3,224,6
+470,尚居酒店(重庆江北机场金港国际购物中心店),Shangju Hotel (Chongqing Jiangbei Airport Jingang International Shopping Center Branch),行李寄存,29.716597,106.629587,91,2,106,4,113,7,193,7
+471,庭瑞酒店（重庆火车北站南广场店）,Tingrui Hotel (Chongqing North Railway Station South Square Branch),停车场,29.603971,106.549533,79,8,92,6,98,1,167,8
+472,HIFI酒店(重庆解放碑步行街洪崖洞店),"HIFI Hotel (Hongyadong, Jiefangbei Pedestrian Street, Chongqing)",行李寄存,29.560289,106.575328,35,1,41,7,44,6,75,8
+473,重庆季庭观景酒店（解放碑步行街洪崖洞店）,"Chongqing Jiting Scenic Hotel (Hongyadong, Jiefangbei Pedestrian Street)",停车场,29.557115,106.574483,96,0,111,0,119,8,203,5
+474,7天优品Premium酒店(重庆火车北站北广场中心店),"7 Days Premium Hotel (North Square Central, Chongqing North Railway Station)",停车场,29.613588,106.548532,99,0,115,1,123,7,210,1
+475,锦韵酒店（重庆解放碑店）,"Jinyun Hotel (Jiefangbei, Chongqing)",棋牌室,29.556931,106.561601,50,3,58,7,62,8,106,4
+476,云朵江景酒店(重庆解放碑十八梯店),"Yunduo Riverside Hotel (Shibatiao, Jiefangbei, Chongqing)",行李寄存,29.549104,106.569014,79,1,92,1,98,7,167,5
+477,不晚·山城酒店（重庆北滨路店）,"Not Late Mountain City Hotel (Beibin Road, Chongqing)",停车场,29.578584,106.562543,89,7,104,4,111,7,189,3
+478,重庆景慕酒店（鸳鸯轻轨站店）,Chongqing Jingmu Hotel (Yuanyang Light Rail Station),停车场,29.659669,106.56046,59,4,68,1,73,2,124,0
+479,重庆永利酒店（沙坪坝三峡广场店）,"Chongqing Yongli Hotel (Sanxia Square, Shapingba)",停车场,29.557491,106.459953,68,1,78,1,84,7,143,1
+480,云舍酒店（解放碑洪崖洞店）,Yunshe Hotel (Jiefangbei Hongyadong),停车场,29.558362,106.58231,75,7,87,6,93,6,159,2
+481,晨宏民宿（解放碑洪崖洞店）,Chenhong Homestay (Jiefangbei Hongyadong),行李寄存,29.554031,106.571906,59,1,68,3,73,0,124,7
+482,重庆吃山文化青年旅店,"Chishan Culture Youth Hostel, Chongqing",厨房,29.561122,106.581969,42,2,48,6,52,5,88,8

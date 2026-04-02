@@ -1,0 +1,1912 @@
+[
+  {
+    "TrainID": "K528",
+    "TrainType": "快速",
+    "From": "杭州南站",
+    "To": "苏州站",
+    "BeginTime": "01:55",
+    "EndTime": "05:02",
+    "Duration": 3.12,
+    "Cost": 41.5
+  },
+  {
+    "TrainID": "C3066",
+    "TrainType": "城际",
+    "From": "杭州西站",
+    "To": "苏州南站",
+    "BeginTime": "06:41",
+    "EndTime": "07:44",
+    "Duration": 1.05,
+    "Cost": 56.0
+  },
+  {
+    "TrainID": "C3672",
+    "TrainType": "城际",
+    "From": "杭州西站",
+    "To": "苏州南站",
+    "BeginTime": "06:55",
+    "EndTime": "07:38",
+    "Duration": 0.72,
+    "Cost": 61.0
+  },
+  {
+    "TrainID": "G3272",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州盛泽站",
+    "BeginTime": "07:00",
+    "EndTime": "07:43",
+    "Duration": 0.72,
+    "Cost": 43.0
+  },
+  {
+    "TrainID": "G3272",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州常熟站",
+    "BeginTime": "07:00",
+    "EndTime": "09:18",
+    "Duration": 2.3,
+    "Cost": 133.0
+  },
+  {
+    "TrainID": "K470",
+    "TrainType": "快速",
+    "From": "杭州南站",
+    "To": "苏州站",
+    "BeginTime": "07:07",
+    "EndTime": "11:28",
+    "Duration": 4.35,
+    "Cost": 41.5
+  },
+  {
+    "TrainID": "C3062",
+    "TrainType": "城际",
+    "From": "杭州西站",
+    "To": "苏州南站",
+    "BeginTime": "07:18",
+    "EndTime": "08:02",
+    "Duration": 0.73,
+    "Cost": 56.0
+  },
+  {
+    "TrainID": "G1866",
+    "TrainType": "高铁",
+    "From": "杭州东站",
+    "To": "苏州北站",
+    "BeginTime": "07:27",
+    "EndTime": "09:09",
+    "Duration": 1.7,
+    "Cost": 123.0
+  },
+  {
+    "TrainID": "D2160",
+    "TrainType": "动车",
+    "From": "杭州东站",
+    "To": "苏州常熟站",
+    "BeginTime": "07:37",
+    "EndTime": "09:49",
+    "Duration": 2.2,
+    "Cost": 110.0
+  },
+  {
+    "TrainID": "D2160",
+    "TrainType": "动车",
+    "From": "杭州东站",
+    "To": "苏州张家港站",
+    "BeginTime": "07:37",
+    "EndTime": "10:01",
+    "Duration": 2.4,
+    "Cost": 118.0
+  },
+  {
+    "TrainID": "C3610",
+    "TrainType": "城际",
+    "From": "杭州西站",
+    "To": "苏州盛泽站",
+    "BeginTime": "08:07",
+    "EndTime": "08:43",
+    "Duration": 0.6,
+    "Cost": 59.0
+  },
+  {
+    "TrainID": "G7372",
+    "TrainType": "高铁",
+    "From": "杭州东站",
+    "To": "苏州园区站",
+    "BeginTime": "08:09",
+    "EndTime": "09:50",
+    "Duration": 1.68,
+    "Cost": 118.0
+  },
+  {
+    "TrainID": "G7372",
+    "TrainType": "高铁",
+    "From": "杭州东站",
+    "To": "苏州站",
+    "BeginTime": "08:09",
+    "EndTime": "10:03",
+    "Duration": 1.9,
+    "Cost": 122.0
+  },
+  {
+    "TrainID": "G7580",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州南站",
+    "BeginTime": "08:12",
+    "EndTime": "09:02",
+    "Duration": 0.83,
+    "Cost": 67.0
+  },
+  {
+    "TrainID": "G7580",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州太仓站",
+    "BeginTime": "08:12",
+    "EndTime": "10:06",
+    "Duration": 1.9,
+    "Cost": 126.0
+  },
+  {
+    "TrainID": "G7580",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州常熟站",
+    "BeginTime": "08:12",
+    "EndTime": "10:27",
+    "Duration": 2.25,
+    "Cost": 144.0
+  },
+  {
+    "TrainID": "G7580",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州张家港站",
+    "BeginTime": "08:12",
+    "EndTime": "10:39",
+    "Duration": 2.45,
+    "Cost": 151.0
+  },
+  {
+    "TrainID": "G3754",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州南站",
+    "BeginTime": "08:27",
+    "EndTime": "09:17",
+    "Duration": 0.83,
+    "Cost": 70.0
+  },
+  {
+    "TrainID": "G3754",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州太仓站",
+    "BeginTime": "08:27",
+    "EndTime": "10:27",
+    "Duration": 2.0,
+    "Cost": 136.0
+  },
+  {
+    "TrainID": "G3754",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州常熟站",
+    "BeginTime": "08:27",
+    "EndTime": "10:48",
+    "Duration": 2.35,
+    "Cost": 155.0
+  },
+  {
+    "TrainID": "G3754",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州张家港站",
+    "BeginTime": "08:27",
+    "EndTime": "10:59",
+    "Duration": 2.53,
+    "Cost": 162.0
+  },
+  {
+    "TrainID": "C3054",
+    "TrainType": "城际",
+    "From": "杭州西站",
+    "To": "苏州南站",
+    "BeginTime": "09:09",
+    "EndTime": "09:52",
+    "Duration": 0.72,
+    "Cost": 56.0
+  },
+  {
+    "TrainID": "G7172",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州南站",
+    "BeginTime": "09:14",
+    "EndTime": "09:57",
+    "Duration": 0.72,
+    "Cost": 61.0
+  },
+  {
+    "TrainID": "G7172",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州太仓站",
+    "BeginTime": "09:14",
+    "EndTime": "11:04",
+    "Duration": 1.83,
+    "Cost": 122.0
+  },
+  {
+    "TrainID": "G7172",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州张家港站",
+    "BeginTime": "09:14",
+    "EndTime": "11:26",
+    "Duration": 2.2,
+    "Cost": 144.0
+  },
+  {
+    "TrainID": "C3064",
+    "TrainType": "城际",
+    "From": "杭州西站",
+    "To": "苏州南站",
+    "BeginTime": "09:19",
+    "EndTime": "10:02",
+    "Duration": 0.72,
+    "Cost": 56.0
+  },
+  {
+    "TrainID": "G7764",
+    "TrainType": "高铁",
+    "From": "杭州东站",
+    "To": "苏州北站",
+    "BeginTime": "09:25",
+    "EndTime": "11:02",
+    "Duration": 1.62,
+    "Cost": 128.0
+  },
+  {
+    "TrainID": "C3060",
+    "TrainType": "城际",
+    "From": "杭州西站",
+    "To": "苏州盛泽站",
+    "BeginTime": "09:29",
+    "EndTime": "10:05",
+    "Duration": 0.6,
+    "Cost": 43.0
+  },
+  {
+    "TrainID": "G8322",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州站",
+    "BeginTime": "09:37",
+    "EndTime": "11:35",
+    "Duration": 1.97,
+    "Cost": 137.0
+  },
+  {
+    "TrainID": "G7524",
+    "TrainType": "高铁",
+    "From": "杭州东站",
+    "To": "苏州张家港站",
+    "BeginTime": "09:37",
+    "EndTime": "11:45",
+    "Duration": 2.13,
+    "Cost": 134.0
+  },
+  {
+    "TrainID": "G7572",
+    "TrainType": "高铁",
+    "From": "杭州南站",
+    "To": "苏州站",
+    "BeginTime": "09:45",
+    "EndTime": "11:40",
+    "Duration": 1.92,
+    "Cost": 136.0
+  },
+  {
+    "TrainID": "D2912",
+    "TrainType": "动车",
+    "From": "杭州西站",
+    "To": "苏州南站",
+    "BeginTime": "09:52",
+    "EndTime": "10:48",
+    "Duration": 0.93,
+    "Cost": 61.0
+  },
+  {
+    "TrainID": "D2912",
+    "TrainType": "动车",
+    "From": "杭州西站",
+    "To": "苏州太仓站",
+    "BeginTime": "09:52",
+    "EndTime": "12:04",
+    "Duration": 2.2,
+    "Cost": 118.0
+  },
+  {
+    "TrainID": "D2912",
+    "TrainType": "动车",
+    "From": "杭州西站",
+    "To": "苏州常熟站",
+    "BeginTime": "09:52",
+    "EndTime": "12:25",
+    "Duration": 2.55,
+    "Cost": 136.0
+  },
+  {
+    "TrainID": "D2912",
+    "TrainType": "动车",
+    "From": "杭州西站",
+    "To": "苏州张家港站",
+    "BeginTime": "09:52",
+    "EndTime": "12:37",
+    "Duration": 2.75,
+    "Cost": 143.0
+  },
+  {
+    "TrainID": "G7316",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州南站",
+    "BeginTime": "09:57",
+    "EndTime": "10:43",
+    "Duration": 0.77,
+    "Cost": 70.0
+  },
+  {
+    "TrainID": "G7572",
+    "TrainType": "高铁",
+    "From": "杭州东站",
+    "To": "苏州站",
+    "BeginTime": "09:57",
+    "EndTime": "11:40",
+    "Duration": 1.72,
+    "Cost": 125.0
+  },
+  {
+    "TrainID": "G7316",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州站",
+    "BeginTime": "09:57",
+    "EndTime": "11:55",
+    "Duration": 1.97,
+    "Cost": 152.0
+  },
+  {
+    "TrainID": "G1228",
+    "TrainType": "高铁",
+    "From": "杭州东站",
+    "To": "苏州北站",
+    "BeginTime": "10:02",
+    "EndTime": "11:58",
+    "Duration": 1.93,
+    "Cost": 114.0
+  },
+  {
+    "TrainID": "K808",
+    "TrainType": "快速",
+    "From": "杭州南站",
+    "To": "苏州站",
+    "BeginTime": "10:05",
+    "EndTime": "13:55",
+    "Duration": 3.83,
+    "Cost": 41.5
+  },
+  {
+    "TrainID": "G8387",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州站",
+    "BeginTime": "10:08",
+    "EndTime": "16:22",
+    "Duration": 6.23,
+    "Cost": 474.0
+  },
+  {
+    "TrainID": "C3616",
+    "TrainType": "城际",
+    "From": "杭州西站",
+    "To": "苏州南站",
+    "BeginTime": "10:09",
+    "EndTime": "10:53",
+    "Duration": 0.73,
+    "Cost": 61.0
+  },
+  {
+    "TrainID": "C3058",
+    "TrainType": "城际",
+    "From": "杭州西站",
+    "To": "苏州南站",
+    "BeginTime": "10:17",
+    "EndTime": "11:01",
+    "Duration": 0.73,
+    "Cost": 61.0
+  },
+  {
+    "TrainID": "T112",
+    "TrainType": "特快",
+    "From": "杭州站",
+    "To": "苏州站",
+    "BeginTime": "10:17",
+    "EndTime": "13:02",
+    "Duration": 2.75,
+    "Cost": 40.5
+  },
+  {
+    "TrainID": "G1412",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州盛泽站",
+    "BeginTime": "10:22",
+    "EndTime": "11:15",
+    "Duration": 0.88,
+    "Cost": 62.0
+  },
+  {
+    "TrainID": "C3102",
+    "TrainType": "城际",
+    "From": "杭州西站",
+    "To": "苏州南站",
+    "BeginTime": "10:27",
+    "EndTime": "11:18",
+    "Duration": 0.85,
+    "Cost": 74.0
+  },
+  {
+    "TrainID": "G7586",
+    "TrainType": "高铁",
+    "From": "杭州东站",
+    "To": "苏州站",
+    "BeginTime": "10:38",
+    "EndTime": "12:16",
+    "Duration": 1.63,
+    "Cost": 133.0
+  },
+  {
+    "TrainID": "G3132",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州盛泽站",
+    "BeginTime": "10:39",
+    "EndTime": "11:23",
+    "Duration": 0.73,
+    "Cost": 59.0
+  },
+  {
+    "TrainID": "G3132",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州太仓站",
+    "BeginTime": "10:39",
+    "EndTime": "12:32",
+    "Duration": 1.88,
+    "Cost": 133.0
+  },
+  {
+    "TrainID": "G3132",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州常熟站",
+    "BeginTime": "10:39",
+    "EndTime": "12:57",
+    "Duration": 2.3,
+    "Cost": 151.0
+  },
+  {
+    "TrainID": "G3132",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州张家港站",
+    "BeginTime": "10:39",
+    "EndTime": "13:09",
+    "Duration": 2.5,
+    "Cost": 158.0
+  },
+  {
+    "TrainID": "G7576",
+    "TrainType": "高铁",
+    "From": "杭州南站",
+    "To": "苏州站",
+    "BeginTime": "10:52",
+    "EndTime": "12:46",
+    "Duration": 1.9,
+    "Cost": 140.0
+  },
+  {
+    "TrainID": "G7576",
+    "TrainType": "高铁",
+    "From": "杭州东站",
+    "To": "苏州站",
+    "BeginTime": "11:04",
+    "EndTime": "12:46",
+    "Duration": 1.7,
+    "Cost": 129.0
+  },
+  {
+    "TrainID": "G7306",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州盛泽站",
+    "BeginTime": "11:07",
+    "EndTime": "11:50",
+    "Duration": 0.72,
+    "Cost": 52.0
+  },
+  {
+    "TrainID": "G7306",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州张家港站",
+    "BeginTime": "11:07",
+    "EndTime": "13:25",
+    "Duration": 2.3,
+    "Cost": 157.0
+  },
+  {
+    "TrainID": "G1628",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州南站",
+    "BeginTime": "11:18",
+    "EndTime": "12:08",
+    "Duration": 0.83,
+    "Cost": 74.0
+  },
+  {
+    "TrainID": "G1420",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州南站",
+    "BeginTime": "11:24",
+    "EndTime": "12:14",
+    "Duration": 0.83,
+    "Cost": 68.0
+  },
+  {
+    "TrainID": "G1420",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州太仓站",
+    "BeginTime": "11:24",
+    "EndTime": "13:28",
+    "Duration": 2.07,
+    "Cost": 132.0
+  },
+  {
+    "TrainID": "G1420",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州常熟站",
+    "BeginTime": "11:24",
+    "EndTime": "13:46",
+    "Duration": 2.37,
+    "Cost": 148.0
+  },
+  {
+    "TrainID": "G7508",
+    "TrainType": "高铁",
+    "From": "杭州东站",
+    "To": "苏州站",
+    "BeginTime": "11:28",
+    "EndTime": "13:05",
+    "Duration": 1.62,
+    "Cost": 133.0
+  },
+  {
+    "TrainID": "G1630",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州南站",
+    "BeginTime": "11:29",
+    "EndTime": "12:19",
+    "Duration": 0.83,
+    "Cost": 67.0
+  },
+  {
+    "TrainID": "G8352",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州盛泽站",
+    "BeginTime": "11:41",
+    "EndTime": "12:27",
+    "Duration": 0.77,
+    "Cost": 48.0
+  },
+  {
+    "TrainID": "G8352",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州南站",
+    "BeginTime": "11:41",
+    "EndTime": "12:41",
+    "Duration": 1.0,
+    "Cost": 61.0
+  },
+  {
+    "TrainID": "G8352",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州太仓南站",
+    "BeginTime": "11:41",
+    "EndTime": "13:48",
+    "Duration": 2.12,
+    "Cost": 109.0
+  },
+  {
+    "TrainID": "G8352",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州常熟站",
+    "BeginTime": "11:41",
+    "EndTime": "14:16",
+    "Duration": 2.58,
+    "Cost": 133.0
+  },
+  {
+    "TrainID": "G8352",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州张家港站",
+    "BeginTime": "11:41",
+    "EndTime": "14:28",
+    "Duration": 2.78,
+    "Cost": 140.0
+  },
+  {
+    "TrainID": "G7540",
+    "TrainType": "高铁",
+    "From": "杭州东站",
+    "To": "苏州常熟站",
+    "BeginTime": "12:03",
+    "EndTime": "13:48",
+    "Duration": 1.75,
+    "Cost": 133.0
+  },
+  {
+    "TrainID": "G7540",
+    "TrainType": "高铁",
+    "From": "杭州东站",
+    "To": "苏州张家港站",
+    "BeginTime": "12:03",
+    "EndTime": "14:00",
+    "Duration": 1.95,
+    "Cost": 141.0
+  },
+  {
+    "TrainID": "G1500",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州南站",
+    "BeginTime": "12:05",
+    "EndTime": "13:01",
+    "Duration": 0.93,
+    "Cost": 75.0
+  },
+  {
+    "TrainID": "K1806",
+    "TrainType": "快速",
+    "From": "杭州站",
+    "To": "苏州站",
+    "BeginTime": "12:05",
+    "EndTime": "15:48",
+    "Duration": 3.72,
+    "Cost": 40.5
+  },
+  {
+    "TrainID": "G3296",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州南站",
+    "BeginTime": "12:18",
+    "EndTime": "13:08",
+    "Duration": 0.83,
+    "Cost": 74.0
+  },
+  {
+    "TrainID": "G3296",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州常熟站",
+    "BeginTime": "12:18",
+    "EndTime": "14:44",
+    "Duration": 2.43,
+    "Cost": 151.0
+  },
+  {
+    "TrainID": "G3296",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州张家港站",
+    "BeginTime": "12:18",
+    "EndTime": "14:55",
+    "Duration": 2.62,
+    "Cost": 158.0
+  },
+  {
+    "TrainID": "G1438",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州盛泽站",
+    "BeginTime": "12:39",
+    "EndTime": "13:15",
+    "Duration": 0.6,
+    "Cost": 63.0
+  },
+  {
+    "TrainID": "G1438",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州南站",
+    "BeginTime": "12:39",
+    "EndTime": "13:29",
+    "Duration": 0.83,
+    "Cost": 78.0
+  },
+  {
+    "TrainID": "D3104",
+    "TrainType": "动车",
+    "From": "杭州西站",
+    "To": "苏州盛泽站",
+    "BeginTime": "12:46",
+    "EndTime": "13:26",
+    "Duration": 0.67,
+    "Cost": 50.0
+  },
+  {
+    "TrainID": "D3104",
+    "TrainType": "动车",
+    "From": "杭州西站",
+    "To": "苏州南站",
+    "BeginTime": "12:46",
+    "EndTime": "13:39",
+    "Duration": 0.88,
+    "Cost": 63.0
+  },
+  {
+    "TrainID": "G3756",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州南站",
+    "BeginTime": "12:54",
+    "EndTime": "13:44",
+    "Duration": 0.83,
+    "Cost": 79.0
+  },
+  {
+    "TrainID": "G1642",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州盛泽站",
+    "BeginTime": "12:59",
+    "EndTime": "13:42",
+    "Duration": 0.72,
+    "Cost": 59.0
+  },
+  {
+    "TrainID": "D204",
+    "TrainType": "动车",
+    "From": "杭州南站",
+    "To": "苏州站",
+    "BeginTime": "13:05",
+    "EndTime": "16:05",
+    "Duration": 3.0,
+    "Cost": 49.0
+  },
+  {
+    "TrainID": "G1584",
+    "TrainType": "高铁",
+    "From": "杭州东站",
+    "To": "苏州北站",
+    "BeginTime": "13:07",
+    "EndTime": "14:33",
+    "Duration": 1.43,
+    "Cost": 125.0
+  },
+  {
+    "TrainID": "G8354",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州南站",
+    "BeginTime": "13:09",
+    "EndTime": "13:59",
+    "Duration": 0.83,
+    "Cost": 70.0
+  },
+  {
+    "TrainID": "G8354",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州太仓站",
+    "BeginTime": "13:09",
+    "EndTime": "15:19",
+    "Duration": 2.17,
+    "Cost": 131.0
+  },
+  {
+    "TrainID": "G8354",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州常熟站",
+    "BeginTime": "13:09",
+    "EndTime": "15:40",
+    "Duration": 2.52,
+    "Cost": 152.0
+  },
+  {
+    "TrainID": "G8354",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州张家港站",
+    "BeginTime": "13:09",
+    "EndTime": "15:52",
+    "Duration": 2.72,
+    "Cost": 160.0
+  },
+  {
+    "TrainID": "G7744",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州盛泽站",
+    "BeginTime": "13:14",
+    "EndTime": "14:10",
+    "Duration": 0.93,
+    "Cost": 51.0
+  },
+  {
+    "TrainID": "G7744",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州太仓站",
+    "BeginTime": "13:14",
+    "EndTime": "15:31",
+    "Duration": 2.28,
+    "Cost": 125.0
+  },
+  {
+    "TrainID": "G7744",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州常熟站",
+    "BeginTime": "13:14",
+    "EndTime": "15:49",
+    "Duration": 2.58,
+    "Cost": 139.0
+  },
+  {
+    "TrainID": "G7534",
+    "TrainType": "高铁",
+    "From": "杭州东站",
+    "To": "苏州站",
+    "BeginTime": "13:28",
+    "EndTime": "14:49",
+    "Duration": 1.35,
+    "Cost": 129.0
+  },
+  {
+    "TrainID": "Z176",
+    "TrainType": "直达",
+    "From": "杭州站",
+    "To": "苏州站",
+    "BeginTime": "13:35",
+    "EndTime": "16:13",
+    "Duration": 2.63,
+    "Cost": 40.5
+  },
+  {
+    "TrainID": "G7390",
+    "TrainType": "高铁",
+    "From": "杭州东站",
+    "To": "苏州站",
+    "BeginTime": "13:40",
+    "EndTime": "14:55",
+    "Duration": 1.25,
+    "Cost": 133.0
+  },
+  {
+    "TrainID": "C3072",
+    "TrainType": "城际",
+    "From": "杭州西站",
+    "To": "苏州盛泽站",
+    "BeginTime": "13:52",
+    "EndTime": "14:28",
+    "Duration": 0.6,
+    "Cost": 62.0
+  },
+  {
+    "TrainID": "C3072",
+    "TrainType": "城际",
+    "From": "杭州西站",
+    "To": "苏州南站",
+    "BeginTime": "13:52",
+    "EndTime": "14:42",
+    "Duration": 0.83,
+    "Cost": 77.0
+  },
+  {
+    "TrainID": "G1524",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州南站",
+    "BeginTime": "14:06",
+    "EndTime": "15:00",
+    "Duration": 0.9,
+    "Cost": 78.0
+  },
+  {
+    "TrainID": "G238",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州南站",
+    "BeginTime": "14:12",
+    "EndTime": "14:55",
+    "Duration": 0.72,
+    "Cost": 79.0
+  },
+  {
+    "TrainID": "G238",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州张家港站",
+    "BeginTime": "14:12",
+    "EndTime": "16:23",
+    "Duration": 2.18,
+    "Cost": 168.0
+  },
+  {
+    "TrainID": "G2590",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州盛泽站",
+    "BeginTime": "14:17",
+    "EndTime": "15:00",
+    "Duration": 0.72,
+    "Cost": 52.0
+  },
+  {
+    "TrainID": "G2590",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州南站",
+    "BeginTime": "14:17",
+    "EndTime": "15:14",
+    "Duration": 0.95,
+    "Cost": 67.0
+  },
+  {
+    "TrainID": "G2590",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州太仓站",
+    "BeginTime": "14:17",
+    "EndTime": "16:17",
+    "Duration": 2.0,
+    "Cost": 126.0
+  },
+  {
+    "TrainID": "G3758",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州南站",
+    "BeginTime": "14:29",
+    "EndTime": "15:19",
+    "Duration": 0.83,
+    "Cost": 79.0
+  },
+  {
+    "TrainID": "K48",
+    "TrainType": "快速",
+    "From": "杭州站",
+    "To": "苏州站",
+    "BeginTime": "14:30",
+    "EndTime": "17:54",
+    "Duration": 3.4,
+    "Cost": 40.5
+  },
+  {
+    "TrainID": "C3630",
+    "TrainType": "城际",
+    "From": "杭州西站",
+    "To": "苏州南站",
+    "BeginTime": "14:34",
+    "EndTime": "15:24",
+    "Duration": 0.83,
+    "Cost": 67.0
+  },
+  {
+    "TrainID": "C3074",
+    "TrainType": "城际",
+    "From": "杭州西站",
+    "To": "苏州南站",
+    "BeginTime": "14:50",
+    "EndTime": "15:45",
+    "Duration": 0.92,
+    "Cost": 67.0
+  },
+  {
+    "TrainID": "D3142",
+    "TrainType": "动车",
+    "From": "杭州东站",
+    "To": "苏州站",
+    "BeginTime": "14:54",
+    "EndTime": "16:36",
+    "Duration": 1.7,
+    "Cost": 98.0
+  },
+  {
+    "TrainID": "C3104",
+    "TrainType": "城际",
+    "From": "杭州西站",
+    "To": "苏州南站",
+    "BeginTime": "15:05",
+    "EndTime": "15:55",
+    "Duration": 0.83,
+    "Cost": 74.0
+  },
+  {
+    "TrainID": "G7592",
+    "TrainType": "高铁",
+    "From": "杭州东站",
+    "To": "苏州站",
+    "BeginTime": "15:07",
+    "EndTime": "16:56",
+    "Duration": 1.82,
+    "Cost": 129.0
+  },
+  {
+    "TrainID": "C3634",
+    "TrainType": "城际",
+    "From": "杭州西站",
+    "To": "苏州盛泽站",
+    "BeginTime": "15:10",
+    "EndTime": "16:12",
+    "Duration": 1.03,
+    "Cost": 59.0
+  },
+  {
+    "TrainID": "C3634",
+    "TrainType": "城际",
+    "From": "杭州西站",
+    "To": "苏州南站",
+    "BeginTime": "15:10",
+    "EndTime": "16:26",
+    "Duration": 1.27,
+    "Cost": 74.0
+  },
+  {
+    "TrainID": "G7376",
+    "TrainType": "高铁",
+    "From": "杭州东站",
+    "To": "苏州园区站",
+    "BeginTime": "15:37",
+    "EndTime": "17:00",
+    "Duration": 1.38,
+    "Cost": 125.0
+  },
+  {
+    "TrainID": "G7376",
+    "TrainType": "高铁",
+    "From": "杭州东站",
+    "To": "苏州站",
+    "BeginTime": "15:37",
+    "EndTime": "17:08",
+    "Duration": 1.52,
+    "Cost": 129.0
+  },
+  {
+    "TrainID": "C2376",
+    "TrainType": "城际",
+    "From": "杭州西站",
+    "To": "苏州盛泽站",
+    "BeginTime": "15:52",
+    "EndTime": "16:28",
+    "Duration": 0.6,
+    "Cost": 59.0
+  },
+  {
+    "TrainID": "C2376",
+    "TrainType": "城际",
+    "From": "杭州西站",
+    "To": "苏州南站",
+    "BeginTime": "15:52",
+    "EndTime": "16:46",
+    "Duration": 0.9,
+    "Cost": 74.0
+  },
+  {
+    "TrainID": "G3068",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州南站",
+    "BeginTime": "16:03",
+    "EndTime": "16:53",
+    "Duration": 0.83,
+    "Cost": 74.0
+  },
+  {
+    "TrainID": "G158",
+    "TrainType": "高铁",
+    "From": "杭州东站",
+    "To": "苏州北站",
+    "BeginTime": "16:14",
+    "EndTime": "17:43",
+    "Duration": 1.48,
+    "Cost": 126.0
+  },
+  {
+    "TrainID": "G1520",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州南站",
+    "BeginTime": "16:25",
+    "EndTime": "17:20",
+    "Duration": 0.92,
+    "Cost": 79.0
+  },
+  {
+    "TrainID": "D126",
+    "TrainType": "动车",
+    "From": "杭州站",
+    "To": "苏州站",
+    "BeginTime": "16:37",
+    "EndTime": "19:14",
+    "Duration": 2.62,
+    "Cost": 46.0
+  },
+  {
+    "TrainID": "G8362",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州盛泽站",
+    "BeginTime": "16:41",
+    "EndTime": "17:17",
+    "Duration": 0.6,
+    "Cost": 59.0
+  },
+  {
+    "TrainID": "G8362",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州南站",
+    "BeginTime": "16:41",
+    "EndTime": "17:31",
+    "Duration": 0.83,
+    "Cost": 74.0
+  },
+  {
+    "TrainID": "G8362",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州张家港站",
+    "BeginTime": "16:41",
+    "EndTime": "19:04",
+    "Duration": 2.38,
+    "Cost": 158.0
+  },
+  {
+    "TrainID": "G8380",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州盛泽站",
+    "BeginTime": "16:46",
+    "EndTime": "17:29",
+    "Duration": 0.72,
+    "Cost": 62.0
+  },
+  {
+    "TrainID": "G8380",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州南站",
+    "BeginTime": "16:46",
+    "EndTime": "17:43",
+    "Duration": 0.95,
+    "Cost": 77.0
+  },
+  {
+    "TrainID": "G8380",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州常熟站",
+    "BeginTime": "16:46",
+    "EndTime": "19:03",
+    "Duration": 2.28,
+    "Cost": 154.0
+  },
+  {
+    "TrainID": "G8380",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州张家港站",
+    "BeginTime": "16:46",
+    "EndTime": "19:20",
+    "Duration": 2.57,
+    "Cost": 161.0
+  },
+  {
+    "TrainID": "G7792",
+    "TrainType": "高铁",
+    "From": "杭州南站",
+    "To": "苏州北站",
+    "BeginTime": "16:54",
+    "EndTime": "18:59",
+    "Duration": 2.08,
+    "Cost": 137.0
+  },
+  {
+    "TrainID": "G7192",
+    "TrainType": "高铁",
+    "From": "杭州东站",
+    "To": "苏州北站",
+    "BeginTime": "17:02",
+    "EndTime": "18:27",
+    "Duration": 1.42,
+    "Cost": 128.0
+  },
+  {
+    "TrainID": "G7792",
+    "TrainType": "高铁",
+    "From": "杭州东站",
+    "To": "苏州北站",
+    "BeginTime": "17:06",
+    "EndTime": "18:59",
+    "Duration": 1.88,
+    "Cost": 126.0
+  },
+  {
+    "TrainID": "D3126",
+    "TrainType": "动车",
+    "From": "杭州南站",
+    "To": "苏州太仓站",
+    "BeginTime": "17:17",
+    "EndTime": "19:19",
+    "Duration": 2.03,
+    "Cost": 96.0
+  },
+  {
+    "TrainID": "G7520",
+    "TrainType": "高铁",
+    "From": "杭州东站",
+    "To": "苏州站",
+    "BeginTime": "17:20",
+    "EndTime": "19:06",
+    "Duration": 1.77,
+    "Cost": 125.0
+  },
+  {
+    "TrainID": "D3126",
+    "TrainType": "动车",
+    "From": "杭州东站",
+    "To": "苏州太仓站",
+    "BeginTime": "17:30",
+    "EndTime": "19:19",
+    "Duration": 1.82,
+    "Cost": 87.0
+  },
+  {
+    "TrainID": "G8364",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州南站",
+    "BeginTime": "17:34",
+    "EndTime": "18:17",
+    "Duration": 0.72,
+    "Cost": 77.0
+  },
+  {
+    "TrainID": "G8364",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州太仓南站",
+    "BeginTime": "17:34",
+    "EndTime": "19:22",
+    "Duration": 1.8,
+    "Cost": 130.0
+  },
+  {
+    "TrainID": "G8364",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州张家港站",
+    "BeginTime": "17:34",
+    "EndTime": "19:53",
+    "Duration": 2.32,
+    "Cost": 161.0
+  },
+  {
+    "TrainID": "G7590",
+    "TrainType": "高铁",
+    "From": "杭州东站",
+    "To": "苏州北站",
+    "BeginTime": "17:40",
+    "EndTime": "19:30",
+    "Duration": 1.83,
+    "Cost": 125.0
+  },
+  {
+    "TrainID": "Z282",
+    "TrainType": "直达",
+    "From": "杭州站",
+    "To": "苏州站",
+    "BeginTime": "17:40",
+    "EndTime": "20:27",
+    "Duration": 2.78,
+    "Cost": 40.5
+  },
+  {
+    "TrainID": "D2284",
+    "TrainType": "动车",
+    "From": "杭州西站",
+    "To": "苏州南站",
+    "BeginTime": "17:45",
+    "EndTime": "18:34",
+    "Duration": 0.82,
+    "Cost": 66.0
+  },
+  {
+    "TrainID": "D2284",
+    "TrainType": "动车",
+    "From": "杭州西站",
+    "To": "苏州太仓站",
+    "BeginTime": "17:45",
+    "EndTime": "19:44",
+    "Duration": 1.98,
+    "Cost": 123.0
+  },
+  {
+    "TrainID": "G7310",
+    "TrainType": "高铁",
+    "From": "杭州东站",
+    "To": "苏州站",
+    "BeginTime": "17:47",
+    "EndTime": "19:36",
+    "Duration": 1.82,
+    "Cost": 125.0
+  },
+  {
+    "TrainID": "G7584",
+    "TrainType": "高铁",
+    "From": "杭州东站",
+    "To": "苏州站",
+    "BeginTime": "17:51",
+    "EndTime": "19:55",
+    "Duration": 2.07,
+    "Cost": 133.0
+  },
+  {
+    "TrainID": "G7432",
+    "TrainType": "高铁",
+    "From": "杭州南站",
+    "To": "苏州北站",
+    "BeginTime": "17:55",
+    "EndTime": "19:44",
+    "Duration": 1.82,
+    "Cost": 136.0
+  },
+  {
+    "TrainID": "K336",
+    "TrainType": "快速",
+    "From": "杭州南站",
+    "To": "苏州站",
+    "BeginTime": "17:55",
+    "EndTime": "22:45",
+    "Duration": 4.83,
+    "Cost": 41.5
+  },
+  {
+    "TrainID": "G1510",
+    "TrainType": "高铁",
+    "From": "杭州东站",
+    "To": "苏州北站",
+    "BeginTime": "18:01",
+    "EndTime": "19:39",
+    "Duration": 1.63,
+    "Cost": 125.0
+  },
+  {
+    "TrainID": "G7124",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州南站",
+    "BeginTime": "18:03",
+    "EndTime": "18:54",
+    "Duration": 0.85,
+    "Cost": 70.0
+  },
+  {
+    "TrainID": "G7124",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州站",
+    "BeginTime": "18:03",
+    "EndTime": "20:13",
+    "Duration": 2.17,
+    "Cost": 144.0
+  },
+  {
+    "TrainID": "C3106",
+    "TrainType": "城际",
+    "From": "杭州西站",
+    "To": "苏州南站",
+    "BeginTime": "18:07",
+    "EndTime": "18:59",
+    "Duration": 0.87,
+    "Cost": 74.0
+  },
+  {
+    "TrainID": "G7432",
+    "TrainType": "高铁",
+    "From": "杭州东站",
+    "To": "苏州北站",
+    "BeginTime": "18:07",
+    "EndTime": "19:44",
+    "Duration": 1.62,
+    "Cost": 125.0
+  },
+  {
+    "TrainID": "G8358",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州南站",
+    "BeginTime": "18:11",
+    "EndTime": "19:09",
+    "Duration": 0.97,
+    "Cost": 74.0
+  },
+  {
+    "TrainID": "G8358",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州太仓站",
+    "BeginTime": "18:11",
+    "EndTime": "20:13",
+    "Duration": 2.03,
+    "Cost": 133.0
+  },
+  {
+    "TrainID": "G8358",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州张家港站",
+    "BeginTime": "18:11",
+    "EndTime": "20:39",
+    "Duration": 2.47,
+    "Cost": 158.0
+  },
+  {
+    "TrainID": "G1378",
+    "TrainType": "高铁",
+    "From": "杭州东站",
+    "To": "苏州北站",
+    "BeginTime": "18:19",
+    "EndTime": "19:53",
+    "Duration": 1.57,
+    "Cost": 125.0
+  },
+  {
+    "TrainID": "G8386",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州南站",
+    "BeginTime": "18:25",
+    "EndTime": "19:19",
+    "Duration": 0.9,
+    "Cost": 70.0
+  },
+  {
+    "TrainID": "G8386",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州太仓站",
+    "BeginTime": "18:25",
+    "EndTime": "20:29",
+    "Duration": 2.07,
+    "Cost": 129.0
+  },
+  {
+    "TrainID": "G8386",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州常熟站",
+    "BeginTime": "18:25",
+    "EndTime": "20:50",
+    "Duration": 2.42,
+    "Cost": 147.0
+  },
+  {
+    "TrainID": "G100",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州南站",
+    "BeginTime": "18:31",
+    "EndTime": "19:14",
+    "Duration": 0.72,
+    "Cost": 79.0
+  },
+  {
+    "TrainID": "G7550",
+    "TrainType": "高铁",
+    "From": "杭州南站",
+    "To": "苏州站",
+    "BeginTime": "18:35",
+    "EndTime": "20:30",
+    "Duration": 1.92,
+    "Cost": 144.0
+  },
+  {
+    "TrainID": "G7140",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州盛泽站",
+    "BeginTime": "18:38",
+    "EndTime": "19:14",
+    "Duration": 0.6,
+    "Cost": 59.0
+  },
+  {
+    "TrainID": "G7140",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州南站",
+    "BeginTime": "18:38",
+    "EndTime": "19:32",
+    "Duration": 0.9,
+    "Cost": 74.0
+  },
+  {
+    "TrainID": "G7140",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州常熟站",
+    "BeginTime": "18:38",
+    "EndTime": "20:48",
+    "Duration": 2.17,
+    "Cost": 156.0
+  },
+  {
+    "TrainID": "G7140",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州张家港站",
+    "BeginTime": "18:38",
+    "EndTime": "20:59",
+    "Duration": 2.35,
+    "Cost": 164.0
+  },
+  {
+    "TrainID": "D3206",
+    "TrainType": "动车",
+    "From": "杭州西站",
+    "To": "苏州盛泽站",
+    "BeginTime": "18:50",
+    "EndTime": "19:37",
+    "Duration": 0.78,
+    "Cost": 53.0
+  },
+  {
+    "TrainID": "D3206",
+    "TrainType": "动车",
+    "From": "杭州西站",
+    "To": "苏州南站",
+    "BeginTime": "18:50",
+    "EndTime": "19:50",
+    "Duration": 1.0,
+    "Cost": 66.0
+  },
+  {
+    "TrainID": "D3206",
+    "TrainType": "动车",
+    "From": "杭州西站",
+    "To": "苏州常熟站",
+    "BeginTime": "18:50",
+    "EndTime": "21:14",
+    "Duration": 2.4,
+    "Cost": 141.0
+  },
+  {
+    "TrainID": "D3206",
+    "TrainType": "动车",
+    "From": "杭州西站",
+    "To": "苏州张家港站",
+    "BeginTime": "18:50",
+    "EndTime": "21:26",
+    "Duration": 2.6,
+    "Cost": 148.0
+  },
+  {
+    "TrainID": "G7550",
+    "TrainType": "高铁",
+    "From": "杭州东站",
+    "To": "苏州站",
+    "BeginTime": "18:52",
+    "EndTime": "20:30",
+    "Duration": 1.63,
+    "Cost": 133.0
+  },
+  {
+    "TrainID": "G7588",
+    "TrainType": "高铁",
+    "From": "杭州东站",
+    "To": "苏州站",
+    "BeginTime": "19:05",
+    "EndTime": "20:35",
+    "Duration": 1.5,
+    "Cost": 125.0
+  },
+  {
+    "TrainID": "G7566",
+    "TrainType": "高铁",
+    "From": "杭州东站",
+    "To": "苏州北站",
+    "BeginTime": "19:09",
+    "EndTime": "20:43",
+    "Duration": 1.57,
+    "Cost": 125.0
+  },
+  {
+    "TrainID": "K8352",
+    "TrainType": "快速",
+    "From": "杭州站",
+    "To": "苏州站",
+    "BeginTime": "19:10",
+    "EndTime": "22:39",
+    "Duration": 3.48,
+    "Cost": 40.5
+  },
+  {
+    "TrainID": "G8360",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州盛泽站",
+    "BeginTime": "19:15",
+    "EndTime": "19:51",
+    "Duration": 0.6,
+    "Cost": 65.0
+  },
+  {
+    "TrainID": "G8360",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州常熟站",
+    "BeginTime": "19:15",
+    "EndTime": "21:24",
+    "Duration": 2.15,
+    "Cost": 164.0
+  },
+  {
+    "TrainID": "G7314",
+    "TrainType": "高铁",
+    "From": "杭州东站",
+    "To": "苏州站",
+    "BeginTime": "19:18",
+    "EndTime": "21:06",
+    "Duration": 1.8,
+    "Cost": 122.0
+  },
+  {
+    "TrainID": "D2290",
+    "TrainType": "动车",
+    "From": "杭州南站",
+    "To": "苏州常熟站",
+    "BeginTime": "19:26",
+    "EndTime": "21:33",
+    "Duration": 2.12,
+    "Cost": 111.0
+  },
+  {
+    "TrainID": "D2290",
+    "TrainType": "动车",
+    "From": "杭州南站",
+    "To": "苏州张家港站",
+    "BeginTime": "19:26",
+    "EndTime": "21:45",
+    "Duration": 2.32,
+    "Cost": 118.0
+  },
+  {
+    "TrainID": "C3050",
+    "TrainType": "城际",
+    "From": "杭州西站",
+    "To": "苏州盛泽站",
+    "BeginTime": "19:34",
+    "EndTime": "20:24",
+    "Duration": 0.83,
+    "Cost": 52.0
+  },
+  {
+    "TrainID": "D2290",
+    "TrainType": "动车",
+    "From": "杭州东站",
+    "To": "苏州常熟站",
+    "BeginTime": "19:44",
+    "EndTime": "21:33",
+    "Duration": 1.82,
+    "Cost": 102.0
+  },
+  {
+    "TrainID": "D2290",
+    "TrainType": "动车",
+    "From": "杭州东站",
+    "To": "苏州张家港站",
+    "BeginTime": "19:44",
+    "EndTime": "21:45",
+    "Duration": 2.02,
+    "Cost": 109.0
+  },
+  {
+    "TrainID": "D182",
+    "TrainType": "动车",
+    "From": "杭州站",
+    "To": "苏州站",
+    "BeginTime": "19:50",
+    "EndTime": "22:29",
+    "Duration": 2.65,
+    "Cost": 55.0
+  },
+  {
+    "TrainID": "G8304",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州南站",
+    "BeginTime": "19:59",
+    "EndTime": "20:42",
+    "Duration": 0.72,
+    "Cost": 64.0
+  },
+  {
+    "TrainID": "G8304",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州站",
+    "BeginTime": "19:59",
+    "EndTime": "21:47",
+    "Duration": 1.8,
+    "Cost": 137.0
+  },
+  {
+    "TrainID": "D2282",
+    "TrainType": "动车",
+    "From": "杭州东站",
+    "To": "苏州站",
+    "BeginTime": "20:02",
+    "EndTime": "21:53",
+    "Duration": 1.85,
+    "Cost": 95.0
+  },
+  {
+    "TrainID": "G3060",
+    "TrainType": "高铁",
+    "From": "杭州东站",
+    "To": "苏州北站",
+    "BeginTime": "20:10",
+    "EndTime": "21:28",
+    "Duration": 1.3,
+    "Cost": 119.0
+  },
+  {
+    "TrainID": "G7112",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州盛泽站",
+    "BeginTime": "20:12",
+    "EndTime": "20:55",
+    "Duration": 0.72,
+    "Cost": 55.0
+  },
+  {
+    "TrainID": "T136",
+    "TrainType": "特快",
+    "From": "杭州南站",
+    "To": "苏州站",
+    "BeginTime": "20:25",
+    "EndTime": "23:59",
+    "Duration": 3.57,
+    "Cost": 41.5
+  },
+  {
+    "TrainID": "G3092",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州盛泽站",
+    "BeginTime": "20:40",
+    "EndTime": "21:23",
+    "Duration": 0.72,
+    "Cost": 51.0
+  },
+  {
+    "TrainID": "G7350",
+    "TrainType": "高铁",
+    "From": "杭州东站",
+    "To": "苏州站",
+    "BeginTime": "20:40",
+    "EndTime": "22:07",
+    "Duration": 1.45,
+    "Cost": 117.0
+  },
+  {
+    "TrainID": "G1440",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州南站",
+    "BeginTime": "20:55",
+    "EndTime": "21:51",
+    "Duration": 0.93,
+    "Cost": 68.0
+  },
+  {
+    "TrainID": "G3078",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州盛泽站",
+    "BeginTime": "21:12",
+    "EndTime": "21:48",
+    "Duration": 0.6,
+    "Cost": 55.0
+  },
+  {
+    "TrainID": "G1306",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州南站",
+    "BeginTime": "21:39",
+    "EndTime": "22:22",
+    "Duration": 0.72,
+    "Cost": 55.0
+  },
+  {
+    "TrainID": "G1630",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州盛泽站",
+    "BeginTime": "11:29",
+    "EndTime": "12:27",
+    "Duration": 0.97,
+    "Cost": 51.0
+  },
+  {
+    "TrainID": "G8360",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州南站",
+    "BeginTime": "19:15",
+    "EndTime": "20:17",
+    "Duration": 1.03,
+    "Cost": 241.0
+  },
+  {
+    "TrainID": "G7662",
+    "TrainType": "高铁",
+    "From": "杭州东站",
+    "To": "苏州盛泽站",
+    "BeginTime": "13:15",
+    "EndTime": "14:18",
+    "Duration": 1.05,
+    "Cost": 61.0
+  },
+  {
+    "TrainID": "G7744",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州盛泽站",
+    "BeginTime": "13:14",
+    "EndTime": "14:18",
+    "Duration": 1.07,
+    "Cost": 52.0
+  },
+  {
+    "TrainID": "G7580",
+    "TrainType": "高铁",
+    "From": "杭州西站",
+    "To": "苏州南站",
+    "BeginTime": "08:12",
+    "EndTime": "09:17",
+    "Duration": 1.08,
+    "Cost": 71.0
+  }
+]

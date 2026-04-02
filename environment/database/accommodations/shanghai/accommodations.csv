@@ -1,0 +1,514 @@
+﻿id,name,hotelname_en,featurehoteltype,lat,lon,single_room_price,single_room_stock,king_room_price,king_room_stock,double_bed_price,double_bed_stock,family_room_price,family_room_stock
+0,上海静安昆仑大酒店,The Kunlun Jing An,桑拿,31.219309,121.445302,836,0,930,2,939,1,1108,2
+1,上海陆家嘴世博中心亚朵S酒店,Atour S Hotel  Expo Center Lujiazui Shanghai,免费停车,31.195052,121.506961,656,1,730,1,737,3,870,1
+2,上海国际旅游度假区荷逸唐酒店,Heyitang Hotel Shanghai International Tourism Resort,免费停车,31.053546,121.764439,389,0,433,2,437,1,516,1
+3,美豪丽致酒店(上海徐家汇衡山路店),"Lestie Hotel  Hengshan Road, Xujiahui, Shanghai",管家服务,31.200012,121.444359,547,0,609,0,615,1,726,1
+4,上海南郊宾馆,Nanjiao Hotel Shanghai,泳池,30.925194,121.483624,465,2,517,3,522,3,616,0
+5,上海柏思特酒店,Shanghai Best Boutique Hotel,免费停车,31.096668,121.709423,340,1,378,1,382,1,451,1
+6,桔子水晶上海虹桥枢纽国展中心酒店,Crystal Orange Hotel (Shanghai Hongqiao Hub International Exhibition Center),免费停车,31.207133,121.297587,505,1,561,1,567,1,669,3
+7,麦新格国际酒店(上海国际旅游度假区店周浦地铁站店),"Maixinge International Hotel (Shanghai International Tourism Resort, Zhoupu Metro Station )",免费停车,31.118551,121.571871,452,0,503,0,508,0,599,1
+8,上海蓝天宾馆,Lantian Hotel,行政酒廊,31.298842,121.516814,546,1,607,3,613,1,723,0
+9,桔子水晶上海外滩豫园酒店,Crystal Orange Hotel,SPA,31.229024,121.49172,587,0,653,0,660,1,779,0
+10,桔子酒店(上海浦东国际旅游度假区崇溪路店),"Orange Hotel (Chongxi Road Branch, Pudong International Tourism Resort, Shanghai)",家庭房,31.108818,121.712545,411,0,457,1,462,1,545,2
+11,上海浦东主题乐园万信酒店,Wassim Hotel (Shanghai Pudong Theme Park),泳池,31.169345,121.686398,417,1,464,1,469,0,553,0
+12,上海浦东温德姆酒店,Wyndham Shanghai Pudong,免费停车,31.177192,121.702381,444,1,494,2,499,2,589,1
+13,上海南京东路铂金万澳酒店,WOW HOTELS,儿童乐园,31.234242,121.478464,506,1,562,2,568,0,670,2
+14,云和夜泊酒店(上海浦东国际机场店),Yun He Ye Bo Hotel (Shanghai Pudong International Airport),免费停车,31.097905,121.765119,353,2,393,0,397,0,468,2
+15,上海极乐汤川沙温泉酒店,Gokurakuyu Hot Spring Hotel Shanghai Chuansha,桑拿,31.168125,121.685822,298,2,332,0,335,0,395,0
+16,上海客莱福诺富特酒店,Novotel Shanghai Clover,泳池,31.130066,121.621659,472,2,525,1,530,2,625,0
+17,上海松江开元名都大酒店,Songjiang New Century Grand Hotel Shanghai,泳池,31.037408,121.220747,490,0,544,2,550,3,649,1
+18,上海白厦Pagoda君亭设计酒店,Pagoda Hotel Shanghai Baixia,管家服务,31.260891,121.397907,465,1,518,1,523,1,617,1
+19,和颐至尊酒店(上海人民广场南京路步行街店),Yitel Premium (Shanghai people's Square Nanjing Road Pedestrian Street shop),老洋房,31.235839,121.478005,465,1,518,1,523,2,617,4
+20,桔子水晶上海国际旅游度假区周浦万达酒店,Crystal Orange Hotel (Shanghai International Tourist Resort Zhoupu Wanda Plaza),免费停车,31.105715,121.570439,355,2,395,0,399,2,471,1
+21,上海大船酒店,Shanghai Ship Hotel,泳池,30.933777,121.472719,473,1,527,2,532,0,628,4
+22,上海星河湾酒店,Chateau Star River Shanghai,桑拿,31.088468,121.408326,659,1,734,2,741,0,874,5
+23,上海檀程大酒店(财经大学店),Tancheng Hotel Shanghai,免费停车,31.304183,121.492936,492,0,547,2,553,0,653,1
+24,丽呈别院(上海三甲新天地旅游度假区店),Rezen Retreat(Shanghai Sanjia Xintiandi Tourism Resort),免费停车,31.216203,121.749506,604,1,672,1,679,1,801,3
+25,上海徐家汇天钥桥亚朵酒店,Atour  Hotel (Shanghai Xujiahui Tianyaoqiao),充电桩,31.189279,121.443304,609,2,677,1,684,2,807,0
+26,上海陆家嘴丽呈酒店,Shanghai Lujiazui Rezen Hotel,免费停车,31.232324,121.556589,489,1,544,0,549,2,648,5
+27,上海瑞廷西郊S酒店(蟠龙天地店),GRAND KINGTOWN S HOTEL,免费停车,31.193116,121.275918,506,2,563,3,569,1,671,2
+28,上海嘉定信业·悦你酒店,ShangHai Yunny Hotel,免费停车,31.3952,121.248764,388,4,432,1,436,0,514,2
+29,上海新国际博览中心杨高南路地铁站亚朵酒店,Atour Hotel,免费停车,31.18462,121.531269,625,0,695,1,702,1,828,0
+30,云和夜泊酒店(上海虹桥枢纽国展中心店),Yunhe Yebo Hotel (Shanghai Hongqiao Hub National Exhibition Center),免费停车,31.243987,121.415341,451,2,502,1,507,0,598,0
+31,上海中航虹桥机场泊悦酒店,Boyue Hotel Shanghai Air China Hongqiao Airport,行政酒廊,31.192181,121.327876,490,0,544,1,550,0,649,0
+32,上海夏阳湖皇冠假日酒店,Crowne Plaza Shanghai Xiayang Lake,桑拿,31.150819,121.13808,489,1,544,2,549,0,648,4
+33,临港冰雪明城酒店,L+Snow Supreme Hotel,泳池,30.917117,121.906583,559,3,622,3,628,1,741,0
+34,上海浦东绿地铂骊酒店,The QUBE Hotel (Shanghai Pudong),亲子主题房,31.184292,121.699302,545,0,606,1,612,0,722,1
+35,上海携程美居酒店,Mercure Shanghai Hongqiao SOHO,机器人服务,31.220038,121.357823,557,1,620,1,626,0,739,0
+36,沪华名都酒店,Huhua Grand Hotel,家庭房,31.111255,121.261595,462,1,514,0,519,0,612,1
+37,上海金地岚韵酒店,Hotel Lane Aura,桑拿,31.127169,121.225641,417,0,463,1,468,0,552,0
+38,太保家园乐养度假酒店,Taibao Homeland Leyang Resort,停车场,31.449109,121.882359,417,3,463,3,468,0,552,0
+39,上海国展宝龙丽筠酒店,Radisson Exhibition Center Shanghai,管家服务,31.227946,121.233612,455,1,506,0,511,2,603,0
+40,上海恩然邦臣酒店,Barony Park Hotel Shanghai,桑拿,31.117864,121.621559,498,1,554,1,560,0,661,0
+41,上海宝安大酒店,Shanghai Baoan Hotel,管家服务,31.226544,121.523786,473,1,526,4,531,1,627,1
+42,上海虹桥西郊庄园丽笙大酒店,Radisson Blu Forest Manor Shanghai Hongqiao,桑拿,31.199128,121.289818,586,2,651,1,658,0,776,0
+43,上海静安寺淮海中路亚朵X酒店,Atour X Hotel Jing'an Temple Huanghai Middle Road Shanghai,机器人服务,31.211854,121.449559,609,1,677,2,684,0,807,5
+44,上海虹桥古北禧瑞酒店,Shanghai Hongqiao Gubei Perry Hotel,免费停车,31.202283,121.407647,399,0,444,0,448,2,529,3
+45,上海虹桥韩国街亚朵酒店,Atour Hotel Shanghai Hongqiao Korea Street,免费停车,31.171283,121.375458,526,2,585,2,591,3,697,0
+46,上海临港雅辰悦居酒店,Artyzen Habitat Lingang Shanghai,湖景房,30.909396,121.932908,481,1,535,2,540,1,637,0
+47,上海大都会海逸酒店,Harbour Plaza Metropolitan,泳池,31.253076,121.408074,400,2,445,2,449,2,530,2
+48,上海梯加酒店,T&+ Hotel Residence Shanghai,停车场,31.097432,121.411762,391,0,435,0,439,0,518,1
+49,上海大宁国际亚朵酒店,Shanghai Daning International Yaduo Hotel,免费停车,31.265943,121.453265,523,1,582,1,588,0,694,0
+50,上海五角场辉盛坊公寓酒店,Frasers Place Wujiaochang Shanghai,泳池,31.329536,121.511745,532,1,592,0,598,0,706,1
+51,上海陆家嘴八佰伴兰欧酒店,Shanghai Lujiazui Babaiban Lan'ou Hotel,棋牌室,31.226308,121.517705,584,1,649,0,656,2,774,1
+52,上海虹桥宾馆,Golden Tulip Shanghai,多功能厅,31.204012,121.410206,468,1,521,1,526,0,621,1
+53,上海浦东绿地假日酒店,Holiday Inn Shanghai Pudong Kangqiao,泳池,31.134789,121.581412,524,1,583,0,589,2,695,4
+54,上海外滩浦华大酒店,Sunrise On The Bund Hotels & Resorts Shanghai,泳池,31.251248,121.502736,586,0,651,1,658,0,776,2
+55,上海滴水湖假日酒店,Holiday Inn Shanghai Dishui Lake,免费停车,30.904142,121.917162,445,1,495,2,500,0,590,3
+56,上海陆家嘴东方明珠亚朵S酒店,Atour S Hotel Shanghai Oriental Pearl Tower,免费停车,31.240494,121.535448,652,1,726,1,733,1,865,0
+57,上海天禧嘉福璞缇酒店,Sky Fortune Boutique Hotel Shanghai,泳池,31.181755,121.395683,522,0,580,0,586,0,691,5
+58,上海馨乐庭延安西路公寓酒店,Citadines Apart Hotel (Shanghai Yan'an West Road),机器人服务,31.211965,121.431068,439,0,488,1,493,2,582,1
+59,上海兰墅国际酒店(金山城市沙滩店),Shanghai Lanshu International Hotel (Jinshan City Beach Branch),免费停车,30.729807,121.349485,423,0,470,1,475,0,560,1
+60,上海陆家嘴德平路地铁站亚朵酒店,"Shanghai Atour Hotel, Deping Road metro station, Lujiazui",免费停车,31.244825,121.565482,538,1,599,1,605,1,714,1
+61,锦江都城(上海新天地田子坊店),Jinjiang Metropolo Shanghai Xintiandi Hotel,免费停车,31.207101,121.47694,417,2,463,1,468,0,552,5
+62,崇明金茂凯悦酒店,Hyatt Regency Chongming,泳池,31.466563,121.799671,586,0,651,1,658,2,776,0
+63,上海维景酒店(虹桥机场国家会展中心店),Grand Metropark Hotel Shanghai (Hongqiao Airport National Convention and Exhibition Center),会议厅,31.18144,121.287355,545,1,606,0,612,2,722,2
+64,上海万源诺富特酒店,Novotel Shanghai Caohejing,免费停车,31.143194,121.394212,611,2,679,0,686,1,809,0
+65,丽呈别院·城市琪遇(上海国际旅游度假区秀沿路地铁站店),Rezen Retreat City Qiyu,江河景房,31.134107,121.593934,422,2,469,2,474,1,559,1
+66,上海远洋宾馆,Ocean Hotel Shanghai,免费停车,31.25285,121.510217,445,1,495,1,500,4,590,1
+67,上海虹桥机场城际酒店,Intercity Shanghai Hongqiao Airport,停车场,31.192806,121.348666,441,0,491,1,496,2,585,1
+68,上海浦东华美达大酒店,Ramada Plaza by Wyndham Pudong,免费停车,31.244916,121.590752,567,0,631,1,637,4,752,0
+69,上海浦东机场川沙地铁站亚朵酒店,Shanghai Pudong Airport Chuansha Subway Station Atour Hotel,机器人服务,31.189028,121.699673,491,0,546,1,552,1,651,1
+70,上海虹桥国展美居酒店,Mercure Hotel (Shanghai Hongqiao Exhibition and Convention Center),免费停车,31.182655,121.283422,575,1,640,1,646,0,762,4
+71,上海外滩南京东路地铁站亚朵X酒店,"Yaduo X Hotel, Nanjing East Road, Shanghai Bund",24小时前台,31.236598,121.487427,625,0,695,0,702,0,828,1
+72,上海浦东金桥国际商业广场亚朵酒店,Atour Hotels (Shanghai Lujiazui Jinqiao International Square),免费停车,31.261612,121.571639,491,2,546,0,552,1,651,2
+73,上海外滩沙美大楼ZHotel,ZHotel The Somekh Building,管家服务,31.240792,121.486429,664,1,739,0,746,1,880,1
+74,上海静安寺亚朵X酒店,Atour X Hotel (Shanghai Jing'an Temple),管家服务,31.21854,121.443329,664,1,739,3,746,0,880,3
+75,上海协信莎玛长风服务式公寓,Sincere Residence Changfeng,酒店公寓,31.224862,121.394012,490,0,544,2,550,0,649,1
+76,上海富豪金丰酒店,Regal Jinfeng Hotel,SPA,31.254913,121.611575,450,1,501,2,506,0,597,0
+77,时光漫步S酒店(上海复旦大学五角场地铁站店),Nostalgia Hotel(Shanghai Fudan University),免费停车,31.298996,121.520427,391,1,435,0,439,1,518,2
+78,上海世博高科西路地铁站亚朵酒店,Atour Hotel,免费停车,31.185196,121.50888,620,2,690,2,697,0,822,1
+79,上海大华虹桥假日酒店,Holiday Inn Shanghai Hongqiao,泳池,31.162045,121.342755,586,2,651,2,658,1,776,0
+80,上海海神诺富特大酒店,Novotel Shanghai Atlantis,免费停车,31.239462,121.524657,553,1,615,3,621,1,733,0
+81,上海浦东张江园区张江路亚朵X酒店,"Atour X Hotel Shanghai PudongZhangjiang Hi-tech Park, Zhangjiang Road",机器人服务,31.205134,121.615716,664,0,739,0,746,1,880,1
+82,上海金陵紫金山大酒店,JinLing Purple Mountain Hotel Shanghai,泳池,31.227884,121.52352,597,0,664,1,671,2,792,1
+83,上海安曼纳卓悦酒店,Amara Signature Shanghai,泳池,31.238565,121.435121,729,0,811,2,819,1,966,0
+84,锦江都城经典上海青年会人民广场酒店,Metropolo Jinjiang Hotels Classiq (Shanghai Qingnianhui People's Square),窗外好景,31.22726,121.4796,578,1,644,3,650,0,767,2
+85,秋果酒店(上海徐家汇交通大学地铁站店),QIU GUO HOTEL(Shanghai Xujiahui Jiaotong University Subway Station),停车场,31.201264,121.432119,372,1,414,0,418,0,493,0
+86,上海陆家嘴民生路地铁站亚朵酒店,Shanghai Lujiazui Minsheng Road subway station Atour Hotel,免费停车,31.238748,121.540371,625,1,695,3,702,1,828,3
+87,上海外滩雅致酒店,Elegant Hotel Shanghai Bund,管家服务,31.249099,121.48923,788,1,876,2,885,1,1044,0
+88,上海虹桥新华联索菲特大酒店,Sofitel Shanghai Hongqiao,SPA,31.200059,121.306939,696,0,774,1,782,0,923,0
+89,上海虹桥国展吴中路亚朵酒店,Atour Hotel (Shanghai Wuzhong Road),免费停车,31.163697,121.348661,586,2,651,1,658,2,776,3
+90,上海五角场大柏树亚朵酒店,Atour Hotel (Shanghai Hongkou Dabaishu),免费停车,31.292291,121.490695,507,0,564,0,570,0,673,1
+91,上海黄浦滨江成曼君亭酒店,SSAW Boutique Hotel Cheng Man,免费停车,31.199452,121.491215,508,1,565,1,571,2,674,2
+92,上海大宁市北高新园区亚朵酒店,"Atour Hotel, North Hi-Tech Park, Daning, Shanghai",免费停车,31.292315,121.455111,452,0,503,2,508,1,599,2
+93,扉缦酒店(上海虹桥机场国家会展中心店),Fm Blelsure Hotel (Shanghai Hongqiao Airport National Convention and Exhibition Center),免费停车,31.18409,121.356875,386,0,430,1,434,0,512,1
+94,上海陆家嘴金融中心亚朵S酒店,"Atour S Hotel (financial center, Lujiazui)",管家服务,31.221871,121.531376,742,3,826,2,834,0,984,0
+95,上海国际贵都大饭店,Hotel Equatorial Shanghai,泳池,31.220226,121.444586,465,0,518,0,523,2,617,1
+96,上海张江CitiGO欢阁酒店X,CitiGO Hotel X Zhangjiang Shanghai,免费停车,31.195161,121.623422,497,2,552,2,558,0,658,2
+97,上海浦东曹路亚朵酒店,Shanghai Pudong Caolu Atour Hotel,免费停车,31.270039,121.673842,507,1,564,0,570,1,673,0
+98,上海之鱼木莲庄酒店,"The Mulian Hotel Jinhai Lake,Shanghai",免费停车,30.934718,121.494054,437,2,486,0,491,0,579,0
+99,上海馨乐庭虹桥中心公寓酒店,Citadines Shanghai Hongqiao Center Apartment,酒店公寓,31.169082,121.372849,423,1,470,0,475,2,560,0
+100,上海长宁仙霞路亚朵酒店,"Atour Hotel Changning Xianxia Road, Shanghai",免费停车,31.206625,121.398054,625,0,695,0,702,1,828,0
+101,上海五角场INNO创智亚朵X酒店,Shanghai Wujiaochang INNO Chuangzhi Atour X Hotel,免费停车,31.314701,121.505569,664,3,739,0,746,3,880,2
+102,上海光大国际大酒店,Shanghai Everbright International Hotel,免费停车,31.167603,121.429435,397,1,442,0,446,1,526,0
+103,上海东方佘山翰悦阁酒店,Hotel Shanghai Sheshan Oriental - Handwritten Collection,泳池,31.114265,121.22483,667,1,742,2,749,3,884,2
+104,上海虹桥睿景酒店(国家会展中心店),Shanghai Hongqiao Yijing Hotel (National Convention and Exhibition Center),免费停车,31.178728,121.286683,488,1,543,0,548,1,647,1
+105,上海美致豪酒店(宝山店),Meizhihao Hotel (Shanghai Baoshan Branch),免费停车,31.380001,121.444925,444,3,494,0,499,1,589,0
+106,上海虹桥国展临空园区亚朵酒店,Atour  Hotel Shanghai Hongqiao International Exhibition Linkong Park,免费停车,31.228048,121.351296,554,0,617,2,623,2,735,0
+107,上海明珠大饭店,Shanghai Pearl Hotel,免费停车,31.203679,121.462495,423,1,470,1,475,2,560,2
+108,上海浦东金桥亚朵酒店,Atour Hotel (Shanghai Pudong Jinqiao),免费停车,31.256409,121.603741,609,1,677,1,684,1,807,3
+109,上海陆家嘴第一八佰伴亚朵X酒店,Atour X Hotel Lujiazui Diyi Babaiban Shanghai,机器人服务,31.22537,121.513864,570,1,634,2,640,2,755,1
+110,上海馨乐庭陆家嘴公寓酒店,Citadines Lujiazui Shanghai,机器人服务,31.243042,121.556577,549,0,611,1,617,2,728,1
+111,上海五角场大学路亚朵酒店,Atour Hotel Shanghai Wujiaochang Daxue Road,免费停车,31.310618,121.507037,633,0,704,0,711,0,839,1
+112,上海绿瘦酒店,LVSHOU Hotel Shanghai,泳池,31.137836,121.360592,567,1,631,1,637,2,752,3
+113,锦江都城经典上海南京路步行街外滩新城饭店,"Jinjiang Metropolo Hotel Classiq, Shanghai Bund Circle",江河景房,31.235273,121.487502,615,0,684,1,691,2,815,1
+114,上海建滔诺富特酒店,Novotel Shanghai Hongqiao,泳池,31.222764,121.355256,603,0,671,1,678,3,800,0
+115,静安·秋果酒店(上海静安寺南京西路店),Jing'an Qiuguo Hotel (Shanghai Jing'an Temple Nanjing West Road),家庭房,31.227733,121.451376,434,0,483,0,488,1,576,4
+116,上海古井假日酒店,Holiday Inn Shanghai Vista,泳池,31.237893,121.433507,577,0,642,3,648,0,765,0
+117,上海淮海公馆漫心府,Huaihai Mansion,管家服务,31.21722,121.461753,687,1,764,0,772,0,911,0
+118,上海北外滩亚朵酒店,Atour Hotel North Bund Shanghai,免费停车,31.260639,121.515335,617,0,686,0,693,0,818,1
+119,上海嘉定菊园智慧中心亚朵酒店,Atour Hotel Shanghai Jiading Juyuan Smart Center,免费停车,31.385073,121.231297,468,2,521,0,526,1,621,3
+120,上海虹桥机场华港雅阁酒店,Argyle Hotel (Hongqiao International Airport),免费停车,31.19244,121.349408,481,1,536,1,541,1,638,0
+121,上海古美智选假日酒店,"Holiday Inn Express Shanghai Gumei, an IHG Hotel",停车场,31.142812,121.386338,436,1,485,2,490,2,578,3
+122,上海中油阳光大酒店,Grand Soluxe Zhongyou Hotel Shanghai,泳池,31.22247,121.528971,706,1,785,6,793,1,936,0
+123,华晶丽呈睿轩上海北外滩酒店,Rezen Select Huajing (Shanghai North Bund),免费停车,31.270678,121.535986,377,1,420,1,424,1,500,0
+124,上海URSIDE酒店,Shanghai URSIDE Hotel,设计师酒店,31.202305,121.497116,568,0,632,2,638,3,753,2
+125,上海世博萨和酒店,SHANGHAI WORLD EXPO SAVHE HOTEL,设计师酒店,31.185744,121.502263,726,0,808,3,816,3,963,2
+126,上海五角场殷高西路地铁站亚朵酒店,Atour Hotel Shanghai Wujiaochang West Yingao Road Metro Station,免费停车,31.315556,121.485838,437,2,486,1,491,2,579,3
+127,上海徐家汇A.T.HOUSE酒店,Shanghai Xujiahui A.T.HOUSE Hotel,多功能厅,31.18915,121.435541,703,1,782,1,790,2,932,2
+128,上海虹桥康得思酒店,Cordis Shanghai Hongqiao,泳池,31.195037,121.316225,711,3,791,1,799,1,943,1
+129,上海浦东张江园区张江路河畔轻居酒店,"Riverside Light Residence Hotel Zhangjiang Road, Zhangjiang Park, Pudong, Shanghai",免费停车,31.210431,121.61263,586,0,651,0,658,0,776,3
+130,上海五角场柏阳君亭酒店,SSAW Hotel Shanghai Hongkou,免费停车,31.288433,121.490493,371,1,413,2,417,2,492,0
+131,上海虹桥中心爱琴海亚朵S酒店,Atour S Hotel Hongqiao Center Shanghai,设计师酒店,31.17404,121.371459,703,0,782,0,790,1,932,1
+132,上海华夏假日酒店,Holiday Inn Shanghai Huaxia,免费停车,31.167814,121.429907,493,3,548,1,554,2,654,2
+133,上海虹桥九亭科创走廊希尔顿欢朋酒店,Hampton by Hilton ShangHai HongQiao,免费停车,31.113942,121.34073,460,2,512,4,517,0,610,2
+134,时光漫步S酒店(上海火车站苏州河店),Nostalgia S Hotel (Shanghai Railway Station Suzhou River),江河景房,31.241478,121.46047,446,0,496,1,501,1,591,1
+135,上海馨乐庭徐家汇公寓酒店,Citadines Xujiahui Shanghai,免费停车,31.175912,121.443228,465,2,517,2,522,2,616,2
+136,上海衡山花园酒店,Hengshan Garden Hotel,桑拿,31.201804,121.443571,567,0,631,1,637,0,752,0
+137,base佰舍服务式公寓(上海苏河店),base SUHE Serviced Apartment,酒店公寓,31.242882,121.466784,396,4,441,1,445,2,525,0
+138,上海虹桥西郊假日酒店(虹桥机场店),Holiday Inn Shanghai Hongqiao West (Shanghai Hongqiao International Airport),免费停车,31.166024,121.271589,464,1,516,0,521,4,615,1
+139,上海浦东丽晟假日酒店,Holiday Inn Shanghai Pudong Nanpu,免费停车,31.206598,121.528407,543,1,604,0,610,3,720,3
+140,上海嘉定凯悦酒店,Hyatt Regency Shanghai Jiading,设计师酒店,31.352298,121.263314,617,0,686,1,693,2,818,1
+141,上海嘉定南翔亚朵酒店,"Nanxiang Yaduo Hotel, Jiading, Shanghai",免费停车,31.2818,121.314189,429,1,477,1,482,2,569,1
+142,上海虹桥国家会展中心同派酒店,Shanghai Hongqiao National Convention and Exhibition Center Tongpai Hotel,免费停车,31.215641,121.284493,490,0,545,1,551,2,650,2
+143,上海滴水湖斯南格尔精选酒店,Stargale's Collection,家庭房,30.89157,121.927385,463,0,515,0,520,1,614,6
+144,上海宽居云涧花园酒店,Kuan ju yun jian garden hotel,免费停车,31.00125,121.241636,408,1,453,0,458,2,540,1
+145,旅笼酒店(上海浦东张江店),Lvlong Hotel-Shanghai Zhangjiang Branch,免费停车,31.179098,121.602843,409,0,455,3,460,1,543,1
+146,上海中庚聚龙酒店,Shanghai Jeurong Hotel,泳池,31.130172,121.397055,645,1,718,0,725,1,856,1
+147,上海虹桥机场空港路亚朵X酒店,Atour X Hotel Shanghai  Hongqiao Airport Konggang Road,免费停车,31.181269,121.350037,530,1,590,0,596,0,703,0
+148,上海筑逸轻奢民宿,Shanghai Zhuyi Light Luxury Homestay,民宿,31.103644,121.669692,363,0,404,1,408,4,481,2
+149,上海北外滩漫心酒店,Manxin Hotel Shanghai North Bund,影音房,31.256657,121.500838,492,2,547,1,553,2,653,2
+150,上海美丽园大酒店,Merry Hotel Shanghai,健身室,31.21833,121.437995,354,0,394,0,398,0,470,1
+151,basePLUS佰舍服务式公寓(上海世博会博物馆滨江店),basePLUS-Binjiang Serviced Apartment,江河景房,31.199497,121.485064,516,2,574,0,580,0,684,1
+152,上海陆家嘴滨江大道亚朵X酒店,ATOUR X Hotel Shanghai Lujiazui Binjiang Avenue,充电桩,31.224205,121.510011,594,0,660,1,667,1,787,1
+153,上海浦东中心万枫酒店,Fairfield by Marriott Shanghai Pudong Central,免费停车,31.215702,121.533016,550,1,612,1,618,2,729,1
+154,建国璞隐酒店(上海陆家嘴世博中心店),"Jianguo Hidden Hotel (Shanghai Lujiazui, Expo Center)",机器人服务,31.206439,121.51175,371,3,413,1,417,0,492,1
+155,上海艺龙酒店,Elong Hotel,机器人服务,31.234358,121.479531,773,0,859,0,868,0,1024,2
+156,桔子水晶上海中山公园酒店,Crystal Orange Hotel (Shanghai Zhongshan Park),停车场,31.21465,121.413255,523,3,582,0,588,2,694,1
+157,过来·花海客栈(上海国际旅游度假区店),Past To Future,客栈,31.110961,121.640522,549,1,611,1,617,0,728,1
+158,上海五角场金储广场亚朵酒店,Shanghai Wujiaochang Jinchu Plaza Atour Hotel,亲子主题房,31.296927,121.520727,546,0,608,1,614,0,725,3
+159,黛茂诗酒店(上海豫园老西门地铁站店),Demores Hotel,家庭房,31.219036,121.485323,479,2,533,2,538,3,635,1
+160,上海馨乐庭淞虹路服务公寓,Citadines Songhong Road Shanghai,管家服务,31.21696,121.359513,478,2,532,1,537,0,634,1
+161,上海外滩万达瑞华酒店,Wanda Reign Hotel,设计师酒店,31.227786,121.496688,1644,1,1829,3,1847,0,2179,1
+162,上海月和纪初梦民宿,Yue He Ji Original intention and dreams Homestay,家庭房,31.101521,121.678377,354,1,394,0,398,0,470,4
+163,上海徐家汇GROW瑞贝庭公寓酒店,Suisse place Xujiahui Shanghai,空调,31.200687,121.464608,531,1,591,1,597,1,704,5
+164,上海虹桥国家会展中心智选假日酒店,Holiday Inn Express Shanghai Hongqiao National Convention and Exhibition Center,停车场,31.211531,121.278643,545,1,606,0,612,0,722,0
+165,上海金桥中心智选假日酒店,Holiday Inn Express Shanghai Jinqiao Central,免费停车,31.25382,121.587669,450,2,501,2,506,2,597,1
+166,上海崇明云朵·墅酒店,Shanghai Chongming Kumo Hotel,免费停车,31.465368,121.809758,312,1,347,2,351,2,414,2
+167,上海和平饭店,Fairmont Peace Hotel,Boss推荐,31.239021,121.489459,2249,1,2502,3,2527,1,2982,3
+168,上海唐镇智选假日酒店,Holiday Inn Express Shanghai Tangzhen,免费停车,31.212557,121.653277,490,3,544,1,550,3,649,1
+169,上海北虹桥绿地铂骊酒店,The QUBE Hotel Shanghai North Hongqiao,免费停车,31.241339,121.329011,435,2,484,0,489,3,577,2
+170,上海浦东金桥地铁站亚朵酒店,Atour Hotel Shanghai Pudong Jinqiao Metro Station,停车场,31.255827,121.611475,617,0,686,2,693,1,818,0
+171,和颐至尚酒店(上海张江金科路店),Yitel Hotel,免费停车,31.193704,121.605921,502,2,558,1,564,3,666,0
+172,上海万信福朋喜来登酒店,Four Points by Sheraton Shanghai Kangqiao,免费停车,31.136203,121.593035,461,2,513,3,518,1,611,2
+173,上海浦东丽思卡尔顿酒店,"The Ritz-Carlton Shanghai, Pudong",泳池,31.2367,121.501,2262,2,2517,3,2542,1,3000,0
+174,上海朱家角珠溪里舍,PEARL RIVER HOUSE,家庭房,31.11358,121.05852,533,0,593,0,599,0,707,2
+175,上海扬子江丽笙精选酒店,"Radisson Collection Hotel, Yangtze Shanghai",泳池,31.202982,121.405914,552,1,614,0,620,0,732,3
+176,上海外滩悦榕庄,Banyan Tree Shanghai On The Bund,桑拿,31.249857,121.506645,1918,2,2133,0,2155,1,2543,1
+177,上海丽昂豪生大酒店,Howard Johnson Leonora Plaza Shanghai,免费停车,31.252497,121.600085,448,0,498,0,503,0,594,1
+178,上海浦东文华东方酒店,Mandarin Oriental Pudong Shanghai,桑拿,31.243395,121.507879,1477,0,1643,1,1660,1,1959,2
+179,乡里宿民宿,VILLAGE  STAY,免费停车,31.061454,121.004499,505,3,561,0,567,2,669,2
+180,上海长宁天山路亚朵S酒店,Shanghai Changning Tianshan Road Yaduo S Hotel,停车场,31.212336,121.394062,664,0,739,0,746,0,880,1
+181,和颐至尚酒店(上海陆家嘴浦电路地铁站店),"Yitel Hotel (Pudian Road Subway Station, Lujiazui, Shanghai )",多功能厅,31.21681,121.530058,355,2,395,1,399,1,471,3
+182,上海万源路亚朵S酒店,"Atour S hotel, Shanghai Wanyuan Road",窗外好景,31.143537,121.39434,586,1,651,0,658,0,776,0
+183,上海浦江智选假日酒店,Holiday Inn Express Shanghai Pujiang,免费停车,31.10718,121.499556,422,1,469,0,474,2,559,1
+184,上海静安瑞吉酒店,The St. Regis Shanghai Jingan,泳池,31.23117,121.45594,1664,1,1851,3,1870,2,2207,0
+185,上海外滩花间堂·愉园,Blossom House Shanghai On The Bund,Boss推荐,31.229814,121.491921,866,4,963,2,973,1,1148,1
+186,上海佘山世茂洲际酒店(世茂深坑酒店),InterContinental Shanghai Wonderland,泳池,31.059236,121.154407,1873,0,2084,2,2105,0,2484,1
+187,上海林溪·水岸度假屋,Shanghai Linxi Shuian Resort,免费停车,31.173428,121.676261,426,1,474,0,479,2,565,3
+188,上海中港汇铂尔曼大酒店,Pullman Shanghai Central,亲子主题房,31.204188,121.471539,978,0,1088,1,1099,0,1297,3
+189,上海浦东丽晶酒店,Regent Shanghai Pudong,桑拿,31.234126,121.510239,1503,1,1672,0,1689,1,1993,0
+190,上海雅居乐万豪侯爵酒店,Shanghai Marriott Marquis City Centre,泳池,31.236681,121.473529,1233,0,1371,1,1385,0,1634,1
+191,上海馨乐庭长寿路公寓酒店,Citadines Changshou Road Shanghai,停车场,31.230036,121.427207,478,1,532,1,537,2,634,1
+192,上海东湖宾馆·悠选,Donghu Collection Hotel,桑拿,31.21603,121.454169,605,1,673,0,680,0,802,0
+193,上海凯宾斯基大酒店,Grand Kempinski Hotel Shanghai,桑拿,31.242605,121.504119,1112,0,1238,2,1250,1,1475,1
+194,上海璞丽酒店,The Puli Hotel and Spa,桑拿,31.222291,121.448379,1942,1,2160,0,2182,2,2575,0
+195,上海外滩璞硯酒店,"The Bund Puyan Hotel, Shanghai",机器人服务,31.240439,121.482271,833,2,927,0,936,0,1104,1
+196,上海浦东大道丽呈酒店,Rezen Hotel Shanghai Pudong Street,家庭房,31.250023,121.550483,588,0,654,0,661,0,780,2
+197,上海悠庭皇家驿栈,Shanghai Schloss Hotels & Resorts,客栈,31.020445,121.646847,473,0,527,2,532,3,628,0
+198,上海浦东东郊逸扉酒店,UrCove by Hyatt Shanghai Pudong East,免费停车,31.211363,121.699509,432,1,480,2,485,2,572,3
+199,上海苏宁宝丽嘉酒店,Bellagio by MGM Shanghai,桑拿,31.245018,121.487288,2219,0,2468,0,2493,2,2942,1
+200,丽怡酒店(上海虹口足球场赤峰路地铁站店),"Country lnn & Suites by Radisson,Shanghai Hongkou Football Stadium and Chifeng Road Station",免费停车,31.283175,121.482347,467,2,520,0,525,2,620,1
+201,上海前滩香格里拉大酒店,"Shangri-La Qiantan, Shanghai",SPA,31.151383,121.481302,1479,0,1645,1,1662,1,1961,1
+202,上海虹桥美仑美奂酒店,"MaxX by Steigenberger Shanghai, Hongqiao",管家服务,31.163257,121.355841,744,0,828,2,836,1,986,1
+203,上海浦东香格里拉大酒店,"Pudong Shangri-La, Shanghai",江河景房,31.235765,121.499355,1261,3,1403,2,1417,1,1672,1
+204,上海徐家汇中心交通大学亚朵X酒店,Atour X Hotel， Jiaotong University，Xujiahui Center，Shanghai,免费停车,31.19469,121.431978,461,1,513,1,518,0,611,1
+205,上海中心J酒店,J Hotel Shanghai Tower,SPA,31.233539,121.505404,4302,1,4786,4,4834,3,5704,0
+206,上海西岸美高梅酒店,MGM Shanghai West Bund,桑拿,31.162354,121.458332,1526,2,1698,1,1715,1,2024,0
+207,上海太阳岛度假酒店,Shanghai Sun Island Resort,充电桩,31.03628,121.074115,694,0,772,1,780,3,920,1
+208,上海圣淘沙万怡酒店,Courtyard by Marriott Shanghai Fengxian,桑拿,30.910916,121.456525,406,2,451,1,456,1,538,1
+209,上海新天地安达仕酒店,"Andaz Xintiandi, Shanghai",泳池,31.222059,121.475566,1479,2,1645,2,1662,1,1961,2
+210,上海金茂君悦大酒店,Grand Hyatt Shanghai,桑拿,31.235151,121.506082,1218,1,1354,1,1368,1,1614,2
+211,上海静安铂尔曼酒店,Pullman Shanghai Jing An,SPA,31.246483,121.456808,847,2,942,0,952,1,1123,3
+212,云图·淀山湖民宿,Atlas,免费停车,31.11754,120.939752,554,4,616,0,622,0,734,1
+213,上海虹桥金臣皇冠假日酒店,Crowne Plaza Shanghai Hongqiao,行政酒廊,31.190439,121.315426,855,1,951,1,961,0,1134,2
+214,上海佘山茂御臻品之选酒店,"The Yuluxe Sheshan, Shanghai, a Tribute Portfolio Hotel",泳池,31.095161,121.204852,985,1,1096,1,1107,1,1306,2
+215,上海外滩华尔道夫酒店,Waldorf Astoria Shanghai on the Bund,SPA,31.233567,121.489874,1827,2,2032,1,2053,1,2423,1
+216,上海静安香格里拉大酒店,Jing'an Shangri-La West Shanghai,泳池,31.223105,121.450725,1762,1,1960,0,1980,0,2336,0
+217,上海宝山上大路亚朵酒店,Atour Hotel Shangda Road Shanghai,家庭房,31.312939,121.401478,468,2,521,1,526,0,621,1
+218,上海养云安缦酒店,Amanyangyun,桑拿,31.033833,121.346514,6141,1,6831,3,6900,1,8142,3
+219,上海宝格丽酒店,Bvlgari Hotel Shanghai,桑拿,31.242714,121.482087,4521,1,5029,3,5080,2,5994,0
+220,上海浦东星河湾酒店,Chateau Star River Pudong Shanghai,泳池,31.191751,121.537623,842,1,937,0,946,0,1116,2
+221,上海大宁国际协信广场轻居酒店,Shanghai Daning International Xiexin Plaza Light House Hotel,家庭房,31.298216,121.459356,429,2,477,2,482,0,569,3
+222,上海南新雅皇冠假日酒店,Crowne Plaza Shanghai Nanjing Road,网红泳池,31.234393,121.476999,808,3,899,1,908,0,1071,1
+223,上海衡山逸居·恋塘三赏,Shanghai Hengshan Yiju Liantang Sanshang Homestay,免费停车,30.977901,121.062368,473,0,526,0,531,1,627,1
+224,上海阿纳迪酒店,The Anandi Hotel and Spa Shanghai,桑拿,31.229737,121.357666,1593,1,1772,0,1790,0,2112,1
+225,上海易沃至尚酒店,Ewo Grand Hotel Shanghai,免费停车,31.316837,121.227033,388,0,432,0,436,1,514,0
+226,上海远洲逸廷酒店(虹桥机场店),Shanghai Yuanzhou Yiting Hotel (Hongqiao Airport),免费停车,31.21581,121.282321,399,1,444,2,448,2,529,0
+227,花筑·上海市外桃源民宿(上海国际旅游度假区店),Floral Hotel · Shanghai Waitaoyuan Homestay (Shanghai International Tourism Resort),家庭房,31.110977,121.64359,367,0,408,0,412,0,486,1
+228,上海村上民宿,CUN Homestay,免费停车,31.674201,121.404953,442,2,492,1,497,2,586,1
+229,上海虹桥临空智选假日酒店,Holiday Inn Express Shanghai Hongqiao Linkong,停车场,31.229938,121.351472,498,0,553,1,559,1,660,2
+230,上海南京路步行街假日酒店,Holiday Inn Shanghai Nanjing Road,动人夜景,31.234388,121.47928,880,3,979,0,989,2,1167,0
+231,上海静安洲际酒店,InterContinental Shanghai Jing'an,桑拿,31.244843,121.453305,1043,1,1160,3,1172,0,1383,1
+232,上海环球港凯悦酒店,Hyatt Regency Shanghai Global Harbor,泳池,31.232041,121.412492,889,1,989,3,999,1,1179,3
+233,上海古象杉丽酒店,Hotel Chalet Shanghai,管家服务,31.234268,121.479705,532,1,592,0,598,0,706,2
+234,上海外滩滨江珍宝酒店,Shanghai Bund Riverside Treasury Hotel,拍照出片,31.25127,121.506769,466,2,519,0,524,2,618,0
+235,上海陆家嘴滨江禧玥酒店,Shanghai Lujiazui Riverside Hotel,Boss推荐,31.220215,121.512595,951,1,1057,0,1068,1,1260,1
+236,上海广富林大酒店,SHANGHAIGUANGFULINHOTL,免费停车,31.053546,121.188441,411,1,457,0,462,3,545,3
+237,和颐酒店(上海金桥店),Yitel (Shanghai Jinqiao),免费停车,31.247884,121.597629,340,0,378,1,382,4,451,2
+238,上海陆家嘴万信R酒店,Wassim R Hotel,动人夜景,31.239761,121.559459,599,3,666,1,673,0,794,1
+239,上海朱家角香遇独立民宿,Shanghai Zhujiajiao Xiangyu Independent Homestay,免费停车,31.11466,121.046111,533,2,593,3,599,0,707,3
+240,上海虹桥温德姆酒店,Wyndham Shanghai Hongqiao,泳池,31.199918,121.303534,636,2,708,2,715,3,844,0
+241,上海宏安瑞士大酒店,Swissotel Grand Shanghai,桑拿,31.224788,121.447137,1067,1,1187,3,1199,0,1415,3
+242,上海衡山逸居·花漾柘湖民宿,Shanghai Hengshan Yiju Huayang zhehu Homestay,免费停车,30.886145,121.114836,473,2,526,2,531,1,627,1
+243,上海锦江都城经典南京东路外滩酒店,Shanghai Jinjiang Metropolo Classic East Nanjing Road Hotel,江河景房,31.238794,121.487976,711,2,791,0,799,2,943,2
+244,上海艾迪逊酒店,Shanghai Edition Hotel,SPA,31.237736,121.485915,5280,0,5874,2,5933,0,7001,2
+245,上海国际旅游度假区方外民宿,"Fangwai Homestay, Shanghai International Tourism Resort",日光浴场,31.076744,121.707376,434,1,483,0,488,0,576,0
+246,上海如砚酒店,Ruyan Hotel Shanghai,免费停车,31.562485,121.587882,461,2,513,1,518,2,611,2
+247,上海建业里嘉佩乐酒店,Capella Shanghai Jian Ye Li,Boss推荐,31.203218,121.451114,4417,0,4913,1,4963,2,5856,0
+248,曼居酒店(上海新国际博览中心店),Manju Hotel (Shanghai New International Expo Centre),免费停车,31.225097,121.571545,566,0,630,2,636,0,750,4
+249,上海梧桐人家酒店,Wutong Renjia Hotel,免费停车,31.111069,121.626511,446,0,496,0,501,2,591,1
+250,上海虹桥祥源希尔顿酒店,Hilton Shanghai Hongqiao,桑拿,31.187459,121.395312,769,1,855,0,864,1,1020,1
+251,国家会展中心上海洲际酒店,InterContinental Shanghai Hongqiao NECC,桑拿,31.186792,121.300361,1107,0,1232,0,1244,1,1468,1
+252,base佰舍服务式公寓(上海新国际博览中心浦三路店),base PUSAN Serviced Apartment,健身室,31.197352,121.512525,456,0,507,2,512,2,604,4
+253,上海巨鹿花园别墅,Julu Garden Villa,别墅,31.218693,121.449241,649,2,722,2,729,0,860,0
+254,上海新世界丽笙大酒店,Radisson Blu Hotel Shanghai New World,泳池,31.234621,121.47327,951,1,1057,0,1068,1,1260,0
+255,上海静安大融城亚朵酒店,Shanghai Jing'an Darong City Yaduo Hotel,空调,31.278354,121.425823,505,0,561,0,567,0,669,1
+256,上海千禧海鸥大酒店,Grand Millennium Shanghai HongQiao,泳池,31.197,121.39506,772,3,858,1,867,2,1023,0
+257,上海宝燕酒店,Baoyan Hotel,免费停车,31.084395,121.398618,497,5,552,0,558,0,658,1
+258,上海虹桥君丽假日酒店,Holiday Inn Shanghai Hongqiao Central,充电桩,31.212067,121.408153,570,2,634,2,640,2,755,0
+259,上海汾阳花园酒店,Fenyang Garden Boutique Hotel,免费停车,31.213272,121.455694,667,3,742,2,749,2,884,0
+260,云和夜泊酒店(上海国际旅游度假区店),Yunhe Yebo Hotel (Shanghai Disneyland),免费停车,31.023822,121.703767,361,2,402,1,406,1,479,1
+261,PGA安瀛高尔夫俱乐部庄园,PGA ANYIN Golf Club,免费停车,31.463434,121.818683,490,3,544,0,550,1,649,1
+262,上海静安寺智选假日酒店,"Holiday Inn Express Shanghai Jing'an Temple, an IHG hotel",停车场,31.222731,121.454691,621,0,691,1,698,1,824,1
+263,原舍·在水一方度假酒店,The Original House in Waterside Resort,家庭房,30.824822,121.396748,454,0,505,0,510,0,602,8
+264,上海长风公园智选假日酒店,Holiday Inn Express Shanghai Changfeng Park,停车场,31.244848,121.394368,433,2,481,2,486,0,573,1
+265,和颐酒店(上海张江园区店),Yitel (Shanghai Zhangjiang High-technology Park),免费停车,31.205636,121.615932,340,2,378,1,382,4,451,0
+266,上海柏悦酒店,Park Hyatt Shanghai,桑拿,31.234436,121.507528,2125,0,2364,2,2388,2,2818,2
+267,上海松江假日酒店,Holiday Inn Shanghai Songjiang,免费停车,31.006733,121.235499,490,1,544,0,550,0,649,0
+268,上海张江筑桥居·后社公寓,Shanghai Zhangjiang Zhuqiaoju Houshe Apartment,管家服务,31.179029,121.608314,580,0,645,3,652,1,769,1
+269,安和花园酒店,Anhe Garden Hotel,会议厅,31.202171,121.428762,554,2,616,2,622,2,734,2
+270,上海木林之畔度假屋,Shanghai Mulin's Pan Holiday Home,泳池,31.169045,121.650879,490,3,544,0,550,1,649,3
+271,上海徐家汇禧玥酒店,Joya Hotel Shanghai Xujiahui,管家服务,31.186936,121.433105,675,0,750,0,758,1,894,1
+272,芳香小镇·啟耕民宿,Bloomingtown Initiate,免费停车,30.888436,121.120575,451,2,502,2,507,2,598,2
+273,桔子水晶上海浦东机场酒店,Crystal Orange Hotel Shanghai Pudong Airport,家庭房,31.148378,121.75971,400,1,445,0,449,0,530,1
+274,上海浦东南万枫酒店,Fairfield by Marriott Shanghai Pudong South,窗外好景,31.182738,121.554273,581,1,646,2,653,1,771,1
+275,上海鲁能JW万豪侯爵酒店,JW Marriott Marquis Hotel Shanghai Pudong,桑拿,31.216478,121.513898,1557,1,1732,1,1749,0,2064,0
+276,上海悦麓花园酒店,Yuelu Garden Hotel,免费停车,31.332444,121.286316,589,2,655,3,662,0,781,0
+277,上海金仓永华大酒店,Golden Rich Hotel,免费停车,31.365553,121.440717,472,0,525,0,530,1,625,5
+278,上海虹桥锦江大酒店,Hongqiao Jin Jiang Hotel,桑拿,31.203609,121.405539,617,1,686,2,693,2,818,3
+279,上海外滩英迪格酒店,Hotel Indigo Shanghai on The Bund,泳池,31.226427,121.49994,1131,0,1258,0,1271,0,1500,2
+280,维也纳国际酒店(上海新国际博览中心康桥地铁站店),Vienna International Hotel ( Shanghai New International Expo Center Kangqiao Metro Station),免费停车,31.127551,121.572188,402,4,447,2,452,1,533,1
+281,上海花园饭店,Okura Garden Hotel Shanghai,桑拿,31.219706,121.459832,753,2,838,1,846,3,998,1
+282,上海古北禧玥酒店,Joya Hotel Shanghai Gubei,SPA,31.197089,121.404465,836,3,930,0,939,1,1108,0
+283,上海Grand Inn西郊公寓酒店,Grand Inn Xijiao Apartment Hotel,免费停车,31.204852,121.378049,443,3,493,1,498,3,588,1
+284,上海东方美仑美奂酒店,MaxX By Steigenberger on the Bund Shanghai,设计师酒店,31.231813,121.492934,1151,0,1280,2,1293,1,1526,1
+285,上海朱家角安麓酒店,Ahn Luh Zhujiajiao,私人泳池,31.114618,121.048805,3560,2,3960,1,4000,0,4720,1
+286,上海新天地朗廷酒店,The Langham Shanghai Xintiandi,桑拿,31.22174,121.474175,1505,1,1674,2,1691,2,1995,3
+287,上海静安英迪格酒店,Hotel Indigo Shanghai Jing＇An,充电桩,31.243631,121.452649,1145,3,1273,0,1286,3,1517,0
+288,上海西郊宾馆,Xijiao State Guest Hotel,泳池,31.200594,121.38046,997,3,1109,0,1120,0,1322,4
+289,上海金普顿前滩酒店,Kimpton Qiantan Shanghai,泳池,31.153225,121.47246,1591,3,1770,0,1788,0,2110,0
+290,上海海鸥丽晶酒店,Regent Shanghai on the Bund,窗外好景,31.243772,121.491776,2312,2,2572,1,2598,2,3066,2
+291,全季酒店(上海虹桥古北财富中心店),Ji Hotel (Shanghai Hongqiao Gubei Fortune Center),机器人服务,31.197336,121.404076,398,3,443,0,447,0,527,2
+292,上海大华长风华邑酒店,HUALUXE Shanghai Changfeng Park,泳池,31.224966,121.393999,817,2,909,0,918,0,1083,0
+293,花筑·半移堂民宿(上海青溪老街店),Floral Hotel·ban yi Tang  (Shanghai Qingxi old street branch),家庭房,30.92193,121.58716,389,1,433,1,437,0,516,1
+294,上海中星铂尔曼大酒店,Pullman Shanghai South,桑拿,31.159505,121.430057,781,1,869,1,878,1,1036,2
+295,全季酒店(上海陆家浜路地铁站店),Ji Hotel (Shanghai Lujiabang Road Metro Station),机器人服务,31.211789,121.488018,493,1,548,0,554,1,654,2
+296,上海瑞金洲际酒店,InterContinental Shanghai Ruijin,桑拿,31.212978,121.464116,1333,1,1483,3,1498,0,1768,2
+297,上海迪士尼乐园酒店,Shanghai Disneyland Hotel,泳池,31.135307,121.666326,2258,3,2512,2,2537,2,2994,1
+298,上海金桥钻石碧云苑服务公寓,Green Court Residence Jinqiao Diamond Shanghai,酒店公寓,31.241631,121.588245,578,1,643,1,649,3,766,3
+299,上海静安暻阁酒店,Ginco Hotel,行政酒廊,31.2296,121.442601,621,3,691,3,698,0,824,0
+300,上海龙湖霞菲公馆,HSIAFEI MANSION,泳池,31.18988,121.314737,525,2,584,1,590,1,696,2
+301,上海素凯泰酒店,The Sukhothai Shanghai,桑拿,31.227444,121.464452,1601,0,1781,1,1799,0,2123,0
+302,上海华纳风格大酒店,Huana Hotel,免费停车,31.169935,121.390353,434,0,483,0,488,0,576,1
+303,上海虹桥绿地铂瑞酒店,Primus Hotel Shanghai Hongqiao,泳池,31.182668,121.302892,1691,2,1881,1,1900,0,2242,0
+304,麦新格精品酒店(上海东方明珠店),Maixinge Boutique Hotel (Shanghai Oriental Pearl Tower),免费停车,31.238901,121.530163,315,2,350,1,354,4,418,1
+305,上海虹桥雅高美爵酒店,Grand Mercure Shanghai Hongqiao,SPA,31.206215,121.396567,670,1,745,1,753,0,889,1
+306,上海景苑水庄酒店,Jingyuan Shuizhuang Hotel,免费停车,31.11518,121.053336,549,0,611,5,617,1,728,2
+307,上海自然回响度假村,Shanghai Natural Reverberation Resort,日光浴场,31.719372,121.436333,427,2,475,0,480,0,566,4
+308,上海皇廷花园酒店,Royal Garden Hotel,泳池,31.198057,121.679869,622,1,692,1,699,0,825,2
+309,上海吉臣维景酒店,Metropark Jichen Hotel Shanghai,免费停车,31.227856,121.429645,372,0,414,2,418,5,493,1
+310,上海银星皇冠假日酒店,Crowne Plaza Shanghai,泳池,31.202769,121.429523,728,0,810,0,818,0,965,1
+311,上海新金桥智选假日酒店,Holiday Inn Express Shanghai New Jinqiao,免费停车,31.273109,121.616221,420,0,467,0,472,0,557,1
+312,上海松江凯悦酒店,Hyatt Regency Shanghai Songjiang,泳池,31.054661,121.247651,773,3,859,1,868,2,1024,0
+313,上海五角场Pagoda君亭设计酒店,Pagoda Hotel Shanghai Wujiaochang,泳池,31.30625,121.509392,711,0,791,0,799,0,943,2
+314,上海宝龙丽笙酒店,Radisson Blu Shanghai Pudong Jinqiao,泳池,31.26571,121.650132,853,0,948,0,958,0,1130,2
+315,上海滴水湖洲际酒店,InterContinental Shanghai Harbour City,泳池,30.890812,121.93741,1022,1,1137,1,1148,0,1355,0
+316,上海马勒别墅饭店,Shanghai  Moller Villa Hotel,免费停车,31.222903,121.456392,968,4,1077,2,1088,0,1284,2
+317,上海镛舍酒店,The Middle House,桑拿,31.229625,121.463628,2027,0,2255,0,2278,1,2688,2
+318,上海开元名庭酒店,Shanghai New Century Grand Hotel,免费停车,31.12649,121.228163,400,1,446,0,450,2,531,0
+319,上海静安博邻行政公寓,Blinq Residences Shanghai Jing'an,窗外好景,31.251712,121.473633,460,2,512,0,517,3,610,2
+320,上海百万石温泉酒店(星愿湖店),Hyakumangoku Onsen Hotel,SPA,31.139213,121.67709,986,1,1097,1,1108,2,1307,3
+321,上海艾本精品酒店,URBN Boutique Shanghai,设计师酒店,31.227217,121.443596,737,0,820,0,828,0,977,1
+322,东方绿舟度假酒店(花园酒店),Oriental Green Boat Resort (Garden Hotel),免费停车,31.104815,121.015155,421,0,468,2,473,1,558,2
+323,上海新晖大酒店,Neo-Sunshine Hotel Shanghai,免费停车,31.031677,121.209981,354,1,394,1,398,0,470,0
+324,上海波特曼丽思卡尔顿酒店,"The Portman Ritz-Carlton, Shanghai",泳池,31.227029,121.45172,1351,1,1503,0,1518,1,1791,2
+325,上海东方滨江大酒店(国际会议中心),Oriental Riverside Hotel Shanghai (Shanghai International Convention Center),桑拿,31.23922,121.496909,846,0,940,2,950,2,1121,0
+326,上海世博逸衡酒店,EVEN Hotels Shanghai Expo,智能客控,31.189422,121.49981,719,1,800,4,808,0,953,1
+327,上海兴国宾馆丽笙精选,"Radisson Collection Hotel,Xing Guo Shanghai",亲子主题房,31.209111,121.434941,1033,0,1149,0,1161,1,1370,7
+328,上海锦江汤臣洲际大酒店,InterContinental Shanghai Pudong,桑拿,31.22953,121.521604,1210,3,1346,0,1360,2,1605,3
+329,上海国金汇酒店公寓,IFC Residence,酒店公寓,31.235245,121.502634,1112,2,1238,2,1250,1,1475,1
+330,上海隐居繁华武康路公馆,Metropolitan Seclusive Life In Wukang rd Shanghai,Boss推荐,31.211675,121.440732,2128,2,2367,0,2391,3,2821,3
+331,上海世博洲际酒店,InterContinental Shanghai Expo,泳池,31.199257,121.505257,978,4,1088,2,1099,1,1297,0
+332,上海外滩南京东路亚朵酒店,AtourHotel,管家服务,31.234528,121.488317,719,0,800,1,808,0,953,0
+333,上海圣诺亚皇冠假日酒店,Crowne Plaza Shanghai Noah Square,泳池,31.232346,121.377709,693,1,771,0,779,3,919,1
+334,上海星河吉酒店,The G Shanghai,家庭房,31.130591,121.618435,533,0,593,0,599,0,707,1
+335,上海延安饭店,Yan An Hotel,会议厅,31.220632,121.448279,344,1,383,0,387,1,457,0
+336,上海衡山路十二号华邑酒店,HUALUXE Shanghai Twelve At Hengshan,桑拿,31.205676,121.446883,1038,0,1154,0,1166,0,1376,1
+337,唯庭酒店(上海徐家汇交大店),Waiting Hotel (Shanghai Xujiahui Branch),儿童乐园,31.185782,121.431954,307,0,342,0,345,1,407,0
+338,万和至臻酒店(上海日月光打浦桥地铁站店),Wanhe Zhizhen Hotel (Shanghai Sun Moonlight Dapuqiao Subway Station),商务中心,31.205039,121.468931,336,1,374,1,378,0,446,1
+339,上海淳大万丽酒店,Renaissance Shanghai Pudong Hotel,泳池,31.223836,121.551968,1699,1,1890,1,1909,2,2253,0
+340,上海邻家美利亚酒店,Melia Shanghai  Parkside,管家服务,31.133808,121.65922,979,2,1089,1,1100,1,1298,2
+341,上海邻家露营地,Linjia Campsite,特色住宿,31.145738,121.674498,611,3,680,2,687,1,811,1
+342,上海虹桥机场佰翔花园酒店,Fliport Garden Hotel,免费停车,31.192877,121.351029,580,2,645,0,652,0,769,0
+343,上海北外滩金辉索菲特酒店,Sofitel Shanghai North Bund,窗外好景,31.254,121.492079,1254,1,1395,1,1409,2,1663,2
+344,上海东湖宾馆,Donghu Hotel Shanghai,免费停车,31.21685,121.453285,872,3,970,1,980,1,1156,1
+345,锦江都城经典上海南京路步行街南京饭店,Metropolo Jinjiang Hotel Classiq (Shanghai Nanjing Road Pedestrian Street),历史名宅,31.237396,121.482303,648,1,721,1,728,4,859,2
+346,上海大众空港宾馆,Da Zhong Airport Hotel,健身室,31.150005,121.806142,481,2,535,1,540,0,637,0
+347,OPARTMENT远东饭店,OPARTMENT The Far Eastern Hotel,管家服务,31.230024,121.477828,1307,0,1453,1,1468,0,1732,1
+348,上海The Drama酒店,The Drama Hotel,管家服务,31.229956,121.456056,875,1,973,2,983,2,1160,1
+349,上海浦东川沙诺富特酒店,Novotel Shanghai Pudong Chuansha,免费停车,31.176086,121.702614,408,0,453,1,458,3,540,3
+350,上海九思酒店,Shanghai Jiusi Hotel,SPA,31.307412,121.349592,410,1,456,3,461,1,544,3
+351,维也纳国际酒店(上海浦东机场店),Vienna International Hotel (Shanghai Pudong Airport),免费停车,31.17561,121.744932,301,1,335,2,338,0,399,1
+352,上海静安逸扉酒店,UrCove by HYATT Shanghai Jing'an,充电桩,31.226695,121.436258,511,1,568,0,574,0,677,2
+353,万信酒店(上海陆家嘴世博园店),Wassim Hotel (Shanghai Lujiazui World Expo Center),免费停车,31.184956,121.504431,444,1,494,0,499,1,589,1
+354,上海静安凯宾斯基全套房酒店,Kempinski The One Suites Hotel Shanghai Downtown,泳池,31.232219,121.465043,972,1,1081,1,1092,3,1289,1
+355,上海建工浦江皇冠假日酒店,Crowne Plaza Shanghai Pujiang,泳池,31.090063,121.489728,681,1,757,1,765,3,903,1
+356,上海虹桥迎宾馆,Hongqiao State Guest House Shanghai,泳池,31.202537,121.394254,710,2,790,1,798,4,942,1
+357,上海复旦皇冠假日酒店,Crowne Plaza Shanghai Fudan,泳池,31.295382,121.502537,888,3,988,0,998,1,1178,3
+358,上海世博中心亚朵酒店,"Atour Hotel, Shanghai Expo Center",免费停车,31.176234,121.488441,703,1,782,0,790,1,932,0
+359,上海玩具总动员酒店,Shanghai Toy Story Hotel,免费停车,31.139111,121.653402,1452,0,1615,3,1631,3,1925,2
+360,上海画一养生度假村,Shanghai Huayi Farm Resort,泳池,31.098368,120.914303,1268,1,1411,0,1425,0,1682,2
+361,上海淮海路新天地雅诗阁酒店公寓,Ascott Huaihai Road Shanghai,泳池,31.223858,121.474591,1052,0,1170,0,1182,2,1395,1
+362,上海浦东川沙智选假日酒店,Holiday Inn Express Shanghai Pudong Chuansha,免费停车,31.176351,121.684479,333,2,370,3,374,2,441,1
+363,上海宝华喜来登酒店,Sheraton Shanghai Fengxian,泳池,30.921659,121.575572,631,0,702,0,709,0,837,1
+364,東禾九谷悦泊鄉乡村酒店,"Shanghai Donghejiugu Oxygen Land Co.,Ltd. East Farm Resort Villa Branch",免费停车,31.62077,121.706761,746,0,830,1,838,0,989,1
+365,上海扬子饭店,The Yangtze Boutique Shanghai,设计师酒店,31.233486,121.476317,1031,2,1146,2,1158,1,1366,2
+366,宿适奢华酒店(上海日月光打浦桥地铁站店),Sushi Luxury Hotel (Shanghai Riyueguang Dapuqiao Subway Station Branch),管家服务,31.202175,121.472966,335,1,372,3,376,0,444,0
+367,上海长兴宋品酒店,SongHotel,桑拿,31.368921,121.754692,1296,1,1441,3,1456,1,1718,2
+368,上海黑石M+酒店,"Blackstone M+ Hotel, Shanghai",24小时前台,31.211118,121.452403,1083,1,1205,4,1217,1,1436,0
+369,维也纳国际酒店(上海浦东机场自贸区店),Vienna International Hotel (Shanghai Pudong Airport Free Trade Zone),管家服务,31.143944,121.763529,302,0,336,2,339,4,400,0
+370,上海大华锦绣皇冠假日酒店,Crowne Plaza Shanghai Jinxiu,窗外好景,31.18096,121.532936,1056,0,1174,0,1186,0,1399,1
+371,馨庐花园酒店(上海国际旅游度假区店),Cozi Cottage (Shanghai International Tourism Resort),民宿,31.16344,121.693955,312,2,346,1,350,2,413,0
+372,宿适轻奢酒店(上海火车站汉中路地铁站店),SuShi Qingshe Hotel (Hanzhong Road subway station),会议厅,31.241643,121.457555,273,0,304,1,307,1,362,2
+373,上海崇明信澜天地云居酒店,"Chongming Xinlan Tiandi Yunju Hotel, Shanghai",家庭房,31.500455,121.862626,641,1,713,0,720,2,850,2
+374,上海虹桥凤颐酒店,Fondney Hotel Shanghai Hongqiao,家庭房,31.174473,121.314485,711,1,791,0,799,0,943,1
+375,上海悦华大酒店,Yuehua Hotel,桑拿,30.904778,121.458425,381,2,424,0,428,2,505,3
+376,全季酒店(上海隆昌路地铁站店),All Seasons Hotel (Shanghai Longchang Road Subway Station),免费停车,31.276595,121.546225,376,0,418,1,422,1,498,1
+377,上海浦东机场华美达安可酒店,Ramada Encore by Wyndham Shanghai Pudong Airport,多功能厅,31.100107,121.834275,328,0,364,1,368,0,434,0
+378,上海新国际博览中心磁悬浮站亚朵酒店,Atour Hotel (Shanghai New International Expo Center Maglev Station),免费停车,31.20026,121.555546,918,1,1021,1,1031,2,1217,3
+379,东平草堂,Dongping Boutique Resort,湖景房,31.665365,121.483652,1267,1,1410,0,1424,1,1680,1
+380,上海闲舍shinehouse独栋别墅,Shinehouse Villa,泳池,31.16621,121.66671,879,1,978,2,988,2,1166,2
+381,景莱酒店·臻选(上海徐家汇交通大学店),Jinglai Hotel·Selection (Shanghai Xujiahui Jiaotong University),管家服务,31.189429,121.433315,303,0,337,0,340,0,401,1
+382,上海嘉豪淮海国际豪生酒店,Howard Johnson Huaihai Hotel Shanghai,免费停车,31.215497,121.456297,645,0,718,0,725,2,856,1
+383,上海松江m美玥酒店,M Meiyue Hotel Shanghai Songjiang,免费停车,31.057965,121.252008,301,0,335,1,338,3,399,1
+384,上海徐家汇CitiGO欢阁酒店,CitiGO Hotel Xujiahui Shanghai,免费停车,31.194726,121.442516,355,0,395,2,399,0,471,2
+385,上海金沙智选假日酒店,Holiday Inn Express Shanghai Jinsha,免费停车,31.237659,121.366874,405,0,450,0,455,2,537,1
+386,上海中环国际酒店,Central International Hotel,免费停车,31.266694,121.404655,400,0,446,2,450,1,531,0
+387,上海朱家角宽璟酒店,KUANJING Hotel Shanghai Zhujiajiao,停车场,31.111503,121.01874,737,1,820,1,828,0,977,2
+388,漫森清水湾别墅,ManSion Villa,免费停车,31.464953,121.805596,3646,1,4056,0,4097,1,4834,0
+389,上海陆家嘴浦东大道亚朵酒店,"Atour Hotel Pudong Avenue, Lujiazui, Shanghai",免费停车,31.238642,121.513937,773,2,860,0,869,1,1025,0
+390,上海陆家嘴上海中心亚朵酒店,Shanghai Lujiazui Shanghai Center Atour Hotel,机器人服务,31.240275,121.521649,664,1,739,1,746,3,880,2
+391,如家精选酒店(上海陆家嘴儿童医学中心塘桥北园路店),Homeinn Plus Hotel,免费停车,31.202429,121.517611,444,0,494,3,499,3,589,1
+392,桔子酒店(上海虹桥枢纽火车站店),Orange Hotel (Shanghai Hongqiao Railway Station),免费停车,31.188337,121.316445,534,0,594,1,600,0,708,0
+393,景莱酒店·轻奢(上海外滩南京东路步行街店),Jinglai Hotel Light Luxury (Shanghai Bund Nanjing East Road Pedestrian Street),充电桩,31.235294,121.476466,548,1,610,1,616,1,727,0
+394,桔子水晶上海北外滩酒店,Crystal Orange Hotel • North the Bund,免费停车,31.252142,121.510561,575,1,640,2,646,1,762,1
+395,桔子酒店(上海外滩虹口足球场店),Orange Hotel (Shanghai Bund Hongkou Football Stadium),智能客控,31.26948,121.478527,367,2,408,0,412,1,486,2
+396,上海陆家嘴八佰伴亚朵酒店,Atour Hotel (Shanghai Lujiazui Nextage),儿童乐园,31.230009,121.517012,703,5,782,0,790,1,932,0
+397,汉庭优佳酒店(上海南京西路地铁站店),Hanting Youjia Hotel (Shanghai West Nanjing Road Metro Station),洗衣房,31.233078,121.456154,386,3,430,0,434,1,512,0
+398,璞晶唯庭酒店(上海人民广场新闸路地铁站店),Pujing Weiting Hotel (Shanghai People's Square Xinzha Road Subway Station),江河景房,31.238536,121.468234,533,0,593,2,599,1,707,0
+399,桔子酒店(上海浦东机场店),Orange Hotel (Shanghai Pudong Airport),机器人服务,31.143736,121.762909,312,0,347,0,351,2,414,3
+400,嘉虹酒店(上海浦东机场川沙地铁站店),"Jiahong Hotel (Shanghai Pudong Airport, Chuansha Metro Station)",免费停车,31.184526,121.700985,270,2,300,1,303,1,358,0
+401,上海浦东喜来登由由公寓,Sheraton Shanghai Pudong Residences,酒店公寓,31.208552,121.518552,1112,0,1238,0,1250,2,1475,3
+402,上海驿岛酒店(安亭汽车城店),Urban Island Hotel Shanghai,管家服务,31.286604,121.170391,345,0,384,1,388,0,458,0
+403,上海万信R酒店（陆家嘴金融街区店）,Shanghai Wanxin R Hotel (Lujiazui Financial District Branch),健身室,31.239703,121.559376,223,7,259,5,276,8,471,1
+404,上海徐家汇八万人体育场趣栗酒店,"Shanghai Xujiahui 80,000 People Stadium Qu Li Hotel",健身室,31.176207,121.443115,220,4,255,5,272,8,465,3
+405,如家精选酒店(上海新国际博览中心儿童医学中心地铁站店),Home Inn Select (Shanghai New International Expo Center Pediatric Medical Center Metro Station),行李寄存,31.202419,121.517584,153,5,178,7,190,3,324,5
+406,建国璞隐酒店(上海陆家嘴滨江中心世博园店),Jianguo Puyin Hotel (Shanghai Lujiazui Riverside Center Expo Park Branch),停车场,31.206379,121.511415,150,5,174,0,186,1,318,7
+407,桔子水晶上海虹桥国展中心酒店,Orange Crystal Shanghai Hongqiao National Exhibition Center Hotel,健身室,31.206464,121.315568,207,7,240,5,256,1,437,2
+408,上海虹桥万象城CitiGO欢阁酒店,Shanghai Hongqiao MixC CitiGO Huange Hotel,健身室,31.178108,121.374374,203,0,235,8,251,0,429,0
+409,维也纳国际酒店(上海浦东机场店),Vienna International Hotel (Shanghai Pudong Airport Branch),健身室,31.175726,121.745167,223,1,259,2,276,8,471,7
+410,和颐至尊酒店(上海新国际博览中心世博园店),Yitel Premium Hotel (Shanghai New International Expo Center World Expo Park Branch),停车场,31.195198,121.51204,154,2,179,8,191,8,326,8
+411,上海徐家汇CitiGO欢阁酒店,Shanghai Xujiahui CitiGO Huange Hotel,健身室,31.194743,121.44269,230,2,266,4,284,5,485,4
+412,和颐至尚酒店（上海前滩三林世博创意园店）,Yitel Premium Hotel (Shanghai Qiantan Sanlin Expo Creative Park Branch),停车场,31.156902,121.498618,209,5,243,4,259,0,442,7
+413,全季酒店(上海大华虎城店),JI Hotel (Shanghai Dahua Hucheng Branch),停车场,31.272358,121.412272,243,3,282,8,300,2,513,4
+414,汉庭酒店(上海江宁路新店),Hanting Hotel (Shanghai Jiangning Road New Branch),行李寄存,31.23653,121.449284,179,5,208,8,222,1,379,2
+415,唯庭世纪酒店（上海静安寺淮海中路店）,Weiting Century Hotel (Shanghai Jing’an Temple Huaihai Middle Road Branch),停车场,31.211763,121.449592,226,8,263,1,280,0,478,0
+416,艺龙安悦酒店（上海浦东大道歇浦路地铁站店）,eLong Anyue Hotel (Shanghai Pudong Avenue Xiepu Road Metro Station Branch),停车场,31.249827,121.550174,161,4,187,3,199,4,340,2
+417,和颐至尚酒店(上海陆家嘴浦电路地铁站店),Yitel Premium Hotel (Shanghai Lujiazui Pudian Road Metro Station Branch),停车场,31.21684,121.530015,192,4,223,7,238,3,406,6
+418,如家精选酒店（上海世博园儿童医学中心地铁站店）,Home Inn Selected (Shanghai Expo Park Children's Medical Center Metro Station),停车场,31.202852,121.517833,152,7,176,7,188,0,321,1
+419,维也纳国际酒店(上海虹桥机场漕宝路店),Vienna International Hotel (Shanghai Hongqiao Airport Caobao Road Branch),停车场,31.156829,121.378442,174,8,202,8,215,3,367,3
+420,唯庭酒店（上海人民广场地铁站长征医院店）,Weiting Hotel (Shanghai People's Square Metro Station Changzheng Hospital Branch),停车场,31.234323,121.46894,242,5,281,3,299,0,511,2
+421,如家精选酒店(上海复旦大学附属儿科医院莲花路地铁站店),Home Inn Selected Hotel (Shanghai Fudan University Affiliated Pediatric Hospital Lianhua Road Metro Station),健身室,31.131069,121.399839,150,2,174,4,186,5,318,4
+422,上海宝安大酒店,Shanghai Bao'an Hotel,停车场,31.226461,121.524003,221,3,256,0,273,1,466,5
+423,如家商旅酒店(上海新国际博览中心世博园店),Home Inn Business Hotel (Shanghai New International Expo Center World Expo Park Branch),停车场,31.206652,121.511527,142,0,165,5,176,3,300,6
+424,如家酒店·neo(上海中山公园长宁店),Home Inn·NEO (Shanghai Zhongshan Park Changning Branch),停车场,31.213877,121.430755,165,7,191,1,204,1,348,1
+425,上海陆家嘴丽呈酒店,Shanghai Lujiazui Principotel,停车场,31.232314,121.556637,237,7,275,4,293,4,501,2
+426,汉庭酒店(上海环球港店),Hanting Hotel (Shanghai Global Harbor Branch),停车场,31.243605,121.418654,178,4,206,4,220,3,376,2
+427,如家精选酒店(上海浦东南路儿童医学中心地铁站店),Home Inn Selected Hotel (Shanghai Pudong South Road Children's Medical Center Metro Station Branch),健身室,31.204811,121.515035,163,6,189,6,202,6,345,7
+428,上海雅辰缇酒店（韩国街万象城店）,Shanghai Yachen Ti Hotel (Korean Street MixC Mall Branch),停车场,31.167777,121.366183,185,5,215,7,229,7,391,2
+429,如家商旅酒店(上海塘桥中心店),Home Inn Business Hotel (Shanghai Tangqiao Center Branch),行李寄存,31.209104,121.520443,154,8,179,2,191,0,326,2
+430,上海麦新格国际酒店（周浦地铁站万达广场店）,Shanghai Maixinger International Hotel (Zhoupu Metro Station Wanda Plaza Branch),儿童乐园,31.118553,121.571834,234,8,271,3,289,0,494,0
+431,魔宇电影酒店（上海人民广场南京西路地铁站店）,Moyu Movie Hotel (Shanghai People's Square Nanjing West Road Metro Station Branch),健身室,31.223069,121.462676,231,3,268,2,286,5,489,8
+432,如家酒店(上海外滩外白渡桥四川北路店),Home Inn (Shanghai Bund Waibaidu Bridge Sichuan North Road Branch),行李寄存,31.247927,121.485383,195,6,226,1,241,6,412,8
+433,和颐至尚酒店(上海火车站南广场店),Yitel Supreme Hotel (Shanghai Railway Station South Square Branch),行李寄存,31.246078,121.451506,193,8,224,2,239,0,408,2
+434,景莱酒店·臻选（上海殷高西路第四人民医院店）,Jinglai Hotel·Premium (Shanghai Yinggao West Road Fourth People's Hospital Branch),健身室,31.31634,121.468712,157,7,183,3,195,4,333,3
+435,上海陆家嘴东方明珠CitiGO欢阁酒店,Shanghai Lujiazui Oriental Pearl CitiGO HuanGe Hotel,行政酒廊,31.22951,121.511309,238,7,276,8,294,1,502,0
+436,如家精选酒店(上海陆家嘴软件园东方路店),Home Inn Selected Hotel (Shanghai Lujiazui Software Park Dongfang Road Branch),停车场,31.216927,121.530018,157,2,183,4,195,3,333,3
+437,万和至臻酒店（上海日月光打浦桥地铁站店）,Wanhe Supreme Hotel (Shanghai Sun Moon Light Dapuqiao Metro Station Branch),停车场,31.204943,121.46816,242,6,281,1,299,4,511,4
+438,和颐酒店（上海虹桥机场中春路地铁站店）,Yitel Hotel (Shanghai Hongqiao Airport Zhongchun Road Metro Station Branch),停车场,31.144608,121.346798,187,5,217,5,231,4,395,1
+439,上海中山公园云睿酒店,Shanghai Zhongshan Park Yunrui Hotel,行李寄存,31.211207,121.42358,174,2,203,6,216,4,369,4
+440,新荟城市酒店（上海静安寺长寿路地铁站店）,Xinhui City Hotel (Shanghai Jing'an Temple Changshou Road Metro Station Branch),停车场,31.237605,121.436526,144,4,167,4,178,7,304,7
+441,麦新格精品酒店（上海浦东国际机场店）,Maixinger Boutique Hotel (Shanghai Pudong International Airport Branch),行李寄存,31.092584,121.809513,108,7,125,8,134,2,229,1
+442,锦江都城酒店(上海徐家汇南华亭宾馆),Jinjiang Metropolo Hotel (Shanghai Xujiahui Nanhua Pavilion Hotel),行李寄存,31.181016,121.434488,238,6,276,0,294,0,502,4
+443,全季酒店(上海虹桥延安西路店),All Seasons Hotel (Shanghai Hongqiao Yan'an West Road Branch),停车场,31.187107,121.37824,217,0,251,0,268,3,458,3
+444,如家酒店·neo(上海中山公园延安西路店),Home Inn·Neo (Shanghai Zhongshan Park Yan'an West Road Branch),停车场,31.210911,121.425933,165,5,191,2,204,8,348,8
+445,源·智慧酒店(上海陆家嘴金融街区北洋泾路地铁站店),Yuan·Smart Hotel (Shanghai Lujiazui Financial District Beiyangjing Road Metro Station Branch),健身室,31.243933,121.553674,171,8,199,8,212,7,362,1
+446,上海金桥中心逸扉酒店,Shanghai Jinqiao Central Yifei Hotel,健身室,31.251572,121.588091,242,1,281,7,299,6,511,7
+447,艺选安來酒店（上海虹桥中山西路店）,Yixuan Anlai Hotel (Shanghai Hongqiao Zhongshan West Road Branch),健身室,31.200329,121.412826,183,7,212,2,226,2,386,0
+448,宜必思酒店(上海新虹桥店),Ibis Hotel (Shanghai New Hongqiao Branch),停车场,31.178842,121.384719,193,3,224,2,239,4,408,5
+449,全季酒店(上海虹桥茅台路店),All Seasons Hotel (Shanghai Hongqiao Maotai Road Branch),停车场,31.209313,121.392099,234,6,271,1,289,5,494,0
+450,上海戴斯温德姆酒店（殷高西路地铁站店）,Shanghai Days Wyndham Hotel (Yingao West Road Metro Station Branch),停车场,31.323775,121.483271,242,7,281,6,299,0,511,7
+451,汉庭酒店(上海虹桥枢纽火车站店),Hanting Hotel (Shanghai Hongqiao Hub Railway Station Branch),停车场,31.168158,121.326123,130,0,151,6,161,0,275,7
+452,锦江之星风尚(上海浦东机场镇店),Jinjiang Inn Style (Shanghai Pudong Airport Town Branch),停车场,31.182571,121.744876,136,6,157,3,168,6,287,5
+453,瑞鑫青年酒店(同济大学新华医院店),Ruixin Youth Hotel (Tongji University Xinhua Hospital Branch),普通酒店,31.28069,121.5201,29,8,33,1,36,4,61,8
+454,唯庭酒店（上海梅陇镇广场北京西路店）,Weiting Hotel (Shanghai Meilong Town Square Beijing West Road Branch),健身室,31.230625,121.454599,179,8,207,3,221,7,377,8
+455,船长五号青年酒店（上海中山公园江苏路地铁站店）,Captain No.5 Youth Hotel (Shanghai Zhongshan Park Jiangsu Road Metro Station Branch),行李寄存,31.224421,121.426844,70,0,81,1,87,1,148,4
+456,如家精选酒店（上海新国际博览中心杨高南路地铁站店）,Home Inn Selected Hotel (Shanghai New International Expo Center Yanggao South Road Metro Station Branch),停车场,31.194369,121.528244,232,0,269,8,287,8,490,7
+457,定士居水晶酒店（上海虹桥火车站国家会展中心店）,Dingshiju Crystal Hotel (Shanghai Hongqiao Railway Station National Exhibition Center Branch),停车场,31.181572,121.28559,189,0,219,3,234,1,400,5
+458,智尚臻选酒店（上海虹桥国展中心江桥万达店）,Zhishang Zhenxuan Hotel (Shanghai Hongqiao International Exhibition Center Jiangqiao Wanda Branch),健身室,31.253428,121.339242,140,1,163,8,174,1,297,0
+459,如家精选酒店(上海新天地陆家浜路地铁站店),Home Inn Selected Hotel (Shanghai Xintiandi Lujia Bang Road Metro Station Branch),健身室,31.210765,121.481145,233,8,270,2,288,4,492,1
+460,美豪丽致酒店(上海交大东川路店),Mehao Lizhi Hotel (Shanghai Jiaotong University Dongchuan Road Branch),健身室,31.01929,121.418595,243,4,282,6,300,0,513,7
+461,上海浦东丽呈酒店（国际旅游度假区店）,Shanghai Pudong Licheng Hotel (International Tourism Resort Area Branch),健身室,31.199079,121.703971,201,2,234,8,249,8,425,0
+462,筎归酒店(上海中山公园金沙江路地铁站店),Zigui Hotel (Shanghai Zhongshan Park Jinshajiang Road Metro Station Branch),停车场,31.229137,121.412608,116,2,135,1,144,0,246,7
+463,壹号电竞民宿（上海南汇野生动物园店）,No.1 e-Sports Homestay (Shanghai Nanhui Wildlife Park Branch),停车场,31.055337,121.721793,89,5,104,1,111,4,189,6
+464,如家商旅酒店(上海陆家嘴第一八佰伴店),Home Inn Business Hotel (Shanghai Lujiazui No.1 Department Store Branch),停车场,31.216373,121.517934,187,2,218,1,232,7,396,0
+465,汉庭酒店(上海火车站北广场店),Hanting Hotel (Shanghai Railway Station North Square Branch),停车场,31.255483,121.452667,174,8,203,8,216,4,369,2
+466,艺龙安悦酒店（上海虹桥水城路地铁站店）,eLong Anyue Hotel (Shanghai Hongqiao Shuicheng Road Metro Station Branch),健身室,31.196517,121.393058,225,3,262,6,279,2,477,1
+467,上海SK简奢酒店（徐家汇体育馆地铁站店）,Shanghai SK Simple Luxury Hotel (Xujiahui Sports Stadium Metro Station Branch),停车场,31.18497,121.437218,223,3,259,7,276,2,471,5
+468,如家精选酒店(上海武宁路地铁站安远路店),Home Inn Selected Hotel (Shanghai Wuning Road Metro Station Anyuan Road Branch),停车场,31.235302,121.434672,225,0,262,2,279,2,477,3
+469,汉庭酒店(上海四川北路地铁站店）,Hanting Hotel (Shanghai Sichuan North Road Metro Station Branch),行李寄存,31.249203,121.479949,212,4,246,2,262,7,448,3
+470,白玉兰酒店（上海浦东机场凌空路地铁站店）,White Magnolia Hotel (Shanghai Pudong Airport Lingkong Road Metro Station Branch),停车场,31.185228,121.726637,181,6,210,6,224,5,383,2
+471,如家YUNIK酒店(上海杨浦大学城武东路店),Home Inn YUNIK Hotel (Shanghai Yangpu University Town Wudong Road Branch),行李寄存,31.304248,121.491186,210,4,244,5,260,6,444,7
+472,如家酒店·neo(上海国家会展中心虹桥机场店),Home Inn Neo (Shanghai National Exhibition and Convention Center Hongqiao Airport Branch),停车场,31.17013,121.325141,154,2,179,2,191,0,326,6
+473,桔子酒店(上海虹桥火车站七莘路店),Orange Hotel (Shanghai Hongqiao Railway Station Qixin Road Branch),停车场,31.168657,121.342778,204,3,236,4,252,6,430,0
+474,丽捷1930酒店（上海人民广场外滩店）,Lijie 1930 Hotel (Shanghai People's Square Bund Branch),行李寄存,31.236096,121.470479,184,7,214,4,228,1,389,2
+475,如家商旅酒店（上海火车站中兴路地铁站店）,Home Inn Business Hotel (Shanghai Railway Station Zhongxing Road Metro Station Branch),行李寄存,31.256676,121.466688,183,5,212,0,226,4,386,0
+476,如家精选酒店(上海儿童医学中心浦建路店),Home Inn Selected Hotel (Shanghai Children's Medical Center Pujiang Road Branch),健身室,31.208211,121.53105,155,3,180,2,192,1,328,8
+477,唯庭轻居酒店(上海虹桥机场国家会展中心店),Weiting Light Residence Hotel (Shanghai Hongqiao Airport National Exhibition and Convention Center Branch),停车场,31.221218,121.325686,102,0,119,8,127,1,217,7
+478,上海北虹桥商务区智选假日酒店,Shanghai Beihongqiao Business District Holiday Inn Express,停车场,31.244497,121.322274,234,2,271,5,289,8,494,1
+479,秋果酒店(上海徐家汇交通大学地铁站店),Qiuguo Hotel (Shanghai Xujiahui Jiaotong University Metro Station Branch),停车场,31.201397,121.432147,242,0,281,8,299,1,511,3
+480,如家精选酒店(上海普陀华师大梅岭北路地铁站店),Home Inn Selected Hotel (Shanghai Putuo Huashi University Meiling North Road Metro Station Branch),停车场,31.24193,121.402143,181,7,210,4,224,6,383,0
+481,上海虹桥枢纽国展中心米壹酒店,"Mi One Hotel, Shanghai Hongqiao Hub National Exhibition Center",健身室,31.216234,121.283183,178,1,206,5,220,6,376,3
+482,汉庭酒店(上海西康路店),Hanting Hotel (Shanghai Xikang Road Branch),行李寄存,31.238769,121.442989,157,1,183,0,195,1,333,2
+483,如家商旅酒店(上海北外滩店）,Home Inn Business Hotel (Shanghai North Bund Branch),行李寄存,31.255683,121.513709,227,7,264,0,281,3,480,1
+484,如家·neo(上海徐家汇宛平南路店),Home Inn Neo (Shanghai Xujiahui Wanping South Road Branch),停车场,31.195807,121.44559,243,3,282,1,300,4,513,7
+485,喆啡酒店（上海环球港华师大店）,Zhefei Hotel (Shanghai Global Harbor East China Normal University Branch),洗衣房,31.229169,121.410534,181,8,210,2,224,6,383,3
+486,如家精选酒店(上海虹桥路地铁站店),Home Inn Selected Hotel (Shanghai Hongqiao Road Metro Station Branch),停车场,31.195434,121.418742,223,5,259,0,276,0,471,5
+487,白玉兰酒店（上海吴淞国际邮轮宝杨路店）,Magnolia Hotel (Shanghai Wusong International Cruise Baoyang Road Branch),停车场,31.399928,121.491448,177,7,205,1,219,7,374,6
+488,上海初心莫舍酒店CHU XIN MO SHE HOTEL（上海国际旅游度假区店）,Shanghai Chuxin Moshe Hotel (Shanghai International Tourism Resort Branch),泳池,31.115499,121.696885,164,2,190,8,203,2,347,4
+489,齐来轻奢酒店（上海虹桥机场吴中路店）,Qilai Light Luxury Hotel (Shanghai Hongqiao Airport Wuzhong Road Branch),停车场,31.176195,121.385061,148,4,172,0,183,8,312,7
+490,如家酒店·neo(上海长寿路陕西北路店),Home Inn Neo (Shanghai Changshou Road Shaanxi North Road Branch),停车场,31.246561,121.437554,243,2,282,0,300,8,513,1
+491,上海瑞金医院如佳商旅酒店(打浦桥地铁站店),Shanghai Ruijin Hospital Rujia Business Hotel (Dapuqiao Metro Station Branch),停车场,31.204705,121.467872,174,4,203,6,216,7,369,7
+492,唯庭酒店（第九人民医院世博会博物馆地铁站店）,Weiting Hotel (Ninth People's Hospital Expo Museum Metro Station Branch),健身室,31.201479,121.481766,210,6,244,2,260,2,444,4
+493,如家商旅酒店(上海杨高中路蓝天路地铁站店),Home Inn Business Hotel (Shanghai Yanggao Middle Road Lantian Road Metro Station Branch),行李寄存,31.247179,121.587848,127,8,147,7,157,8,268,5
+494,如家商旅酒店(上海九院马当路地铁站店),Home Inn Business Hotel (Shanghai Ninth People's Hospital Madang Road Metro Station Branch),行李寄存,31.203091,121.479292,191,6,221,8,236,2,403,0
+495,上海虹桥机场国家会展中心开元名庭酒店,Kaiyuan Mingting Hotel at Shanghai Hongqiao Airport National Exhibition and Convention Center,健身室,31.226038,121.335441,228,6,265,1,282,5,482,1
+496,宿适精选酒店（上海人民广场福州路店）,Sushi Selected Hotel (Shanghai People's Square Fuzhou Road Branch),行李寄存,31.232544,121.481088,196,6,228,0,243,7,415,6
+497,上海浦东国际机场铂爱国际酒店,Plove International Hotel Shanghai Pudong International Airport,停车场,31.212378,121.767314,89,1,104,3,111,2,189,1
+498,如家精选酒店(上海火车站延长路地铁站店),Home Inn Selected Hotel (Shanghai Train Station Yanchang Road Metro Station Branch),行李寄存,31.270634,121.453996,234,3,271,8,289,3,494,8
+499,汉庭酒店(上海虹桥路地铁站店),Hanting Hotel (Shanghai Hongqiao Road Metro Station Branch),停车场,31.210223,121.412976,192,7,223,1,238,6,406,4
+500,上海虹桥机场华港雅阁酒店,Huagang Yage Hotel Shanghai Hongqiao Airport,健身室,31.192549,121.34934,242,8,281,5,299,4,511,8
+501,简爱酒店（上海西站地铁站店）,Jane Love Hotel (Shanghai West Station Metro Station Branch),停车场,31.260403,121.394787,152,7,176,8,188,7,321,4
+502,汉庭酒店(上海静安寺店),Hanting Hotel (Shanghai Jing'an Temple Branch),行李寄存,31.230025,121.441901,231,3,268,0,286,3,489,0
+503,唯庭酒店(上海复旦大学三门路地铁站店),Weiting Hotel (Shanghai Fudan University Sanmen Road Metro Station Branch),停车场,31.311324,121.510897,230,2,267,4,285,2,487,4
+504,东方巴黎女生青年旅舍(上海火车站汉中路地铁站店),Oriental Paris Female Youth Hostel (Shanghai Railway Station Hanzhong Road Metro Station Branch),停车场,31.240415,121.457514,92,6,107,4,114,8,194,0
+505,唯庭酒店（瑞金医院打浦桥地铁站店）,Weiting Hotel (Ruijin Hospital Dapuqiao Metro Station Branch),停车场,31.206267,121.470779,189,0,219,5,234,1,400,0
+506,如家酒店（上海徐汇第六医院店）,Home Inn (Shanghai Xuhui Sixth Hospital Branch),行李寄存,31.172027,121.42331,211,6,245,5,261,1,446,7
+507,上海森兰洲海路地铁站CitiGO HOUSE欢阁服务公寓,Shanghai Senlanzhou Hailu Metro Station CitiGO HOUSE Huange Serviced Apartment,停车场,31.314961,121.588071,213,2,247,4,263,3,449,5
+508,上海浦东国际机场迪航酒店,Shanghai Pudong International Airport Dihang Hotel,停车场,31.17531,121.744374,108,3,125,5,134,3,229,5
+509,金泰优选酒店（上海虹桥机场国家会展中心店）,Jintai Preferred Hotel (Shanghai Hongqiao Airport National Exhibition and Convention Center Branch),停车场,31.226391,121.326678,77,4,90,3,96,1,164,7
+510,如家酒店·neo（上海浦东外高桥五洲大道店）,Home Inn·Neo (Shanghai Pudong Waigaoqiao Wuzhou Avenue Branch),停车场,31.296525,121.606477,129,5,150,8,160,4,273,6
+511,唯庭酒店(上海徐家汇体育场地铁站店),Weiting Hotel (Shanghai Xujiahui Stadium Metro Station Branch),停车场,31.189308,121.446045,191,2,222,6,237,1,405,8
+512,如家酒店·neo（上海徐家汇交通大学地铁站店）,Home Inn·Neo (Shanghai Xujiahui Jiaotong University Metro Station Branch),行李寄存,31.203311,121.434725,226,8,263,8,280,6,478,5

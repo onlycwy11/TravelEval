@@ -1,0 +1,182 @@
+[
+  {
+    "TrainID": "Z181",
+    "TrainType": "直达",
+    "From": "北京丰台站",
+    "To": "深圳东站",
+    "BeginTime": "03:49",
+    "EndTime": "05:10",
+    "Duration": 25.4,
+    "Cost": 254.5
+  },
+  {
+    "TrainID": "G2539",
+    "TrainType": "高铁",
+    "From": "北京北站",
+    "To": "深圳东站",
+    "BeginTime": "17:41",
+    "EndTime": "05:10",
+    "Duration": 35.48,
+    "Cost": 364.5
+  },
+  {
+    "TrainID": "G335",
+    "TrainType": "高铁",
+    "From": "北京西站",
+    "To": "深圳北站",
+    "BeginTime": "07:26",
+    "EndTime": "18:36",
+    "Duration": 11.17,
+    "Cost": 936.5
+  },
+  {
+    "TrainID": "G335",
+    "TrainType": "高铁",
+    "From": "北京西站",
+    "To": "深圳福田站",
+    "BeginTime": "07:26",
+    "EndTime": "18:49",
+    "Duration": 11.38,
+    "Cost": 944.0
+  },
+  {
+    "TrainID": "G79",
+    "TrainType": "高铁",
+    "From": "北京西站",
+    "To": "深圳北站",
+    "BeginTime": "10:00",
+    "EndTime": "17:51",
+    "Duration": 7.85,
+    "Cost": 1107.5
+  },
+  {
+    "TrainID": "G81",
+    "TrainType": "高铁",
+    "From": "北京西站",
+    "To": "深圳北站",
+    "BeginTime": "14:00",
+    "EndTime": "22:24",
+    "Duration": 8.4,
+    "Cost": 1107.5
+  },
+  {
+    "TrainID": "D901",
+    "TrainType": "动车",
+    "From": "北京西站",
+    "To": "深圳北站",
+    "BeginTime": "19:43",
+    "EndTime": "08:06",
+    "Duration": 12.4,
+    "Cost": 970.0
+  },
+  {
+    "TrainID": "D27",
+    "TrainType": "动车",
+    "From": "北京丰台站",
+    "To": "深圳站",
+    "BeginTime": "19:55",
+    "EndTime": "17:34",
+    "Duration": 21.6,
+    "Cost": 474.0
+  },
+  {
+    "TrainID": "D903",
+    "TrainType": "动车",
+    "From": "北京西站",
+    "To": "深圳北站",
+    "BeginTime": "20:05",
+    "EndTime": "08:25",
+    "Duration": 12.3,
+    "Cost": 784.0
+  },
+  {
+    "TrainID": "G897",
+    "TrainType": "高铁",
+    "From": "北京西站",
+    "To": "深圳北站",
+    "BeginTime": "20:13",
+    "EndTime": "06:46",
+    "Duration": 10.6,
+    "Cost": 831.0
+  },
+  {
+    "TrainID": "D927",
+    "TrainType": "动车",
+    "From": "北京西站",
+    "To": "深圳北站",
+    "BeginTime": "20:18",
+    "EndTime": "07:35",
+    "Duration": 11.3,
+    "Cost": 756.0
+  },
+  {
+    "TrainID": "K105",
+    "TrainType": "快速",
+    "From": "北京西站",
+    "To": "深圳东站",
+    "BeginTime": "23:31",
+    "EndTime": "04:40",
+    "Duration": 29.1,
+    "Cost": 254.5
+  },
+  {
+    "TrainID": "K105",
+    "TrainType": "快速",
+    "From": "北京丰台站",
+    "To": "深圳东站",
+    "BeginTime": "23:53",
+    "EndTime": "04:40",
+    "Duration": 28.8,
+    "Cost": 254.5
+  },
+  {
+    "TrainID": "D923",
+    "TrainType": "动车",
+    "From": "北京西站",
+    "To": "深圳北站",
+    "BeginTime": "20:27",
+    "EndTime": "07:39",
+    "Duration": 11.2,
+    "Cost": 783.5
+  },
+  {
+    "TrainID": "D927",
+    "TrainType": "动车",
+    "From": "北京西站",
+    "To": "深圳北站",
+    "BeginTime": "20:18",
+    "EndTime": "07:46",
+    "Duration": 11.5,
+    "Cost": 783.5
+  },
+  {
+    "TrainID": "G8926",
+    "TrainType": "高铁",
+    "From": "北京大兴站",
+    "To": "深圳北站",
+    "BeginTime": "09:23",
+    "EndTime": "17:51",
+    "Duration": 8.47,
+    "Cost": 1115.5
+  },
+  {
+    "TrainID": "D921",
+    "TrainType": "动车",
+    "From": "北京西站",
+    "To": "深圳北站",
+    "BeginTime": "19:36",
+    "EndTime": "07:39",
+    "Duration": 12.1,
+    "Cost": 783.5
+  },
+  {
+    "TrainID": "S110",
+    "TrainType": "普快",
+    "From": "北京站",
+    "To": "深圳北站",
+    "BeginTime": "06:31",
+    "EndTime": "18:36",
+    "Duration": 12.08,
+    "Cost": 1482.5
+  }
+]

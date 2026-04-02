@@ -1,0 +1,7062 @@
+[
+  {
+    "TrainID": "Z175",
+    "TrainType": "直达",
+    "From": "苏州站",
+    "To": "上海松江站",
+    "BeginTime": "02:36",
+    "EndTime": "04:01",
+    "Duration": 1.42,
+    "Cost": 16.5
+  },
+  {
+    "TrainID": "T135",
+    "TrainType": "特快",
+    "From": "苏州站",
+    "To": "上海松江站",
+    "BeginTime": "02:55",
+    "EndTime": "04:21",
+    "Duration": 1.43,
+    "Cost": 16.5
+  },
+  {
+    "TrainID": "K8351",
+    "TrainType": "快速",
+    "From": "苏州站",
+    "To": "上海松江站",
+    "BeginTime": "03:23",
+    "EndTime": "04:39",
+    "Duration": 1.27,
+    "Cost": 16.5
+  },
+  {
+    "TrainID": "K335",
+    "TrainType": "快速",
+    "From": "苏州站",
+    "To": "上海松江站",
+    "BeginTime": "03:29",
+    "EndTime": "04:45",
+    "Duration": 1.27,
+    "Cost": 16.5
+  },
+  {
+    "TrainID": "K1047",
+    "TrainType": "快速",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "03:41",
+    "EndTime": "05:06",
+    "Duration": 1.42,
+    "Cost": 14.5
+  },
+  {
+    "TrainID": "K1555",
+    "TrainType": "快速",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "04:06",
+    "EndTime": "05:12",
+    "Duration": 1.1,
+    "Cost": 14.5
+  },
+  {
+    "TrainID": "K2185",
+    "TrainType": "快速",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "04:12",
+    "EndTime": "05:33",
+    "Duration": 1.35,
+    "Cost": 14.5
+  },
+  {
+    "TrainID": "K47",
+    "TrainType": "快速",
+    "From": "苏州站",
+    "To": "上海松江站",
+    "BeginTime": "04:24",
+    "EndTime": "05:51",
+    "Duration": 1.45,
+    "Cost": 16.5
+  },
+  {
+    "TrainID": "K8481",
+    "TrainType": "快速",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "04:39",
+    "EndTime": "06:03",
+    "Duration": 1.4,
+    "Cost": 14.5
+  },
+  {
+    "TrainID": "D91",
+    "TrainType": "动车",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "05:17",
+    "EndTime": "06:13",
+    "Duration": 0.93,
+    "Cost": 20.0
+  },
+  {
+    "TrainID": "K151",
+    "TrainType": "快速",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "05:29",
+    "EndTime": "06:39",
+    "Duration": 1.17,
+    "Cost": 14.5
+  },
+  {
+    "TrainID": "K8361",
+    "TrainType": "快速",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "05:59",
+    "EndTime": "08:09",
+    "Duration": 2.17,
+    "Cost": 14.5
+  },
+  {
+    "TrainID": "K233",
+    "TrainType": "快速",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "06:12",
+    "EndTime": "09:05",
+    "Duration": 2.88,
+    "Cost": 14.5
+  },
+  {
+    "TrainID": "K849",
+    "TrainType": "快速",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "06:18",
+    "EndTime": "08:48",
+    "Duration": 2.5,
+    "Cost": 14.5
+  },
+  {
+    "TrainID": "C3801",
+    "TrainType": "城际",
+    "From": "苏州张家港站",
+    "To": "上海站",
+    "BeginTime": "06:20",
+    "EndTime": "07:31",
+    "Duration": 1.18,
+    "Cost": 43.0
+  },
+  {
+    "TrainID": "C3801",
+    "TrainType": "城际",
+    "From": "苏州常熟站",
+    "To": "上海站",
+    "BeginTime": "06:32",
+    "EndTime": "07:31",
+    "Duration": 0.98,
+    "Cost": 36.0
+  },
+  {
+    "TrainID": "G7213",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "06:39",
+    "EndTime": "07:20",
+    "Duration": 0.68,
+    "Cost": 35.0
+  },
+  {
+    "TrainID": "G7199",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海虹桥站",
+    "BeginTime": "06:43",
+    "EndTime": "07:15",
+    "Duration": 0.53,
+    "Cost": 36.0
+  },
+  {
+    "TrainID": "D181",
+    "TrainType": "动车",
+    "From": "苏州站",
+    "To": "上海松江站",
+    "BeginTime": "06:43",
+    "EndTime": "07:54",
+    "Duration": 1.18,
+    "Cost": 21.0
+  },
+  {
+    "TrainID": "C3042",
+    "TrainType": "城际",
+    "From": "苏州盛泽站",
+    "To": "上海练塘站",
+    "BeginTime": "06:46",
+    "EndTime": "07:02",
+    "Duration": 0.27,
+    "Cost": 19.0
+  },
+  {
+    "TrainID": "C3042",
+    "TrainType": "城际",
+    "From": "苏州盛泽站",
+    "To": "上海松江站",
+    "BeginTime": "06:46",
+    "EndTime": "07:14",
+    "Duration": 0.47,
+    "Cost": 26.0
+  },
+  {
+    "TrainID": "C3042",
+    "TrainType": "城际",
+    "From": "苏州盛泽站",
+    "To": "上海南站",
+    "BeginTime": "06:46",
+    "EndTime": "07:31",
+    "Duration": 0.75,
+    "Cost": 36.0
+  },
+  {
+    "TrainID": "D9",
+    "TrainType": "动车",
+    "From": "苏州站",
+    "To": "上海南站",
+    "BeginTime": "06:52",
+    "EndTime": "08:00",
+    "Duration": 1.13,
+    "Cost": 21.0
+  },
+  {
+    "TrainID": "C3801",
+    "TrainType": "城际",
+    "From": "苏州太仓站",
+    "To": "上海站",
+    "BeginTime": "06:53",
+    "EndTime": "07:31",
+    "Duration": 0.63,
+    "Cost": 20.0
+  },
+  {
+    "TrainID": "D3201",
+    "TrainType": "动车",
+    "From": "苏州张家港站",
+    "To": "上海虹桥站",
+    "BeginTime": "06:56",
+    "EndTime": "08:09",
+    "Duration": 1.22,
+    "Cost": 48.0
+  },
+  {
+    "TrainID": "D5559",
+    "TrainType": "动车",
+    "From": "苏州太仓站",
+    "To": "上海虹桥站",
+    "BeginTime": "06:58",
+    "EndTime": "07:31",
+    "Duration": 0.55,
+    "Cost": 29.0
+  },
+  {
+    "TrainID": "G7029",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "07:03",
+    "EndTime": "07:30",
+    "Duration": 0.45,
+    "Cost": 30.0
+  },
+  {
+    "TrainID": "C3811",
+    "TrainType": "城际",
+    "From": "苏州太仓站",
+    "To": "上海站",
+    "BeginTime": "07:05",
+    "EndTime": "07:49",
+    "Duration": 0.73,
+    "Cost": 21.0
+  },
+  {
+    "TrainID": "G3059",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海虹桥站",
+    "BeginTime": "07:06",
+    "EndTime": "07:29",
+    "Duration": 0.38,
+    "Cost": 38.0
+  },
+  {
+    "TrainID": "G3059",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海松江站",
+    "BeginTime": "07:06",
+    "EndTime": "07:46",
+    "Duration": 0.67,
+    "Cost": 54.0
+  },
+  {
+    "TrainID": "D3201",
+    "TrainType": "动车",
+    "From": "苏州常熟站",
+    "To": "上海虹桥站",
+    "BeginTime": "07:09",
+    "EndTime": "08:09",
+    "Duration": 1.0,
+    "Cost": 41.0
+  },
+  {
+    "TrainID": "G7211",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "07:10",
+    "EndTime": "07:42",
+    "Duration": 0.53,
+    "Cost": 35.0
+  },
+  {
+    "TrainID": "G7503",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海虹桥站",
+    "BeginTime": "07:15",
+    "EndTime": "07:59",
+    "Duration": 0.73,
+    "Cost": 42.0
+  },
+  {
+    "TrainID": "C3811",
+    "TrainType": "城际",
+    "From": "苏州太仓南站",
+    "To": "上海站",
+    "BeginTime": "07:16",
+    "EndTime": "07:49",
+    "Duration": 0.55,
+    "Cost": 15.0
+  },
+  {
+    "TrainID": "C3805",
+    "TrainType": "城际",
+    "From": "苏州张家港站",
+    "To": "上海站",
+    "BeginTime": "07:18",
+    "EndTime": "08:30",
+    "Duration": 1.2,
+    "Cost": 43.0
+  },
+  {
+    "TrainID": "G7179",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海虹桥站",
+    "BeginTime": "07:19",
+    "EndTime": "07:49",
+    "Duration": 0.5,
+    "Cost": 39.0
+  },
+  {
+    "TrainID": "G7209",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "07:25",
+    "EndTime": "08:07",
+    "Duration": 0.7,
+    "Cost": 42.0
+  },
+  {
+    "TrainID": "G7503",
+    "TrainType": "高铁",
+    "From": "苏州园区站",
+    "To": "上海虹桥站",
+    "BeginTime": "07:28",
+    "EndTime": "07:59",
+    "Duration": 0.52,
+    "Cost": 38.0
+  },
+  {
+    "TrainID": "Z281",
+    "TrainType": "直达",
+    "From": "苏州站",
+    "To": "上海松江站",
+    "BeginTime": "07:28",
+    "EndTime": "08:44",
+    "Duration": 1.27,
+    "Cost": 16.5
+  },
+  {
+    "TrainID": "C3701",
+    "TrainType": "城际",
+    "From": "苏州张家港站",
+    "To": "上海虹桥站",
+    "BeginTime": "07:29",
+    "EndTime": "08:41",
+    "Duration": 1.2,
+    "Cost": 40.0
+  },
+  {
+    "TrainID": "G355",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海虹桥站",
+    "BeginTime": "07:30",
+    "EndTime": "07:53",
+    "Duration": 0.38,
+    "Cost": 39.0
+  },
+  {
+    "TrainID": "G7209",
+    "TrainType": "高铁",
+    "From": "苏州园区站",
+    "To": "上海站",
+    "BeginTime": "07:36",
+    "EndTime": "08:07",
+    "Duration": 0.52,
+    "Cost": 38.0
+  },
+  {
+    "TrainID": "G7101",
+    "TrainType": "高铁",
+    "From": "苏州新区站",
+    "To": "上海虹桥站",
+    "BeginTime": "07:38",
+    "EndTime": "08:19",
+    "Duration": 0.68,
+    "Cost": 34.0
+  },
+  {
+    "TrainID": "C3672",
+    "TrainType": "城际",
+    "From": "苏州南站",
+    "To": "上海虹桥站",
+    "BeginTime": "07:40",
+    "EndTime": "08:07",
+    "Duration": 0.45,
+    "Cost": 31.0
+  },
+  {
+    "TrainID": "C3701",
+    "TrainType": "城际",
+    "From": "苏州常熟站",
+    "To": "上海虹桥站",
+    "BeginTime": "07:41",
+    "EndTime": "08:41",
+    "Duration": 1.0,
+    "Cost": 35.0
+  },
+  {
+    "TrainID": "G8279",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "07:42",
+    "EndTime": "08:18",
+    "Duration": 0.6,
+    "Cost": 42.0
+  },
+  {
+    "TrainID": "D3201",
+    "TrainType": "动车",
+    "From": "苏州太仓南站",
+    "To": "上海虹桥站",
+    "BeginTime": "07:43",
+    "EndTime": "08:09",
+    "Duration": 0.43,
+    "Cost": 17.0
+  },
+  {
+    "TrainID": "G3272",
+    "TrainType": "高铁",
+    "From": "苏州盛泽站",
+    "To": "上海练塘站",
+    "BeginTime": "07:45",
+    "EndTime": "08:02",
+    "Duration": 0.28,
+    "Cost": 23.0
+  },
+  {
+    "TrainID": "G3272",
+    "TrainType": "高铁",
+    "From": "苏州盛泽站",
+    "To": "上海虹桥站",
+    "BeginTime": "07:45",
+    "EndTime": "08:26",
+    "Duration": 0.68,
+    "Cost": 44.0
+  },
+  {
+    "TrainID": "K1101",
+    "TrainType": "快速",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "07:45",
+    "EndTime": "10:20",
+    "Duration": 2.58,
+    "Cost": 14.5
+  },
+  {
+    "TrainID": "C3066",
+    "TrainType": "城际",
+    "From": "苏州南站",
+    "To": "上海松江站",
+    "BeginTime": "07:47",
+    "EndTime": "08:01",
+    "Duration": 0.23,
+    "Cost": 18.0
+  },
+  {
+    "TrainID": "G7101",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海虹桥站",
+    "BeginTime": "07:47",
+    "EndTime": "08:19",
+    "Duration": 0.53,
+    "Cost": 30.0
+  },
+  {
+    "TrainID": "C3066",
+    "TrainType": "城际",
+    "From": "苏州南站",
+    "To": "上海南站",
+    "BeginTime": "07:47",
+    "EndTime": "08:23",
+    "Duration": 0.6,
+    "Cost": 30.0
+  },
+  {
+    "TrainID": "C3805",
+    "TrainType": "城际",
+    "From": "苏州太仓站",
+    "To": "上海站",
+    "BeginTime": "07:48",
+    "EndTime": "08:30",
+    "Duration": 0.7,
+    "Cost": 20.0
+  },
+  {
+    "TrainID": "D2289",
+    "TrainType": "动车",
+    "From": "苏州张家港站",
+    "To": "上海虹桥站",
+    "BeginTime": "07:49",
+    "EndTime": "08:46",
+    "Duration": 0.95,
+    "Cost": 48.0
+  },
+  {
+    "TrainID": "D2289",
+    "TrainType": "动车",
+    "From": "苏州张家港站",
+    "To": "上海金山北站",
+    "BeginTime": "07:49",
+    "EndTime": "09:12",
+    "Duration": 1.38,
+    "Cost": 67.0
+  },
+  {
+    "TrainID": "G7201",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海西站",
+    "BeginTime": "07:52",
+    "EndTime": "08:22",
+    "Duration": 0.5,
+    "Cost": 40.0
+  },
+  {
+    "TrainID": "G7201",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "07:52",
+    "EndTime": "08:31",
+    "Duration": 0.65,
+    "Cost": 42.0
+  },
+  {
+    "TrainID": "C3651",
+    "TrainType": "城际",
+    "From": "苏州张家港站",
+    "To": "上海站",
+    "BeginTime": "07:55",
+    "EndTime": "08:55",
+    "Duration": 1.0,
+    "Cost": 46.0
+  },
+  {
+    "TrainID": "G7035",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "07:57",
+    "EndTime": "08:35",
+    "Duration": 0.63,
+    "Cost": 35.0
+  },
+  {
+    "TrainID": "C3805",
+    "TrainType": "城际",
+    "From": "苏州太仓南站",
+    "To": "上海站",
+    "BeginTime": "08:01",
+    "EndTime": "08:30",
+    "Duration": 0.48,
+    "Cost": 14.0
+  },
+  {
+    "TrainID": "D2281",
+    "TrainType": "动车",
+    "From": "苏州站",
+    "To": "上海虹桥站",
+    "BeginTime": "08:02",
+    "EndTime": "08:36",
+    "Duration": 0.57,
+    "Cost": 31.0
+  },
+  {
+    "TrainID": "C3701",
+    "TrainType": "城际",
+    "From": "苏州太仓站",
+    "To": "上海虹桥站",
+    "BeginTime": "08:02",
+    "EndTime": "08:41",
+    "Duration": 0.65,
+    "Cost": 20.0
+  },
+  {
+    "TrainID": "G8287",
+    "TrainType": "高铁",
+    "From": "苏州张家港站",
+    "To": "上海站",
+    "BeginTime": "08:03",
+    "EndTime": "09:13",
+    "Duration": 1.17,
+    "Cost": 46.0
+  },
+  {
+    "TrainID": "C3062",
+    "TrainType": "城际",
+    "From": "苏州南站",
+    "To": "上海练塘站",
+    "BeginTime": "08:04",
+    "EndTime": "08:14",
+    "Duration": 0.17,
+    "Cost": 10.0
+  },
+  {
+    "TrainID": "C3062",
+    "TrainType": "城际",
+    "From": "苏州南站",
+    "To": "上海南站",
+    "BeginTime": "08:04",
+    "EndTime": "08:37",
+    "Duration": 0.55,
+    "Cost": 30.0
+  },
+  {
+    "TrainID": "G1509",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海虹桥站",
+    "BeginTime": "08:05",
+    "EndTime": "08:28",
+    "Duration": 0.38,
+    "Cost": 39.0
+  },
+  {
+    "TrainID": "G1509",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海金山北站",
+    "BeginTime": "08:05",
+    "EndTime": "08:50",
+    "Duration": 0.75,
+    "Cost": 65.0
+  },
+  {
+    "TrainID": "C3651",
+    "TrainType": "城际",
+    "From": "苏州常熟站",
+    "To": "上海站",
+    "BeginTime": "08:06",
+    "EndTime": "08:55",
+    "Duration": 0.82,
+    "Cost": 39.0
+  },
+  {
+    "TrainID": "C3004",
+    "TrainType": "城际",
+    "From": "苏州盛泽站",
+    "To": "上海南站",
+    "BeginTime": "08:11",
+    "EndTime": "08:46",
+    "Duration": 0.58,
+    "Cost": 43.0
+  },
+  {
+    "TrainID": "C3893",
+    "TrainType": "城际",
+    "From": "苏州张家港站",
+    "To": "上海站",
+    "BeginTime": "08:12",
+    "EndTime": "09:21",
+    "Duration": 1.15,
+    "Cost": 46.0
+  },
+  {
+    "TrainID": "G7001",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "08:14",
+    "EndTime": "08:40",
+    "Duration": 0.43,
+    "Cost": 42.0
+  },
+  {
+    "TrainID": "G8287",
+    "TrainType": "高铁",
+    "From": "苏州常熟站",
+    "To": "上海站",
+    "BeginTime": "08:14",
+    "EndTime": "09:13",
+    "Duration": 0.98,
+    "Cost": 39.0
+  },
+  {
+    "TrainID": "C3701",
+    "TrainType": "城际",
+    "From": "苏州太仓南站",
+    "To": "上海虹桥站",
+    "BeginTime": "08:15",
+    "EndTime": "08:41",
+    "Duration": 0.43,
+    "Cost": 15.0
+  },
+  {
+    "TrainID": "D2289",
+    "TrainType": "动车",
+    "From": "苏州太仓站",
+    "To": "上海虹桥站",
+    "BeginTime": "08:16",
+    "EndTime": "08:46",
+    "Duration": 0.5,
+    "Cost": 23.0
+  },
+  {
+    "TrainID": "D2289",
+    "TrainType": "动车",
+    "From": "苏州太仓站",
+    "To": "上海金山北站",
+    "BeginTime": "08:16",
+    "EndTime": "09:12",
+    "Duration": 0.93,
+    "Cost": 42.0
+  },
+  {
+    "TrainID": "G7037",
+    "TrainType": "高铁",
+    "From": "苏州新区站",
+    "To": "上海站",
+    "BeginTime": "08:17",
+    "EndTime": "08:59",
+    "Duration": 0.7,
+    "Cost": 43.0
+  },
+  {
+    "TrainID": "C3608",
+    "TrainType": "城际",
+    "From": "苏州盛泽站",
+    "To": "上海松江站",
+    "BeginTime": "08:22",
+    "EndTime": "08:54",
+    "Duration": 0.53,
+    "Cost": 35.0
+  },
+  {
+    "TrainID": "C3608",
+    "TrainType": "城际",
+    "From": "苏州盛泽站",
+    "To": "上海南站",
+    "BeginTime": "08:22",
+    "EndTime": "09:12",
+    "Duration": 0.83,
+    "Cost": 50.0
+  },
+  {
+    "TrainID": "C3893",
+    "TrainType": "城际",
+    "From": "苏州常熟站",
+    "To": "上海站",
+    "BeginTime": "08:23",
+    "EndTime": "09:21",
+    "Duration": 0.97,
+    "Cost": 39.0
+  },
+  {
+    "TrainID": "G8357",
+    "TrainType": "高铁",
+    "From": "苏州张家港站",
+    "To": "上海虹桥站",
+    "BeginTime": "08:23",
+    "EndTime": "09:33",
+    "Duration": 1.17,
+    "Cost": 48.0
+  },
+  {
+    "TrainID": "G8357",
+    "TrainType": "高铁",
+    "From": "苏州张家港站",
+    "To": "上海松江站",
+    "BeginTime": "08:23",
+    "EndTime": "09:51",
+    "Duration": 1.47,
+    "Cost": 63.0
+  },
+  {
+    "TrainID": "G7505",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海虹桥站",
+    "BeginTime": "08:24",
+    "EndTime": "08:46",
+    "Duration": 0.37,
+    "Cost": 38.0
+  },
+  {
+    "TrainID": "G7037",
+    "TrainType": "高铁",
+    "From": "苏州园区站",
+    "To": "上海站",
+    "BeginTime": "08:29",
+    "EndTime": "08:59",
+    "Duration": 0.5,
+    "Cost": 34.0
+  },
+  {
+    "TrainID": "G7313",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海虹桥站",
+    "BeginTime": "08:36",
+    "EndTime": "09:12",
+    "Duration": 0.6,
+    "Cost": 38.0
+  },
+  {
+    "TrainID": "G7313",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海松江站",
+    "BeginTime": "08:36",
+    "EndTime": "09:30",
+    "Duration": 0.9,
+    "Cost": 54.0
+  },
+  {
+    "TrainID": "G8357",
+    "TrainType": "高铁",
+    "From": "苏州常熟站",
+    "To": "上海虹桥站",
+    "BeginTime": "08:36",
+    "EndTime": "09:33",
+    "Duration": 0.95,
+    "Cost": 41.0
+  },
+  {
+    "TrainID": "G8357",
+    "TrainType": "高铁",
+    "From": "苏州常熟站",
+    "To": "上海松江站",
+    "BeginTime": "08:36",
+    "EndTime": "09:51",
+    "Duration": 1.25,
+    "Cost": 56.0
+  },
+  {
+    "TrainID": "G8355",
+    "TrainType": "高铁",
+    "From": "苏州张家港站",
+    "To": "上海虹桥站",
+    "BeginTime": "08:38",
+    "EndTime": "09:38",
+    "Duration": 1.0,
+    "Cost": 48.0
+  },
+  {
+    "TrainID": "G7039",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "08:39",
+    "EndTime": "09:15",
+    "Duration": 0.6,
+    "Cost": 38.0
+  },
+  {
+    "TrainID": "C3608",
+    "TrainType": "城际",
+    "From": "苏州南站",
+    "To": "上海松江站",
+    "BeginTime": "08:40",
+    "EndTime": "08:54",
+    "Duration": 0.23,
+    "Cost": 21.0
+  },
+  {
+    "TrainID": "C3608",
+    "TrainType": "城际",
+    "From": "苏州南站",
+    "To": "上海南站",
+    "BeginTime": "08:40",
+    "EndTime": "09:12",
+    "Duration": 0.53,
+    "Cost": 35.0
+  },
+  {
+    "TrainID": "G7349",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海虹桥站",
+    "BeginTime": "08:42",
+    "EndTime": "09:07",
+    "Duration": 0.42,
+    "Cost": 38.0
+  },
+  {
+    "TrainID": "C3893",
+    "TrainType": "城际",
+    "From": "苏州太仓站",
+    "To": "上海站",
+    "BeginTime": "08:44",
+    "EndTime": "09:21",
+    "Duration": 0.62,
+    "Cost": 21.0
+  },
+  {
+    "TrainID": "C3610",
+    "TrainType": "城际",
+    "From": "苏州盛泽站",
+    "To": "上海练塘站",
+    "BeginTime": "08:45",
+    "EndTime": "09:02",
+    "Duration": 0.28,
+    "Cost": 26.0
+  },
+  {
+    "TrainID": "C3610",
+    "TrainType": "城际",
+    "From": "苏州盛泽站",
+    "To": "上海虹桥站",
+    "BeginTime": "08:45",
+    "EndTime": "09:26",
+    "Duration": 0.68,
+    "Cost": 51.0
+  },
+  {
+    "TrainID": "G7043",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "08:46",
+    "EndTime": "09:36",
+    "Duration": 0.83,
+    "Cost": 42.0
+  },
+  {
+    "TrainID": "C3851",
+    "TrainType": "城际",
+    "From": "苏州张家港站",
+    "To": "上海站",
+    "BeginTime": "08:47",
+    "EndTime": "09:56",
+    "Duration": 1.15,
+    "Cost": 46.0
+  },
+  {
+    "TrainID": "G1377",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海虹桥站",
+    "BeginTime": "08:51",
+    "EndTime": "09:21",
+    "Duration": 0.5,
+    "Cost": 38.0
+  },
+  {
+    "TrainID": "G7103",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海虹桥站",
+    "BeginTime": "08:52",
+    "EndTime": "09:25",
+    "Duration": 0.55,
+    "Cost": 42.0
+  },
+  {
+    "TrainID": "G7135",
+    "TrainType": "高铁",
+    "From": "苏州太仓南站",
+    "To": "上海虹桥站",
+    "BeginTime": "08:54",
+    "EndTime": "09:21",
+    "Duration": 0.45,
+    "Cost": 17.0
+  },
+  {
+    "TrainID": "G8357",
+    "TrainType": "高铁",
+    "From": "苏州太仓站",
+    "To": "上海虹桥站",
+    "BeginTime": "08:56",
+    "EndTime": "09:33",
+    "Duration": 0.62,
+    "Cost": 23.0
+  },
+  {
+    "TrainID": "G8357",
+    "TrainType": "高铁",
+    "From": "苏州太仓站",
+    "To": "上海松江站",
+    "BeginTime": "08:56",
+    "EndTime": "09:51",
+    "Duration": 0.92,
+    "Cost": 38.0
+  },
+  {
+    "TrainID": "G7271",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "08:57",
+    "EndTime": "09:30",
+    "Duration": 0.55,
+    "Cost": 46.0
+  },
+  {
+    "TrainID": "D3205",
+    "TrainType": "动车",
+    "From": "苏州张家港站",
+    "To": "上海虹桥站",
+    "BeginTime": "08:57",
+    "EndTime": "09:56",
+    "Duration": 0.98,
+    "Cost": 48.0
+  },
+  {
+    "TrainID": "D3205",
+    "TrainType": "动车",
+    "From": "苏州张家港站",
+    "To": "上海松江站",
+    "BeginTime": "08:57",
+    "EndTime": "10:18",
+    "Duration": 1.35,
+    "Cost": 62.0
+  },
+  {
+    "TrainID": "G7389",
+    "TrainType": "高铁",
+    "From": "苏州新区站",
+    "To": "上海虹桥站",
+    "BeginTime": "08:59",
+    "EndTime": "09:43",
+    "Duration": 0.73,
+    "Cost": 43.0
+  },
+  {
+    "TrainID": "C3851",
+    "TrainType": "城际",
+    "From": "苏州常熟站",
+    "To": "上海站",
+    "BeginTime": "08:59",
+    "EndTime": "09:56",
+    "Duration": 0.95,
+    "Cost": 39.0
+  },
+  {
+    "TrainID": "C3094",
+    "TrainType": "城际",
+    "From": "苏州盛泽站",
+    "To": "上海虹桥站",
+    "BeginTime": "09:02",
+    "EndTime": "09:37",
+    "Duration": 0.58,
+    "Cost": 51.0
+  },
+  {
+    "TrainID": "G7580",
+    "TrainType": "高铁",
+    "From": "苏州南站",
+    "To": "上海虹桥站",
+    "BeginTime": "09:04",
+    "EndTime": "09:31",
+    "Duration": 0.45,
+    "Cost": 36.0
+  },
+  {
+    "TrainID": "G7043",
+    "TrainType": "高铁",
+    "From": "苏州园区站",
+    "To": "上海站",
+    "BeginTime": "09:05",
+    "EndTime": "09:36",
+    "Duration": 0.52,
+    "Cost": 38.0
+  },
+  {
+    "TrainID": "G8355",
+    "TrainType": "高铁",
+    "From": "苏州太仓站",
+    "To": "上海虹桥站",
+    "BeginTime": "09:06",
+    "EndTime": "09:38",
+    "Duration": 0.53,
+    "Cost": 23.0
+  },
+  {
+    "TrainID": "G7389",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海虹桥站",
+    "BeginTime": "09:08",
+    "EndTime": "09:43",
+    "Duration": 0.58,
+    "Cost": 38.0
+  },
+  {
+    "TrainID": "G7003",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "09:14",
+    "EndTime": "09:40",
+    "Duration": 0.43,
+    "Cost": 42.0
+  },
+  {
+    "TrainID": "G1301",
+    "TrainType": "高铁",
+    "From": "苏州张家港站",
+    "To": "上海虹桥站",
+    "BeginTime": "09:14",
+    "EndTime": "10:14",
+    "Duration": 1.0,
+    "Cost": 48.0
+  },
+  {
+    "TrainID": "G7461",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海虹桥站",
+    "BeginTime": "09:19",
+    "EndTime": "09:51",
+    "Duration": 0.53,
+    "Cost": 46.0
+  },
+  {
+    "TrainID": "C3851",
+    "TrainType": "城际",
+    "From": "苏州太仓站",
+    "To": "上海站",
+    "BeginTime": "09:19",
+    "EndTime": "09:56",
+    "Duration": 0.62,
+    "Cost": 21.0
+  },
+  {
+    "TrainID": "G8387",
+    "TrainType": "高铁",
+    "From": "苏州盛泽站",
+    "To": "上海虹桥站",
+    "BeginTime": "09:19",
+    "EndTime": "17:07",
+    "Duration": 7.8,
+    "Cost": 576.0
+  },
+  {
+    "TrainID": "G8385",
+    "TrainType": "高铁",
+    "From": "苏州张家港站",
+    "To": "上海虹桥站",
+    "BeginTime": "09:20",
+    "EndTime": "10:24",
+    "Duration": 1.07,
+    "Cost": 48.0
+  },
+  {
+    "TrainID": "G3754",
+    "TrainType": "高铁",
+    "From": "苏州南站",
+    "To": "上海虹桥站",
+    "BeginTime": "09:23",
+    "EndTime": "09:50",
+    "Duration": 0.45,
+    "Cost": 43.0
+  },
+  {
+    "TrainID": "D3205",
+    "TrainType": "动车",
+    "From": "苏州太仓站",
+    "To": "上海虹桥站",
+    "BeginTime": "09:24",
+    "EndTime": "09:56",
+    "Duration": 0.53,
+    "Cost": 23.0
+  },
+  {
+    "TrainID": "G7041",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "09:24",
+    "EndTime": "10:03",
+    "Duration": 0.65,
+    "Cost": 42.0
+  },
+  {
+    "TrainID": "D3205",
+    "TrainType": "动车",
+    "From": "苏州太仓站",
+    "To": "上海松江站",
+    "BeginTime": "09:24",
+    "EndTime": "10:18",
+    "Duration": 0.9,
+    "Cost": 37.0
+  },
+  {
+    "TrainID": "D3125",
+    "TrainType": "动车",
+    "From": "苏州张家港站",
+    "To": "上海虹桥站",
+    "BeginTime": "09:25",
+    "EndTime": "10:19",
+    "Duration": 0.9,
+    "Cost": 48.0
+  },
+  {
+    "TrainID": "D3068",
+    "TrainType": "动车",
+    "From": "苏州盛泽站",
+    "To": "上海虹桥站",
+    "BeginTime": "09:26",
+    "EndTime": "10:02",
+    "Duration": 0.6,
+    "Cost": 40.0
+  },
+  {
+    "TrainID": "D5665",
+    "TrainType": "动车",
+    "From": "苏州站",
+    "To": "上海虹桥站",
+    "BeginTime": "09:29",
+    "EndTime": "10:09",
+    "Duration": 0.67,
+    "Cost": 31.0
+  },
+  {
+    "TrainID": "G8281",
+    "TrainType": "高铁",
+    "From": "苏州张家港站",
+    "To": "上海站",
+    "BeginTime": "09:31",
+    "EndTime": "10:42",
+    "Duration": 1.18,
+    "Cost": 52.0
+  },
+  {
+    "TrainID": "G8981",
+    "TrainType": "高铁",
+    "From": "苏州南站",
+    "To": "上海站",
+    "BeginTime": "09:33",
+    "EndTime": "14:10",
+    "Duration": 4.62,
+    "Cost": 334.0
+  },
+  {
+    "TrainID": "D5665",
+    "TrainType": "动车",
+    "From": "苏州园区站",
+    "To": "上海虹桥站",
+    "BeginTime": "09:38",
+    "EndTime": "10:09",
+    "Duration": 0.52,
+    "Cost": 27.0
+  },
+  {
+    "TrainID": "G7507",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海虹桥站",
+    "BeginTime": "09:39",
+    "EndTime": "10:09",
+    "Duration": 0.5,
+    "Cost": 38.0
+  },
+  {
+    "TrainID": "C3795",
+    "TrainType": "城际",
+    "From": "苏州张家港站",
+    "To": "上海虹桥站",
+    "BeginTime": "09:40",
+    "EndTime": "10:43",
+    "Duration": 1.05,
+    "Cost": 48.0
+  },
+  {
+    "TrainID": "G8281",
+    "TrainType": "高铁",
+    "From": "苏州常熟站",
+    "To": "上海站",
+    "BeginTime": "09:42",
+    "EndTime": "10:42",
+    "Duration": 1.0,
+    "Cost": 44.0
+  },
+  {
+    "TrainID": "G7289",
+    "TrainType": "高铁",
+    "From": "苏州张家港站",
+    "To": "上海站",
+    "BeginTime": "09:45",
+    "EndTime": "10:53",
+    "Duration": 1.13,
+    "Cost": 50.0
+  },
+  {
+    "TrainID": "G1301",
+    "TrainType": "高铁",
+    "From": "苏州太仓南站",
+    "To": "上海虹桥站",
+    "BeginTime": "09:47",
+    "EndTime": "10:14",
+    "Duration": 0.45,
+    "Cost": 17.0
+  },
+  {
+    "TrainID": "G8379",
+    "TrainType": "高铁",
+    "From": "苏州张家港站",
+    "To": "上海虹桥站",
+    "BeginTime": "09:50",
+    "EndTime": "10:57",
+    "Duration": 1.12,
+    "Cost": 48.0
+  },
+  {
+    "TrainID": "G8385",
+    "TrainType": "高铁",
+    "From": "苏州太仓站",
+    "To": "上海虹桥站",
+    "BeginTime": "09:51",
+    "EndTime": "10:24",
+    "Duration": 0.55,
+    "Cost": 23.0
+  },
+  {
+    "TrainID": "C3795",
+    "TrainType": "城际",
+    "From": "苏州常熟站",
+    "To": "上海虹桥站",
+    "BeginTime": "09:52",
+    "EndTime": "10:43",
+    "Duration": 0.85,
+    "Cost": 41.0
+  },
+  {
+    "TrainID": "C3054",
+    "TrainType": "城际",
+    "From": "苏州南站",
+    "To": "上海南站",
+    "BeginTime": "09:54",
+    "EndTime": "10:19",
+    "Duration": 0.42,
+    "Cost": 30.0
+  },
+  {
+    "TrainID": "G7225",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "09:54",
+    "EndTime": "10:19",
+    "Duration": 0.42,
+    "Cost": 46.0
+  },
+  {
+    "TrainID": "G7589",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海虹桥站",
+    "BeginTime": "09:54",
+    "EndTime": "10:28",
+    "Duration": 0.57,
+    "Cost": 38.0
+  },
+  {
+    "TrainID": "G7289",
+    "TrainType": "高铁",
+    "From": "苏州常熟站",
+    "To": "上海站",
+    "BeginTime": "09:56",
+    "EndTime": "10:53",
+    "Duration": 0.95,
+    "Cost": 42.0
+  },
+  {
+    "TrainID": "G7172",
+    "TrainType": "高铁",
+    "From": "苏州南站",
+    "To": "上海虹桥站",
+    "BeginTime": "09:59",
+    "EndTime": "10:26",
+    "Duration": 0.45,
+    "Cost": 31.0
+  },
+  {
+    "TrainID": "G7105",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海虹桥站",
+    "BeginTime": "09:59",
+    "EndTime": "10:31",
+    "Duration": 0.53,
+    "Cost": 42.0
+  },
+  {
+    "TrainID": "G8379",
+    "TrainType": "高铁",
+    "From": "苏州常熟站",
+    "To": "上海虹桥站",
+    "BeginTime": "10:01",
+    "EndTime": "10:57",
+    "Duration": 0.93,
+    "Cost": 41.0
+  },
+  {
+    "TrainID": "C3881",
+    "TrainType": "城际",
+    "From": "苏州张家港站",
+    "To": "上海站",
+    "BeginTime": "10:03",
+    "EndTime": "11:09",
+    "Duration": 1.1,
+    "Cost": 52.0
+  },
+  {
+    "TrainID": "C3064",
+    "TrainType": "城际",
+    "From": "苏州南站",
+    "To": "上海南站",
+    "BeginTime": "10:04",
+    "EndTime": "10:30",
+    "Duration": 0.43,
+    "Cost": 30.0
+  },
+  {
+    "TrainID": "C3060",
+    "TrainType": "城际",
+    "From": "苏州盛泽站",
+    "To": "上海南站",
+    "BeginTime": "10:07",
+    "EndTime": "10:39",
+    "Duration": 0.53,
+    "Cost": 43.0
+  },
+  {
+    "TrainID": "G7255",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "10:07",
+    "EndTime": "10:55",
+    "Duration": 0.8,
+    "Cost": 42.0
+  },
+  {
+    "TrainID": "T109",
+    "TrainType": "特快",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "10:08",
+    "EndTime": "11:02",
+    "Duration": 0.9,
+    "Cost": 14.5
+  },
+  {
+    "TrainID": "D2283",
+    "TrainType": "动车",
+    "From": "苏州张家港站",
+    "To": "上海虹桥站",
+    "BeginTime": "10:08",
+    "EndTime": "11:14",
+    "Duration": 1.1,
+    "Cost": 48.0
+  },
+  {
+    "TrainID": "G7569",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海虹桥站",
+    "BeginTime": "10:11",
+    "EndTime": "10:42",
+    "Duration": 0.52,
+    "Cost": 34.0
+  },
+  {
+    "TrainID": "G8281",
+    "TrainType": "高铁",
+    "From": "苏州太仓南站",
+    "To": "上海站",
+    "BeginTime": "10:11",
+    "EndTime": "10:42",
+    "Duration": 0.52,
+    "Cost": 16.0
+  },
+  {
+    "TrainID": "G7113",
+    "TrainType": "高铁",
+    "From": "苏州张家港站",
+    "To": "上海虹桥站",
+    "BeginTime": "10:11",
+    "EndTime": "11:02",
+    "Duration": 0.85,
+    "Cost": 52.0
+  },
+  {
+    "TrainID": "G7113",
+    "TrainType": "高铁",
+    "From": "苏州张家港站",
+    "To": "上海松江站",
+    "BeginTime": "10:11",
+    "EndTime": "11:22",
+    "Duration": 1.18,
+    "Cost": 67.0
+  },
+  {
+    "TrainID": "C3795",
+    "TrainType": "城际",
+    "From": "苏州太仓站",
+    "To": "上海虹桥站",
+    "BeginTime": "10:12",
+    "EndTime": "10:43",
+    "Duration": 0.52,
+    "Cost": 23.0
+  },
+  {
+    "TrainID": "G7005",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "10:14",
+    "EndTime": "10:40",
+    "Duration": 0.43,
+    "Cost": 42.0
+  },
+  {
+    "TrainID": "G7289",
+    "TrainType": "高铁",
+    "From": "苏州太仓站",
+    "To": "上海站",
+    "BeginTime": "10:15",
+    "EndTime": "10:53",
+    "Duration": 0.63,
+    "Cost": 28.0
+  },
+  {
+    "TrainID": "D2283",
+    "TrainType": "动车",
+    "From": "苏州常熟站",
+    "To": "上海虹桥站",
+    "BeginTime": "10:20",
+    "EndTime": "11:14",
+    "Duration": 0.9,
+    "Cost": 41.0
+  },
+  {
+    "TrainID": "G7255",
+    "TrainType": "高铁",
+    "From": "苏州园区站",
+    "To": "上海站",
+    "BeginTime": "10:21",
+    "EndTime": "10:55",
+    "Duration": 0.57,
+    "Cost": 38.0
+  },
+  {
+    "TrainID": "G8379",
+    "TrainType": "高铁",
+    "From": "苏州太仓站",
+    "To": "上海虹桥站",
+    "BeginTime": "10:22",
+    "EndTime": "10:57",
+    "Duration": 0.58,
+    "Cost": 23.0
+  },
+  {
+    "TrainID": "G7147",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海虹桥站",
+    "BeginTime": "10:24",
+    "EndTime": "10:50",
+    "Duration": 0.43,
+    "Cost": 46.0
+  },
+  {
+    "TrainID": "G7599",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海虹桥站",
+    "BeginTime": "10:25",
+    "EndTime": "10:48",
+    "Duration": 0.38,
+    "Cost": 39.0
+  },
+  {
+    "TrainID": "G7599",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海金山北站",
+    "BeginTime": "10:25",
+    "EndTime": "11:12",
+    "Duration": 0.78,
+    "Cost": 65.0
+  },
+  {
+    "TrainID": "K737",
+    "TrainType": "快速",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "10:27",
+    "EndTime": "11:34",
+    "Duration": 1.12,
+    "Cost": 14.5
+  },
+  {
+    "TrainID": "C3891",
+    "TrainType": "城际",
+    "From": "苏州常熟站",
+    "To": "上海站",
+    "BeginTime": "10:29",
+    "EndTime": "11:27",
+    "Duration": 0.97,
+    "Cost": 36.0
+  },
+  {
+    "TrainID": "G7431",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海虹桥站",
+    "BeginTime": "10:30",
+    "EndTime": "10:59",
+    "Duration": 0.48,
+    "Cost": 43.0
+  },
+  {
+    "TrainID": "G7431",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海松江站",
+    "BeginTime": "10:30",
+    "EndTime": "11:21",
+    "Duration": 0.85,
+    "Cost": 60.0
+  },
+  {
+    "TrainID": "G7107",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海虹桥站",
+    "BeginTime": "10:31",
+    "EndTime": "11:07",
+    "Duration": 0.6,
+    "Cost": 42.0
+  },
+  {
+    "TrainID": "C3881",
+    "TrainType": "城际",
+    "From": "苏州太仓站",
+    "To": "上海站",
+    "BeginTime": "10:33",
+    "EndTime": "11:09",
+    "Duration": 0.6,
+    "Cost": 23.0
+  },
+  {
+    "TrainID": "G7291",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海站",
+    "BeginTime": "10:34",
+    "EndTime": "11:09",
+    "Duration": 0.58,
+    "Cost": 46.0
+  },
+  {
+    "TrainID": "G8361",
+    "TrainType": "高铁",
+    "From": "苏州张家港站",
+    "To": "上海虹桥站",
+    "BeginTime": "10:40",
+    "EndTime": "11:46",
+    "Duration": 1.1,
+    "Cost": 48.0
+  },
+  {
+    "TrainID": "G7107",
+    "TrainType": "高铁",
+    "From": "苏州园区站",
+    "To": "上海虹桥站",
+    "BeginTime": "10:41",
+    "EndTime": "11:07",
+    "Duration": 0.43,
+    "Cost": 38.0
+  },
+  {
+    "TrainID": "D2283",
+    "TrainType": "动车",
+    "From": "苏州太仓站",
+    "To": "上海虹桥站",
+    "BeginTime": "10:42",
+    "EndTime": "11:14",
+    "Duration": 0.53,
+    "Cost": 23.0
+  },
+  {
+    "TrainID": "G7316",
+    "TrainType": "高铁",
+    "From": "苏州南站",
+    "To": "上海松江站",
+    "BeginTime": "10:45",
+    "EndTime": "10:59",
+    "Duration": 0.23,
+    "Cost": 21.0
+  },
+  {
+    "TrainID": "G7725",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海虹桥站",
+    "BeginTime": "10:45",
+    "EndTime": "11:18",
+    "Duration": 0.55,
+    "Cost": 46.0
+  },
+  {
+    "TrainID": "G7316",
+    "TrainType": "高铁",
+    "From": "苏州南站",
+    "To": "上海虹桥站",
+    "BeginTime": "10:45",
+    "EndTime": "11:19",
+    "Duration": 0.57,
+    "Cost": 36.0
+  },
+  {
+    "TrainID": "C3891",
+    "TrainType": "城际",
+    "From": "苏州太仓站",
+    "To": "上海站",
+    "BeginTime": "10:49",
+    "EndTime": "11:27",
+    "Duration": 0.63,
+    "Cost": 20.0
+  },
+  {
+    "TrainID": "D2912",
+    "TrainType": "动车",
+    "From": "苏州南站",
+    "To": "上海松江站",
+    "BeginTime": "10:50",
+    "EndTime": "11:05",
+    "Duration": 0.25,
+    "Cost": 20.0
+  },
+  {
+    "TrainID": "G2661",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海虹桥站",
+    "BeginTime": "10:50",
+    "EndTime": "11:14",
+    "Duration": 0.4,
+    "Cost": 43.0
+  },
+  {
+    "TrainID": "G7587",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海虹桥站",
+    "BeginTime": "10:50",
+    "EndTime": "11:23",
+    "Duration": 0.55,
+    "Cost": 46.0
+  },
+  {
+    "TrainID": "D2912",
+    "TrainType": "动车",
+    "From": "苏州南站",
+    "To": "上海虹桥站",
+    "BeginTime": "10:50",
+    "EndTime": "11:30",
+    "Duration": 0.67,
+    "Cost": 33.0
+  },
+  {
+    "TrainID": "G8361",
+    "TrainType": "高铁",
+    "From": "苏州常熟站",
+    "To": "上海虹桥站",
+    "BeginTime": "10:51",
+    "EndTime": "11:46",
+    "Duration": 0.92,
+    "Cost": 41.0
+  },
+  {
+    "TrainID": "G7131",
+    "TrainType": "高铁",
+    "From": "苏州常熟站",
+    "To": "上海虹桥站",
+    "BeginTime": "10:52",
+    "EndTime": "11:36",
+    "Duration": 0.73,
+    "Cost": 46.0
+  },
+  {
+    "TrainID": "C3616",
+    "TrainType": "城际",
+    "From": "苏州南站",
+    "To": "上海虹桥站",
+    "BeginTime": "10:55",
+    "EndTime": "11:25",
+    "Duration": 0.5,
+    "Cost": 33.0
+  },
+  {
+    "TrainID": "G237",
+    "TrainType": "高铁",
+    "From": "苏州张家港站",
+    "To": "上海虹桥站",
+    "BeginTime": "10:59",
+    "EndTime": "12:09",
+    "Duration": 1.17,
+    "Cost": 48.0
+  },
+  {
+    "TrainID": "G237",
+    "TrainType": "高铁",
+    "From": "苏州张家港站",
+    "To": "上海松江站",
+    "BeginTime": "10:59",
+    "EndTime": "12:28",
+    "Duration": 1.48,
+    "Cost": 63.0
+  },
+  {
+    "TrainID": "G8388",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海南站",
+    "BeginTime": "11:01",
+    "EndTime": "18:31",
+    "Duration": 7.5,
+    "Cost": 574.0
+  },
+  {
+    "TrainID": "G8251",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "11:02",
+    "EndTime": "11:34",
+    "Duration": 0.53,
+    "Cost": 42.0
+  },
+  {
+    "TrainID": "C3028",
+    "TrainType": "城际",
+    "From": "苏州盛泽站",
+    "To": "上海南站",
+    "BeginTime": "11:02",
+    "EndTime": "11:41",
+    "Duration": 0.65,
+    "Cost": 56.0
+  },
+  {
+    "TrainID": "C3058",
+    "TrainType": "城际",
+    "From": "苏州南站",
+    "To": "上海南站",
+    "BeginTime": "11:03",
+    "EndTime": "11:29",
+    "Duration": 0.43,
+    "Cost": 30.0
+  },
+  {
+    "TrainID": "Z163",
+    "TrainType": "直达",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "11:04",
+    "EndTime": "12:03",
+    "Duration": 0.98,
+    "Cost": 14.5
+  },
+  {
+    "TrainID": "G7045",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "11:07",
+    "EndTime": "11:39",
+    "Duration": 0.53,
+    "Cost": 42.0
+  },
+  {
+    "TrainID": "G237",
+    "TrainType": "高铁",
+    "From": "苏州常熟站",
+    "To": "上海虹桥站",
+    "BeginTime": "11:10",
+    "EndTime": "12:09",
+    "Duration": 0.98,
+    "Cost": 41.0
+  },
+  {
+    "TrainID": "G237",
+    "TrainType": "高铁",
+    "From": "苏州常熟站",
+    "To": "上海松江站",
+    "BeginTime": "11:10",
+    "EndTime": "12:28",
+    "Duration": 1.3,
+    "Cost": 56.0
+  },
+  {
+    "TrainID": "Z375",
+    "TrainType": "直达",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "11:11",
+    "EndTime": "12:09",
+    "Duration": 0.97,
+    "Cost": 14.5
+  },
+  {
+    "TrainID": "G7791",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海虹桥站",
+    "BeginTime": "11:13",
+    "EndTime": "11:43",
+    "Duration": 0.5,
+    "Cost": 41.0
+  },
+  {
+    "TrainID": "G8361",
+    "TrainType": "高铁",
+    "From": "苏州太仓站",
+    "To": "上海虹桥站",
+    "BeginTime": "11:13",
+    "EndTime": "11:46",
+    "Duration": 0.55,
+    "Cost": 23.0
+  },
+  {
+    "TrainID": "G7007",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "11:14",
+    "EndTime": "11:46",
+    "Duration": 0.53,
+    "Cost": 42.0
+  },
+  {
+    "TrainID": "C3028",
+    "TrainType": "城际",
+    "From": "苏州南站",
+    "To": "上海南站",
+    "BeginTime": "11:15",
+    "EndTime": "11:41",
+    "Duration": 0.43,
+    "Cost": 39.0
+  },
+  {
+    "TrainID": "G1412",
+    "TrainType": "高铁",
+    "From": "苏州盛泽站",
+    "To": "上海虹桥站",
+    "BeginTime": "11:17",
+    "EndTime": "11:52",
+    "Duration": 0.58,
+    "Cost": 58.0
+  },
+  {
+    "TrainID": "Z39",
+    "TrainType": "直达",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "11:17",
+    "EndTime": "12:15",
+    "Duration": 0.97,
+    "Cost": 14.5
+  },
+  {
+    "TrainID": "G7591",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海虹桥站",
+    "BeginTime": "11:19",
+    "EndTime": "11:54",
+    "Duration": 0.58,
+    "Cost": 42.0
+  },
+  {
+    "TrainID": "C3102",
+    "TrainType": "城际",
+    "From": "苏州南站",
+    "To": "上海虹桥站",
+    "BeginTime": "11:20",
+    "EndTime": "11:47",
+    "Duration": 0.45,
+    "Cost": 36.0
+  },
+  {
+    "TrainID": "G8353",
+    "TrainType": "高铁",
+    "From": "苏州张家港站",
+    "To": "上海虹桥站",
+    "BeginTime": "11:22",
+    "EndTime": "12:28",
+    "Duration": 1.1,
+    "Cost": 54.0
+  },
+  {
+    "TrainID": "G8353",
+    "TrainType": "高铁",
+    "From": "苏州张家港站",
+    "To": "上海松江站",
+    "BeginTime": "11:22",
+    "EndTime": "12:47",
+    "Duration": 1.42,
+    "Cost": 69.0
+  },
+  {
+    "TrainID": "Z267",
+    "TrainType": "直达",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "11:24",
+    "EndTime": "12:21",
+    "Duration": 0.95,
+    "Cost": 14.5
+  },
+  {
+    "TrainID": "G3132",
+    "TrainType": "高铁",
+    "From": "苏州盛泽站",
+    "To": "上海虹桥站",
+    "BeginTime": "11:25",
+    "EndTime": "11:59",
+    "Duration": 0.57,
+    "Cost": 51.0
+  },
+  {
+    "TrainID": "G7109",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海虹桥站",
+    "BeginTime": "11:25",
+    "EndTime": "11:59",
+    "Duration": 0.57,
+    "Cost": 38.0
+  },
+  {
+    "TrainID": "G7109",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海松江站",
+    "BeginTime": "11:25",
+    "EndTime": "12:18",
+    "Duration": 0.88,
+    "Cost": 53.0
+  },
+  {
+    "TrainID": "G7511",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海虹桥站",
+    "BeginTime": "11:29",
+    "EndTime": "11:52",
+    "Duration": 0.38,
+    "Cost": 36.0
+  },
+  {
+    "TrainID": "G7205",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "11:30",
+    "EndTime": "12:05",
+    "Duration": 0.58,
+    "Cost": 46.0
+  },
+  {
+    "TrainID": "G237",
+    "TrainType": "高铁",
+    "From": "苏州太仓站",
+    "To": "上海虹桥站",
+    "BeginTime": "11:31",
+    "EndTime": "12:09",
+    "Duration": 0.63,
+    "Cost": 23.0
+  },
+  {
+    "TrainID": "G237",
+    "TrainType": "高铁",
+    "From": "苏州太仓站",
+    "To": "上海松江站",
+    "BeginTime": "11:31",
+    "EndTime": "12:28",
+    "Duration": 0.95,
+    "Cost": 38.0
+  },
+  {
+    "TrainID": "D121",
+    "TrainType": "动车",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "11:31",
+    "EndTime": "12:30",
+    "Duration": 0.98,
+    "Cost": 20.0
+  },
+  {
+    "TrainID": "C3897",
+    "TrainType": "城际",
+    "From": "苏州张家港站",
+    "To": "上海站",
+    "BeginTime": "11:32",
+    "EndTime": "12:36",
+    "Duration": 1.07,
+    "Cost": 52.0
+  },
+  {
+    "TrainID": "G7221",
+    "TrainType": "高铁",
+    "From": "苏州新区站",
+    "To": "上海站",
+    "BeginTime": "11:33",
+    "EndTime": "12:15",
+    "Duration": 0.7,
+    "Cost": 48.0
+  },
+  {
+    "TrainID": "G8353",
+    "TrainType": "高铁",
+    "From": "苏州常熟站",
+    "To": "上海虹桥站",
+    "BeginTime": "11:33",
+    "EndTime": "12:28",
+    "Duration": 0.92,
+    "Cost": 46.0
+  },
+  {
+    "TrainID": "G8353",
+    "TrainType": "高铁",
+    "From": "苏州常熟站",
+    "To": "上海松江站",
+    "BeginTime": "11:33",
+    "EndTime": "12:47",
+    "Duration": 1.23,
+    "Cost": 61.0
+  },
+  {
+    "TrainID": "D2131",
+    "TrainType": "动车",
+    "From": "苏州张家港站",
+    "To": "上海虹桥站",
+    "BeginTime": "11:37",
+    "EndTime": "12:40",
+    "Duration": 1.05,
+    "Cost": 48.0
+  },
+  {
+    "TrainID": "G297",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海虹桥站",
+    "BeginTime": "11:38",
+    "EndTime": "12:03",
+    "Duration": 0.42,
+    "Cost": 43.0
+  },
+  {
+    "TrainID": "G7205",
+    "TrainType": "高铁",
+    "From": "苏州园区站",
+    "To": "上海站",
+    "BeginTime": "11:39",
+    "EndTime": "12:05",
+    "Duration": 0.43,
+    "Cost": 41.0
+  },
+  {
+    "TrainID": "G237",
+    "TrainType": "高铁",
+    "From": "苏州太仓南站",
+    "To": "上海虹桥站",
+    "BeginTime": "11:42",
+    "EndTime": "12:09",
+    "Duration": 0.45,
+    "Cost": 17.0
+  },
+  {
+    "TrainID": "G7221",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "11:42",
+    "EndTime": "12:15",
+    "Duration": 0.55,
+    "Cost": 42.0
+  },
+  {
+    "TrainID": "G237",
+    "TrainType": "高铁",
+    "From": "苏州太仓南站",
+    "To": "上海松江站",
+    "BeginTime": "11:42",
+    "EndTime": "12:28",
+    "Duration": 0.77,
+    "Cost": 32.0
+  },
+  {
+    "TrainID": "G101",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海虹桥站",
+    "BeginTime": "11:45",
+    "EndTime": "12:09",
+    "Duration": 0.4,
+    "Cost": 34.0
+  },
+  {
+    "TrainID": "Z303",
+    "TrainType": "直达",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "11:48",
+    "EndTime": "12:54",
+    "Duration": 1.1,
+    "Cost": 14.5
+  },
+  {
+    "TrainID": "G8363",
+    "TrainType": "高铁",
+    "From": "苏州张家港站",
+    "To": "上海虹桥站",
+    "BeginTime": "11:50",
+    "EndTime": "12:57",
+    "Duration": 1.12,
+    "Cost": 48.0
+  },
+  {
+    "TrainID": "G8363",
+    "TrainType": "高铁",
+    "From": "苏州张家港站",
+    "To": "上海松江站",
+    "BeginTime": "11:50",
+    "EndTime": "13:18",
+    "Duration": 1.47,
+    "Cost": 63.0
+  },
+  {
+    "TrainID": "G7299",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海站",
+    "BeginTime": "11:52",
+    "EndTime": "12:21",
+    "Duration": 0.48,
+    "Cost": 45.0
+  },
+  {
+    "TrainID": "G7111",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海虹桥站",
+    "BeginTime": "11:52",
+    "EndTime": "12:24",
+    "Duration": 0.53,
+    "Cost": 38.0
+  },
+  {
+    "TrainID": "G7306",
+    "TrainType": "高铁",
+    "From": "苏州盛泽站",
+    "To": "上海虹桥站",
+    "BeginTime": "11:53",
+    "EndTime": "12:29",
+    "Duration": 0.6,
+    "Cost": 51.0
+  },
+  {
+    "TrainID": "G8353",
+    "TrainType": "高铁",
+    "From": "苏州太仓站",
+    "To": "上海虹桥站",
+    "BeginTime": "11:54",
+    "EndTime": "12:28",
+    "Duration": 0.57,
+    "Cost": 25.0
+  },
+  {
+    "TrainID": "G8353",
+    "TrainType": "高铁",
+    "From": "苏州太仓站",
+    "To": "上海松江站",
+    "BeginTime": "11:54",
+    "EndTime": "12:47",
+    "Duration": 0.88,
+    "Cost": 40.0
+  },
+  {
+    "TrainID": "C3855",
+    "TrainType": "城际",
+    "From": "苏州张家港站",
+    "To": "上海站",
+    "BeginTime": "11:56",
+    "EndTime": "13:08",
+    "Duration": 1.2,
+    "Cost": 52.0
+  },
+  {
+    "TrainID": "G7375",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海虹桥站",
+    "BeginTime": "11:57",
+    "EndTime": "12:20",
+    "Duration": 0.38,
+    "Cost": 41.0
+  },
+  {
+    "TrainID": "G7375",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海松江站",
+    "BeginTime": "11:57",
+    "EndTime": "12:45",
+    "Duration": 0.8,
+    "Cost": 57.0
+  },
+  {
+    "TrainID": "C3897",
+    "TrainType": "城际",
+    "From": "苏州太仓站",
+    "To": "上海站",
+    "BeginTime": "11:59",
+    "EndTime": "12:36",
+    "Duration": 0.62,
+    "Cost": 23.0
+  },
+  {
+    "TrainID": "G7111",
+    "TrainType": "高铁",
+    "From": "苏州园区站",
+    "To": "上海虹桥站",
+    "BeginTime": "12:01",
+    "EndTime": "12:24",
+    "Duration": 0.38,
+    "Cost": 34.0
+  },
+  {
+    "TrainID": "G7071",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "12:01",
+    "EndTime": "12:28",
+    "Duration": 0.45,
+    "Cost": 42.0
+  },
+  {
+    "TrainID": "K463",
+    "TrainType": "快速",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "12:02",
+    "EndTime": "13:47",
+    "Duration": 1.75,
+    "Cost": 14.5
+  },
+  {
+    "TrainID": "D2131",
+    "TrainType": "动车",
+    "From": "苏州太仓站",
+    "To": "上海虹桥站",
+    "BeginTime": "12:04",
+    "EndTime": "12:40",
+    "Duration": 0.6,
+    "Cost": 23.0
+  },
+  {
+    "TrainID": "G7159",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海虹桥站",
+    "BeginTime": "12:07",
+    "EndTime": "12:45",
+    "Duration": 0.63,
+    "Cost": 38.0
+  },
+  {
+    "TrainID": "C3855",
+    "TrainType": "城际",
+    "From": "苏州常熟站",
+    "To": "上海站",
+    "BeginTime": "12:08",
+    "EndTime": "13:08",
+    "Duration": 1.0,
+    "Cost": 44.0
+  },
+  {
+    "TrainID": "G1628",
+    "TrainType": "高铁",
+    "From": "苏州南站",
+    "To": "上海南站",
+    "BeginTime": "12:10",
+    "EndTime": "12:35",
+    "Duration": 0.42,
+    "Cost": 35.0
+  },
+  {
+    "TrainID": "Z171",
+    "TrainType": "直达",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "12:11",
+    "EndTime": "13:14",
+    "Duration": 1.05,
+    "Cost": 14.5
+  },
+  {
+    "TrainID": "G7595",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海虹桥站",
+    "BeginTime": "12:12",
+    "EndTime": "12:35",
+    "Duration": 0.38,
+    "Cost": 41.0
+  },
+  {
+    "TrainID": "G7595",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海松江站",
+    "BeginTime": "12:12",
+    "EndTime": "13:04",
+    "Duration": 0.87,
+    "Cost": 58.0
+  },
+  {
+    "TrainID": "G7009",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "12:14",
+    "EndTime": "12:40",
+    "Duration": 0.43,
+    "Cost": 42.0
+  },
+  {
+    "TrainID": "G1420",
+    "TrainType": "高铁",
+    "From": "苏州南站",
+    "To": "上海松江站",
+    "BeginTime": "12:16",
+    "EndTime": "12:30",
+    "Duration": 0.23,
+    "Cost": 18.0
+  },
+  {
+    "TrainID": "G1420",
+    "TrainType": "高铁",
+    "From": "苏州南站",
+    "To": "上海虹桥站",
+    "BeginTime": "12:16",
+    "EndTime": "12:50",
+    "Duration": 0.57,
+    "Cost": 31.0
+  },
+  {
+    "TrainID": "G8363",
+    "TrainType": "高铁",
+    "From": "苏州太仓站",
+    "To": "上海虹桥站",
+    "BeginTime": "12:16",
+    "EndTime": "12:57",
+    "Duration": 0.68,
+    "Cost": 23.0
+  },
+  {
+    "TrainID": "G8363",
+    "TrainType": "高铁",
+    "From": "苏州太仓站",
+    "To": "上海松江站",
+    "BeginTime": "12:16",
+    "EndTime": "13:18",
+    "Duration": 1.03,
+    "Cost": 38.0
+  },
+  {
+    "TrainID": "G8275",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "12:19",
+    "EndTime": "12:51",
+    "Duration": 0.53,
+    "Cost": 42.0
+  },
+  {
+    "TrainID": "G1630",
+    "TrainType": "高铁",
+    "From": "苏州南站",
+    "To": "上海练塘站",
+    "BeginTime": "12:21",
+    "EndTime": "12:31",
+    "Duration": 0.17,
+    "Cost": 12.0
+  },
+  {
+    "TrainID": "G1630",
+    "TrainType": "高铁",
+    "From": "苏州南站",
+    "To": "上海虹桥站",
+    "BeginTime": "12:21",
+    "EndTime": "13:03",
+    "Duration": 0.7,
+    "Cost": 36.0
+  },
+  {
+    "TrainID": "Z515",
+    "TrainType": "直达",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "12:21",
+    "EndTime": "13:20",
+    "Duration": 0.98,
+    "Cost": 14.5
+  },
+  {
+    "TrainID": "G7181",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海虹桥站",
+    "BeginTime": "12:22",
+    "EndTime": "12:46",
+    "Duration": 0.4,
+    "Cost": 39.0
+  },
+  {
+    "TrainID": "D3025",
+    "TrainType": "动车",
+    "From": "苏州站",
+    "To": "上海虹桥站",
+    "BeginTime": "12:25",
+    "EndTime": "13:02",
+    "Duration": 0.62,
+    "Cost": 31.0
+  },
+  {
+    "TrainID": "G7539",
+    "TrainType": "高铁",
+    "From": "苏州张家港站",
+    "To": "上海虹桥站",
+    "BeginTime": "12:25",
+    "EndTime": "13:23",
+    "Duration": 0.97,
+    "Cost": 54.0
+  },
+  {
+    "TrainID": "G8352",
+    "TrainType": "高铁",
+    "From": "苏州盛泽站",
+    "To": "上海松江站",
+    "BeginTime": "12:29",
+    "EndTime": "12:57",
+    "Duration": 0.47,
+    "Cost": 31.0
+  },
+  {
+    "TrainID": "G8352",
+    "TrainType": "高铁",
+    "From": "苏州盛泽站",
+    "To": "上海虹桥站",
+    "BeginTime": "12:29",
+    "EndTime": "13:17",
+    "Duration": 0.8,
+    "Cost": 44.0
+  },
+  {
+    "TrainID": "C3020",
+    "TrainType": "城际",
+    "From": "苏州南站",
+    "To": "上海南站",
+    "BeginTime": "12:30",
+    "EndTime": "12:57",
+    "Duration": 0.45,
+    "Cost": 35.0
+  },
+  {
+    "TrainID": "G4211",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海虹桥站",
+    "BeginTime": "12:31",
+    "EndTime": "12:54",
+    "Duration": 0.38,
+    "Cost": 38.0
+  },
+  {
+    "TrainID": "G7075",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海西站",
+    "BeginTime": "12:31",
+    "EndTime": "13:05",
+    "Duration": 0.57,
+    "Cost": 40.0
+  },
+  {
+    "TrainID": "G7075",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "12:31",
+    "EndTime": "13:16",
+    "Duration": 0.75,
+    "Cost": 42.0
+  },
+  {
+    "TrainID": "T115",
+    "TrainType": "特快",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "12:31",
+    "EndTime": "13:26",
+    "Duration": 0.92,
+    "Cost": 14.5
+  },
+  {
+    "TrainID": "C3855",
+    "TrainType": "城际",
+    "From": "苏州太仓南站",
+    "To": "上海站",
+    "BeginTime": "12:34",
+    "EndTime": "13:08",
+    "Duration": 0.57,
+    "Cost": 16.0
+  },
+  {
+    "TrainID": "G1801",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海虹桥站",
+    "BeginTime": "12:35",
+    "EndTime": "12:59",
+    "Duration": 0.4,
+    "Cost": 38.0
+  },
+  {
+    "TrainID": "D3141",
+    "TrainType": "动车",
+    "From": "苏州站",
+    "To": "上海虹桥站",
+    "BeginTime": "12:37",
+    "EndTime": "13:11",
+    "Duration": 0.57,
+    "Cost": 31.0
+  },
+  {
+    "TrainID": "D3013",
+    "TrainType": "动车",
+    "From": "苏州站",
+    "To": "上海虹桥站",
+    "BeginTime": "12:42",
+    "EndTime": "13:16",
+    "Duration": 0.57,
+    "Cost": 31.0
+  },
+  {
+    "TrainID": "G8352",
+    "TrainType": "高铁",
+    "From": "苏州南站",
+    "To": "上海松江站",
+    "BeginTime": "12:43",
+    "EndTime": "12:57",
+    "Duration": 0.23,
+    "Cost": 18.0
+  },
+  {
+    "TrainID": "G3248",
+    "TrainType": "高铁",
+    "From": "苏州盛泽站",
+    "To": "上海松江站",
+    "BeginTime": "12:43",
+    "EndTime": "13:04",
+    "Duration": 0.35,
+    "Cost": 35.0
+  },
+  {
+    "TrainID": "G8352",
+    "TrainType": "高铁",
+    "From": "苏州南站",
+    "To": "上海虹桥站",
+    "BeginTime": "12:43",
+    "EndTime": "13:17",
+    "Duration": 0.57,
+    "Cost": 31.0
+  },
+  {
+    "TrainID": "G3248",
+    "TrainType": "高铁",
+    "From": "苏州盛泽站",
+    "To": "上海南站",
+    "BeginTime": "12:43",
+    "EndTime": "13:21",
+    "Duration": 0.63,
+    "Cost": 50.0
+  },
+  {
+    "TrainID": "G7771",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "12:47",
+    "EndTime": "13:21",
+    "Duration": 0.57,
+    "Cost": 38.0
+  },
+  {
+    "TrainID": "G1911",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海虹桥站",
+    "BeginTime": "12:52",
+    "EndTime": "13:23",
+    "Duration": 0.52,
+    "Cost": 38.0
+  },
+  {
+    "TrainID": "G7539",
+    "TrainType": "高铁",
+    "From": "苏州太仓站",
+    "To": "上海虹桥站",
+    "BeginTime": "12:52",
+    "EndTime": "13:23",
+    "Duration": 0.52,
+    "Cost": 25.0
+  },
+  {
+    "TrainID": "G1463",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海虹桥站",
+    "BeginTime": "12:52",
+    "EndTime": "13:34",
+    "Duration": 0.7,
+    "Cost": 38.0
+  },
+  {
+    "TrainID": "G7148",
+    "TrainType": "高铁",
+    "From": "苏州南站",
+    "To": "上海松江站",
+    "BeginTime": "12:55",
+    "EndTime": "13:09",
+    "Duration": 0.23,
+    "Cost": 21.0
+  },
+  {
+    "TrainID": "G7148",
+    "TrainType": "高铁",
+    "From": "苏州南站",
+    "To": "上海虹桥站",
+    "BeginTime": "12:55",
+    "EndTime": "13:29",
+    "Duration": 0.57,
+    "Cost": 36.0
+  },
+  {
+    "TrainID": "G8273",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "12:57",
+    "EndTime": "13:31",
+    "Duration": 0.57,
+    "Cost": 42.0
+  },
+  {
+    "TrainID": "D2913",
+    "TrainType": "动车",
+    "From": "苏州站",
+    "To": "上海虹桥站",
+    "BeginTime": "13:02",
+    "EndTime": "13:51",
+    "Duration": 0.82,
+    "Cost": 31.0
+  },
+  {
+    "TrainID": "K559",
+    "TrainType": "快速",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "13:03",
+    "EndTime": "14:12",
+    "Duration": 1.15,
+    "Cost": 14.5
+  },
+  {
+    "TrainID": "G1500",
+    "TrainType": "高铁",
+    "From": "苏州南站",
+    "To": "上海松江站",
+    "BeginTime": "13:05",
+    "EndTime": "13:19",
+    "Duration": 0.23,
+    "Cost": 24.0
+  },
+  {
+    "TrainID": "G1500",
+    "TrainType": "高铁",
+    "From": "苏州南站",
+    "To": "上海虹桥站",
+    "BeginTime": "13:05",
+    "EndTime": "13:42",
+    "Duration": 0.62,
+    "Cost": 41.0
+  },
+  {
+    "TrainID": "D2121",
+    "TrainType": "动车",
+    "From": "苏州张家港站",
+    "To": "上海虹桥站",
+    "BeginTime": "13:05",
+    "EndTime": "14:10",
+    "Duration": 1.08,
+    "Cost": 48.0
+  },
+  {
+    "TrainID": "G1715",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海虹桥站",
+    "BeginTime": "13:06",
+    "EndTime": "13:29",
+    "Duration": 0.38,
+    "Cost": 39.0
+  },
+  {
+    "TrainID": "G7559",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海虹桥站",
+    "BeginTime": "13:07",
+    "EndTime": "13:46",
+    "Duration": 0.65,
+    "Cost": 46.0
+  },
+  {
+    "TrainID": "G7559",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海松江站",
+    "BeginTime": "13:07",
+    "EndTime": "14:06",
+    "Duration": 0.98,
+    "Cost": 63.0
+  },
+  {
+    "TrainID": "G5",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海虹桥站",
+    "BeginTime": "13:12",
+    "EndTime": "13:37",
+    "Duration": 0.42,
+    "Cost": 45.0
+  },
+  {
+    "TrainID": "G7011",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "13:14",
+    "EndTime": "13:39",
+    "Duration": 0.42,
+    "Cost": 42.0
+  },
+  {
+    "TrainID": "G3296",
+    "TrainType": "高铁",
+    "From": "苏州南站",
+    "To": "上海练塘站",
+    "BeginTime": "13:15",
+    "EndTime": "13:25",
+    "Duration": 0.17,
+    "Cost": 12.0
+  },
+  {
+    "TrainID": "G3296",
+    "TrainType": "高铁",
+    "From": "苏州南站",
+    "To": "上海虹桥站",
+    "BeginTime": "13:15",
+    "EndTime": "13:49",
+    "Duration": 0.57,
+    "Cost": 36.0
+  },
+  {
+    "TrainID": "D2121",
+    "TrainType": "动车",
+    "From": "苏州常熟站",
+    "To": "上海虹桥站",
+    "BeginTime": "13:16",
+    "EndTime": "14:10",
+    "Duration": 0.9,
+    "Cost": 41.0
+  },
+  {
+    "TrainID": "G1438",
+    "TrainType": "高铁",
+    "From": "苏州盛泽站",
+    "To": "上海虹桥站",
+    "BeginTime": "13:17",
+    "EndTime": "13:59",
+    "Duration": 0.7,
+    "Cost": 51.0
+  },
+  {
+    "TrainID": "G109",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海虹桥站",
+    "BeginTime": "13:18",
+    "EndTime": "13:49",
+    "Duration": 0.52,
+    "Cost": 41.0
+  },
+  {
+    "TrainID": "G7559",
+    "TrainType": "高铁",
+    "From": "苏州园区站",
+    "To": "上海虹桥站",
+    "BeginTime": "13:20",
+    "EndTime": "13:46",
+    "Duration": 0.43,
+    "Cost": 41.0
+  },
+  {
+    "TrainID": "D3009",
+    "TrainType": "动车",
+    "From": "苏州站",
+    "To": "上海虹桥站",
+    "BeginTime": "13:20",
+    "EndTime": "13:55",
+    "Duration": 0.58,
+    "Cost": 31.0
+  },
+  {
+    "TrainID": "G7559",
+    "TrainType": "高铁",
+    "From": "苏州园区站",
+    "To": "上海松江站",
+    "BeginTime": "13:20",
+    "EndTime": "14:06",
+    "Duration": 0.77,
+    "Cost": 58.0
+  },
+  {
+    "TrainID": "G8359",
+    "TrainType": "高铁",
+    "From": "苏州张家港站",
+    "To": "上海虹桥站",
+    "BeginTime": "13:23",
+    "EndTime": "14:29",
+    "Duration": 1.1,
+    "Cost": 48.0
+  },
+  {
+    "TrainID": "G8359",
+    "TrainType": "高铁",
+    "From": "苏州张家港站",
+    "To": "上海练塘站",
+    "BeginTime": "13:23",
+    "EndTime": "14:54",
+    "Duration": 1.52,
+    "Cost": 73.0
+  },
+  {
+    "TrainID": "G7315",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海虹桥站",
+    "BeginTime": "13:25",
+    "EndTime": "14:00",
+    "Duration": 0.58,
+    "Cost": 46.0
+  },
+  {
+    "TrainID": "G1809",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海虹桥站",
+    "BeginTime": "13:27",
+    "EndTime": "13:53",
+    "Duration": 0.43,
+    "Cost": 38.0
+  },
+  {
+    "TrainID": "D3104",
+    "TrainType": "动车",
+    "From": "苏州盛泽站",
+    "To": "上海松江站",
+    "BeginTime": "13:28",
+    "EndTime": "13:56",
+    "Duration": 0.47,
+    "Cost": 33.0
+  },
+  {
+    "TrainID": "D3104",
+    "TrainType": "动车",
+    "From": "苏州盛泽站",
+    "To": "上海虹桥站",
+    "BeginTime": "13:28",
+    "EndTime": "14:16",
+    "Duration": 0.8,
+    "Cost": 47.0
+  },
+  {
+    "TrainID": "G8981",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "13:30",
+    "EndTime": "14:10",
+    "Duration": 0.67,
+    "Cost": 42.0
+  },
+  {
+    "TrainID": "G1438",
+    "TrainType": "高铁",
+    "From": "苏州南站",
+    "To": "上海虹桥站",
+    "BeginTime": "13:32",
+    "EndTime": "13:59",
+    "Duration": 0.45,
+    "Cost": 36.0
+  },
+  {
+    "TrainID": "G8359",
+    "TrainType": "高铁",
+    "From": "苏州常熟站",
+    "To": "上海虹桥站",
+    "BeginTime": "13:34",
+    "EndTime": "14:29",
+    "Duration": 0.92,
+    "Cost": 41.0
+  },
+  {
+    "TrainID": "G8359",
+    "TrainType": "高铁",
+    "From": "苏州常熟站",
+    "To": "上海练塘站",
+    "BeginTime": "13:34",
+    "EndTime": "14:54",
+    "Duration": 1.33,
+    "Cost": 66.0
+  },
+  {
+    "TrainID": "G7285",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "13:35",
+    "EndTime": "14:19",
+    "Duration": 0.73,
+    "Cost": 42.0
+  },
+  {
+    "TrainID": "D2121",
+    "TrainType": "动车",
+    "From": "苏州太仓站",
+    "To": "上海虹桥站",
+    "BeginTime": "13:37",
+    "EndTime": "14:10",
+    "Duration": 0.55,
+    "Cost": 23.0
+  },
+  {
+    "TrainID": "K1155",
+    "TrainType": "快速",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "13:38",
+    "EndTime": "14:37",
+    "Duration": 0.98,
+    "Cost": 14.5
+  },
+  {
+    "TrainID": "G7575",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海虹桥站",
+    "BeginTime": "13:40",
+    "EndTime": "14:15",
+    "Duration": 0.58,
+    "Cost": 46.0
+  },
+  {
+    "TrainID": "D3104",
+    "TrainType": "动车",
+    "From": "苏州南站",
+    "To": "上海松江站",
+    "BeginTime": "13:41",
+    "EndTime": "13:56",
+    "Duration": 0.25,
+    "Cost": 20.0
+  },
+  {
+    "TrainID": "D3104",
+    "TrainType": "动车",
+    "From": "苏州南站",
+    "To": "上海虹桥站",
+    "BeginTime": "13:41",
+    "EndTime": "14:16",
+    "Duration": 0.58,
+    "Cost": 33.0
+  },
+  {
+    "TrainID": "C3721",
+    "TrainType": "城际",
+    "From": "苏州张家港站",
+    "To": "上海虹桥站",
+    "BeginTime": "13:41",
+    "EndTime": "14:48",
+    "Duration": 1.12,
+    "Cost": 48.0
+  },
+  {
+    "TrainID": "G1775",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海虹桥站",
+    "BeginTime": "13:43",
+    "EndTime": "14:06",
+    "Duration": 0.38,
+    "Cost": 39.0
+  },
+  {
+    "TrainID": "G1642",
+    "TrainType": "高铁",
+    "From": "苏州盛泽站",
+    "To": "上海松江站",
+    "BeginTime": "13:44",
+    "EndTime": "14:07",
+    "Duration": 0.38,
+    "Cost": 35.0
+  },
+  {
+    "TrainID": "G1642",
+    "TrainType": "高铁",
+    "From": "苏州盛泽站",
+    "To": "上海南站",
+    "BeginTime": "13:44",
+    "EndTime": "14:26",
+    "Duration": 0.7,
+    "Cost": 50.0
+  },
+  {
+    "TrainID": "K371",
+    "TrainType": "快速",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "13:44",
+    "EndTime": "14:46",
+    "Duration": 1.03,
+    "Cost": 14.5
+  },
+  {
+    "TrainID": "D2921",
+    "TrainType": "动车",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "13:45",
+    "EndTime": "14:27",
+    "Duration": 0.7,
+    "Cost": 31.0
+  },
+  {
+    "TrainID": "G3756",
+    "TrainType": "高铁",
+    "From": "苏州南站",
+    "To": "上海松江站",
+    "BeginTime": "13:46",
+    "EndTime": "14:02",
+    "Duration": 0.27,
+    "Cost": 24.0
+  },
+  {
+    "TrainID": "G3756",
+    "TrainType": "高铁",
+    "From": "苏州南站",
+    "To": "上海南站",
+    "BeginTime": "13:46",
+    "EndTime": "14:19",
+    "Duration": 0.55,
+    "Cost": 39.0
+  },
+  {
+    "TrainID": "G2817",
+    "TrainType": "高铁",
+    "From": "苏州太仓站",
+    "To": "上海虹桥站",
+    "BeginTime": "13:46",
+    "EndTime": "14:22",
+    "Duration": 0.6,
+    "Cost": 32.0
+  },
+  {
+    "TrainID": "G111",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海虹桥站",
+    "BeginTime": "13:48",
+    "EndTime": "14:11",
+    "Duration": 0.38,
+    "Cost": 39.0
+  },
+  {
+    "TrainID": "D2921",
+    "TrainType": "动车",
+    "From": "苏州园区站",
+    "To": "上海站",
+    "BeginTime": "13:53",
+    "EndTime": "14:27",
+    "Duration": 0.57,
+    "Cost": 27.0
+  },
+  {
+    "TrainID": "C3721",
+    "TrainType": "城际",
+    "From": "苏州常熟站",
+    "To": "上海虹桥站",
+    "BeginTime": "13:53",
+    "EndTime": "14:48",
+    "Duration": 0.92,
+    "Cost": 41.0
+  },
+  {
+    "TrainID": "G8359",
+    "TrainType": "高铁",
+    "From": "苏州太仓站",
+    "To": "上海虹桥站",
+    "BeginTime": "13:55",
+    "EndTime": "14:29",
+    "Duration": 0.57,
+    "Cost": 23.0
+  },
+  {
+    "TrainID": "G7583",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海虹桥站",
+    "BeginTime": "13:55",
+    "EndTime": "14:36",
+    "Duration": 0.68,
+    "Cost": 46.0
+  },
+  {
+    "TrainID": "G8359",
+    "TrainType": "高铁",
+    "From": "苏州太仓站",
+    "To": "上海练塘站",
+    "BeginTime": "13:55",
+    "EndTime": "14:54",
+    "Duration": 0.98,
+    "Cost": 48.0
+  },
+  {
+    "TrainID": "G261",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海虹桥站",
+    "BeginTime": "13:58",
+    "EndTime": "14:22",
+    "Duration": 0.4,
+    "Cost": 38.0
+  },
+  {
+    "TrainID": "G8354",
+    "TrainType": "高铁",
+    "From": "苏州南站",
+    "To": "上海松江站",
+    "BeginTime": "14:01",
+    "EndTime": "14:15",
+    "Duration": 0.23,
+    "Cost": 21.0
+  },
+  {
+    "TrainID": "G8354",
+    "TrainType": "高铁",
+    "From": "苏州南站",
+    "To": "上海虹桥站",
+    "BeginTime": "14:01",
+    "EndTime": "14:42",
+    "Duration": 0.68,
+    "Cost": 36.0
+  },
+  {
+    "TrainID": "G8299",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海西站",
+    "BeginTime": "14:02",
+    "EndTime": "14:26",
+    "Duration": 0.4,
+    "Cost": 40.0
+  },
+  {
+    "TrainID": "G8299",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "14:02",
+    "EndTime": "14:35",
+    "Duration": 0.55,
+    "Cost": 42.0
+  },
+  {
+    "TrainID": "D2923",
+    "TrainType": "动车",
+    "From": "苏州站",
+    "To": "上海虹桥站",
+    "BeginTime": "14:10",
+    "EndTime": "14:41",
+    "Duration": 0.52,
+    "Cost": 31.0
+  },
+  {
+    "TrainID": "D3031",
+    "TrainType": "动车",
+    "From": "苏州新区站",
+    "To": "上海虹桥站",
+    "BeginTime": "14:10",
+    "EndTime": "14:56",
+    "Duration": 0.77,
+    "Cost": 35.0
+  },
+  {
+    "TrainID": "C3016",
+    "TrainType": "城际",
+    "From": "苏州南站",
+    "To": "上海练塘站",
+    "BeginTime": "14:12",
+    "EndTime": "14:22",
+    "Duration": 0.17,
+    "Cost": 10.0
+  },
+  {
+    "TrainID": "G7744",
+    "TrainType": "高铁",
+    "From": "苏州盛泽站",
+    "To": "上海松江站",
+    "BeginTime": "14:12",
+    "EndTime": "14:33",
+    "Duration": 0.35,
+    "Cost": 31.0
+  },
+  {
+    "TrainID": "C3016",
+    "TrainType": "城际",
+    "From": "苏州南站",
+    "To": "上海松江站",
+    "BeginTime": "14:12",
+    "EndTime": "14:38",
+    "Duration": 0.43,
+    "Cost": 18.0
+  },
+  {
+    "TrainID": "G7744",
+    "TrainType": "高铁",
+    "From": "苏州盛泽站",
+    "To": "上海虹桥站",
+    "BeginTime": "14:12",
+    "EndTime": "14:53",
+    "Duration": 0.68,
+    "Cost": 44.0
+  },
+  {
+    "TrainID": "C3016",
+    "TrainType": "城际",
+    "From": "苏州南站",
+    "To": "上海南站",
+    "BeginTime": "14:12",
+    "EndTime": "15:00",
+    "Duration": 0.8,
+    "Cost": 30.0
+  },
+  {
+    "TrainID": "G7013",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "14:15",
+    "EndTime": "14:43",
+    "Duration": 0.47,
+    "Cost": 46.0
+  },
+  {
+    "TrainID": "G113",
+    "TrainType": "高铁",
+    "From": "苏州常熟站",
+    "To": "上海虹桥站",
+    "BeginTime": "14:15",
+    "EndTime": "15:01",
+    "Duration": 0.77,
+    "Cost": 45.0
+  },
+  {
+    "TrainID": "G7155",
+    "TrainType": "高铁",
+    "From": "苏州张家港站",
+    "To": "上海虹桥站",
+    "BeginTime": "14:17",
+    "EndTime": "15:05",
+    "Duration": 0.8,
+    "Cost": 52.0
+  },
+  {
+    "TrainID": "G7155",
+    "TrainType": "高铁",
+    "From": "苏州张家港站",
+    "To": "上海松江站",
+    "BeginTime": "14:17",
+    "EndTime": "15:30",
+    "Duration": 1.22,
+    "Cost": 67.0
+  },
+  {
+    "TrainID": "D2135",
+    "TrainType": "动车",
+    "From": "苏州常熟站",
+    "To": "上海虹桥站",
+    "BeginTime": "14:18",
+    "EndTime": "15:10",
+    "Duration": 0.87,
+    "Cost": 41.0
+  },
+  {
+    "TrainID": "D5591",
+    "TrainType": "动车",
+    "From": "苏州张家港站",
+    "To": "上海站",
+    "BeginTime": "14:18",
+    "EndTime": "15:27",
+    "Duration": 1.15,
+    "Cost": 52.0
+  },
+  {
+    "TrainID": "C3721",
+    "TrainType": "城际",
+    "From": "苏州太仓南站",
+    "To": "上海虹桥站",
+    "BeginTime": "14:20",
+    "EndTime": "14:48",
+    "Duration": 0.47,
+    "Cost": 17.0
+  },
+  {
+    "TrainID": "G2394",
+    "TrainType": "高铁",
+    "From": "苏州盛泽站",
+    "To": "上海松江站",
+    "BeginTime": "14:20",
+    "EndTime": "14:48",
+    "Duration": 0.47,
+    "Cost": 31.0
+  },
+  {
+    "TrainID": "D3031",
+    "TrainType": "动车",
+    "From": "苏州站",
+    "To": "上海虹桥站",
+    "BeginTime": "14:20",
+    "EndTime": "14:56",
+    "Duration": 0.6,
+    "Cost": 31.0
+  },
+  {
+    "TrainID": "G2394",
+    "TrainType": "高铁",
+    "From": "苏州盛泽站",
+    "To": "上海虹桥站",
+    "BeginTime": "14:20",
+    "EndTime": "15:08",
+    "Duration": 0.8,
+    "Cost": 44.0
+  },
+  {
+    "TrainID": "G7229",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "14:26",
+    "EndTime": "15:02",
+    "Duration": 0.6,
+    "Cost": 42.0
+  },
+  {
+    "TrainID": "G263",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海站",
+    "BeginTime": "14:29",
+    "EndTime": "14:56",
+    "Duration": 0.45,
+    "Cost": 44.0
+  },
+  {
+    "TrainID": "D5591",
+    "TrainType": "动车",
+    "From": "苏州常熟站",
+    "To": "上海站",
+    "BeginTime": "14:29",
+    "EndTime": "15:27",
+    "Duration": 0.97,
+    "Cost": 44.0
+  },
+  {
+    "TrainID": "C3072",
+    "TrainType": "城际",
+    "From": "苏州盛泽站",
+    "To": "上海南站",
+    "BeginTime": "14:30",
+    "EndTime": "15:11",
+    "Duration": 0.68,
+    "Cost": 50.0
+  },
+  {
+    "TrainID": "G8265",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "14:31",
+    "EndTime": "15:07",
+    "Duration": 0.6,
+    "Cost": 46.0
+  },
+  {
+    "TrainID": "G2394",
+    "TrainType": "高铁",
+    "From": "苏州南站",
+    "To": "上海松江站",
+    "BeginTime": "14:34",
+    "EndTime": "14:48",
+    "Duration": 0.23,
+    "Cost": 18.0
+  },
+  {
+    "TrainID": "G2394",
+    "TrainType": "高铁",
+    "From": "苏州南站",
+    "To": "上海虹桥站",
+    "BeginTime": "14:34",
+    "EndTime": "15:08",
+    "Duration": 0.57,
+    "Cost": 31.0
+  },
+  {
+    "TrainID": "D3045",
+    "TrainType": "动车",
+    "From": "苏州站",
+    "To": "上海虹桥站",
+    "BeginTime": "14:36",
+    "EndTime": "15:15",
+    "Duration": 0.65,
+    "Cost": 31.0
+  },
+  {
+    "TrainID": "D2135",
+    "TrainType": "动车",
+    "From": "苏州太仓站",
+    "To": "上海虹桥站",
+    "BeginTime": "14:39",
+    "EndTime": "15:10",
+    "Duration": 0.52,
+    "Cost": 23.0
+  },
+  {
+    "TrainID": "C3799",
+    "TrainType": "城际",
+    "From": "苏州张家港站",
+    "To": "上海虹桥站",
+    "BeginTime": "14:40",
+    "EndTime": "15:45",
+    "Duration": 1.08,
+    "Cost": 54.0
+  },
+  {
+    "TrainID": "G7053",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海西站",
+    "BeginTime": "14:42",
+    "EndTime": "15:07",
+    "Duration": 0.42,
+    "Cost": 40.0
+  },
+  {
+    "TrainID": "G7053",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "14:42",
+    "EndTime": "15:16",
+    "Duration": 0.57,
+    "Cost": 42.0
+  },
+  {
+    "TrainID": "C3072",
+    "TrainType": "城际",
+    "From": "苏州南站",
+    "To": "上海南站",
+    "BeginTime": "14:44",
+    "EndTime": "15:11",
+    "Duration": 0.45,
+    "Cost": 35.0
+  },
+  {
+    "TrainID": "K665",
+    "TrainType": "快速",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "14:46",
+    "EndTime": "15:59",
+    "Duration": 1.22,
+    "Cost": 14.5
+  },
+  {
+    "TrainID": "G7079",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "14:47",
+    "EndTime": "15:20",
+    "Duration": 0.55,
+    "Cost": 42.0
+  },
+  {
+    "TrainID": "G1767",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海虹桥站",
+    "BeginTime": "14:49",
+    "EndTime": "15:12",
+    "Duration": 0.38,
+    "Cost": 39.0
+  },
+  {
+    "TrainID": "G2382",
+    "TrainType": "高铁",
+    "From": "苏州南站",
+    "To": "上海虹桥站",
+    "BeginTime": "14:49",
+    "EndTime": "15:16",
+    "Duration": 0.45,
+    "Cost": 36.0
+  },
+  {
+    "TrainID": "G2383",
+    "TrainType": "高铁",
+    "From": "苏州常熟站",
+    "To": "上海站",
+    "BeginTime": "14:49",
+    "EndTime": "15:39",
+    "Duration": 0.83,
+    "Cost": 44.0
+  },
+  {
+    "TrainID": "D5591",
+    "TrainType": "动车",
+    "From": "苏州太仓站",
+    "To": "上海站",
+    "BeginTime": "14:51",
+    "EndTime": "15:27",
+    "Duration": 0.6,
+    "Cost": 23.0
+  },
+  {
+    "TrainID": "C3799",
+    "TrainType": "城际",
+    "From": "苏州常熟站",
+    "To": "上海虹桥站",
+    "BeginTime": "14:51",
+    "EndTime": "15:45",
+    "Duration": 0.9,
+    "Cost": 46.0
+  },
+  {
+    "TrainID": "D2123",
+    "TrainType": "动车",
+    "From": "苏州张家港站",
+    "To": "上海虹桥站",
+    "BeginTime": "14:54",
+    "EndTime": "15:51",
+    "Duration": 0.95,
+    "Cost": 54.0
+  },
+  {
+    "TrainID": "G1813",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海虹桥站",
+    "BeginTime": "14:55",
+    "EndTime": "15:20",
+    "Duration": 0.42,
+    "Cost": 39.0
+  },
+  {
+    "TrainID": "G7125",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海虹桥站",
+    "BeginTime": "14:57",
+    "EndTime": "15:24",
+    "Duration": 0.45,
+    "Cost": 46.0
+  },
+  {
+    "TrainID": "G238",
+    "TrainType": "高铁",
+    "From": "苏州南站",
+    "To": "上海虹桥站",
+    "BeginTime": "14:57",
+    "EndTime": "15:26",
+    "Duration": 0.48,
+    "Cost": 41.0
+  },
+  {
+    "TrainID": "D215",
+    "TrainType": "动车",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "14:57",
+    "EndTime": "15:50",
+    "Duration": 0.88,
+    "Cost": 20.0
+  },
+  {
+    "TrainID": "G8982",
+    "TrainType": "高铁",
+    "From": "苏州园区站",
+    "To": "上海练塘站",
+    "BeginTime": "14:59",
+    "EndTime": "18:55",
+    "Duration": 3.93,
+    "Cost": 319.0
+  },
+  {
+    "TrainID": "G8982",
+    "TrainType": "高铁",
+    "From": "苏州园区站",
+    "To": "上海南站",
+    "BeginTime": "14:59",
+    "EndTime": "19:18",
+    "Duration": 4.32,
+    "Cost": 342.0
+  },
+  {
+    "TrainID": "G119",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海虹桥站",
+    "BeginTime": "15:00",
+    "EndTime": "15:31",
+    "Duration": 0.52,
+    "Cost": 43.0
+  },
+  {
+    "TrainID": "G1524",
+    "TrainType": "高铁",
+    "From": "苏州南站",
+    "To": "上海南站",
+    "BeginTime": "15:02",
+    "EndTime": "15:27",
+    "Duration": 0.42,
+    "Cost": 35.0
+  },
+  {
+    "TrainID": "G2590",
+    "TrainType": "高铁",
+    "From": "苏州盛泽站",
+    "To": "上海虹桥站",
+    "BeginTime": "15:02",
+    "EndTime": "15:43",
+    "Duration": 0.68,
+    "Cost": 51.0
+  },
+  {
+    "TrainID": "G7631",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "15:02",
+    "EndTime": "15:45",
+    "Duration": 0.72,
+    "Cost": 46.0
+  },
+  {
+    "TrainID": "D2123",
+    "TrainType": "动车",
+    "From": "苏州常熟站",
+    "To": "上海虹桥站",
+    "BeginTime": "15:05",
+    "EndTime": "15:51",
+    "Duration": 0.77,
+    "Cost": 46.0
+  },
+  {
+    "TrainID": "G121",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海虹桥站",
+    "BeginTime": "15:07",
+    "EndTime": "15:41",
+    "Duration": 0.57,
+    "Cost": 43.0
+  },
+  {
+    "TrainID": "G8982",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海练塘站",
+    "BeginTime": "15:08",
+    "EndTime": "18:55",
+    "Duration": 3.78,
+    "Cost": 314.0
+  },
+  {
+    "TrainID": "G8982",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海南站",
+    "BeginTime": "15:08",
+    "EndTime": "19:18",
+    "Duration": 4.17,
+    "Cost": 337.0
+  },
+  {
+    "TrainID": "G2409",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海虹桥站",
+    "BeginTime": "15:09",
+    "EndTime": "15:36",
+    "Duration": 0.45,
+    "Cost": 46.0
+  },
+  {
+    "TrainID": "G2409",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海松江站",
+    "BeginTime": "15:09",
+    "EndTime": "15:56",
+    "Duration": 0.78,
+    "Cost": 61.0
+  },
+  {
+    "TrainID": "C3895",
+    "TrainType": "城际",
+    "From": "苏州张家港站",
+    "To": "上海西站",
+    "BeginTime": "15:10",
+    "EndTime": "15:58",
+    "Duration": 0.8,
+    "Cost": 51.5
+  },
+  {
+    "TrainID": "C3895",
+    "TrainType": "城际",
+    "From": "苏州张家港站",
+    "To": "上海站",
+    "BeginTime": "15:10",
+    "EndTime": "16:10",
+    "Duration": 1.0,
+    "Cost": 52.0
+  },
+  {
+    "TrainID": "C3799",
+    "TrainType": "城际",
+    "From": "苏州太仓站",
+    "To": "上海虹桥站",
+    "BeginTime": "15:12",
+    "EndTime": "15:45",
+    "Duration": 0.55,
+    "Cost": 25.0
+  },
+  {
+    "TrainID": "G7015",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "15:14",
+    "EndTime": "15:41",
+    "Duration": 0.45,
+    "Cost": 46.0
+  },
+  {
+    "TrainID": "G2590",
+    "TrainType": "高铁",
+    "From": "苏州南站",
+    "To": "上海虹桥站",
+    "BeginTime": "15:16",
+    "EndTime": "15:43",
+    "Duration": 0.45,
+    "Cost": 36.0
+  },
+  {
+    "TrainID": "G1727",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海虹桥站",
+    "BeginTime": "15:17",
+    "EndTime": "15:47",
+    "Duration": 0.5,
+    "Cost": 39.0
+  },
+  {
+    "TrainID": "G3279",
+    "TrainType": "高铁",
+    "From": "苏州张家港站",
+    "To": "上海虹桥站",
+    "BeginTime": "15:18",
+    "EndTime": "16:15",
+    "Duration": 0.95,
+    "Cost": 48.0
+  },
+  {
+    "TrainID": "G3279",
+    "TrainType": "高铁",
+    "From": "苏州张家港站",
+    "To": "上海松江站",
+    "BeginTime": "15:18",
+    "EndTime": "16:38",
+    "Duration": 1.33,
+    "Cost": 61.0
+  },
+  {
+    "TrainID": "G8987",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "15:19",
+    "EndTime": "15:51",
+    "Duration": 0.53,
+    "Cost": 42.0
+  },
+  {
+    "TrainID": "G3758",
+    "TrainType": "高铁",
+    "From": "苏州南站",
+    "To": "上海虹桥站",
+    "BeginTime": "15:21",
+    "EndTime": "15:48",
+    "Duration": 0.45,
+    "Cost": 41.0
+  },
+  {
+    "TrainID": "K469",
+    "TrainType": "快速",
+    "From": "苏州站",
+    "To": "上海松江站",
+    "BeginTime": "15:24",
+    "EndTime": "17:01",
+    "Duration": 1.62,
+    "Cost": 16.5
+  },
+  {
+    "TrainID": "C3883",
+    "TrainType": "城际",
+    "From": "苏州张家港站",
+    "To": "上海西站",
+    "BeginTime": "15:25",
+    "EndTime": "16:20",
+    "Duration": 0.92,
+    "Cost": 51.5
+  },
+  {
+    "TrainID": "C3883",
+    "TrainType": "城际",
+    "From": "苏州张家港站",
+    "To": "上海站",
+    "BeginTime": "15:25",
+    "EndTime": "16:33",
+    "Duration": 1.13,
+    "Cost": 52.0
+  },
+  {
+    "TrainID": "G2811",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海虹桥站",
+    "BeginTime": "15:27",
+    "EndTime": "15:51",
+    "Duration": 0.4,
+    "Cost": 45.0
+  },
+  {
+    "TrainID": "G7231",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "15:29",
+    "EndTime": "16:09",
+    "Duration": 0.67,
+    "Cost": 46.0
+  },
+  {
+    "TrainID": "C3630",
+    "TrainType": "城际",
+    "From": "苏州南站",
+    "To": "上海虹桥站",
+    "BeginTime": "15:30",
+    "EndTime": "15:57",
+    "Duration": 0.45,
+    "Cost": 36.0
+  },
+  {
+    "TrainID": "C9701",
+    "TrainType": "城际",
+    "From": "苏州张家港站",
+    "To": "上海虹桥站",
+    "BeginTime": "15:30",
+    "EndTime": "16:35",
+    "Duration": 1.08,
+    "Cost": 48.0
+  },
+  {
+    "TrainID": "G2421",
+    "TrainType": "高铁",
+    "From": "苏州张家港站",
+    "To": "上海虹桥站",
+    "BeginTime": "15:31",
+    "EndTime": "16:28",
+    "Duration": 0.95,
+    "Cost": 56.0
+  },
+  {
+    "TrainID": "G2421",
+    "TrainType": "高铁",
+    "From": "苏州张家港站",
+    "To": "上海松江站",
+    "BeginTime": "15:31",
+    "EndTime": "16:51",
+    "Duration": 1.33,
+    "Cost": 71.0
+  },
+  {
+    "TrainID": "G7571",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海虹桥站",
+    "BeginTime": "15:34",
+    "EndTime": "16:08",
+    "Duration": 0.57,
+    "Cost": 46.0
+  },
+  {
+    "TrainID": "G3119",
+    "TrainType": "高铁",
+    "From": "苏州新区站",
+    "To": "上海站",
+    "BeginTime": "15:34",
+    "EndTime": "16:16",
+    "Duration": 0.7,
+    "Cost": 52.0
+  },
+  {
+    "TrainID": "G7195",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海虹桥站",
+    "BeginTime": "15:36",
+    "EndTime": "15:59",
+    "Duration": 0.38,
+    "Cost": 45.0
+  },
+  {
+    "TrainID": "G1583",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海虹桥站",
+    "BeginTime": "15:40",
+    "EndTime": "16:21",
+    "Duration": 0.68,
+    "Cost": 37.5
+  },
+  {
+    "TrainID": "C3012",
+    "TrainType": "城际",
+    "From": "苏州南站",
+    "To": "上海南站",
+    "BeginTime": "15:42",
+    "EndTime": "16:07",
+    "Duration": 0.42,
+    "Cost": 35.0
+  },
+  {
+    "TrainID": "G7571",
+    "TrainType": "高铁",
+    "From": "苏州园区站",
+    "To": "上海虹桥站",
+    "BeginTime": "15:43",
+    "EndTime": "16:08",
+    "Duration": 0.42,
+    "Cost": 41.0
+  },
+  {
+    "TrainID": "G3119",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "15:43",
+    "EndTime": "16:16",
+    "Duration": 0.55,
+    "Cost": 46.0
+  },
+  {
+    "TrainID": "G3279",
+    "TrainType": "高铁",
+    "From": "苏州太仓站",
+    "To": "上海虹桥站",
+    "BeginTime": "15:44",
+    "EndTime": "16:15",
+    "Duration": 0.52,
+    "Cost": 23.0
+  },
+  {
+    "TrainID": "G3279",
+    "TrainType": "高铁",
+    "From": "苏州太仓站",
+    "To": "上海松江站",
+    "BeginTime": "15:44",
+    "EndTime": "16:38",
+    "Duration": 0.9,
+    "Cost": 36.0
+  },
+  {
+    "TrainID": "C3074",
+    "TrainType": "城际",
+    "From": "苏州南站",
+    "To": "上海松江站",
+    "BeginTime": "15:47",
+    "EndTime": "16:02",
+    "Duration": 0.25,
+    "Cost": 21.0
+  },
+  {
+    "TrainID": "C3074",
+    "TrainType": "城际",
+    "From": "苏州南站",
+    "To": "上海南站",
+    "BeginTime": "15:47",
+    "EndTime": "16:19",
+    "Duration": 0.53,
+    "Cost": 35.0
+  },
+  {
+    "TrainID": "G2787",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海虹桥站",
+    "BeginTime": "15:48",
+    "EndTime": "16:22",
+    "Duration": 0.57,
+    "Cost": 46.0
+  },
+  {
+    "TrainID": "G7579",
+    "TrainType": "高铁",
+    "From": "苏州张家港站",
+    "To": "上海虹桥站",
+    "BeginTime": "15:51",
+    "EndTime": "16:59",
+    "Duration": 1.13,
+    "Cost": 54.0
+  },
+  {
+    "TrainID": "G7579",
+    "TrainType": "高铁",
+    "From": "苏州张家港站",
+    "To": "上海松江站",
+    "BeginTime": "15:51",
+    "EndTime": "17:20",
+    "Duration": 1.48,
+    "Cost": 69.0
+  },
+  {
+    "TrainID": "C3883",
+    "TrainType": "城际",
+    "From": "苏州太仓站",
+    "To": "上海西站",
+    "BeginTime": "15:52",
+    "EndTime": "16:20",
+    "Duration": 0.47,
+    "Cost": 22.5
+  },
+  {
+    "TrainID": "C3883",
+    "TrainType": "城际",
+    "From": "苏州太仓站",
+    "To": "上海站",
+    "BeginTime": "15:52",
+    "EndTime": "16:33",
+    "Duration": 0.68,
+    "Cost": 23.0
+  },
+  {
+    "TrainID": "G8253",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "15:53",
+    "EndTime": "16:28",
+    "Duration": 0.58,
+    "Cost": 46.0
+  },
+  {
+    "TrainID": "G2421",
+    "TrainType": "高铁",
+    "From": "苏州太仓站",
+    "To": "上海虹桥站",
+    "BeginTime": "15:55",
+    "EndTime": "16:28",
+    "Duration": 0.55,
+    "Cost": 31.0
+  },
+  {
+    "TrainID": "G7127",
+    "TrainType": "高铁",
+    "From": "苏州常熟站",
+    "To": "上海虹桥站",
+    "BeginTime": "15:55",
+    "EndTime": "16:49",
+    "Duration": 0.9,
+    "Cost": 44.0
+  },
+  {
+    "TrainID": "G2421",
+    "TrainType": "高铁",
+    "From": "苏州太仓站",
+    "To": "上海松江站",
+    "BeginTime": "15:55",
+    "EndTime": "16:51",
+    "Duration": 0.93,
+    "Cost": 46.0
+  },
+  {
+    "TrainID": "G7127",
+    "TrainType": "高铁",
+    "From": "苏州常熟站",
+    "To": "上海松江站",
+    "BeginTime": "15:55",
+    "EndTime": "17:11",
+    "Duration": 1.27,
+    "Cost": 59.0
+  },
+  {
+    "TrainID": "C3104",
+    "TrainType": "城际",
+    "From": "苏州南站",
+    "To": "上海虹桥站",
+    "BeginTime": "15:57",
+    "EndTime": "16:25",
+    "Duration": 0.47,
+    "Cost": 36.0
+  },
+  {
+    "TrainID": "C9701",
+    "TrainType": "城际",
+    "From": "苏州太仓站",
+    "To": "上海虹桥站",
+    "BeginTime": "16:00",
+    "EndTime": "16:35",
+    "Duration": 0.58,
+    "Cost": 23.0
+  },
+  {
+    "TrainID": "G8253",
+    "TrainType": "高铁",
+    "From": "苏州园区站",
+    "To": "上海站",
+    "BeginTime": "16:03",
+    "EndTime": "16:28",
+    "Duration": 0.42,
+    "Cost": 41.0
+  },
+  {
+    "TrainID": "G7579",
+    "TrainType": "高铁",
+    "From": "苏州常熟站",
+    "To": "上海虹桥站",
+    "BeginTime": "16:03",
+    "EndTime": "16:59",
+    "Duration": 0.93,
+    "Cost": 46.0
+  },
+  {
+    "TrainID": "G7579",
+    "TrainType": "高铁",
+    "From": "苏州常熟站",
+    "To": "上海松江站",
+    "BeginTime": "16:03",
+    "EndTime": "17:20",
+    "Duration": 1.28,
+    "Cost": 61.0
+  },
+  {
+    "TrainID": "C9705",
+    "TrainType": "城际",
+    "From": "苏州张家港站",
+    "To": "上海站",
+    "BeginTime": "16:06",
+    "EndTime": "17:13",
+    "Duration": 1.12,
+    "Cost": 46.0
+  },
+  {
+    "TrainID": "G265",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海虹桥站",
+    "BeginTime": "16:07",
+    "EndTime": "16:30",
+    "Duration": 0.38,
+    "Cost": 41.0
+  },
+  {
+    "TrainID": "G7117",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海虹桥站",
+    "BeginTime": "16:08",
+    "EndTime": "16:44",
+    "Duration": 0.6,
+    "Cost": 42.0
+  },
+  {
+    "TrainID": "G7017",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "16:14",
+    "EndTime": "16:40",
+    "Duration": 0.43,
+    "Cost": 46.0
+  },
+  {
+    "TrainID": "C3634",
+    "TrainType": "城际",
+    "From": "苏州盛泽站",
+    "To": "上海松江站",
+    "BeginTime": "16:14",
+    "EndTime": "16:42",
+    "Duration": 0.47,
+    "Cost": 35.0
+  },
+  {
+    "TrainID": "C3634",
+    "TrainType": "城际",
+    "From": "苏州盛泽站",
+    "To": "上海南站",
+    "BeginTime": "16:14",
+    "EndTime": "17:00",
+    "Duration": 0.77,
+    "Cost": 50.0
+  },
+  {
+    "TrainID": "G7127",
+    "TrainType": "高铁",
+    "From": "苏州太仓站",
+    "To": "上海虹桥站",
+    "BeginTime": "16:16",
+    "EndTime": "16:49",
+    "Duration": 0.55,
+    "Cost": 30.0
+  },
+  {
+    "TrainID": "G7127",
+    "TrainType": "高铁",
+    "From": "苏州太仓站",
+    "To": "上海松江站",
+    "BeginTime": "16:16",
+    "EndTime": "17:11",
+    "Duration": 0.92,
+    "Cost": 45.0
+  },
+  {
+    "TrainID": "G7307",
+    "TrainType": "高铁",
+    "From": "苏州张家港站",
+    "To": "上海虹桥站",
+    "BeginTime": "16:16",
+    "EndTime": "17:23",
+    "Duration": 1.12,
+    "Cost": 54.0
+  },
+  {
+    "TrainID": "G1915",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海虹桥站",
+    "BeginTime": "16:18",
+    "EndTime": "16:43",
+    "Duration": 0.42,
+    "Cost": 41.0
+  },
+  {
+    "TrainID": "C9705",
+    "TrainType": "城际",
+    "From": "苏州常熟站",
+    "To": "上海站",
+    "BeginTime": "16:18",
+    "EndTime": "17:13",
+    "Duration": 0.92,
+    "Cost": 39.0
+  },
+  {
+    "TrainID": "G8277",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "16:19",
+    "EndTime": "17:12",
+    "Duration": 0.88,
+    "Cost": 46.0
+  },
+  {
+    "TrainID": "G8387",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海虹桥站",
+    "BeginTime": "16:24",
+    "EndTime": "17:07",
+    "Duration": 0.72,
+    "Cost": 46.0
+  },
+  {
+    "TrainID": "G7307",
+    "TrainType": "高铁",
+    "From": "苏州常熟站",
+    "To": "上海虹桥站",
+    "BeginTime": "16:27",
+    "EndTime": "17:23",
+    "Duration": 0.93,
+    "Cost": 46.0
+  },
+  {
+    "TrainID": "C3634",
+    "TrainType": "城际",
+    "From": "苏州南站",
+    "To": "上海松江站",
+    "BeginTime": "16:28",
+    "EndTime": "16:42",
+    "Duration": 0.23,
+    "Cost": 21.0
+  },
+  {
+    "TrainID": "G7579",
+    "TrainType": "高铁",
+    "From": "苏州太仓站",
+    "To": "上海虹桥站",
+    "BeginTime": "16:28",
+    "EndTime": "16:59",
+    "Duration": 0.52,
+    "Cost": 25.0
+  },
+  {
+    "TrainID": "C3634",
+    "TrainType": "城际",
+    "From": "苏州南站",
+    "To": "上海南站",
+    "BeginTime": "16:28",
+    "EndTime": "17:00",
+    "Duration": 0.53,
+    "Cost": 35.0
+  },
+  {
+    "TrainID": "G7579",
+    "TrainType": "高铁",
+    "From": "苏州太仓站",
+    "To": "上海松江站",
+    "BeginTime": "16:28",
+    "EndTime": "17:20",
+    "Duration": 0.87,
+    "Cost": 40.0
+  },
+  {
+    "TrainID": "G7585",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海虹桥站",
+    "BeginTime": "16:29",
+    "EndTime": "17:12",
+    "Duration": 0.72,
+    "Cost": 46.0
+  },
+  {
+    "TrainID": "C465",
+    "TrainType": "城际",
+    "From": "苏州张家港站",
+    "To": "上海站",
+    "BeginTime": "16:30",
+    "EndTime": "17:47",
+    "Duration": 1.28,
+    "Cost": 42.0
+  },
+  {
+    "TrainID": "G3151",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海虹桥站",
+    "BeginTime": "16:31",
+    "EndTime": "16:54",
+    "Duration": 0.38,
+    "Cost": 39.0
+  },
+  {
+    "TrainID": "G7279",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "16:34",
+    "EndTime": "17:04",
+    "Duration": 0.5,
+    "Cost": 46.0
+  },
+  {
+    "TrainID": "C2376",
+    "TrainType": "城际",
+    "From": "苏州盛泽站",
+    "To": "上海练塘站",
+    "BeginTime": "16:35",
+    "EndTime": "16:58",
+    "Duration": 0.38,
+    "Cost": 26.0
+  },
+  {
+    "TrainID": "C2376",
+    "TrainType": "城际",
+    "From": "苏州盛泽站",
+    "To": "上海南站",
+    "BeginTime": "16:35",
+    "EndTime": "17:27",
+    "Duration": 0.87,
+    "Cost": 50.0
+  },
+  {
+    "TrainID": "C9705",
+    "TrainType": "城际",
+    "From": "苏州太仓站",
+    "To": "上海站",
+    "BeginTime": "16:38",
+    "EndTime": "17:13",
+    "Duration": 0.58,
+    "Cost": 21.0
+  },
+  {
+    "TrainID": "G7585",
+    "TrainType": "高铁",
+    "From": "苏州园区站",
+    "To": "上海虹桥站",
+    "BeginTime": "16:41",
+    "EndTime": "17:12",
+    "Duration": 0.52,
+    "Cost": 41.0
+  },
+  {
+    "TrainID": "G3295",
+    "TrainType": "高铁",
+    "From": "苏州张家港站",
+    "To": "上海虹桥站",
+    "BeginTime": "16:41",
+    "EndTime": "17:38",
+    "Duration": 0.95,
+    "Cost": 48.0
+  },
+  {
+    "TrainID": "C465",
+    "TrainType": "城际",
+    "From": "苏州常熟站",
+    "To": "上海站",
+    "BeginTime": "16:42",
+    "EndTime": "17:47",
+    "Duration": 1.08,
+    "Cost": 35.0
+  },
+  {
+    "TrainID": "G2404",
+    "TrainType": "高铁",
+    "From": "苏州南站",
+    "To": "上海虹桥站",
+    "BeginTime": "16:43",
+    "EndTime": "17:10",
+    "Duration": 0.45,
+    "Cost": 41.0
+  },
+  {
+    "TrainID": "G7139",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海虹桥站",
+    "BeginTime": "16:44",
+    "EndTime": "17:18",
+    "Duration": 0.57,
+    "Cost": 46.0
+  },
+  {
+    "TrainID": "C2376",
+    "TrainType": "城际",
+    "From": "苏州南站",
+    "To": "上海练塘站",
+    "BeginTime": "16:48",
+    "EndTime": "16:58",
+    "Duration": 0.17,
+    "Cost": 12.0
+  },
+  {
+    "TrainID": "C2376",
+    "TrainType": "城际",
+    "From": "苏州南站",
+    "To": "上海南站",
+    "BeginTime": "16:48",
+    "EndTime": "17:27",
+    "Duration": 0.65,
+    "Cost": 35.0
+  },
+  {
+    "TrainID": "G1419",
+    "TrainType": "高铁",
+    "From": "苏州常熟站",
+    "To": "上海虹桥站",
+    "BeginTime": "16:49",
+    "EndTime": "17:33",
+    "Duration": 0.73,
+    "Cost": 49.0
+  },
+  {
+    "TrainID": "K187",
+    "TrainType": "快速",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "16:49",
+    "EndTime": "18:05",
+    "Duration": 1.27,
+    "Cost": 14.5
+  },
+  {
+    "TrainID": "G7263",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "16:50",
+    "EndTime": "17:23",
+    "Duration": 0.55,
+    "Cost": 46.0
+  },
+  {
+    "TrainID": "G7307",
+    "TrainType": "高铁",
+    "From": "苏州太仓站",
+    "To": "上海虹桥站",
+    "BeginTime": "16:50",
+    "EndTime": "17:23",
+    "Duration": 0.55,
+    "Cost": 25.0
+  },
+  {
+    "TrainID": "D3005",
+    "TrainType": "动车",
+    "From": "苏州新区站",
+    "To": "上海虹桥站",
+    "BeginTime": "16:51",
+    "EndTime": "17:28",
+    "Duration": 0.62,
+    "Cost": 35.0
+  },
+  {
+    "TrainID": "G3295",
+    "TrainType": "高铁",
+    "From": "苏州常熟站",
+    "To": "上海虹桥站",
+    "BeginTime": "16:52",
+    "EndTime": "17:38",
+    "Duration": 0.77,
+    "Cost": 41.0
+  },
+  {
+    "TrainID": "G7385",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海虹桥站",
+    "BeginTime": "16:55",
+    "EndTime": "17:18",
+    "Duration": 0.38,
+    "Cost": 45.0
+  },
+  {
+    "TrainID": "G3068",
+    "TrainType": "高铁",
+    "From": "苏州南站",
+    "To": "上海南站",
+    "BeginTime": "16:55",
+    "EndTime": "17:20",
+    "Duration": 0.42,
+    "Cost": 35.0
+  },
+  {
+    "TrainID": "G7523",
+    "TrainType": "高铁",
+    "From": "苏州张家港站",
+    "To": "上海虹桥站",
+    "BeginTime": "16:55",
+    "EndTime": "17:54",
+    "Duration": 0.98,
+    "Cost": 54.0
+  },
+  {
+    "TrainID": "K807",
+    "TrainType": "快速",
+    "From": "苏州站",
+    "To": "上海松江站",
+    "BeginTime": "16:58",
+    "EndTime": "18:31",
+    "Duration": 1.55,
+    "Cost": 16.5
+  },
+  {
+    "TrainID": "G131",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海虹桥站",
+    "BeginTime": "16:59",
+    "EndTime": "17:22",
+    "Duration": 0.38,
+    "Cost": 39.0
+  },
+  {
+    "TrainID": "D3005",
+    "TrainType": "动车",
+    "From": "苏州站",
+    "To": "上海虹桥站",
+    "BeginTime": "17:00",
+    "EndTime": "17:28",
+    "Duration": 0.47,
+    "Cost": 31.0
+  },
+  {
+    "TrainID": "G3251",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海虹桥站",
+    "BeginTime": "17:03",
+    "EndTime": "17:27",
+    "Duration": 0.4,
+    "Cost": 41.0
+  },
+  {
+    "TrainID": "G3244",
+    "TrainType": "高铁",
+    "From": "苏州南站",
+    "To": "上海松江站",
+    "BeginTime": "17:05",
+    "EndTime": "17:20",
+    "Duration": 0.25,
+    "Cost": 21.0
+  },
+  {
+    "TrainID": "G3244",
+    "TrainType": "高铁",
+    "From": "苏州南站",
+    "To": "上海南站",
+    "BeginTime": "17:05",
+    "EndTime": "17:42",
+    "Duration": 0.62,
+    "Cost": 35.0
+  },
+  {
+    "TrainID": "G7523",
+    "TrainType": "高铁",
+    "From": "苏州常熟站",
+    "To": "上海虹桥站",
+    "BeginTime": "17:06",
+    "EndTime": "17:54",
+    "Duration": 0.8,
+    "Cost": 46.0
+  },
+  {
+    "TrainID": "C3775",
+    "TrainType": "城际",
+    "From": "苏州张家港站",
+    "To": "上海虹桥站",
+    "BeginTime": "17:07",
+    "EndTime": "18:11",
+    "Duration": 1.07,
+    "Cost": 54.0
+  },
+  {
+    "TrainID": "G7767",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "17:08",
+    "EndTime": "17:50",
+    "Duration": 0.7,
+    "Cost": 46.0
+  },
+  {
+    "TrainID": "C465",
+    "TrainType": "城际",
+    "From": "苏州太仓站",
+    "To": "上海站",
+    "BeginTime": "17:12",
+    "EndTime": "17:47",
+    "Duration": 0.58,
+    "Cost": 19.0
+  },
+  {
+    "TrainID": "G7019",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "17:14",
+    "EndTime": "17:40",
+    "Duration": 0.43,
+    "Cost": 46.0
+  },
+  {
+    "TrainID": "G129",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海虹桥站",
+    "BeginTime": "17:15",
+    "EndTime": "17:38",
+    "Duration": 0.38,
+    "Cost": 41.0
+  },
+  {
+    "TrainID": "G8291",
+    "TrainType": "高铁",
+    "From": "苏州张家港站",
+    "To": "上海站",
+    "BeginTime": "17:17",
+    "EndTime": "18:25",
+    "Duration": 1.13,
+    "Cost": 52.0
+  },
+  {
+    "TrainID": "K527",
+    "TrainType": "快速",
+    "From": "苏州站",
+    "To": "上海松江站",
+    "BeginTime": "17:17",
+    "EndTime": "18:52",
+    "Duration": 1.58,
+    "Cost": 16.5
+  },
+  {
+    "TrainID": "C3775",
+    "TrainType": "城际",
+    "From": "苏州常熟站",
+    "To": "上海虹桥站",
+    "BeginTime": "17:18",
+    "EndTime": "18:11",
+    "Duration": 0.88,
+    "Cost": 46.0
+  },
+  {
+    "TrainID": "G8362",
+    "TrainType": "高铁",
+    "From": "苏州盛泽站",
+    "To": "上海练塘站",
+    "BeginTime": "17:19",
+    "EndTime": "17:43",
+    "Duration": 0.4,
+    "Cost": 26.0
+  },
+  {
+    "TrainID": "G7143",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海虹桥站",
+    "BeginTime": "17:19",
+    "EndTime": "17:44",
+    "Duration": 0.42,
+    "Cost": 46.0
+  },
+  {
+    "TrainID": "G8362",
+    "TrainType": "高铁",
+    "From": "苏州盛泽站",
+    "To": "上海虹桥站",
+    "BeginTime": "17:19",
+    "EndTime": "18:07",
+    "Duration": 0.8,
+    "Cost": 51.0
+  },
+  {
+    "TrainID": "G1520",
+    "TrainType": "高铁",
+    "From": "苏州南站",
+    "To": "上海松江站",
+    "BeginTime": "17:22",
+    "EndTime": "17:37",
+    "Duration": 0.25,
+    "Cost": 24.0
+  },
+  {
+    "TrainID": "G1705",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海虹桥站",
+    "BeginTime": "17:22",
+    "EndTime": "17:47",
+    "Duration": 0.42,
+    "Cost": 45.0
+  },
+  {
+    "TrainID": "G1520",
+    "TrainType": "高铁",
+    "From": "苏州南站",
+    "To": "上海南站",
+    "BeginTime": "17:22",
+    "EndTime": "17:56",
+    "Duration": 0.57,
+    "Cost": 39.0
+  },
+  {
+    "TrainID": "G7371",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海虹桥站",
+    "BeginTime": "17:24",
+    "EndTime": "18:06",
+    "Duration": 0.7,
+    "Cost": 46.0
+  },
+  {
+    "TrainID": "C3863",
+    "TrainType": "城际",
+    "From": "苏州张家港站",
+    "To": "上海站",
+    "BeginTime": "17:27",
+    "EndTime": "18:49",
+    "Duration": 1.37,
+    "Cost": 52.0
+  },
+  {
+    "TrainID": "G8291",
+    "TrainType": "高铁",
+    "From": "苏州常熟站",
+    "To": "上海站",
+    "BeginTime": "17:28",
+    "EndTime": "18:25",
+    "Duration": 0.95,
+    "Cost": 44.0
+  },
+  {
+    "TrainID": "G7281",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海西站",
+    "BeginTime": "17:29",
+    "EndTime": "17:52",
+    "Duration": 0.38,
+    "Cost": 43.0
+  },
+  {
+    "TrainID": "G7281",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "17:29",
+    "EndTime": "18:07",
+    "Duration": 0.63,
+    "Cost": 46.0
+  },
+  {
+    "TrainID": "G1955",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海虹桥站",
+    "BeginTime": "17:31",
+    "EndTime": "17:54",
+    "Duration": 0.38,
+    "Cost": 41.0
+  },
+  {
+    "TrainID": "G8380",
+    "TrainType": "高铁",
+    "From": "苏州盛泽站",
+    "To": "上海虹桥站",
+    "BeginTime": "17:31",
+    "EndTime": "18:12",
+    "Duration": 0.68,
+    "Cost": 51.0
+  },
+  {
+    "TrainID": "G8362",
+    "TrainType": "高铁",
+    "From": "苏州南站",
+    "To": "上海练塘站",
+    "BeginTime": "17:33",
+    "EndTime": "17:43",
+    "Duration": 0.17,
+    "Cost": 12.0
+  },
+  {
+    "TrainID": "G8362",
+    "TrainType": "高铁",
+    "From": "苏州南站",
+    "To": "上海虹桥站",
+    "BeginTime": "17:33",
+    "EndTime": "18:07",
+    "Duration": 0.57,
+    "Cost": 36.0
+  },
+  {
+    "TrainID": "G133",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海站",
+    "BeginTime": "17:35",
+    "EndTime": "18:02",
+    "Duration": 0.45,
+    "Cost": 48.0
+  },
+  {
+    "TrainID": "G3131",
+    "TrainType": "高铁",
+    "From": "苏州张家港站",
+    "To": "上海虹桥站",
+    "BeginTime": "17:35",
+    "EndTime": "18:33",
+    "Duration": 0.97,
+    "Cost": 48.0
+  },
+  {
+    "TrainID": "G675",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海虹桥站",
+    "BeginTime": "17:39",
+    "EndTime": "18:02",
+    "Duration": 0.38,
+    "Cost": 43.0
+  },
+  {
+    "TrainID": "C3863",
+    "TrainType": "城际",
+    "From": "苏州常熟站",
+    "To": "上海站",
+    "BeginTime": "17:39",
+    "EndTime": "18:49",
+    "Duration": 1.17,
+    "Cost": 44.0
+  },
+  {
+    "TrainID": "G1919",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海虹桥站",
+    "BeginTime": "17:43",
+    "EndTime": "18:06",
+    "Duration": 0.38,
+    "Cost": 43.0
+  },
+  {
+    "TrainID": "C3036",
+    "TrainType": "城际",
+    "From": "苏州盛泽站",
+    "To": "上海南站",
+    "BeginTime": "17:43",
+    "EndTime": "18:17",
+    "Duration": 0.57,
+    "Cost": 43.0
+  },
+  {
+    "TrainID": "C3775",
+    "TrainType": "城际",
+    "From": "苏州太仓南站",
+    "To": "上海虹桥站",
+    "BeginTime": "17:44",
+    "EndTime": "18:11",
+    "Duration": 0.45,
+    "Cost": 18.0
+  },
+  {
+    "TrainID": "G7063",
+    "TrainType": "高铁",
+    "From": "苏州园区站",
+    "To": "上海站",
+    "BeginTime": "17:44",
+    "EndTime": "18:21",
+    "Duration": 0.62,
+    "Cost": 41.0
+  },
+  {
+    "TrainID": "G8380",
+    "TrainType": "高铁",
+    "From": "苏州南站",
+    "To": "上海虹桥站",
+    "BeginTime": "17:45",
+    "EndTime": "18:12",
+    "Duration": 0.45,
+    "Cost": 36.0
+  },
+  {
+    "TrainID": "D3071",
+    "TrainType": "动车",
+    "From": "苏州站",
+    "To": "上海虹桥站",
+    "BeginTime": "17:47",
+    "EndTime": "18:28",
+    "Duration": 0.68,
+    "Cost": 28.0
+  },
+  {
+    "TrainID": "G3131",
+    "TrainType": "高铁",
+    "From": "苏州常熟站",
+    "To": "上海虹桥站",
+    "BeginTime": "17:48",
+    "EndTime": "18:33",
+    "Duration": 0.75,
+    "Cost": 41.0
+  },
+  {
+    "TrainID": "G8291",
+    "TrainType": "高铁",
+    "From": "苏州太仓站",
+    "To": "上海站",
+    "BeginTime": "17:49",
+    "EndTime": "18:25",
+    "Duration": 0.6,
+    "Cost": 23.0
+  },
+  {
+    "TrainID": "D955",
+    "TrainType": "动车",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "17:52",
+    "EndTime": "18:25",
+    "Duration": 0.55,
+    "Cost": 31.0
+  },
+  {
+    "TrainID": "G1817",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海虹桥站",
+    "BeginTime": "17:54",
+    "EndTime": "18:17",
+    "Duration": 0.38,
+    "Cost": 43.0
+  },
+  {
+    "TrainID": "G7243",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "17:57",
+    "EndTime": "18:36",
+    "Duration": 0.65,
+    "Cost": 42.0
+  },
+  {
+    "TrainID": "G135",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海虹桥站",
+    "BeginTime": "17:58",
+    "EndTime": "18:21",
+    "Duration": 0.38,
+    "Cost": 41.0
+  },
+  {
+    "TrainID": "G8351",
+    "TrainType": "高铁",
+    "From": "苏州张家港站",
+    "To": "上海虹桥站",
+    "BeginTime": "17:59",
+    "EndTime": "19:02",
+    "Duration": 1.05,
+    "Cost": 54.0
+  },
+  {
+    "TrainID": "G1821",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海虹桥站",
+    "BeginTime": "18:02",
+    "EndTime": "18:26",
+    "Duration": 0.4,
+    "Cost": 43.0
+  },
+  {
+    "TrainID": "G7243",
+    "TrainType": "高铁",
+    "From": "苏州园区站",
+    "To": "上海站",
+    "BeginTime": "18:06",
+    "EndTime": "18:36",
+    "Duration": 0.5,
+    "Cost": 38.0
+  },
+  {
+    "TrainID": "G7535",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海虹桥站",
+    "BeginTime": "18:08",
+    "EndTime": "18:44",
+    "Duration": 0.6,
+    "Cost": 46.0
+  },
+  {
+    "TrainID": "C3008",
+    "TrainType": "城际",
+    "From": "苏州南站",
+    "To": "上海南站",
+    "BeginTime": "18:09",
+    "EndTime": "18:34",
+    "Duration": 0.42,
+    "Cost": 35.0
+  },
+  {
+    "TrainID": "G15",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海虹桥站",
+    "BeginTime": "18:10",
+    "EndTime": "18:32",
+    "Duration": 0.37,
+    "Cost": 45.0
+  },
+  {
+    "TrainID": "G8351",
+    "TrainType": "高铁",
+    "From": "苏州常熟站",
+    "To": "上海虹桥站",
+    "BeginTime": "18:10",
+    "EndTime": "19:02",
+    "Duration": 0.87,
+    "Cost": 46.0
+  },
+  {
+    "TrainID": "G3173",
+    "TrainType": "高铁",
+    "From": "苏州张家港站",
+    "To": "上海虹桥站",
+    "BeginTime": "18:10",
+    "EndTime": "19:14",
+    "Duration": 1.07,
+    "Cost": 48.0
+  },
+  {
+    "TrainID": "C3863",
+    "TrainType": "城际",
+    "From": "苏州太仓南站",
+    "To": "上海站",
+    "BeginTime": "18:12",
+    "EndTime": "18:49",
+    "Duration": 0.62,
+    "Cost": 16.0
+  },
+  {
+    "TrainID": "G7021",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "18:14",
+    "EndTime": "18:40",
+    "Duration": 0.43,
+    "Cost": 46.0
+  },
+  {
+    "TrainID": "C3796",
+    "TrainType": "城际",
+    "From": "苏州盛泽站",
+    "To": "上海松江站",
+    "BeginTime": "18:18",
+    "EndTime": "18:40",
+    "Duration": 0.37,
+    "Cost": 33.0
+  },
+  {
+    "TrainID": "G1825",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海虹桥站",
+    "BeginTime": "18:18",
+    "EndTime": "18:42",
+    "Duration": 0.4,
+    "Cost": 45.0
+  },
+  {
+    "TrainID": "C3796",
+    "TrainType": "城际",
+    "From": "苏州盛泽站",
+    "To": "上海虹桥站",
+    "BeginTime": "18:18",
+    "EndTime": "19:01",
+    "Duration": 0.72,
+    "Cost": 47.0
+  },
+  {
+    "TrainID": "G8364",
+    "TrainType": "高铁",
+    "From": "苏州南站",
+    "To": "上海松江站",
+    "BeginTime": "18:19",
+    "EndTime": "18:33",
+    "Duration": 0.23,
+    "Cost": 21.0
+  },
+  {
+    "TrainID": "G7239",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "18:19",
+    "EndTime": "18:51",
+    "Duration": 0.53,
+    "Cost": 46.0
+  },
+  {
+    "TrainID": "G8364",
+    "TrainType": "高铁",
+    "From": "苏州南站",
+    "To": "上海虹桥站",
+    "BeginTime": "18:19",
+    "EndTime": "18:53",
+    "Duration": 0.57,
+    "Cost": 36.0
+  },
+  {
+    "TrainID": "G8329",
+    "TrainType": "高铁",
+    "From": "苏州张家港站",
+    "To": "上海虹桥站",
+    "BeginTime": "18:22",
+    "EndTime": "19:37",
+    "Duration": 1.25,
+    "Cost": 54.0
+  },
+  {
+    "TrainID": "G8255",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "18:24",
+    "EndTime": "19:00",
+    "Duration": 0.6,
+    "Cost": 46.0
+  },
+  {
+    "TrainID": "G1227",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海虹桥站",
+    "BeginTime": "18:25",
+    "EndTime": "18:48",
+    "Duration": 0.38,
+    "Cost": 43.0
+  },
+  {
+    "TrainID": "G1531",
+    "TrainType": "高铁",
+    "From": "苏州张家港站",
+    "To": "上海虹桥站",
+    "BeginTime": "18:27",
+    "EndTime": "19:32",
+    "Duration": 1.08,
+    "Cost": 48.0
+  },
+  {
+    "TrainID": "G8321",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海虹桥站",
+    "BeginTime": "18:31",
+    "EndTime": "18:57",
+    "Duration": 0.43,
+    "Cost": 46.0
+  },
+  {
+    "TrainID": "G8351",
+    "TrainType": "高铁",
+    "From": "苏州太仓站",
+    "To": "上海虹桥站",
+    "BeginTime": "18:31",
+    "EndTime": "19:02",
+    "Duration": 0.52,
+    "Cost": 25.0
+  },
+  {
+    "TrainID": "G8321",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海松江站",
+    "BeginTime": "18:31",
+    "EndTime": "19:19",
+    "Duration": 0.8,
+    "Cost": 61.0
+  },
+  {
+    "TrainID": "G8329",
+    "TrainType": "高铁",
+    "From": "苏州常熟站",
+    "To": "上海虹桥站",
+    "BeginTime": "18:33",
+    "EndTime": "19:37",
+    "Duration": 1.07,
+    "Cost": 46.0
+  },
+  {
+    "TrainID": "G7267",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "18:36",
+    "EndTime": "19:11",
+    "Duration": 0.58,
+    "Cost": 42.0
+  },
+  {
+    "TrainID": "G3283",
+    "TrainType": "高铁",
+    "From": "苏州张家港站",
+    "To": "上海虹桥站",
+    "BeginTime": "18:37",
+    "EndTime": "19:42",
+    "Duration": 1.08,
+    "Cost": 48.0
+  },
+  {
+    "TrainID": "D2284",
+    "TrainType": "动车",
+    "From": "苏州南站",
+    "To": "上海虹桥站",
+    "BeginTime": "18:39",
+    "EndTime": "19:08",
+    "Duration": 0.48,
+    "Cost": 33.0
+  },
+  {
+    "TrainID": "G1531",
+    "TrainType": "高铁",
+    "From": "苏州常熟站",
+    "To": "上海虹桥站",
+    "BeginTime": "18:39",
+    "EndTime": "19:32",
+    "Duration": 0.88,
+    "Cost": 41.0
+  },
+  {
+    "TrainID": "G3173",
+    "TrainType": "高铁",
+    "From": "苏州太仓站",
+    "To": "上海虹桥站",
+    "BeginTime": "18:41",
+    "EndTime": "19:14",
+    "Duration": 0.55,
+    "Cost": 23.0
+  },
+  {
+    "TrainID": "D2211",
+    "TrainType": "动车",
+    "From": "苏州站",
+    "To": "上海虹桥站",
+    "BeginTime": "18:41",
+    "EndTime": "19:19",
+    "Duration": 0.63,
+    "Cost": 31.0
+  },
+  {
+    "TrainID": "D2211",
+    "TrainType": "动车",
+    "From": "苏州站",
+    "To": "上海南站",
+    "BeginTime": "18:41",
+    "EndTime": "19:49",
+    "Duration": 1.13,
+    "Cost": 38.0
+  },
+  {
+    "TrainID": "G1923",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海虹桥站",
+    "BeginTime": "18:45",
+    "EndTime": "19:10",
+    "Duration": 0.42,
+    "Cost": 43.0
+  },
+  {
+    "TrainID": "G2615",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海西站",
+    "BeginTime": "18:47",
+    "EndTime": "19:11",
+    "Duration": 0.4,
+    "Cost": 43.0
+  },
+  {
+    "TrainID": "G2615",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "18:47",
+    "EndTime": "19:20",
+    "Duration": 0.55,
+    "Cost": 46.0
+  },
+  {
+    "TrainID": "G3283",
+    "TrainType": "高铁",
+    "From": "苏州常熟站",
+    "To": "上海虹桥站",
+    "BeginTime": "18:48",
+    "EndTime": "19:42",
+    "Duration": 0.9,
+    "Cost": 41.0
+  },
+  {
+    "TrainID": "C3793",
+    "TrainType": "城际",
+    "From": "苏州张家港站",
+    "To": "上海虹桥站",
+    "BeginTime": "18:49",
+    "EndTime": "19:51",
+    "Duration": 1.03,
+    "Cost": 48.0
+  },
+  {
+    "TrainID": "C3793",
+    "TrainType": "城际",
+    "From": "苏州张家港站",
+    "To": "上海南站",
+    "BeginTime": "18:49",
+    "EndTime": "20:22",
+    "Duration": 1.55,
+    "Cost": 55.0
+  },
+  {
+    "TrainID": "G1251",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海虹桥站",
+    "BeginTime": "18:51",
+    "EndTime": "19:15",
+    "Duration": 0.4,
+    "Cost": 41.0
+  },
+  {
+    "TrainID": "G7491",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海虹桥站",
+    "BeginTime": "18:52",
+    "EndTime": "19:28",
+    "Duration": 0.6,
+    "Cost": 46.0
+  },
+  {
+    "TrainID": "G8329",
+    "TrainType": "高铁",
+    "From": "苏州太仓站",
+    "To": "上海虹桥站",
+    "BeginTime": "18:53",
+    "EndTime": "19:37",
+    "Duration": 0.73,
+    "Cost": 32.0
+  },
+  {
+    "TrainID": "G7124",
+    "TrainType": "高铁",
+    "From": "苏州南站",
+    "To": "上海虹桥站",
+    "BeginTime": "18:56",
+    "EndTime": "19:24",
+    "Duration": 0.47,
+    "Cost": 36.0
+  },
+  {
+    "TrainID": "G7083",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "18:57",
+    "EndTime": "19:25",
+    "Duration": 0.47,
+    "Cost": 46.0
+  },
+  {
+    "TrainID": "G1531",
+    "TrainType": "高铁",
+    "From": "苏州太仓站",
+    "To": "上海虹桥站",
+    "BeginTime": "19:00",
+    "EndTime": "19:32",
+    "Duration": 0.53,
+    "Cost": 23.0
+  },
+  {
+    "TrainID": "G8257",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "19:02",
+    "EndTime": "19:38",
+    "Duration": 0.6,
+    "Cost": 46.0
+  },
+  {
+    "TrainID": "G2573",
+    "TrainType": "高铁",
+    "From": "苏州张家港站",
+    "To": "上海虹桥站",
+    "BeginTime": "19:02",
+    "EndTime": "19:58",
+    "Duration": 0.93,
+    "Cost": 48.0
+  },
+  {
+    "TrainID": "C3106",
+    "TrainType": "城际",
+    "From": "苏州南站",
+    "To": "上海南站",
+    "BeginTime": "19:03",
+    "EndTime": "19:31",
+    "Duration": 0.47,
+    "Cost": 35.0
+  },
+  {
+    "TrainID": "G3123",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海虹桥站",
+    "BeginTime": "19:07",
+    "EndTime": "19:47",
+    "Duration": 0.67,
+    "Cost": 46.0
+  },
+  {
+    "TrainID": "G3283",
+    "TrainType": "高铁",
+    "From": "苏州太仓站",
+    "To": "上海虹桥站",
+    "BeginTime": "19:09",
+    "EndTime": "19:42",
+    "Duration": 0.55,
+    "Cost": 23.0
+  },
+  {
+    "TrainID": "G8329",
+    "TrainType": "高铁",
+    "From": "苏州太仓南站",
+    "To": "上海虹桥站",
+    "BeginTime": "19:10",
+    "EndTime": "19:37",
+    "Duration": 0.45,
+    "Cost": 18.0
+  },
+  {
+    "TrainID": "G8358",
+    "TrainType": "高铁",
+    "From": "苏州南站",
+    "To": "上海虹桥站",
+    "BeginTime": "19:11",
+    "EndTime": "19:38",
+    "Duration": 0.45,
+    "Cost": 36.0
+  },
+  {
+    "TrainID": "G7023",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "19:14",
+    "EndTime": "19:43",
+    "Duration": 0.48,
+    "Cost": 46.0
+  },
+  {
+    "TrainID": "C3793",
+    "TrainType": "城际",
+    "From": "苏州太仓站",
+    "To": "上海虹桥站",
+    "BeginTime": "19:15",
+    "EndTime": "19:51",
+    "Duration": 0.6,
+    "Cost": 23.0
+  },
+  {
+    "TrainID": "C3793",
+    "TrainType": "城际",
+    "From": "苏州太仓站",
+    "To": "上海南站",
+    "BeginTime": "19:15",
+    "EndTime": "20:22",
+    "Duration": 1.12,
+    "Cost": 30.0
+  },
+  {
+    "TrainID": "G100",
+    "TrainType": "高铁",
+    "From": "苏州南站",
+    "To": "上海虹桥站",
+    "BeginTime": "19:16",
+    "EndTime": "19:43",
+    "Duration": 0.45,
+    "Cost": 41.0
+  },
+  {
+    "TrainID": "G7247",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海西站",
+    "BeginTime": "19:19",
+    "EndTime": "19:51",
+    "Duration": 0.53,
+    "Cost": 43.0
+  },
+  {
+    "TrainID": "G7247",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "19:19",
+    "EndTime": "20:07",
+    "Duration": 0.8,
+    "Cost": 46.0
+  },
+  {
+    "TrainID": "G8386",
+    "TrainType": "高铁",
+    "From": "苏州南站",
+    "To": "上海虹桥站",
+    "BeginTime": "19:21",
+    "EndTime": "19:48",
+    "Duration": 0.45,
+    "Cost": 36.0
+  },
+  {
+    "TrainID": "G7140",
+    "TrainType": "高铁",
+    "From": "苏州盛泽站",
+    "To": "上海虹桥站",
+    "BeginTime": "19:21",
+    "EndTime": "20:01",
+    "Duration": 0.67,
+    "Cost": 51.0
+  },
+  {
+    "TrainID": "G7235",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "19:25",
+    "EndTime": "19:50",
+    "Duration": 0.42,
+    "Cost": 46.0
+  },
+  {
+    "TrainID": "G1320",
+    "TrainType": "高铁",
+    "From": "苏州南站",
+    "To": "上海南站",
+    "BeginTime": "19:29",
+    "EndTime": "19:55",
+    "Duration": 0.43,
+    "Cost": 39.0
+  },
+  {
+    "TrainID": "G7247",
+    "TrainType": "高铁",
+    "From": "苏州园区站",
+    "To": "上海西站",
+    "BeginTime": "19:31",
+    "EndTime": "19:51",
+    "Duration": 0.33,
+    "Cost": 38.0
+  },
+  {
+    "TrainID": "G7247",
+    "TrainType": "高铁",
+    "From": "苏州园区站",
+    "To": "上海站",
+    "BeginTime": "19:31",
+    "EndTime": "20:07",
+    "Duration": 0.6,
+    "Cost": 41.0
+  },
+  {
+    "TrainID": "G8289",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "19:32",
+    "EndTime": "19:59",
+    "Duration": 0.45,
+    "Cost": 42.0
+  },
+  {
+    "TrainID": "G7140",
+    "TrainType": "高铁",
+    "From": "苏州南站",
+    "To": "上海虹桥站",
+    "BeginTime": "19:34",
+    "EndTime": "20:01",
+    "Duration": 0.45,
+    "Cost": 36.0
+  },
+  {
+    "TrainID": "G141",
+    "TrainType": "高铁",
+    "From": "苏州太仓站",
+    "To": "上海虹桥站",
+    "BeginTime": "19:34",
+    "EndTime": "20:08",
+    "Duration": 0.57,
+    "Cost": 31.0
+  },
+  {
+    "TrainID": "G7151",
+    "TrainType": "高铁",
+    "From": "苏州常熟站",
+    "To": "上海虹桥站",
+    "BeginTime": "19:34",
+    "EndTime": "20:20",
+    "Duration": 0.77,
+    "Cost": 44.0
+  },
+  {
+    "TrainID": "G1475",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海虹桥站",
+    "BeginTime": "19:37",
+    "EndTime": "20:01",
+    "Duration": 0.4,
+    "Cost": 43.0
+  },
+  {
+    "TrainID": "G7065",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海西站",
+    "BeginTime": "19:37",
+    "EndTime": "20:06",
+    "Duration": 0.48,
+    "Cost": 40.0
+  },
+  {
+    "TrainID": "G7065",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "19:37",
+    "EndTime": "20:14",
+    "Duration": 0.62,
+    "Cost": 42.0
+  },
+  {
+    "TrainID": "D3206",
+    "TrainType": "动车",
+    "From": "苏州盛泽站",
+    "To": "上海虹桥站",
+    "BeginTime": "19:39",
+    "EndTime": "20:21",
+    "Duration": 0.7,
+    "Cost": 47.0
+  },
+  {
+    "TrainID": "G1980",
+    "TrainType": "高铁",
+    "From": "苏州南站",
+    "To": "上海虹桥站",
+    "BeginTime": "19:40",
+    "EndTime": "20:07",
+    "Duration": 0.45,
+    "Cost": 36.0
+  },
+  {
+    "TrainID": "D5565",
+    "TrainType": "动车",
+    "From": "苏州张家港站",
+    "To": "上海虹桥站",
+    "BeginTime": "19:41",
+    "EndTime": "20:33",
+    "Duration": 0.87,
+    "Cost": 53.0
+  },
+  {
+    "TrainID": "G3163",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海虹桥站",
+    "BeginTime": "19:42",
+    "EndTime": "20:15",
+    "Duration": 0.55,
+    "Cost": 46.0
+  },
+  {
+    "TrainID": "G143",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海虹桥站",
+    "BeginTime": "19:43",
+    "EndTime": "20:08",
+    "Duration": 0.42,
+    "Cost": 43.0
+  },
+  {
+    "TrainID": "G8301",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海虹桥站",
+    "BeginTime": "19:47",
+    "EndTime": "20:26",
+    "Duration": 0.65,
+    "Cost": 46.0
+  },
+  {
+    "TrainID": "D3063",
+    "TrainType": "动车",
+    "From": "苏州张家港站",
+    "To": "上海虹桥站",
+    "BeginTime": "19:47",
+    "EndTime": "20:45",
+    "Duration": 0.97,
+    "Cost": 54.0
+  },
+  {
+    "TrainID": "G8301",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海松江站",
+    "BeginTime": "19:47",
+    "EndTime": "20:47",
+    "Duration": 1.0,
+    "Cost": 59.0
+  },
+  {
+    "TrainID": "D3206",
+    "TrainType": "动车",
+    "From": "苏州南站",
+    "To": "上海虹桥站",
+    "BeginTime": "19:52",
+    "EndTime": "20:21",
+    "Duration": 0.48,
+    "Cost": 33.0
+  },
+  {
+    "TrainID": "D951",
+    "TrainType": "动车",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "19:53",
+    "EndTime": "20:21",
+    "Duration": 0.47,
+    "Cost": 31.0
+  },
+  {
+    "TrainID": "G8360",
+    "TrainType": "高铁",
+    "From": "苏州盛泽站",
+    "To": "上海虹桥站",
+    "BeginTime": "19:53",
+    "EndTime": "20:27",
+    "Duration": 0.57,
+    "Cost": 58.0
+  },
+  {
+    "TrainID": "D2125",
+    "TrainType": "动车",
+    "From": "苏州张家港站",
+    "To": "上海虹桥站",
+    "BeginTime": "19:54",
+    "EndTime": "20:52",
+    "Duration": 0.97,
+    "Cost": 54.0
+  },
+  {
+    "TrainID": "G1467",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "19:58",
+    "EndTime": "20:30",
+    "Duration": 0.53,
+    "Cost": 42.0
+  },
+  {
+    "TrainID": "G1213",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海虹桥站",
+    "BeginTime": "19:59",
+    "EndTime": "20:23",
+    "Duration": 0.4,
+    "Cost": 41.0
+  },
+  {
+    "TrainID": "G8325",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海虹桥站",
+    "BeginTime": "20:03",
+    "EndTime": "20:40",
+    "Duration": 0.62,
+    "Cost": 42.0
+  },
+  {
+    "TrainID": "G8325",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海松江站",
+    "BeginTime": "20:03",
+    "EndTime": "21:03",
+    "Duration": 1.0,
+    "Cost": 55.0
+  },
+  {
+    "TrainID": "G3291",
+    "TrainType": "高铁",
+    "From": "苏州张家港站",
+    "To": "上海虹桥站",
+    "BeginTime": "20:04",
+    "EndTime": "21:02",
+    "Duration": 0.97,
+    "Cost": 54.0
+  },
+  {
+    "TrainID": "C3604",
+    "TrainType": "城际",
+    "From": "苏州盛泽站",
+    "To": "上海虹桥站",
+    "BeginTime": "20:06",
+    "EndTime": "20:47",
+    "Duration": 0.68,
+    "Cost": 44.0
+  },
+  {
+    "TrainID": "G8269",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "20:08",
+    "EndTime": "20:44",
+    "Duration": 0.6,
+    "Cost": 46.0
+  },
+  {
+    "TrainID": "G7763",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海虹桥站",
+    "BeginTime": "20:09",
+    "EndTime": "20:39",
+    "Duration": 0.5,
+    "Cost": 41.0
+  },
+  {
+    "TrainID": "D3063",
+    "TrainType": "动车",
+    "From": "苏州太仓站",
+    "To": "上海虹桥站",
+    "BeginTime": "20:13",
+    "EndTime": "20:45",
+    "Duration": 0.53,
+    "Cost": 25.0
+  },
+  {
+    "TrainID": "G7025",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "20:14",
+    "EndTime": "20:40",
+    "Duration": 0.43,
+    "Cost": 46.0
+  },
+  {
+    "TrainID": "G3271",
+    "TrainType": "高铁",
+    "From": "苏州张家港站",
+    "To": "上海虹桥站",
+    "BeginTime": "20:14",
+    "EndTime": "21:09",
+    "Duration": 0.92,
+    "Cost": 54.0
+  },
+  {
+    "TrainID": "G3291",
+    "TrainType": "高铁",
+    "From": "苏州常熟站",
+    "To": "上海虹桥站",
+    "BeginTime": "20:16",
+    "EndTime": "21:02",
+    "Duration": 0.77,
+    "Cost": 46.0
+  },
+  {
+    "TrainID": "D2267",
+    "TrainType": "动车",
+    "From": "苏州张家港站",
+    "To": "上海虹桥站",
+    "BeginTime": "20:16",
+    "EndTime": "21:19",
+    "Duration": 1.05,
+    "Cost": 48.0
+  },
+  {
+    "TrainID": "G147",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海虹桥站",
+    "BeginTime": "20:18",
+    "EndTime": "20:43",
+    "Duration": 0.42,
+    "Cost": 43.0
+  },
+  {
+    "TrainID": "C3604",
+    "TrainType": "城际",
+    "From": "苏州南站",
+    "To": "上海虹桥站",
+    "BeginTime": "20:19",
+    "EndTime": "20:47",
+    "Duration": 0.47,
+    "Cost": 31.0
+  },
+  {
+    "TrainID": "D2125",
+    "TrainType": "动车",
+    "From": "苏州太仓站",
+    "To": "上海虹桥站",
+    "BeginTime": "20:20",
+    "EndTime": "20:52",
+    "Duration": 0.53,
+    "Cost": 25.0
+  },
+  {
+    "TrainID": "G8267",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "20:20",
+    "EndTime": "20:52",
+    "Duration": 0.53,
+    "Cost": 42.0
+  },
+  {
+    "TrainID": "G3317",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海虹桥站",
+    "BeginTime": "20:23",
+    "EndTime": "20:48",
+    "Duration": 0.42,
+    "Cost": 43.0
+  },
+  {
+    "TrainID": "G3053",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "20:25",
+    "EndTime": "20:59",
+    "Duration": 0.57,
+    "Cost": 42.0
+  },
+  {
+    "TrainID": "C3050",
+    "TrainType": "城际",
+    "From": "苏州盛泽站",
+    "To": "上海南站",
+    "BeginTime": "20:26",
+    "EndTime": "20:58",
+    "Duration": 0.53,
+    "Cost": 50.0
+  },
+  {
+    "TrainID": "D2267",
+    "TrainType": "动车",
+    "From": "苏州常熟站",
+    "To": "上海虹桥站",
+    "BeginTime": "20:27",
+    "EndTime": "21:19",
+    "Duration": 0.87,
+    "Cost": 41.0
+  },
+  {
+    "TrainID": "G585",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海虹桥站",
+    "BeginTime": "20:30",
+    "EndTime": "21:00",
+    "Duration": 0.5,
+    "Cost": 43.0
+  },
+  {
+    "TrainID": "G3053",
+    "TrainType": "高铁",
+    "From": "苏州园区站",
+    "To": "上海站",
+    "BeginTime": "20:34",
+    "EndTime": "20:59",
+    "Duration": 0.42,
+    "Cost": 38.0
+  },
+  {
+    "TrainID": "D2905",
+    "TrainType": "动车",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "20:35",
+    "EndTime": "21:04",
+    "Duration": 0.48,
+    "Cost": 31.0
+  },
+  {
+    "TrainID": "G8285",
+    "TrainType": "高铁",
+    "From": "苏州张家港站",
+    "To": "上海站",
+    "BeginTime": "20:35",
+    "EndTime": "21:44",
+    "Duration": 1.15,
+    "Cost": 52.0
+  },
+  {
+    "TrainID": "G3271",
+    "TrainType": "高铁",
+    "From": "苏州太仓站",
+    "To": "上海虹桥站",
+    "BeginTime": "20:36",
+    "EndTime": "21:09",
+    "Duration": 0.55,
+    "Cost": 32.0
+  },
+  {
+    "TrainID": "D2215",
+    "TrainType": "动车",
+    "From": "苏州张家港站",
+    "To": "上海虹桥站",
+    "BeginTime": "20:39",
+    "EndTime": "21:36",
+    "Duration": 0.95,
+    "Cost": 49.0
+  },
+  {
+    "TrainID": "D2215",
+    "TrainType": "动车",
+    "From": "苏州张家港站",
+    "To": "上海南站",
+    "BeginTime": "20:39",
+    "EndTime": "22:14",
+    "Duration": 1.58,
+    "Cost": 56.0
+  },
+  {
+    "TrainID": "G2405",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海虹桥站",
+    "BeginTime": "20:40",
+    "EndTime": "21:14",
+    "Duration": 0.57,
+    "Cost": 42.0
+  },
+  {
+    "TrainID": "G233",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海站",
+    "BeginTime": "20:43",
+    "EndTime": "21:11",
+    "Duration": 0.47,
+    "Cost": 48.0
+  },
+  {
+    "TrainID": "G8304",
+    "TrainType": "高铁",
+    "From": "苏州南站",
+    "To": "上海虹桥站",
+    "BeginTime": "20:44",
+    "EndTime": "21:11",
+    "Duration": 0.45,
+    "Cost": 31.0
+  },
+  {
+    "TrainID": "C3867",
+    "TrainType": "城际",
+    "From": "苏州张家港站",
+    "To": "上海站",
+    "BeginTime": "20:44",
+    "EndTime": "21:51",
+    "Duration": 1.12,
+    "Cost": 46.0
+  },
+  {
+    "TrainID": "D3055",
+    "TrainType": "动车",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "20:45",
+    "EndTime": "21:19",
+    "Duration": 0.57,
+    "Cost": 31.0
+  },
+  {
+    "TrainID": "G8285",
+    "TrainType": "高铁",
+    "From": "苏州常熟站",
+    "To": "上海站",
+    "BeginTime": "20:46",
+    "EndTime": "21:44",
+    "Duration": 0.97,
+    "Cost": 44.0
+  },
+  {
+    "TrainID": "G149",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海虹桥站",
+    "BeginTime": "20:47",
+    "EndTime": "21:10",
+    "Duration": 0.38,
+    "Cost": 43.0
+  },
+  {
+    "TrainID": "D2267",
+    "TrainType": "动车",
+    "From": "苏州太仓站",
+    "To": "上海虹桥站",
+    "BeginTime": "20:48",
+    "EndTime": "21:19",
+    "Duration": 0.52,
+    "Cost": 23.0
+  },
+  {
+    "TrainID": "D3021",
+    "TrainType": "动车",
+    "From": "苏州站",
+    "To": "上海虹桥站",
+    "BeginTime": "20:50",
+    "EndTime": "21:24",
+    "Duration": 0.57,
+    "Cost": 31.0
+  },
+  {
+    "TrainID": "D2215",
+    "TrainType": "动车",
+    "From": "苏州常熟站",
+    "To": "上海虹桥站",
+    "BeginTime": "20:50",
+    "EndTime": "21:36",
+    "Duration": 0.77,
+    "Cost": 43.0
+  },
+  {
+    "TrainID": "D2215",
+    "TrainType": "动车",
+    "From": "苏州常熟站",
+    "To": "上海南站",
+    "BeginTime": "20:50",
+    "EndTime": "22:14",
+    "Duration": 1.4,
+    "Cost": 50.0
+  },
+  {
+    "TrainID": "G1951",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海虹桥站",
+    "BeginTime": "20:51",
+    "EndTime": "21:14",
+    "Duration": 0.38,
+    "Cost": 38.0
+  },
+  {
+    "TrainID": "C3867",
+    "TrainType": "城际",
+    "From": "苏州常熟站",
+    "To": "上海站",
+    "BeginTime": "20:56",
+    "EndTime": "21:51",
+    "Duration": 0.92,
+    "Cost": 39.0
+  },
+  {
+    "TrainID": "G3753",
+    "TrainType": "高铁",
+    "From": "苏州张家港站",
+    "To": "上海虹桥站",
+    "BeginTime": "20:56",
+    "EndTime": "22:04",
+    "Duration": 1.13,
+    "Cost": 49.0
+  },
+  {
+    "TrainID": "G3753",
+    "TrainType": "高铁",
+    "From": "苏州张家港站",
+    "To": "上海松江站",
+    "BeginTime": "20:56",
+    "EndTime": "22:27",
+    "Duration": 1.52,
+    "Cost": 67.0
+  },
+  {
+    "TrainID": "G7112",
+    "TrainType": "高铁",
+    "From": "苏州盛泽站",
+    "To": "上海虹桥站",
+    "BeginTime": "20:57",
+    "EndTime": "21:31",
+    "Duration": 0.57,
+    "Cost": 51.0
+  },
+  {
+    "TrainID": "G1985",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海虹桥站",
+    "BeginTime": "21:00",
+    "EndTime": "21:41",
+    "Duration": 0.68,
+    "Cost": 42.0
+  },
+  {
+    "TrainID": "D3059",
+    "TrainType": "动车",
+    "From": "苏州新区站",
+    "To": "上海虹桥站",
+    "BeginTime": "21:03",
+    "EndTime": "22:09",
+    "Duration": 1.1,
+    "Cost": 35.0
+  },
+  {
+    "TrainID": "G3753",
+    "TrainType": "高铁",
+    "From": "苏州常熟站",
+    "To": "上海虹桥站",
+    "BeginTime": "21:07",
+    "EndTime": "22:04",
+    "Duration": 0.95,
+    "Cost": 41.0
+  },
+  {
+    "TrainID": "G3753",
+    "TrainType": "高铁",
+    "From": "苏州常熟站",
+    "To": "上海松江站",
+    "BeginTime": "21:07",
+    "EndTime": "22:27",
+    "Duration": 1.33,
+    "Cost": 59.0
+  },
+  {
+    "TrainID": "G1969",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海虹桥站",
+    "BeginTime": "21:08",
+    "EndTime": "21:32",
+    "Duration": 0.4,
+    "Cost": 43.0
+  },
+  {
+    "TrainID": "G1985",
+    "TrainType": "高铁",
+    "From": "苏州园区站",
+    "To": "上海虹桥站",
+    "BeginTime": "21:09",
+    "EndTime": "21:41",
+    "Duration": 0.53,
+    "Cost": 38.0
+  },
+  {
+    "TrainID": "G8285",
+    "TrainType": "高铁",
+    "From": "苏州太仓站",
+    "To": "上海站",
+    "BeginTime": "21:09",
+    "EndTime": "21:44",
+    "Duration": 0.58,
+    "Cost": 23.0
+  },
+  {
+    "TrainID": "D3059",
+    "TrainType": "动车",
+    "From": "苏州站",
+    "To": "上海虹桥站",
+    "BeginTime": "21:13",
+    "EndTime": "22:09",
+    "Duration": 0.93,
+    "Cost": 31.0
+  },
+  {
+    "TrainID": "K1505",
+    "TrainType": "快速",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "21:15",
+    "EndTime": "22:22",
+    "Duration": 1.12,
+    "Cost": 14.5
+  },
+  {
+    "TrainID": "C3867",
+    "TrainType": "城际",
+    "From": "苏州太仓站",
+    "To": "上海站",
+    "BeginTime": "21:16",
+    "EndTime": "21:51",
+    "Duration": 0.58,
+    "Cost": 21.0
+  },
+  {
+    "TrainID": "G7027",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海西站",
+    "BeginTime": "21:20",
+    "EndTime": "21:42",
+    "Duration": 0.37,
+    "Cost": 43.0
+  },
+  {
+    "TrainID": "G7027",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "21:20",
+    "EndTime": "21:54",
+    "Duration": 0.57,
+    "Cost": 46.0
+  },
+  {
+    "TrainID": "G3092",
+    "TrainType": "高铁",
+    "From": "苏州盛泽站",
+    "To": "上海虹桥站",
+    "BeginTime": "21:25",
+    "EndTime": "21:59",
+    "Duration": 0.57,
+    "Cost": 44.0
+  },
+  {
+    "TrainID": "G7217",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "21:25",
+    "EndTime": "21:59",
+    "Duration": 0.57,
+    "Cost": 42.0
+  },
+  {
+    "TrainID": "K8365",
+    "TrainType": "快速",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "21:27",
+    "EndTime": "22:28",
+    "Duration": 1.02,
+    "Cost": 14.5
+  },
+  {
+    "TrainID": "D2151",
+    "TrainType": "动车",
+    "From": "苏州张家港站",
+    "To": "上海虹桥站",
+    "BeginTime": "21:29",
+    "EndTime": "22:33",
+    "Duration": 1.07,
+    "Cost": 54.0
+  },
+  {
+    "TrainID": "D2151",
+    "TrainType": "动车",
+    "From": "苏州张家港站",
+    "To": "上海南站",
+    "BeginTime": "21:29",
+    "EndTime": "23:07",
+    "Duration": 1.63,
+    "Cost": 61.0
+  },
+  {
+    "TrainID": "G3753",
+    "TrainType": "高铁",
+    "From": "苏州太仓站",
+    "To": "上海虹桥站",
+    "BeginTime": "21:30",
+    "EndTime": "22:04",
+    "Duration": 0.57,
+    "Cost": 23.0
+  },
+  {
+    "TrainID": "G3753",
+    "TrainType": "高铁",
+    "From": "苏州太仓站",
+    "To": "上海松江站",
+    "BeginTime": "21:30",
+    "EndTime": "22:27",
+    "Duration": 0.95,
+    "Cost": 41.0
+  },
+  {
+    "TrainID": "G1203",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海虹桥站",
+    "BeginTime": "21:31",
+    "EndTime": "21:55",
+    "Duration": 0.4,
+    "Cost": 39.0
+  },
+  {
+    "TrainID": "D3059",
+    "TrainType": "动车",
+    "From": "苏州园区站",
+    "To": "上海虹桥站",
+    "BeginTime": "21:32",
+    "EndTime": "22:09",
+    "Duration": 0.62,
+    "Cost": 27.0
+  },
+  {
+    "TrainID": "G151",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海虹桥站",
+    "BeginTime": "21:37",
+    "EndTime": "22:12",
+    "Duration": 0.58,
+    "Cost": 41.0
+  },
+  {
+    "TrainID": "D635",
+    "TrainType": "动车",
+    "From": "苏州站",
+    "To": "上海虹桥站",
+    "BeginTime": "21:37",
+    "EndTime": "22:15",
+    "Duration": 0.63,
+    "Cost": 31.0
+  },
+  {
+    "TrainID": "G3313",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "21:42",
+    "EndTime": "22:16",
+    "Duration": 0.57,
+    "Cost": 42.0
+  },
+  {
+    "TrainID": "G3287",
+    "TrainType": "高铁",
+    "From": "苏州张家港站",
+    "To": "上海虹桥站",
+    "BeginTime": "21:42",
+    "EndTime": "22:47",
+    "Duration": 1.08,
+    "Cost": 45.0
+  },
+  {
+    "TrainID": "G377",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海虹桥站",
+    "BeginTime": "21:44",
+    "EndTime": "22:07",
+    "Duration": 0.38,
+    "Cost": 41.0
+  },
+  {
+    "TrainID": "D351",
+    "TrainType": "动车",
+    "From": "苏州站",
+    "To": "上海虹桥站",
+    "BeginTime": "21:47",
+    "EndTime": "22:21",
+    "Duration": 0.57,
+    "Cost": 31.0
+  },
+  {
+    "TrainID": "G3078",
+    "TrainType": "高铁",
+    "From": "苏州盛泽站",
+    "To": "上海虹桥站",
+    "BeginTime": "21:51",
+    "EndTime": "22:26",
+    "Duration": 0.58,
+    "Cost": 44.0
+  },
+  {
+    "TrainID": "G3175",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海虹桥站",
+    "BeginTime": "21:53",
+    "EndTime": "22:26",
+    "Duration": 0.55,
+    "Cost": 42.0
+  },
+  {
+    "TrainID": "G3287",
+    "TrainType": "高铁",
+    "From": "苏州常熟站",
+    "To": "上海虹桥站",
+    "BeginTime": "21:53",
+    "EndTime": "22:47",
+    "Duration": 0.9,
+    "Cost": 38.0
+  },
+  {
+    "TrainID": "G1440",
+    "TrainType": "高铁",
+    "From": "苏州南站",
+    "To": "上海虹桥站",
+    "BeginTime": "21:54",
+    "EndTime": "22:21",
+    "Duration": 0.45,
+    "Cost": 31.0
+  },
+  {
+    "TrainID": "G7069",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "21:58",
+    "EndTime": "22:31",
+    "Duration": 0.55,
+    "Cost": 38.0
+  },
+  {
+    "TrainID": "D2151",
+    "TrainType": "动车",
+    "From": "苏州太仓站",
+    "To": "上海虹桥站",
+    "BeginTime": "21:59",
+    "EndTime": "22:33",
+    "Duration": 0.57,
+    "Cost": 25.0
+  },
+  {
+    "TrainID": "D2151",
+    "TrainType": "动车",
+    "From": "苏州太仓站",
+    "To": "上海南站",
+    "BeginTime": "21:59",
+    "EndTime": "23:07",
+    "Duration": 1.13,
+    "Cost": 32.0
+  },
+  {
+    "TrainID": "G3143",
+    "TrainType": "高铁",
+    "From": "苏州张家港站",
+    "To": "上海虹桥站",
+    "BeginTime": "22:00",
+    "EndTime": "22:57",
+    "Duration": 0.95,
+    "Cost": 52.0
+  },
+  {
+    "TrainID": "G3143",
+    "TrainType": "高铁",
+    "From": "苏州张家港站",
+    "To": "上海松江站",
+    "BeginTime": "22:00",
+    "EndTime": "23:20",
+    "Duration": 1.33,
+    "Cost": 63.0
+  },
+  {
+    "TrainID": "D2927",
+    "TrainType": "动车",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "22:04",
+    "EndTime": "22:38",
+    "Duration": 0.57,
+    "Cost": 31.0
+  },
+  {
+    "TrainID": "G7091",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "22:09",
+    "EndTime": "22:48",
+    "Duration": 0.65,
+    "Cost": 35.0
+  },
+  {
+    "TrainID": "G3143",
+    "TrainType": "高铁",
+    "From": "苏州常熟站",
+    "To": "上海虹桥站",
+    "BeginTime": "22:11",
+    "EndTime": "22:57",
+    "Duration": 0.77,
+    "Cost": 45.0
+  },
+  {
+    "TrainID": "G1257",
+    "TrainType": "高铁",
+    "From": "苏州张家港站",
+    "To": "上海虹桥站",
+    "BeginTime": "22:11",
+    "EndTime": "23:08",
+    "Duration": 0.95,
+    "Cost": 40.0
+  },
+  {
+    "TrainID": "G3143",
+    "TrainType": "高铁",
+    "From": "苏州常熟站",
+    "To": "上海松江站",
+    "BeginTime": "22:11",
+    "EndTime": "23:20",
+    "Duration": 1.15,
+    "Cost": 56.0
+  },
+  {
+    "TrainID": "G3229",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海虹桥站",
+    "BeginTime": "22:14",
+    "EndTime": "22:42",
+    "Duration": 0.47,
+    "Cost": 42.0
+  },
+  {
+    "TrainID": "G3287",
+    "TrainType": "高铁",
+    "From": "苏州太仓站",
+    "To": "上海虹桥站",
+    "BeginTime": "22:15",
+    "EndTime": "22:47",
+    "Duration": 0.53,
+    "Cost": 22.0
+  },
+  {
+    "TrainID": "G8293",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "22:20",
+    "EndTime": "22:53",
+    "Duration": 0.55,
+    "Cost": 35.0
+  },
+  {
+    "TrainID": "G1257",
+    "TrainType": "高铁",
+    "From": "苏州常熟站",
+    "To": "上海虹桥站",
+    "BeginTime": "22:22",
+    "EndTime": "23:08",
+    "Duration": 0.77,
+    "Cost": 35.0
+  },
+  {
+    "TrainID": "G1306",
+    "TrainType": "高铁",
+    "From": "苏州南站",
+    "To": "上海南站",
+    "BeginTime": "22:24",
+    "EndTime": "22:49",
+    "Duration": 0.42,
+    "Cost": 25.0
+  },
+  {
+    "TrainID": "G1235",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海虹桥站",
+    "BeginTime": "22:29",
+    "EndTime": "22:53",
+    "Duration": 0.4,
+    "Cost": 39.0
+  },
+  {
+    "TrainID": "G2783",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海站",
+    "BeginTime": "22:32",
+    "EndTime": "22:59",
+    "Duration": 0.45,
+    "Cost": 35.0
+  },
+  {
+    "TrainID": "G25",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海虹桥站",
+    "BeginTime": "22:34",
+    "EndTime": "22:58",
+    "Duration": 0.4,
+    "Cost": 45.0
+  },
+  {
+    "TrainID": "G7163",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海虹桥站",
+    "BeginTime": "22:37",
+    "EndTime": "23:03",
+    "Duration": 0.43,
+    "Cost": 38.0
+  },
+  {
+    "TrainID": "G1947",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海虹桥站",
+    "BeginTime": "22:41",
+    "EndTime": "23:05",
+    "Duration": 0.4,
+    "Cost": 41.0
+  },
+  {
+    "TrainID": "G157",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海虹桥站",
+    "BeginTime": "22:49",
+    "EndTime": "23:12",
+    "Duration": 0.38,
+    "Cost": 39.0
+  },
+  {
+    "TrainID": "G7167",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "上海虹桥站",
+    "BeginTime": "22:56",
+    "EndTime": "23:23",
+    "Duration": 0.45,
+    "Cost": 38.0
+  },
+  {
+    "TrainID": "G27",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海站",
+    "BeginTime": "23:10",
+    "EndTime": "23:35",
+    "Duration": 0.42,
+    "Cost": 48.0
+  },
+  {
+    "TrainID": "G1425",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "上海虹桥站",
+    "BeginTime": "23:15",
+    "EndTime": "23:39",
+    "Duration": 0.4,
+    "Cost": 38.0
+  },
+  {
+    "TrainID": "C3634",
+    "TrainType": "城际",
+    "From": "苏州南站",
+    "To": "上海金山北站",
+    "BeginTime": "16:28",
+    "EndTime": "17:11",
+    "Duration": 0.72,
+    "Cost": 31.0
+  },
+  {
+    "TrainID": "C3608",
+    "TrainType": "城际",
+    "From": "苏州南站",
+    "To": "上海虹桥站",
+    "BeginTime": "08:40",
+    "EndTime": "09:23",
+    "Duration": 0.72,
+    "Cost": 37.0
+  },
+  {
+    "TrainID": "G7209",
+    "TrainType": "高铁",
+    "From": "苏州园区站",
+    "To": "上海虹桥站",
+    "BeginTime": "07:36",
+    "EndTime": "08:19",
+    "Duration": 0.72,
+    "Cost": 30.0
+  },
+  {
+    "TrainID": "C3634",
+    "TrainType": "城际",
+    "From": "苏州盛泽站",
+    "To": "上海练塘站",
+    "BeginTime": "16:14",
+    "EndTime": "16:58",
+    "Duration": 0.73,
+    "Cost": 27.0
+  },
+  {
+    "TrainID": "D3059",
+    "TrainType": "动车",
+    "From": "苏州园区站",
+    "To": "上海站",
+    "BeginTime": "21:32",
+    "EndTime": "22:16",
+    "Duration": 0.73,
+    "Cost": 35.0
+  }
+]

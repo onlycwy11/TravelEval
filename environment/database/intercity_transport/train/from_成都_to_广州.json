@@ -1,0 +1,272 @@
+[
+  {
+    "TrainID": "G3707",
+    "TrainType": "高铁",
+    "From": "成都东站",
+    "To": "广州南站",
+    "BeginTime": "07:00",
+    "EndTime": "15:34",
+    "Duration": 8.57,
+    "Cost": 601.0
+  },
+  {
+    "TrainID": "G4267",
+    "TrainType": "高铁",
+    "From": "成都南站",
+    "To": "广州南站",
+    "BeginTime": "12:31",
+    "EndTime": "22:29",
+    "Duration": 9.97,
+    "Cost": 459.0
+  },
+  {
+    "TrainID": "G6131",
+    "TrainType": "高铁",
+    "From": "成都西站",
+    "To": "广州白云站",
+    "BeginTime": "11:14",
+    "EndTime": "14:10",
+    "Duration": 26.93,
+    "Cost": 235.0
+  },
+  {
+    "TrainID": "D1833",
+    "TrainType": "动车",
+    "From": "成都东站",
+    "To": "广州南站",
+    "BeginTime": "07:07",
+    "EndTime": "16:46",
+    "Duration": 9.65,
+    "Cost": 660.0
+  },
+  {
+    "TrainID": "G3711",
+    "TrainType": "高铁",
+    "From": "成都东站",
+    "To": "广州南站",
+    "BeginTime": "07:10",
+    "EndTime": "14:26",
+    "Duration": 7.27,
+    "Cost": 646.0
+  },
+  {
+    "TrainID": "G3705",
+    "TrainType": "高铁",
+    "From": "成都东站",
+    "To": "广州南站",
+    "BeginTime": "07:39",
+    "EndTime": "14:33",
+    "Duration": 6.9,
+    "Cost": 598.0
+  },
+  {
+    "TrainID": "D1822",
+    "TrainType": "动车",
+    "From": "成都东站",
+    "To": "广州南站",
+    "BeginTime": "07:41",
+    "EndTime": "18:32",
+    "Duration": 10.85,
+    "Cost": 578.0
+  },
+  {
+    "TrainID": "G3703",
+    "TrainType": "高铁",
+    "From": "成都东站",
+    "To": "广州南站",
+    "BeginTime": "08:11",
+    "EndTime": "16:00",
+    "Duration": 7.82,
+    "Cost": 645.0
+  },
+  {
+    "TrainID": "D1801",
+    "TrainType": "动车",
+    "From": "成都东站",
+    "To": "广州南站",
+    "BeginTime": "08:32",
+    "EndTime": "19:00",
+    "Duration": 10.47,
+    "Cost": 581.0
+  },
+  {
+    "TrainID": "G2243",
+    "TrainType": "高铁",
+    "From": "成都东站",
+    "To": "广州南站",
+    "BeginTime": "09:41",
+    "EndTime": "18:06",
+    "Duration": 8.42,
+    "Cost": 598.0
+  },
+  {
+    "TrainID": "D1807",
+    "TrainType": "动车",
+    "From": "成都东站",
+    "To": "广州南站",
+    "BeginTime": "10:05",
+    "EndTime": "18:53",
+    "Duration": 8.8,
+    "Cost": 639.0
+  },
+  {
+    "TrainID": "D1809",
+    "TrainType": "动车",
+    "From": "成都东站",
+    "To": "广州南站",
+    "BeginTime": "10:10",
+    "EndTime": "19:23",
+    "Duration": 9.22,
+    "Cost": 613.0
+  },
+  {
+    "TrainID": "D1828",
+    "TrainType": "动车",
+    "From": "成都东站",
+    "To": "广州南站",
+    "BeginTime": "10:12",
+    "EndTime": "19:52",
+    "Duration": 9.67,
+    "Cost": 578.0
+  },
+  {
+    "TrainID": "G2963",
+    "TrainType": "高铁",
+    "From": "成都东站",
+    "To": "广州南站",
+    "BeginTime": "10:41",
+    "EndTime": "17:51",
+    "Duration": 7.17,
+    "Cost": 660.0
+  },
+  {
+    "TrainID": "Z334",
+    "TrainType": "直达",
+    "From": "成都西站",
+    "To": "广州北站",
+    "BeginTime": "11:14",
+    "EndTime": "12:24",
+    "Duration": 25.2,
+    "Cost": 224.0
+  },
+  {
+    "TrainID": "G2239",
+    "TrainType": "高铁",
+    "From": "成都东站",
+    "To": "广州南站",
+    "BeginTime": "11:31",
+    "EndTime": "20:31",
+    "Duration": 9.0,
+    "Cost": 608.0
+  },
+  {
+    "TrainID": "D1813",
+    "TrainType": "动车",
+    "From": "成都东站",
+    "To": "广州南站",
+    "BeginTime": "11:36",
+    "EndTime": "20:10",
+    "Duration": 8.57,
+    "Cost": 613.0
+  },
+  {
+    "TrainID": "D1815",
+    "TrainType": "动车",
+    "From": "成都东站",
+    "To": "广州南站",
+    "BeginTime": "12:36",
+    "EndTime": "21:57",
+    "Duration": 9.35,
+    "Cost": 624.0
+  },
+  {
+    "TrainID": "G2941",
+    "TrainType": "高铁",
+    "From": "成都东站",
+    "To": "广州南站",
+    "BeginTime": "15:09",
+    "EndTime": "22:18",
+    "Duration": 7.15,
+    "Cost": 646.0
+  },
+  {
+    "TrainID": "D194",
+    "TrainType": "动车",
+    "From": "成都东站",
+    "To": "广州白云站",
+    "BeginTime": "18:05",
+    "EndTime": "19:15",
+    "Duration": 25.2,
+    "Cost": 365.0
+  },
+  {
+    "TrainID": "Z588",
+    "TrainType": "直达",
+    "From": "成都西站",
+    "To": "广州北站",
+    "BeginTime": "20:36",
+    "EndTime": "16:57",
+    "Duration": 20.4,
+    "Cost": 201.0
+  },
+  {
+    "TrainID": "D961",
+    "TrainType": "动车",
+    "From": "成都东站",
+    "To": "广州南站",
+    "BeginTime": "22:25",
+    "EndTime": "09:14",
+    "Duration": 10.8,
+    "Cost": 542.0
+  },
+  {
+    "TrainID": "G3705",
+    "TrainType": "高铁",
+    "From": "成都东站",
+    "To": "广州南站",
+    "BeginTime": "07:39",
+    "EndTime": "14:57",
+    "Duration": 7.3,
+    "Cost": 623.0
+  },
+  {
+    "TrainID": "G3703",
+    "TrainType": "高铁",
+    "From": "成都东站",
+    "To": "广州南站",
+    "BeginTime": "08:11",
+    "EndTime": "15:34",
+    "Duration": 7.38,
+    "Cost": 982.0
+  },
+  {
+    "TrainID": "G2371",
+    "TrainType": "高铁",
+    "From": "成都东站",
+    "To": "广州南站",
+    "BeginTime": "06:45",
+    "EndTime": "14:26",
+    "Duration": 7.68,
+    "Cost": 609.0
+  },
+  {
+    "TrainID": "G2449",
+    "TrainType": "高铁",
+    "From": "成都东站",
+    "To": "广州南站",
+    "BeginTime": "14:41",
+    "EndTime": "22:13",
+    "Duration": 7.53,
+    "Cost": 621.0
+  },
+  {
+    "TrainID": "G2963",
+    "TrainType": "高铁",
+    "From": "成都东站",
+    "To": "广州南站",
+    "BeginTime": "10:41",
+    "EndTime": "19:00",
+    "Duration": 8.32,
+    "Cost": 627.0
+  }
+]

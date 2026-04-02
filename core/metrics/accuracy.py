@@ -55,7 +55,7 @@ class AccuracyMetrics:
         # print(coordinate)
         sandbox_data_intercity = self.data_loader.load_intercity_transport(plan_summary.get('departure'),
                                                                            plan_summary.get('destination'))
-
+        print("start！")
         # 费用计算偏差率
         metrics['cost_deviation_rate'] = self._calculate_cost_deviation_rate(original_plan)
 
@@ -78,12 +78,14 @@ class AccuracyMetrics:
         )
 
         # 人数准确率
-        metrics['people_accuracy'] = self._calculate_people_accuracy(original_plan, user_query)
+        # 为实现维度统一，改为人数偏差率
+        # metrics['people_accuracy'] = self._calculate_people_accuracy(original_plan, user_query)
+        metrics['people_deviation'] = 1.0 - self._calculate_people_accuracy(original_plan, user_query)
 
         # 计算综合得分
         # metrics['score'] = self._calculate_score(metrics)
 
-        # print(metrics)
+        print(metrics)
 
         return metrics
 
@@ -124,22 +126,27 @@ class AccuracyMetrics:
         Returns:
             虚构景点比例 (0-1)
         """
+
+        # print(daily_attractions)
         if not daily_attractions or not coordinate:
             return 1.0
 
         total_attractions = 0
         fictitious_count = 0
         real_attractions = set(coordinate.keys())  # 真实景点名称集合
+        # print(real_attractions)
 
         # 检查每个景点是否真实存在
         for day_attractions in daily_attractions.values():
             for attraction in day_attractions:
-                attraction_name = attraction['name']
-                total_attractions += 1
+                if attraction['type'] == 'attraction':
+                    attraction_name = attraction['name']
+                    # print(attraction_name)
+                    total_attractions += 1
 
-                if attraction_name not in real_attractions:
-                    print(attraction_name)
-                    fictitious_count += 1
+                    if attraction_name not in real_attractions:
+                        # print(attraction_name)
+                        fictitious_count += 1
 
         if total_attractions == 0:
             return 0.0
@@ -172,6 +179,7 @@ class AccuracyMetrics:
                 'opentime': row.get('opentime', '09:00'),
                 'endtime': row.get('endtime', '17:00')
             }
+
 
         # 检查每个景点的访问时间是否在开放时间内
         for day_attractions in daily_attractions.values():
@@ -290,11 +298,14 @@ class AccuracyMetrics:
 
         delta = 0
         actual = 0
-        start = transport_types[-1].get('location_name')
-        end = transport_types[0].get('location_name')
+
         for transport in transport_types:
+            # print("begin")
             plan_time = self.extractors._calculate_activity_duration(transport)
-            actual_time = self.extractors._extract_intercity_time(transport, start, end, sandbox_data)
+            actual_time = self.extractors._extract_intercity_time(transport, sandbox_data)
+            if plan_time + 20 < actual_time:
+                plan_time += 24
+            # print("end")
             if not actual_time:
                 return 1.0
             # print(plan_time, actual_time)
@@ -327,44 +338,62 @@ class AccuracyMetrics:
 
         # 1. 提取交通人数偏差
         for transport in ai_plan["intercity_transport"]["transport_type"]:
+            if transport is None:
+                continue
             details = transport.get('details')
             planned_people += float(details.get('number'))
         deviation_people += abs(planned_people / 2 - actual_people)
+        # print(deviation_people)
 
         # 2. 提取住宿人数偏差
+        planned_people = 0
         for accommodation in ai_plan["accommodation"]["room_type"]:
             types= accommodation.get('type')
             matched_type = next((key for key in room_type if key in types), None)
             type_number = room_type.get(matched_type, 0)
             planned_people += float(accommodation.get('quantity')) * type_number
+            # print(planned_people)
         deviation_people += abs(planned_people - actual_people)
+        # print(deviation_people)
 
         # 3. 遍历每日计划，计算其他人数偏差
         n1 = 0
         n2 = 0
         planned_people1 = 0
+
         for day_plan in ai_plan["daily_plans"]:
             for activity in day_plan["activities"]:
+                if "details" not in activity or activity["details"] is None:
+                    continue
+
                 ticket_number = activity["details"].get("ticket_number", 0)
                 if ticket_number:
                     planned_people += abs(ticket_number - actual_people)
                     n1 += 1
-                seat_number = float(activity["details"].get("load_limit", 0)) - 1
-                car_number = float(activity["details"].get("car_number", 0))
-                if seat_number or car_number:
+
+                load_limit = activity["details"].get("load_limit")
+                if load_limit is None:
+                    load_limit = 5
+                seat_number = float(load_limit) - 1
+
+                car_number = float(activity["details"].get("car_number", 0) or 0)
+                if seat_number and car_number:
                     planned_people1 += abs(seat_number * car_number - actual_people)
                     n2 += 1
 
             # 处理每日结束点的交通成本（如返回酒店的地铁）
             ending_point = day_plan.get("ending_point", {})
-            if ending_point:
-                seat_number = float(ending_point["details"].get("load_limit", 0)) - 1
-                car_number = float(ending_point["details"].get("car_number", 0))
-                if seat_number or car_number:
+
+            if ending_point and "details" in ending_point and ending_point["details"] is not None:
+                seat_number = float(ending_point["details"].get("load_limit", 5) or 5) - 1
+                car_number = float(ending_point["details"].get("car_number", 0) or 0)
+                if seat_number and car_number:
                     planned_people1 += abs(seat_number * car_number - actual_people)
                     n2 += 1
         if n1 and n2:
             deviation_people += (planned_people / n1 + planned_people1 / n2)
+
+        # print(deviation_people)
 
         deviation = deviation_people / actual_people
         accuracy = 1.0 - min(1.0, deviation)

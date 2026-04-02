@@ -114,7 +114,7 @@ class DataValidators:
 
                     # 验证详情字段
                     if 'details' in t:
-                        t_fields = ['transport_numb', 'price', 'number']
+                        t_fields = ['transport_number', 'price', 'number']
                         for field in t_fields:
                             if field not in t['details']:
                                 errors.append(f"transport_details中缺少字段: {field}")
@@ -149,7 +149,7 @@ class DataValidators:
         """验证单日计划"""
         errors = []
 
-        required_fields = ['day_number', 'date', 'activities']
+        required_fields = ['day', 'date', 'activities']
         for field in required_fields:
             if field not in day_plan:
                 errors.append(f"第{day_index + 1}天计划缺少字段: {field}")

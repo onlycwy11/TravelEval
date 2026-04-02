@@ -1,0 +1,282 @@
+[
+  {
+    "TrainID": "D3074",
+    "TrainType": "动车",
+    "From": "重庆北站",
+    "To": "苏州站",
+    "BeginTime": "06:21",
+    "EndTime": "17:45",
+    "Duration": 11.4,
+    "Cost": 506.5
+  },
+  {
+    "TrainID": "D2214",
+    "TrainType": "动车",
+    "From": "重庆北站",
+    "To": "苏州站",
+    "BeginTime": "07:08",
+    "EndTime": "18:39",
+    "Duration": 11.52,
+    "Cost": 562.5
+  },
+  {
+    "TrainID": "D2270",
+    "TrainType": "动车",
+    "From": "重庆北站",
+    "To": "苏州张家港站",
+    "BeginTime": "07:24",
+    "EndTime": "20:14",
+    "Duration": 12.83,
+    "Cost": 588.5
+  },
+  {
+    "TrainID": "D2270",
+    "TrainType": "动车",
+    "From": "重庆北站",
+    "To": "苏州常熟站",
+    "BeginTime": "07:24",
+    "EndTime": "20:25",
+    "Duration": 13.02,
+    "Cost": 595.5
+  },
+  {
+    "TrainID": "D2270",
+    "TrainType": "动车",
+    "From": "重庆北站",
+    "To": "苏州太仓站",
+    "BeginTime": "07:24",
+    "EndTime": "20:46",
+    "Duration": 13.37,
+    "Cost": 615.5
+  },
+  {
+    "TrainID": "T238",
+    "TrainType": "特快",
+    "From": "重庆西站",
+    "To": "苏州站",
+    "BeginTime": "07:25",
+    "EndTime": "09:41",
+    "Duration": 26.3,
+    "Cost": 217.0
+  },
+  {
+    "TrainID": "G1534",
+    "TrainType": "高铁",
+    "From": "重庆北站",
+    "To": "苏州张家港站",
+    "BeginTime": "07:38",
+    "EndTime": "18:25",
+    "Duration": 10.78,
+    "Cost": 904.5
+  },
+  {
+    "TrainID": "G1534",
+    "TrainType": "高铁",
+    "From": "重庆北站",
+    "To": "苏州常熟站",
+    "BeginTime": "07:38",
+    "EndTime": "18:37",
+    "Duration": 10.98,
+    "Cost": 911.5
+  },
+  {
+    "TrainID": "G1534",
+    "TrainType": "高铁",
+    "From": "重庆北站",
+    "To": "苏州太仓站",
+    "BeginTime": "07:38",
+    "EndTime": "18:57",
+    "Duration": 11.32,
+    "Cost": 930.5
+  },
+  {
+    "TrainID": "D2218",
+    "TrainType": "动车",
+    "From": "重庆北站",
+    "To": "苏州张家港站",
+    "BeginTime": "07:40",
+    "EndTime": "20:37",
+    "Duration": 12.95,
+    "Cost": 621.5
+  },
+  {
+    "TrainID": "D2218",
+    "TrainType": "动车",
+    "From": "重庆北站",
+    "To": "苏州常熟站",
+    "BeginTime": "07:40",
+    "EndTime": "20:48",
+    "Duration": 13.13,
+    "Cost": 628.5
+  },
+  {
+    "TrainID": "D958",
+    "TrainType": "动车",
+    "From": "重庆北站",
+    "To": "苏州站",
+    "BeginTime": "07:45",
+    "EndTime": "17:50",
+    "Duration": 10.08,
+    "Cost": 562.5
+  },
+  {
+    "TrainID": "D3058",
+    "TrainType": "动车",
+    "From": "重庆北站",
+    "To": "苏州站",
+    "BeginTime": "08:38",
+    "EndTime": "20:43",
+    "Duration": 12.08,
+    "Cost": 562.5
+  },
+  {
+    "TrainID": "G3290",
+    "TrainType": "高铁",
+    "From": "重庆沙坪坝站",
+    "To": "苏州张家港站",
+    "BeginTime": "08:51",
+    "EndTime": "21:40",
+    "Duration": 12.82,
+    "Cost": 1071.0
+  },
+  {
+    "TrainID": "G3290",
+    "TrainType": "高铁",
+    "From": "重庆沙坪坝站",
+    "To": "苏州常熟站",
+    "BeginTime": "08:51",
+    "EndTime": "21:51",
+    "Duration": 13.0,
+    "Cost": 1078.0
+  },
+  {
+    "TrainID": "G3290",
+    "TrainType": "高铁",
+    "From": "重庆沙坪坝站",
+    "To": "苏州太仓站",
+    "BeginTime": "08:51",
+    "EndTime": "22:12",
+    "Duration": 13.35,
+    "Cost": 1095.0
+  },
+  {
+    "TrainID": "G1478",
+    "TrainType": "高铁",
+    "From": "重庆西站",
+    "To": "苏州北站",
+    "BeginTime": "08:55",
+    "EndTime": "19:31",
+    "Duration": 10.6,
+    "Cost": 1033.5
+  },
+  {
+    "TrainID": "G1478",
+    "TrainType": "高铁",
+    "From": "重庆北站",
+    "To": "苏州北站",
+    "BeginTime": "09:26",
+    "EndTime": "19:31",
+    "Duration": 10.08,
+    "Cost": 1016.5
+  },
+  {
+    "TrainID": "D638",
+    "TrainType": "动车",
+    "From": "重庆北站",
+    "To": "苏州站",
+    "BeginTime": "09:27",
+    "EndTime": "21:35",
+    "Duration": 12.13,
+    "Cost": 562.5
+  },
+  {
+    "TrainID": "D954",
+    "TrainType": "动车",
+    "From": "重庆北站",
+    "To": "苏州站",
+    "BeginTime": "09:48",
+    "EndTime": "19:51",
+    "Duration": 10.05,
+    "Cost": 562.5
+  },
+  {
+    "TrainID": "D354",
+    "TrainType": "动车",
+    "From": "重庆北站",
+    "To": "苏州站",
+    "BeginTime": "10:20",
+    "EndTime": "21:45",
+    "Duration": 11.42,
+    "Cost": 562.5
+  },
+  {
+    "TrainID": "D2374",
+    "TrainType": "动车",
+    "From": "重庆北站",
+    "To": "苏州张家港站",
+    "BeginTime": "10:36",
+    "EndTime": "21:55",
+    "Duration": 11.32,
+    "Cost": 554.5
+  },
+  {
+    "TrainID": "D3078",
+    "TrainType": "动车",
+    "From": "重庆北站",
+    "To": "苏州张家港站",
+    "BeginTime": "11:43",
+    "EndTime": "22:50",
+    "Duration": 11.12,
+    "Cost": 554.5
+  },
+  {
+    "TrainID": "D2214",
+    "TrainType": "动车",
+    "From": "重庆北站",
+    "To": "苏州站",
+    "BeginTime": "07:08",
+    "EndTime": "17:50",
+    "Duration": 10.7,
+    "Cost": 731.5
+  },
+  {
+    "TrainID": "D3074",
+    "TrainType": "动车",
+    "From": "重庆北站",
+    "To": "苏州站",
+    "BeginTime": "06:21",
+    "EndTime": "17:50",
+    "Duration": 11.48,
+    "Cost": 703.5
+  },
+  {
+    "TrainID": "D954",
+    "TrainType": "动车",
+    "From": "重庆北站",
+    "To": "苏州站",
+    "BeginTime": "09:48",
+    "EndTime": "20:48",
+    "Duration": 11.0,
+    "Cost": 562.5
+  },
+  {
+    "TrainID": "D2378",
+    "TrainType": "动车",
+    "From": "重庆北站",
+    "To": "苏州站",
+    "BeginTime": "06:01",
+    "EndTime": "17:45",
+    "Duration": 11.73,
+    "Cost": 731.5
+  },
+  {
+    "TrainID": "D620",
+    "TrainType": "动车",
+    "From": "重庆北站",
+    "To": "苏州站",
+    "BeginTime": "09:07",
+    "EndTime": "20:43",
+    "Duration": 11.6,
+    "Cost": 562.5
+  }
+]

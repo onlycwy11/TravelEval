@@ -1,0 +1,132 @@
+[
+  {
+    "TrainID": "G1554",
+    "TrainType": "高铁",
+    "From": "广州南站",
+    "To": "南京南站",
+    "BeginTime": "06:18",
+    "EndTime": "13:33",
+    "Duration": 7.25,
+    "Cost": 708.0
+  },
+  {
+    "TrainID": "G1746",
+    "TrainType": "高铁",
+    "From": "广州南站",
+    "To": "南京南站",
+    "BeginTime": "06:55",
+    "EndTime": "14:50",
+    "Duration": 7.92,
+    "Cost": 660.0
+  },
+  {
+    "TrainID": "K528",
+    "TrainType": "快速",
+    "From": "广州白云站",
+    "To": "南京站",
+    "BeginTime": "08:18",
+    "EndTime": "07:40",
+    "Duration": 23.4,
+    "Cost": 213.0
+  },
+  {
+    "TrainID": "T152",
+    "TrainType": "特快",
+    "From": "广州白云站",
+    "To": "南京站",
+    "BeginTime": "10:43",
+    "EndTime": "08:47",
+    "Duration": 22.1,
+    "Cost": 192.0
+  },
+  {
+    "TrainID": "G3072",
+    "TrainType": "高铁",
+    "From": "广州东站",
+    "To": "南京南站",
+    "BeginTime": "11:36",
+    "EndTime": "21:46",
+    "Duration": 10.17,
+    "Cost": 883.0
+  },
+  {
+    "TrainID": "G3072",
+    "TrainType": "高铁",
+    "From": "广州新塘站",
+    "To": "南京南站",
+    "BeginTime": "12:03",
+    "EndTime": "21:46",
+    "Duration": 9.72,
+    "Cost": 852.0
+  },
+  {
+    "TrainID": "G3072",
+    "TrainType": "高铁",
+    "From": "广州增城站",
+    "To": "南京南站",
+    "BeginTime": "12:17",
+    "EndTime": "21:46",
+    "Duration": 9.48,
+    "Cost": 838.0
+  },
+  {
+    "TrainID": "G638",
+    "TrainType": "高铁",
+    "From": "广州南站",
+    "To": "南京南站",
+    "BeginTime": "14:50",
+    "EndTime": "22:32",
+    "Duration": 7.7,
+    "Cost": 708.0
+  },
+  {
+    "TrainID": "G6164",
+    "TrainType": "高铁",
+    "From": "广州南站",
+    "To": "南京南站",
+    "BeginTime": "06:37",
+    "EndTime": "14:50",
+    "Duration": 8.22,
+    "Cost": 664.0
+  },
+  {
+    "TrainID": "G1102",
+    "TrainType": "高铁",
+    "From": "广州南站",
+    "To": "南京南站",
+    "BeginTime": "06:43",
+    "EndTime": "14:50",
+    "Duration": 8.12,
+    "Cost": 674.0
+  },
+  {
+    "TrainID": "G6022",
+    "TrainType": "高铁",
+    "From": "广州南站",
+    "To": "南京南站",
+    "BeginTime": "14:45",
+    "EndTime": "22:32",
+    "Duration": 7.78,
+    "Cost": 725.0
+  },
+  {
+    "TrainID": "G3064",
+    "TrainType": "高铁",
+    "From": "广州增城站",
+    "To": "南京南站",
+    "BeginTime": "07:40",
+    "EndTime": "15:32",
+    "Duration": 7.87,
+    "Cost": 758.0
+  },
+  {
+    "TrainID": "G1132",
+    "TrainType": "高铁",
+    "From": "广州南站",
+    "To": "南京南站",
+    "BeginTime": "13:58",
+    "EndTime": "22:32",
+    "Duration": 8.57,
+    "Cost": 714.0
+  }
+]

@@ -3,15 +3,17 @@ import time
 from typing import Dict, List, Any, Optional
 from datetime import datetime
 
-from .metrics.accuracy import AccuracyMetrics
-from .metrics.constraint import ConstraintMetrics
-from .metrics.time import TimeMetrics
-from .metrics.space import SpaceMetrics
-from .metrics.economy import EconomyMetrics
-from .metrics.utility import UtilityMetrics
-from .utils.config import ConfigManager
-from .utils.validators import DataValidators
-from .utils.plan_extractors import PlanExtractor
+from core.metrics.accuracy import AccuracyMetrics
+from core.metrics.constraint import ConstraintMetrics
+from core.metrics.time import TimeMetrics
+from core.metrics.space import SpaceMetrics
+from core.metrics.economy import EconomyMetrics
+from core.metrics.utility import UtilityMetrics
+from core.utils.config import ConfigManager
+from core.utils.data_loader import DataLoader
+from core.utils.validators import DataValidators
+from core.utils.plan_extractors import PlanExtractor
+from core.utils.result_writer import ExcelResultWriter
 
 
 class TravelPlanEvaluator:
@@ -19,7 +21,7 @@ class TravelPlanEvaluator:
     AI旅行规划评估器
     """
 
-    def __init__(self, config: Optional[Dict[str, Any]] = None):
+    def __init__(self, config: Optional[Dict[str, Any]] = None, excel_output_path: str = "evaluation_results.xlsx"):
         """
         初始化评估器
 
@@ -41,14 +43,19 @@ class TravelPlanEvaluator:
             'utility': UtilityMetrics(self.config_manager)
         }
 
+        self.data_loader = DataLoader()
         self.validators = DataValidators()
+
+        # 初始化Excel写入器
+        self.excel_writer = ExcelResultWriter(excel_output_path)
 
         print("TravelPlanEvaluator 初始化完成")
 
     def evaluate_single_plan(self,
                              user_query: Dict[str, Any],
                              ai_plan: Dict[str, Any],
-                             sandbox_data: Dict[str, Any]) -> Dict[str, Any]:
+                             sandbox_data: Dict[str, Any],
+                             save_to_excel: bool = True) -> Dict[str, Any]:
         """
         评估单个规划方案
 
@@ -56,29 +63,12 @@ class TravelPlanEvaluator:
             user_query: 用户提问数据
             ai_plan: AI生成的规划方案
             sandbox_data: 沙盒数据（景点、交通等真实数据）
+            save_to_excel: 保存方式
 
         Returns:
             评估结果字典
         """
         start_time = time.time()
-
-        # 验证输入数据
-        is_valid_query, query_errors = self.validators.validate_user_query(user_query)
-        is_valid_plan, plan_errors = self.validators.validate_ai_plan(ai_plan)
-
-        if not is_valid_query or not is_valid_plan:
-            return {
-                'query_id': user_query.get('uid', 'unknown'),
-                'evaluation_time': datetime.now().isoformat(),
-                'status': 'error',
-                'errors': {
-                    'query_errors': query_errors,
-                    'plan_errors': plan_errors
-                },
-                'overall_score': 0,
-                'dimension_scores': {},
-                'detailed_metrics': {}
-            }
 
         # 提取规划方案的关键信息（供各维度指标使用）
         try:
@@ -102,33 +92,28 @@ class TravelPlanEvaluator:
 
         except Exception as e:
             print(f"提取规划方案信息失败: {e}")
-            return {
+            result = {
                 'query_id': user_query.get('uid', 'unknown'),
-                'plan_id': ai_plan.get('query_uid', 'unknown'),
                 'evaluation_time': datetime.now().isoformat(),
                 'status': 'error',
                 'error': f"提取规划方案信息失败: {e}",
-                'overall_score': 0,
-                'dimension_scores': {},
+                # 'overall_score': 0,
+                # 'dimension_scores': {},
                 'detailed_metrics': {}
             }
+            if save_to_excel:
+                self.excel_writer.add_evaluation_result(result)
+                self.excel_writer.save_to_excel()
+            return result
 
         # 执行各维度评估
         results = {
             'query_id': user_query.get('uid'),
             'evaluation_time': datetime.now().isoformat(),
             'status': 'success',
-            'dimension_scores': {},
+            'error': "",
+            # 'dimension_scores': {},
             'detailed_metrics': {},
-            'extraction_info': {
-                'total_days': len(daily_attractions),
-                'total_attractions': len(attraction_sequence),
-                'daily_attraction_counts': {day: len(atts) for day, atts in daily_attractions.items()}
-            },
-            'validation': {
-                'query_valid': is_valid_query,
-                'plan_valid': is_valid_plan
-            }
         }
 
         try:
@@ -156,15 +141,21 @@ class TravelPlanEvaluator:
         except Exception as e:
             results['status'] = 'error'
             results['error'] = str(e)
-            results['overall_score'] = 0
+            # results['overall_score'] = 0
             print(f"评估过程中发生错误: {e}")
+
+        # 保存到Excel
+        if save_to_excel:
+            self.excel_writer.all_results = []
+            self.excel_writer.add_evaluation_result(results)
+            self.excel_writer.save_to_excel()
 
         return results
 
     def evaluate_batch(self,
                        queries: Dict[str, Any],
                        plans: Dict[str, Dict[str, Any]],
-                       sandbox_data: Dict[str, Any]) -> Dict[str, Any]:
+                       batch_save_to_excel: bool = False) -> Dict[str, Any]:
         """
         批量评估多个规划方案
 
@@ -172,6 +163,7 @@ class TravelPlanEvaluator:
             queries: 用户提问列表
             plans: AI方案字典 {query_id: plan}
             sandbox_data: 沙盒数据
+            batch_save_to_excel: 保存方式
 
         Returns:
             批量评估结果
@@ -194,10 +186,38 @@ class TravelPlanEvaluator:
         #     if query_id in plans:
         for query_id, itinerary in plans.items():
             # 从用户提问字典中查找对应的用户提问
+            # if query_id not in ["T0219", "T0855", "T0908", "T0957", "T0641", "G32-1", "G32-2", "G32-3", "T0555"]:
+            #     continue
+            # if query_id[0] == 'G' or int(query_id[1:]) <= 450:
+            #     continue
+            # if query_id not in ["T0410"]:
+            #     continue
+
             user_query = queries.get(query_id)
+            count = 1
+            while not user_query and count <= 3:
+                schema = f"_scheme{count}"
+                query_id = query_id.replace(schema, "")
+                user_query = queries.get(query_id)
+                count += 1
+
             if user_query:
-                plan_result = self.evaluate_single_plan(user_query, itinerary, sandbox_data)
-                batch_results['results'][query_id] = plan_result
+                sandbox_data = self.data_loader.load_sandbox_data(itinerary.get('summary').get('destination'))
+                plan_result = self.evaluate_single_plan(user_query, itinerary, sandbox_data, not batch_save_to_excel)
+
+                if query_id in batch_results['results']:
+                    count = 1
+                    new_query_id = f"{query_id}_scheme{count}"
+                    while new_query_id in batch_results['results']:
+                        count += 1
+                        new_query_id = f"{query_id}_scheme{count}"
+                    # 更新plan_result中的query_id
+                    # plan_result['query_id'] = new_query_id
+                    batch_results['results'][new_query_id] = plan_result
+                    print(new_query_id)
+                else:
+                    batch_results['results'][query_id] = plan_result
+                # batch_results['results'][query_id] = plan_result
 
                 if plan_result['status'] == 'success':
                     successful_evaluations += 1
@@ -216,10 +236,29 @@ class TravelPlanEvaluator:
                 #     dim: score / successful_evaluations
                 #     for dim, score in dimension_totals.items()
                 # },
-                'success_rate': successful_evaluations / len(queries)
+                'success_rate': successful_evaluations / len(plans)
             }
 
+        # 批量保存到Excel
+        if batch_save_to_excel:
+            self.excel_writer.all_results = []
+            for query_id, result in batch_results['results'].items():
+                self.excel_writer.add_evaluation_result(result)
+            self.excel_writer.save_to_excel()
+
         return batch_results
+
+    def save_results_to_excel(self):
+        """手动保存结果到Excel"""
+        self.excel_writer.save_to_excel()
+
+    def get_excel_stats(self) -> Dict[str, Any]:
+        """获取Excel统计信息"""
+        return {
+            'total_records': len(self.excel_writer.all_results),
+            'excel_path': self.excel_writer.excel_path,
+            'success_count': sum(1 for r in self.excel_writer.all_results if r.get('status') == 'success')
+        }
 
     def _calculate_overall_score(self, dimension_scores: Dict[str, float]) -> float:
         """

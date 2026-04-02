@@ -1,0 +1,262 @@
+[
+  {
+    "TrainID": "Z112",
+    "TrainType": "直达",
+    "From": "广州白云站",
+    "To": "北京丰台站",
+    "BeginTime": "07:20",
+    "EndTime": "05:28",
+    "Duration": 22.1,
+    "Cost": 251.0
+  },
+  {
+    "TrainID": "G336",
+    "TrainType": "高铁",
+    "From": "广州南站",
+    "To": "北京西站",
+    "BeginTime": "07:22",
+    "EndTime": "17:58",
+    "Duration": 10.6,
+    "Cost": 950.0
+  },
+  {
+    "TrainID": "G1580",
+    "TrainType": "高铁",
+    "From": "广州南站",
+    "To": "北京西站",
+    "BeginTime": "08:09",
+    "EndTime": "19:13",
+    "Duration": 11.07,
+    "Cost": 950.0
+  },
+  {
+    "TrainID": "Z502",
+    "TrainType": "直达",
+    "From": "广州白云站",
+    "To": "北京西站",
+    "BeginTime": "08:32",
+    "EndTime": "06:51",
+    "Duration": 22.3,
+    "Cost": 251.0
+  },
+  {
+    "TrainID": "G82",
+    "TrainType": "高铁",
+    "From": "广州南站",
+    "To": "北京西站",
+    "BeginTime": "08:37",
+    "EndTime": "16:27",
+    "Duration": 7.83,
+    "Cost": 1033.0
+  },
+  {
+    "TrainID": "G338",
+    "TrainType": "高铁",
+    "From": "广州南站",
+    "To": "北京西站",
+    "BeginTime": "11:15",
+    "EndTime": "21:20",
+    "Duration": 10.08,
+    "Cost": 950.0
+  },
+  {
+    "TrainID": "G80",
+    "TrainType": "高铁",
+    "From": "广州南站",
+    "To": "北京西站",
+    "BeginTime": "12:13",
+    "EndTime": "19:30",
+    "Duration": 7.28,
+    "Cost": 1033.0
+  },
+  {
+    "TrainID": "G340",
+    "TrainType": "高铁",
+    "From": "广州南站",
+    "To": "北京西站",
+    "BeginTime": "12:20",
+    "EndTime": "22:50",
+    "Duration": 10.5,
+    "Cost": 950.0
+  },
+  {
+    "TrainID": "G78",
+    "TrainType": "高铁",
+    "From": "广州南站",
+    "To": "北京西站",
+    "BeginTime": "14:16",
+    "EndTime": "21:49",
+    "Duration": 7.55,
+    "Cost": 1033.0
+  },
+  {
+    "TrainID": "G78",
+    "TrainType": "高铁",
+    "From": "广州南站",
+    "To": "北京站",
+    "BeginTime": "14:16",
+    "EndTime": "22:12",
+    "Duration": 7.93,
+    "Cost": 1036.0
+  },
+  {
+    "TrainID": "K600",
+    "TrainType": "快速",
+    "From": "广州白云站",
+    "To": "北京丰台站",
+    "BeginTime": "14:49",
+    "EndTime": "20:53",
+    "Duration": 30.1,
+    "Cost": 251.0
+  },
+  {
+    "TrainID": "D36",
+    "TrainType": "动车",
+    "From": "广州白云站",
+    "To": "北京西站",
+    "BeginTime": "16:00",
+    "EndTime": "13:45",
+    "Duration": 21.8,
+    "Cost": 325.0
+  },
+  {
+    "TrainID": "Z14",
+    "TrainType": "直达",
+    "From": "广州白云站",
+    "To": "北京丰台站",
+    "BeginTime": "17:08",
+    "EndTime": "15:15",
+    "Duration": 22.1,
+    "Cost": 251.0
+  },
+  {
+    "TrainID": "D902",
+    "TrainType": "动车",
+    "From": "广州站",
+    "To": "北京西站",
+    "BeginTime": "19:55",
+    "EndTime": "06:32",
+    "Duration": 10.6,
+    "Cost": 740.0
+  },
+  {
+    "TrainID": "D922",
+    "TrainType": "动车",
+    "From": "广州南站",
+    "To": "北京西站",
+    "BeginTime": "20:04",
+    "EndTime": "06:22",
+    "Duration": 10.3,
+    "Cost": 709.0
+  },
+  {
+    "TrainID": "D904",
+    "TrainType": "动车",
+    "From": "广州站",
+    "To": "北京西站",
+    "BeginTime": "20:05",
+    "EndTime": "06:43",
+    "Duration": 10.6,
+    "Cost": 703.0
+  },
+  {
+    "TrainID": "D924",
+    "TrainType": "动车",
+    "From": "广州南站",
+    "To": "北京西站",
+    "BeginTime": "20:12",
+    "EndTime": "06:27",
+    "Duration": 10.2,
+    "Cost": 709.0
+  },
+  {
+    "TrainID": "D902",
+    "TrainType": "动车",
+    "From": "广州北站",
+    "To": "北京西站",
+    "BeginTime": "20:21",
+    "EndTime": "06:32",
+    "Duration": 10.2,
+    "Cost": 730.0
+  },
+  {
+    "TrainID": "D928",
+    "TrainType": "动车",
+    "From": "广州南站",
+    "To": "北京西站",
+    "BeginTime": "20:22",
+    "EndTime": "06:59",
+    "Duration": 10.6,
+    "Cost": 709.0
+  },
+  {
+    "TrainID": "D904",
+    "TrainType": "动车",
+    "From": "广州北站",
+    "To": "北京西站",
+    "BeginTime": "20:29",
+    "EndTime": "06:43",
+    "Duration": 10.2,
+    "Cost": 694.5
+  },
+  {
+    "TrainID": "G898",
+    "TrainType": "高铁",
+    "From": "广州南站",
+    "To": "北京西站",
+    "BeginTime": "21:25",
+    "EndTime": "06:53",
+    "Duration": 9.5,
+    "Cost": 775.0
+  },
+  {
+    "TrainID": "D928",
+    "TrainType": "动车",
+    "From": "广州南站",
+    "To": "北京站",
+    "BeginTime": "20:22",
+    "EndTime": "07:29",
+    "Duration": 11.1,
+    "Cost": 713.0
+  },
+  {
+    "TrainID": "G6032",
+    "TrainType": "高铁",
+    "From": "广州南站",
+    "To": "北京西站",
+    "BeginTime": "20:00",
+    "EndTime": "06:10",
+    "Duration": 10.2,
+    "Cost": 838.0
+  },
+  {
+    "TrainID": "G1118",
+    "TrainType": "高铁",
+    "From": "广州北站",
+    "To": "北京西站",
+    "BeginTime": "18:05",
+    "EndTime": "06:10",
+    "Duration": 12.1,
+    "Cost": 757.0
+  },
+  {
+    "TrainID": "G1128",
+    "TrainType": "高铁",
+    "From": "广州北站",
+    "To": "北京西站",
+    "BeginTime": "18:28",
+    "EndTime": "06:10",
+    "Duration": 11.7,
+    "Cost": 786.0
+  },
+  {
+    "TrainID": "G80",
+    "TrainType": "高铁",
+    "From": "广州南站",
+    "To": "北京大兴站",
+    "BeginTime": "12:13",
+    "EndTime": "20:17",
+    "Duration": 8.07,
+    "Cost": 1043.0
+  }
+]

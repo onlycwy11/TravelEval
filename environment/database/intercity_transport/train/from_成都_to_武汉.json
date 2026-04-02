@@ -1,0 +1,362 @@
+[
+  {
+    "TrainID": "D3058",
+    "TrainType": "动车",
+    "From": "成都东站",
+    "To": "武汉汉口站",
+    "BeginTime": "06:10",
+    "EndTime": "15:27",
+    "Duration": 9.28,
+    "Cost": 375.0
+  },
+  {
+    "TrainID": "D2244",
+    "TrainType": "动车",
+    "From": "成都东站",
+    "To": "武汉汉口站",
+    "BeginTime": "06:24",
+    "EndTime": "15:54",
+    "Duration": 9.5,
+    "Cost": 375.0
+  },
+  {
+    "TrainID": "D2244",
+    "TrainType": "动车",
+    "From": "成都东站",
+    "To": "武汉站",
+    "BeginTime": "06:24",
+    "EndTime": "16:24",
+    "Duration": 10.0,
+    "Cost": 388.0
+  },
+  {
+    "TrainID": "D620",
+    "TrainType": "动车",
+    "From": "成都东站",
+    "To": "武汉汉口站",
+    "BeginTime": "07:00",
+    "EndTime": "15:22",
+    "Duration": 8.37,
+    "Cost": 375.0
+  },
+  {
+    "TrainID": "D620",
+    "TrainType": "动车",
+    "From": "成都东站",
+    "To": "武汉站",
+    "BeginTime": "07:00",
+    "EndTime": "15:54",
+    "Duration": 8.9,
+    "Cost": 388.0
+  },
+  {
+    "TrainID": "D638",
+    "TrainType": "动车",
+    "From": "成都东站",
+    "To": "武汉汉口站",
+    "BeginTime": "07:10",
+    "EndTime": "16:42",
+    "Duration": 9.53,
+    "Cost": 375.0
+  },
+  {
+    "TrainID": "D2224",
+    "TrainType": "动车",
+    "From": "成都东站",
+    "To": "武汉汉口站",
+    "BeginTime": "07:36",
+    "EndTime": "16:21",
+    "Duration": 8.75,
+    "Cost": 375.0
+  },
+  {
+    "TrainID": "D954",
+    "TrainType": "动车",
+    "From": "成都东站",
+    "To": "武汉汉口站",
+    "BeginTime": "07:47",
+    "EndTime": "15:43",
+    "Duration": 7.93,
+    "Cost": 375.0
+  },
+  {
+    "TrainID": "D354",
+    "TrainType": "动车",
+    "From": "成都东站",
+    "To": "武汉汉口站",
+    "BeginTime": "07:52",
+    "EndTime": "16:48",
+    "Duration": 8.93,
+    "Cost": 375.0
+  },
+  {
+    "TrainID": "D2208",
+    "TrainType": "动车",
+    "From": "成都东站",
+    "To": "武汉汉口站",
+    "BeginTime": "08:03",
+    "EndTime": "16:53",
+    "Duration": 8.83,
+    "Cost": 375.0
+  },
+  {
+    "TrainID": "D2256",
+    "TrainType": "动车",
+    "From": "成都东站",
+    "To": "武汉汉口站",
+    "BeginTime": "08:09",
+    "EndTime": "17:53",
+    "Duration": 9.73,
+    "Cost": 375.0
+  },
+  {
+    "TrainID": "D2374",
+    "TrainType": "动车",
+    "From": "成都东站",
+    "To": "武汉汉口站",
+    "BeginTime": "08:15",
+    "EndTime": "17:17",
+    "Duration": 9.03,
+    "Cost": 375.0
+  },
+  {
+    "TrainID": "G3479",
+    "TrainType": "高铁",
+    "From": "成都东站",
+    "To": "武汉汉口站",
+    "BeginTime": "08:42",
+    "EndTime": "16:37",
+    "Duration": 7.92,
+    "Cost": 653.0
+  },
+  {
+    "TrainID": "D362",
+    "TrainType": "动车",
+    "From": "成都东站",
+    "To": "武汉汉口站",
+    "BeginTime": "08:52",
+    "EndTime": "17:12",
+    "Duration": 8.33,
+    "Cost": 375.0
+  },
+  {
+    "TrainID": "D3078",
+    "TrainType": "动车",
+    "From": "成都东站",
+    "To": "武汉汉口站",
+    "BeginTime": "09:12",
+    "EndTime": "18:21",
+    "Duration": 9.15,
+    "Cost": 375.0
+  },
+  {
+    "TrainID": "D2238",
+    "TrainType": "动车",
+    "From": "成都东站",
+    "To": "武汉汉口站",
+    "BeginTime": "09:17",
+    "EndTime": "17:58",
+    "Duration": 8.68,
+    "Cost": 375.0
+  },
+  {
+    "TrainID": "D2238",
+    "TrainType": "动车",
+    "From": "成都东站",
+    "To": "武汉站",
+    "BeginTime": "09:17",
+    "EndTime": "18:34",
+    "Duration": 9.28,
+    "Cost": 388.0
+  },
+  {
+    "TrainID": "D2260",
+    "TrainType": "动车",
+    "From": "成都东站",
+    "To": "武汉汉口站",
+    "BeginTime": "10:18",
+    "EndTime": "19:03",
+    "Duration": 8.75,
+    "Cost": 375.0
+  },
+  {
+    "TrainID": "K1258",
+    "TrainType": "快速",
+    "From": "成都西站",
+    "To": "武汉武昌站",
+    "BeginTime": "10:37",
+    "EndTime": "04:19",
+    "Duration": 17.7,
+    "Cost": 152.5
+  },
+  {
+    "TrainID": "K424",
+    "TrainType": "快速",
+    "From": "成都西站",
+    "To": "武汉武昌站",
+    "BeginTime": "10:50",
+    "EndTime": "08:11",
+    "Duration": 21.4,
+    "Cost": 177.5
+  },
+  {
+    "TrainID": "D368",
+    "TrainType": "动车",
+    "From": "成都东站",
+    "To": "武汉汉口站",
+    "BeginTime": "10:50",
+    "EndTime": "19:28",
+    "Duration": 8.63,
+    "Cost": 375.0
+  },
+  {
+    "TrainID": "D368",
+    "TrainType": "动车",
+    "From": "成都东站",
+    "To": "武汉站",
+    "BeginTime": "10:50",
+    "EndTime": "20:22",
+    "Duration": 9.53,
+    "Cost": 388.0
+  },
+  {
+    "TrainID": "D633",
+    "TrainType": "动车",
+    "From": "成都南站",
+    "To": "武汉汉口站",
+    "BeginTime": "12:01",
+    "EndTime": "22:00",
+    "Duration": 9.98,
+    "Cost": 383.0
+  },
+  {
+    "TrainID": "D632",
+    "TrainType": "动车",
+    "From": "成都东站",
+    "To": "武汉汉口站",
+    "BeginTime": "12:23",
+    "EndTime": "22:00",
+    "Duration": 9.62,
+    "Cost": 375.0
+  },
+  {
+    "TrainID": "D50",
+    "TrainType": "动车",
+    "From": "成都东站",
+    "To": "武汉汉口站",
+    "BeginTime": "13:01",
+    "EndTime": "23:03",
+    "Duration": 10.03,
+    "Cost": 190.0
+  },
+  {
+    "TrainID": "Z390",
+    "TrainType": "直达",
+    "From": "成都西站",
+    "To": "武汉武昌站",
+    "BeginTime": "13:56",
+    "EndTime": "09:51",
+    "Duration": 19.9,
+    "Cost": 177.5
+  },
+  {
+    "TrainID": "G3465",
+    "TrainType": "高铁",
+    "From": "成都东站",
+    "To": "武汉汉口站",
+    "BeginTime": "16:29",
+    "EndTime": "23:28",
+    "Duration": 6.98,
+    "Cost": 571.0
+  },
+  {
+    "TrainID": "K530",
+    "TrainType": "快速",
+    "From": "成都西站",
+    "To": "武汉武昌站",
+    "BeginTime": "17:59",
+    "EndTime": "10:27",
+    "Duration": 16.5,
+    "Cost": 183.5
+  },
+  {
+    "TrainID": "D194",
+    "TrainType": "动车",
+    "From": "成都东站",
+    "To": "武汉武昌站",
+    "BeginTime": "18:05",
+    "EndTime": "07:47",
+    "Duration": 13.7,
+    "Cost": 226.0
+  },
+  {
+    "TrainID": "K352",
+    "TrainType": "快速",
+    "From": "成都西站",
+    "To": "武汉武昌站",
+    "BeginTime": "18:57",
+    "EndTime": "16:42",
+    "Duration": 21.8,
+    "Cost": 177.5
+  },
+  {
+    "TrainID": "T126",
+    "TrainType": "特快",
+    "From": "成都西站",
+    "To": "武汉武昌站",
+    "BeginTime": "21:53",
+    "EndTime": "15:11",
+    "Duration": 17.3,
+    "Cost": 183.5
+  },
+  {
+    "TrainID": "D954",
+    "TrainType": "动车",
+    "From": "成都东站",
+    "To": "武汉汉口站",
+    "BeginTime": "07:47",
+    "EndTime": "16:10",
+    "Duration": 8.38,
+    "Cost": 375.0
+  },
+  {
+    "TrainID": "D362",
+    "TrainType": "动车",
+    "From": "成都东站",
+    "To": "武汉汉口站",
+    "BeginTime": "08:52",
+    "EndTime": "17:22",
+    "Duration": 8.5,
+    "Cost": 536.0
+  },
+  {
+    "TrainID": "D620",
+    "TrainType": "动车",
+    "From": "成都东站",
+    "To": "武汉汉口站",
+    "BeginTime": "07:00",
+    "EndTime": "15:54",
+    "Duration": 8.9,
+    "Cost": 375.0
+  },
+  {
+    "TrainID": "D2260",
+    "TrainType": "动车",
+    "From": "成都东站",
+    "To": "武汉汉口站",
+    "BeginTime": "10:18",
+    "EndTime": "19:13",
+    "Duration": 8.92,
+    "Cost": 375.0
+  },
+  {
+    "TrainID": "D2238",
+    "TrainType": "动车",
+    "From": "成都东站",
+    "To": "武汉汉口站",
+    "BeginTime": "09:17",
+    "EndTime": "18:13",
+    "Duration": 8.93,
+    "Cost": 375.0
+  }
+]

@@ -1,0 +1,414 @@
+﻿id,name,hotelname_en,featurehoteltype,lat,lon,single_room_price,single_room_stock,king_room_price,king_room_stock,double_bed_price,double_bed_stock,family_room_price,family_room_stock
+0,苏州东太湖智选假日酒店,Holiday Inn Express Suzhou East Taihu,窗外好景,31.135196,120.609697,370,2,410,3,446,1,607,2
+1,苏州王府金科大酒店,Wangfu Jinke Grand Hotel,泳池,31.311184,120.56302,394,0,437,1,475,5,646,0
+2,金海华LOHAS 华屿东方酒店,LOHAS Boutique Hotel,桑拿,31.369784,120.612686,446,0,494,1,537,0,730,1
+3,苏州新城花园丽呈华廷酒店,New City Grand Rezen Hotel,泳池,31.29382,120.571776,508,0,563,0,612,0,832,2
+4,苏州平江华府酒店,Hovle Mansion Club & Hotel,管家服务,31.315502,120.632191,545,1,604,5,657,1,894,1
+5,嘉宝酒店(苏州观前街十全街店),Garbo Hotel (Suzhou Guanqian Street Shiquan Street Branch),免费停车,31.292336,120.635666,230,2,255,0,277,0,377,0
+6,苏州金鸡湖希尔顿欢朋酒店,Hampton by Hilton Suzhou Jinji Lake,免费停车,31.317061,120.64897,447,1,495,1,538,1,732,1
+7,苏州金鸡湖馨乐庭公寓酒店,Citadines Suzhou Jinji Lake,泳池,31.304919,120.652643,380,2,421,2,458,2,623,0
+8,苏州吴中希尔顿欢朋酒店,Hampton by Hilton Hotel Wuzhong Suzhou,免费停车,31.266496,120.640027,413,1,458,1,498,3,677,2
+9,苏州金鸡湖美居酒店,Mercure Hotel Suzhou Jinji Lake,机器人服务,31.314154,120.666695,427,0,473,0,514,3,699,0
+10,苏州吴宫泛太平洋酒店,Pan Pacific Suzhou,泳池,31.290418,120.617053,447,1,496,2,539,2,733,1
+11,苏州新区希尔顿欢朋酒店,Hampton by Hilton Suzhou New District,免费停车,31.308035,120.55284,405,1,449,0,488,0,664,0
+12,苏州高铁金科大酒店,Jinke Grand Hotel,SPA,31.418638,120.644202,437,0,484,1,526,0,715,2
+13,昆山城东开发区亚朵酒店,Atour,免费停车,31.373665,121.02288,320,4,354,2,385,1,524,1
+14,安渡酒店(苏州观前街七里山塘店),ANDU HOTEL,管家服务,31.309835,120.610932,298,0,330,1,359,1,488,1
+15,苏州日航酒店,Hotel Nikko Suzhou,桑拿,31.29459,120.549399,459,2,509,2,553,0,752,2
+16,维也纳国际酒店(苏州火车站北广场店),Vienna International Hotel (Suzhou Railway Station North Square),免费停车,31.333565,120.610404,270,1,299,1,325,3,442,3
+17,昆山金陵大饭店,Jinling Grand Hotel,SPA,31.383518,121.035079,413,1,457,0,497,0,676,0
+18,苏州温德姆花园酒店,Wyndham Garden Suzhou,桑拿,31.307525,120.626181,420,2,466,1,506,0,688,0
+19,苏州山塘街华贸姑苏里服务公寓,Suzhou Shantang Street Huamao Gusuli Service Apartment,网红泳池,31.309887,120.597693,454,0,503,0,547,1,744,0
+20,苏州吴宫御宴酒店,Suzhou Wugong Royal Banquet Hotel,泳池,31.290846,120.618059,401,1,444,1,483,3,657,1
+21,苏州吴江宾馆,Wujiang Hotel,免费停车,31.155916,120.638063,369,1,408,0,444,1,604,1
+22,苏州太湖香山国际大酒店,Suzhou Taihu Xiangshan International Hotel,泳池,31.213292,120.410719,373,1,413,2,449,2,611,2
+23,苏州雅辰悦居酒店,Artyzen Habitat Suzhou,免费停车,31.294461,120.635651,410,1,454,4,494,1,672,0
+24,苏州胥城书香世家酒店,Suzhou xuccheng Shuxiang Shijia Hotel,免费停车,31.29818,120.598846,322,1,357,4,388,0,528,2
+25,苏州石湖金陵花园酒店,Jingling Shihu Garden Hotel,湖景房,31.216058,120.603564,422,0,467,1,508,2,691,0
+26,苏州观前街乐桥地铁站亚朵酒店,"Atour Hotel, leqiao subway station, Guanqian Street, Suzhou",免费停车,31.30049,120.618798,349,3,386,0,420,0,571,1
+27,昆山高新万象汇美居酒店,Mercure Kunshan High-tech Vientiane Hui Hotel,免费停车,31.383106,120.920697,344,1,381,0,414,1,563,0
+28,桔子水晶苏州观前街酒店,Orange Crystal Suzhou Guanqian Street Hotel,家庭房,31.307047,120.623281,344,0,381,0,414,0,563,6
+29,苏州金鸡湖博览中心亚朵酒店,Atour Hotel (Suzhou Jinjihu Expo Center),免费停车,31.322437,120.7178,400,4,443,2,482,0,656,2
+30,苏州书香府邸平江府,Scholars Hotel Suzhou Pingjiangfu,园林建筑,31.319214,120.633164,580,0,643,2,699,2,951,1
+31,苏州石路山塘街亚朵酒店,"Yaduo Hotel Shantang Street, Shi Road, Suzhou",免费停车,31.313055,120.602502,378,0,420,2,456,0,620,3
+32,苏州阳澄喜柯大酒店(阳澄湖店),Siko Grand Hotel Suzhou Yangcheng,泳池,31.44723,120.772653,378,2,420,0,456,0,620,1
+33,苏州南园宾馆,Garden Hotel SUZHOU,泳池,31.297513,120.632048,518,1,574,0,624,1,849,0
+34,苏州文博诺富特酒店,Novotel Suzhou SIP,泳池,31.323661,120.705129,567,3,628,1,683,1,929,0
+35,苏州香格里拉大酒店,"Shangri-La Hotel, Suzhou",桑拿,31.292356,120.558727,558,1,618,2,672,0,914,2
+36,苏州希尔顿酒店,Hilton Suzhou,泳池,31.324062,120.734159,550,2,610,0,663,2,902,0
+37,苏州太湖高尔夫酒店,Taihu Golf Hotel,桑拿,31.218276,120.391896,455,2,504,1,548,1,745,1
+38,苏州观前街亚朵酒店,Atour Hotel (Suzhou Guanqian Street),免费停车,31.313323,120.626408,385,3,427,0,464,2,631,1
+39,苏州古运河逸衡酒店,Even Hotel Suzhou Grand Canal·Suoshanqiao West subway station,免费停车,31.283708,120.574249,378,1,419,1,455,0,619,0
+40,苏州工业园区智选假日酒店(苏州奥林匹克体育中心店),Holiday Inn Express Suzhou Industrial Park (Suzhou Olympic Center Store),免费停车,31.307738,120.747455,414,0,459,0,499,4,679,2
+41,苏州太湖假日酒店,Holiday Inn Suzhou Taihu Lake,免费停车,31.225416,120.448455,407,1,451,0,490,0,666,2
+42,苏州树山书香世家温泉酒店,Scholars Shushan Hot Springs Resort,山景房,31.367893,120.461079,414,3,459,0,499,0,679,0
+43,苏州盛捷绿宝广场酒店公寓,Somerset Emerald City,免费停车,31.302167,120.549476,376,1,417,0,453,0,616,0
+44,艺漫酒店(苏州平江路景区店),Yiman Hotel (Suzhou Pingjiang Road Scenic Area),免费停车,31.31674,120.633207,437,0,485,1,527,1,717,0
+45,苏州独墅湖高教区亚朵酒店,Atour Hotel Suzhou Dushu Lake Higher Education Area,免费停车,31.286487,120.728882,378,3,420,1,456,0,620,2
+46,苏州山塘江南织造漫心府,Manxin Suzhou Shantang Jiangnan Weaving House Hotel,智能客控,31.31737,120.602416,500,2,555,1,603,1,820,3
+47,苏州工业园区时尚舞台亚朵酒店,"Atour Hotel (Suzhou Industrial Park, Fashion Stage)",免费停车,31.340039,120.820889,377,0,418,0,454,1,617,0
+48,苏州奥克伍德国际酒店公寓,Oakwood Hotel & Residence Suzhou,免费停车,31.261185,120.720506,429,4,476,1,517,0,703,0
+49,书香世家酒店(苏州月亮湾纳米科技园店),Scholars Hotel (Suzhou Moon Bay Nano Technology Park),免费停车,31.255321,120.732542,356,0,395,0,429,2,583,0
+50,桔子酒店(苏州东沙湖现代大道店),"Orange Hotel (Suzhou Dongsha Lake, Xiandai Avenue)",免费停车,31.333476,120.757489,339,0,376,1,409,1,556,0
+51,苏州汇融广场假日酒店,Holiday Inn Suzhou Huirong Plaza,免费停车,31.37186,120.52812,370,0,410,0,446,1,607,0
+52,同里花间堂·丽则女学,Blossom Hill Tongli,管家服务,31.158081,120.720823,402,2,445,4,484,1,658,0
+53,晗月云酒店(苏州金鸡湖博览中心店),Yueyueyun Hotel (Jinji Lake Expo Center),免费停车,31.321291,120.706569,387,1,429,0,466,2,634,0
+54,隐居酒店(苏州平江路拙政园店),Yinju Hotel,园林建筑,31.320678,120.631771,438,2,486,3,528,2,718,0
+55,苏州阳澄湖套房假日酒店,Holiday Inn & Suites Suzhou Yangcheng Lake,免费停车,31.361444,120.712945,436,0,483,1,525,0,714,4
+56,苏州观园琉苏酒店,Guanyuan Liusu Hotel,免费停车,31.273173,120.723177,488,3,541,0,588,2,800,3
+57,格雷斯精选酒店(苏州工业园区店),Grace Select Hotel (Suzhou Industrial Park),免费停车,31.331109,120.826584,271,3,300,2,326,2,443,0
+58,南大国际学术交流中心,Center for International Academic Exchange,停车场,31.347205,120.38967,440,2,488,0,530,2,721,0
+59,苏州金陵雅都大酒店,Jinling Aster Hotel Suzhou,管家服务,31.299252,120.597638,331,2,367,1,399,2,543,2
+60,安佘酒店(苏州观前街平江路店),ANSHE HOTEL,家庭房,31.309493,120.631759,407,2,451,0,490,1,666,1
+61,昆山假日酒店(昆山南站店),Holiday Inn Kunshan,免费停车,31.353224,120.954567,301,2,334,3,363,2,494,1
+62,苏州金普顿竹辉酒店,Kimpton Bamboo Grove Suzhou,泳池,31.294356,120.637392,1069,1,1185,1,1288,0,1752,0
+63,苏州北寺塔桃花坞大街亚朵酒店,Atour Hotel Suzhou Beisita Taohuawu Street,家庭房,31.322559,120.612803,385,0,427,0,464,0,631,7
+64,苏州金鸡湖中茵皇冠假日酒店,Crowne Plaza Suzhou,SPA,31.322059,120.682537,794,1,880,2,957,1,1302,0
+65,苏州木渎寿桃湖亚朵酒店,Suzhou Mudu Shoutao Lake Atour Hotel,家庭房,31.273436,120.511579,327,0,362,0,394,0,536,6
+66,苏州AC酒店,AC Hotel by Marriott Suzhou,免费停车,31.315103,120.619999,397,1,440,0,478,0,650,0
+67,苏州高铁新城美居酒店,Mercure Suzhou High-speed Railway New Town,免费停车,31.401678,120.641163,339,1,376,1,409,3,556,2
+68,苏州古运河英迪格酒店,"Hotel Indigo Suzhou Grand Canal, an IHG Hotel",泳池,31.296282,120.556326,761,2,844,0,917,0,1247,2
+69,苏州洲际酒店,InterContinental Suzhou,湖畔美居,31.319345,120.710375,713,0,790,2,859,1,1168,1
+70,苏州纽威丽筠酒店,Radisson Suzhou,免费停车,31.334319,120.439762,455,0,504,1,548,1,745,0
+71,苏州尼依格罗酒店,Niccolo Suzhou,泳池,31.322239,120.716577,995,1,1103,1,1199,1,1631,1
+72,苏州W酒店,W Suzhou,桑拿,31.31333,120.679933,995,0,1103,0,1199,1,1631,1
+73,苏州凯悦酒店,Hyatt Regency Suzhou,桑拿,31.323266,120.713523,653,0,724,0,787,1,1070,0
+74,苏州盛捷苏州湾服务公寓,Somerset Suzhou Bay Suzhou,免费停车,31.185491,120.585845,350,2,388,1,422,0,574,1
+75,苏州柏悦酒店,Park Hyatt Suzhou,桑拿,31.313754,120.719405,1315,1,1457,1,1584,2,2154,2
+76,苏州甪直智选假日酒店,Holiday Inn Express Suzhou Luzhi,免费停车,31.2586,120.866044,344,3,381,1,414,1,563,1
+77,苏州华侨饭店(三香广场地铁站店),Suzhou Overseas Chinese Hotel,免费停车,31.29973,120.601557,322,1,357,0,388,0,528,0
+78,苏州太湖知遇美宿民宿(太湖西山岛店),The Taihu Lake Zhiyu Meisu B&B (the Taihu Lake Xishan Island Store),免费停车,31.089386,120.259969,418,2,464,1,504,1,685,0
+79,苏州东太湖大酒店,East Tai Lake Grand Hotel,桑拿,31.120476,120.596552,654,1,725,0,788,2,1072,1
+80,苏州漕湖琉苏酒店,Crystay Hotel & Resort,免费停车,31.480061,120.600701,390,0,432,2,470,3,639,2
+81,苏州金枫路漫心酒店,Manxin Hotel,免费停车,31.271211,120.529374,307,0,340,3,370,1,503,3
+82,苏州独墅湖月亮湾地铁站亚朵酒店,Suzhou Dushu Lake Moon Bay Subway Station Yaduo Hotel,空调,31.260507,120.727032,378,1,419,0,455,3,619,0
+83,苏州金鸡湖凯宾斯基大酒店,Kempinski Hotel Suzhou,泳池,31.282585,120.706228,676,0,749,0,814,0,1107,1
+84,苏州太湖万豪酒店,Suzhou Marriott Hotel Taihu Lake,泳池,31.220144,120.39372,580,2,643,1,699,5,951,0
+85,苏州冶园园林民宿(太湖西山风景区店),Suzhou Yeyuan Garden Homestay (Taihu Xishan Scenic Area),免费停车,31.130299,120.306403,391,0,433,0,471,0,641,1
+86,苏州M SOCIAL千琇悦酒店,M Social Hotel Suzhou,桑拿,31.31751,120.71628,576,0,638,0,694,0,944,2
+87,苏州东山宾馆(叠翠楼),Dongshan Hotel (Diecui Building),山景房,31.095954,120.413241,580,0,643,0,699,1,951,0
+88,苏州寻觅半山民宿,Suzhou Xunmi Banshan Homestay,免费停车,31.121272,120.229357,379,2,420,3,457,0,622,3
+89,苏州天域花园酒店,Tianyu Garden Hotel,免费停车,31.318978,120.674273,462,2,512,1,557,1,758,2
+90,苏州文旅姑苏小院·敬彝堂,Gusu yard Jingyitang Branch,免费停车,31.32402,120.634635,389,1,431,0,469,1,638,0
+91,秋实繁华公馆(苏州山塘街店),Qiushi Fanhua Guesthouse,免费停车,31.318159,120.606767,420,0,466,2,506,1,688,1
+92,苏州四季酒店,Four Seasons Hotel Suzhou,网红泳池,31.30318,120.701669,2004,0,2221,0,2414,2,3283,1
+93,苏州文旅姑苏小院·宣州会馆,Gusu Yard Xuanzhou,免费停车,31.307023,120.617109,373,1,413,1,449,2,611,1
+94,苏州孙武居民宿,Sunwuju Boutique Hostel,免费停车,31.254182,120.432617,415,0,460,0,500,0,680,1
+95,震泽博阳开元名庭酒店,Maison New Century Hotel Zhenze Suzhou,亲子主题房,30.913517,120.500761,310,0,343,0,373,0,507,8
+96,苏州金鸡湖托尼洛·兰博基尼书苑酒店,Tonino Lamborghini Hotel Suzhou,园林建筑,31.320913,120.68224,746,1,827,3,899,0,1223,2
+97,苏州金融小镇会议中心,SuZhou Finance Town Conference Center,泳池,31.316819,120.435264,413,1,458,0,498,1,677,2
+98,苏州金鸡湖星海广场地铁站亚朵轻居酒店,Suzhou Jinji Lake Xinghai Square Metro Station Light Residence Hotel,家庭房,31.315114,120.671723,385,3,427,0,464,0,631,4
+99,苏州园区香格里拉大酒店,"Shangri-La Hotel, Suzhou Yuanqu",泳池,31.324412,120.715424,637,0,707,1,768,2,1044,0
+100,涵玉晓筑,Suzhou Jade Resort,管家服务,31.211166,120.411069,2646,1,2933,1,3188,2,4336,0
+101,苏州湾恒力大酒店,HENGLI HOTEL,泳池,31.135839,120.587692,645,3,715,2,777,3,1057,0
+102,苏州知音华美达酒店,Ramada by Wyndham Suzhou Wujiang,免费停车,30.904692,120.641514,388,1,430,1,467,0,635,0
+103,苏州筱驻人文度假酒店,Sojourn Resorts,管家服务,31.251724,120.510029,434,0,481,1,523,2,711,2
+104,苏州太湖万丽酒店,Renaissance Suzhou Taihu Lake Hotel,泳池,31.220124,120.393702,600,1,665,3,723,1,983,1
+105,苏州戴斯酒店,Days Hotel Suzhou,免费停车,31.358922,120.607198,270,1,299,3,325,2,442,2
+106,苏州禧呈悦酒店(金鸡湖斜塘老街店),Suzhou Xichengyue Hotel (Jinjihu Xietang Old Street Branch),园林建筑,31.302857,120.740587,505,0,559,0,608,1,827,1
+107,苏州太美逸郡酒店,G-luxe By Gloria Suzhou Taimei,私人泳池,31.21826,120.384013,1315,1,1457,3,1584,3,2154,1
+108,苏州金鸡湖安榭度假酒店,ANNSHE HOTELS & RESORTS,免费停车,31.301808,120.695618,394,1,437,1,475,3,646,0
+109,苏州太湖诺富特温泉酒店,Novotel Suzhou Tai Lake Santeh,泳池,31.195262,120.48737,547,1,606,1,659,3,896,1
+110,同里湖度假村(二期),Tongli Lake Resort (Phase II),桑拿,31.156891,120.728327,520,0,577,1,627,1,853,2
+111,锦江之星风尚(苏州园区独墅湖高教区店),Jinjiang Inn Select (Suzhou Industrial Park Dushu Lake Gaojiao Area 4S),免费停车,31.264782,120.746466,286,0,317,2,345,4,469,1
+112,苏州湾华邑温泉度假酒店,HUALUXE Suzhou Bay Hot Spring Resort,泳池,31.080675,120.588221,617,1,684,0,743,2,1010,0
+113,苏州狮山悦榕庄,Banyan Tree Suzhou Shishan,网红泳池,31.287425,120.545112,1868,4,2071,1,2251,1,3061,2
+114,苏州水中天度假村,SANGHA Retreat by OCTAVE Institute,桑拿,31.387638,120.790509,5793,3,6422,1,6980,3,9493,0
+115,苏州山塘书香府邸,Scholar Shan Tang Hotel,Boss推荐,31.31666,120.603173,754,1,835,3,908,1,1235,2
+116,苏州国际会议酒店,Suzhou International Conference Hotel,湖景房,31.433072,120.652641,580,3,643,2,699,0,951,1
+117,苏州苏苑饭店,Suyuan Hotel,免费停车,31.273583,120.629068,281,1,312,0,339,2,461,1
+118,苏州独墅湖世尊酒店,Worldhotel Grand Dushu Lake Suzhou,泳池,31.265918,120.721396,504,1,558,1,607,0,826,2
+119,苏州新区都喜天丽酒店,Dusit Thani  Suzhou,SPA,31.366643,120.463891,654,2,725,0,788,3,1072,2
+120,全季酒店(苏州狮山永利广场店),All Seasons Hotel (Suzhou Shishan Yongli Plaza),免费停车,31.290721,120.575039,365,0,405,0,440,1,598,0
+121,苏州福朋喜来登酒店,Four Points by Sheraton Suzhou,泳池,31.261172,120.722267,513,1,569,0,618,1,840,1
+122,苏州金鸡湖大酒店,Jinji Lake Grand Hotel,泳池,31.285195,120.714001,660,2,731,1,795,2,1081,0
+123,苏州文旅·漫山岛,Suzhou cultural·Manshan Island,湖景房,31.244182,120.287459,576,2,638,1,694,0,944,1
+124,苏州万豪酒店,Suzhou Marriott Hotel,泳池,31.302632,120.583105,533,2,591,0,642,0,873,1
+125,苏州观前平江CitiGO欢阁酒店,CitiGO Hotel Downtown Suzhou,免费停车,31.308031,120.63509,248,0,275,2,299,0,407,1
+126,湖与民宿(太湖西山店),HUYU,免费停车,31.139314,120.255617,1152,1,1277,1,1388,1,1888,1
+127,苏州畅园有熊酒店,Jiangnan House Changyuan,窗外好景,31.30316,120.614469,1389,1,1539,2,1673,2,2275,0
+128,三山岛·墨市·设计师民宿(苏州太湖店),Sanshan Island·Moshi Designer B&B,家庭房,31.02592,120.295113,1053,0,1167,1,1269,2,1726,4
+129,三山岛·呼梦集·泳池城堡·设计师民宿(苏州太湖店),Sanshan Island HoldDream Designer Castel Homestay,日光浴场,31.026788,120.2967,1261,1,1397,1,1519,0,2066,2
+130,苏州涵园假日酒店,Suzhou Hanyuan Holiday Hotel,充电桩,31.079855,120.29157,432,1,479,3,521,0,709,0
+131,SICILY西西里湖景民宿(太湖西山店),SICILY Sicily Lake View Homestay (Taihu Xishan Branch),网红泳池,31.157608,120.285421,979,1,1086,0,1180,2,1605,0
+132,苏州金鸡湖英迪格酒店,Hotel Indigo Suzhou Jinji Lake,窗外好景,31.314812,120.716222,886,1,983,0,1068,0,1452,0
+133,苏州狮山悦椿酒店,Angsana Suzhou Shishan,网红泳池,31.287425,120.545112,828,1,917,1,997,1,1356,1
+134,苏州平江路颐和松茂居,Yihe Riverside,家庭房,31.315697,120.632912,1096,0,1214,0,1320,0,1795,2
+135,苏州青普文化行馆皇家驿栈,Qingpu Culture Museum Royal Inn,湖景房,31.251072,120.511989,1111,2,1231,4,1338,1,1820,0
+136,苏州湾恒力悠客酒店公寓,RESIDENCE HOTEL UCAN SUZHOU BAY,网红泳池,31.134941,120.588333,331,0,367,0,399,2,543,2
+137,苏州中心大酒店,Suzhou Central Hotel,免费停车,31.30135,120.618084,427,0,474,0,515,1,700,2
+138,湖畔秘境·苏州微微联伙墅家同里社,Lakeside Secret Land Suzhou Corefire Villafound Tongli,泳池,31.166967,120.815612,820,0,909,0,988,2,1344,0
+139,苏州金陵南林饭店,Jinling Nanlin Hotel,免费停车,31.299822,120.631075,285,0,316,3,343,2,466,2
+140,苏州悦季望湖酒店,Suzhou YUE’J Wang Hu Hotel,泳池,31.409718,120.409441,598,3,662,0,720,1,979,0
+141,苏州石湖希尔顿欢朋酒店,Hampton by Hilton Suzhou Stone Lake,免费停车,31.209706,120.592192,310,1,343,1,373,0,507,1
+142,美豪丽致酒店(苏州太湖店),Mehood Lestie Hotel (Suzhou Taihu),免费停车,31.225101,120.468541,248,1,275,2,299,3,407,1
+143,苏州东太湖皇冠假日酒店,Crowne Plaza Suzhou East Taihu,窗外好景,31.135196,120.609697,607,1,673,0,731,0,994,0
+144,桔子酒店(苏州绿宝广场店),Orange Hotel (Suzhou Lvbao Plaza),免费停车,31.302279,120.550226,266,1,295,1,321,4,437,1
+145,丽呈别院(苏州山塘街园林文化店),Lichengbieyuan (Suzhou Shantang Street Gardens Culture Shop),免费停车,31.317845,120.606341,342,1,379,3,412,2,560,2
+146,中海海堂服务式公寓(苏州工业园区奥体中心店),Zhonghai Haitang Serviced Apartment (Suzhou Olympic Stadium),免费停车,31.304911,120.753415,380,0,421,0,458,0,623,3
+147,苏州独墅湖大道翰林邻里中心亚朵酒店,Suzhou Dushu Lake Avenue Hanlin Neighborhood Center Atour Hotel,停车场,31.275737,120.746041,373,3,413,1,449,0,611,2
+148,苏州文旅姑苏小院·万年桥酒店,Floral Hotel·Suzhou wannianqiao Hotel (Guanqian Street store),动人夜景,31.299725,120.611923,269,2,298,0,324,0,441,1
+149,青澄美程酒店(苏州金鸡湖李公堤南地铁站店),Mechar Hotel(Suzhou Jinji Lake Ligongdi South Metro Station),充电桩,31.297293,120.694675,322,1,357,2,388,0,528,0
+150,花筑奢·苏州墨客园园林文化酒店,Floral Lux Hotel·Suzhou Moke Garden Garden Culture Hotel,免费停车,31.315339,120.634393,1540,0,1708,1,1856,0,2524,2
+151,维也纳国际酒店(苏州大学城越溪地铁站店),Vienna International Hotel (Suzhou University Town Yuexi subway station store),儿童乐园,31.215279,120.599357,221,1,245,3,266,0,362,1
+152,柏宜酒店(苏州金鸡湖博览中心店),Peace & Ease Hotel (Suzhou Jinji Lake Expo Center),免费停车,31.322691,120.718487,271,2,301,1,327,2,445,1
+153,苏州JW·棕榈湾民宿,JW Palm Bay Homestay,免费停车,31.127038,120.242044,1975,2,2190,1,2380,1,3237,1
+154,乐选酒店(苏州金鸡湖东方之门地铁站店),Le Xuan Hotel,免费停车,31.31628,120.681168,241,3,267,1,290,1,394,0
+155,苏州文旅姑苏小院·山塘人家,Blossom Hill Inn · Shantang,江河景房,31.316092,120.603721,674,5,747,0,812,1,1104,2
+156,启达酒店(苏州金鸡湖李公堤店),Kindar Hotel,免费停车,31.29974,120.687338,272,0,302,1,328,0,446,1
+157,清能宜尚PLUS酒店(苏州吴江东太湖万宝商业广场店),Qingneng Yishang PLUS Hotel (Suzhou Wujiang East Taihu Wanbao Commercial Plaza),免费停车,31.128613,120.644996,271,0,301,1,327,1,445,1
+158,桔子酒店(苏州狮山金融创新中心店),Orange Hotel (Suzhou Shishan Financial Center),窗外好景,31.281816,120.575825,335,0,372,0,404,1,549,0
+159,苏州新区木渎大运城亚朵酒店,Atour Hotel (Suzhou New District MuduDayuncheng),免费停车,31.258281,120.535776,327,0,362,0,394,0,536,1
+160,独墅湖书香世家酒店(苏州东振路地铁站店),"Scholars Hotel (Dongzhen road subway station, Suzhou)",免费停车,31.287216,120.67617,283,0,314,2,341,0,464,0
+161,美豪丽致酒店(苏州相城店),Mehood Lestie Hotel (Suzhou Xiangcheng),免费停车,31.376092,120.635287,256,0,283,2,308,0,419,1
+162,苏州新区淮海街亚朵酒店,"Atour Hotel Huaihai Street, Lion Mountain, Suzhou New District",免费停车,31.289251,120.56834,334,1,371,2,403,1,548,1
+163,初见·彩虹岛民宿(太湖西山店),First sight·Rainbow Island B&B,网红泳池,31.170872,120.295802,620,1,687,1,747,0,1016,0
+164,柏颐酒店(苏州独墅湖高教区店),Boyi Hotel (Suzhou Industrial Park Dushu Lake University Area Linli Center Metro Station),免费停车,31.252002,120.723561,304,3,337,2,366,2,498,1
+165,桔子酒店(苏州园区奥体中心店),Orange Hotel (Suzhou Park Olympic Sports Center),停车场,31.316264,120.754967,379,0,420,2,457,3,622,0
+166,微泮·微山观澜·湖景民宿(苏州太湖西山景区店),Weishan Guanlan Lake View Homestay (Suzhou Taihu Xishan Scenic Area),免费停车,31.171514,120.295252,462,3,512,3,557,0,758,0
+167,喜林苑(苏州容春堂店),Linden Centre Suzhou,免费停车,31.094195,120.408373,1070,0,1186,1,1289,2,1753,1
+168,CLUB·云墅·泳池团建草坪民宿,CLUB · Yunshu • Pool Team Building Lawn Homestay,网红泳池,31.123658,120.24134,530,1,588,0,639,0,869,0
+169,苏州文旅姑苏小院·东花里,Wenlv Gusu Yard Hotel Donghuali,客栈,31.317426,120.63265,505,1,560,3,609,2,828,2
+170,花筑奢·同里明园民宿,Floral Lux Hotel· Tongli Mingyuan Homestay,免费停车,31.157136,120.716356,757,0,839,0,912,1,1240,1
+171,汐留屋,The Staying House,免费停车,31.162589,120.272274,1271,0,1409,1,1531,1,2082,2
+172,在水一方&花境湖墅(太湖横山岛),Hua Jing Lake villa,免费停车,31.167514,120.273632,511,0,567,1,616,2,838,0
+173,苏州澄悦酒店,Suzhou Chengyue Hotel,免费停车,31.367362,120.739983,264,1,293,1,318,2,432,0
+174,花筑·银杏墅民宿(苏州太湖风景区余山岛店),Floral Hotel·Ginkgo Villa Homestay,家庭房,31.125801,120.399006,476,2,527,1,573,1,779,2
+175,平江小院(苏州平江路拙政园店),Pingjiang  Courtyard,家庭房,31.321483,120.62816,526,0,583,1,634,1,862,5
+176,衍岸湖语丨Café 艺术·亲子休闲度假美宿(太湖西山景区店),Yan'an Lake Language | Caf é Art · Parent-child Leisure Vacation Beauty Stay,家庭房,31.141013,120.265044,487,0,540,0,587,1,798,5
+177,苏州太湖冠西美宿,Suzhou Guanxi Hotel,免费停车,31.109592,120.304261,485,3,537,2,584,1,794,1
+178,苏州蔓兰酒店(金枫路地铁站店),Hotel MoMc,免费停车,31.27705,120.530213,240,2,266,1,289,1,393,1
+179,苏州科技城托尼洛·兰博基尼ROSSO酒店,Suzhou Tonino Lamborghini Rosso Hotel,免费停车,31.303178,120.433146,516,0,572,1,622,0,846,1
+180,苏州水庐民宿,Suzhou Water House,免费停车,31.067387,120.27188,736,0,816,2,887,1,1206,5
+181,花筑奢·同里澜院民宿,Flower Zhuxue Tongli Lanyuan Homestay,园林建筑,31.155842,120.720432,648,1,719,0,781,0,1062,0
+182,苏州文旅姑苏小院·仓西公馆,GuSu Yard CangXi Mansion,家庭房,31.314673,120.636762,414,0,459,1,499,0,679,6
+183,苏州园区星海书香世家酒店(金鸡湖店),Suzhou Park Xinghai Scholarly Family Hotel (Jinji Lake Store),免费停车,31.301309,120.671037,331,0,367,0,399,2,543,1
+184,苏州无名里客栈(苏州寒山寺虎丘店),Suzhou Wumingli Inn (Suzhou Hanshan Temple Huqiu Shop),管家服务,31.310596,120.567698,344,2,382,3,415,2,564,1
+185,苏州吴江吾悦广场亚朵酒店,Atour Hotel (Suzhou Wujiang Wuyue Plaza),免费停车,31.137498,120.616034,327,1,362,1,394,1,536,0
+186,三山岛一山一隅民宿,Sanshan Island Yishan Yiyu B&B,日光浴场,31.027823,120.29266,414,1,459,1,499,2,679,0
+187,苏州玖里湖景·茶文化主题民宿(太湖阴山岛店),Suzhou Yuli Lake View Tea Culture Theme Homestay (Taihu Yinshan Island Branch),免费停车,31.171664,120.295277,456,1,506,1,550,2,748,0
+188,苏州瑞相院·银杏园林美墅,Suzhou Ruixiangyuan Ginkgo Gardens Hotel,免费停车,31.088891,120.414081,807,1,894,4,972,2,1322,1
+189,花筑·伴城·缘定花朝民宿(平江路店),Floral Hotel·Bancheng·Yuandinghuachao B&B (Pingjiang Road Branch),窗外好景,31.312307,120.63527,410,2,454,1,494,3,672,1
+190,苏州初见·旺山民宿,Homestay in wangshan,免费停车,31.212793,120.55041,434,1,481,3,523,0,711,0
+191,苏州盛捷白塘金融港服务公寓,Somerset Baitang Suzhou,免费停车,31.324954,120.735329,505,3,559,1,608,0,827,3
+192,苏州新区智选假日酒店,Holiday Inn Express Suzhou New Area,免费停车,31.294641,120.555297,315,1,350,1,380,3,517,0
+193,苏州沐光·小镰仓美墅,MuGuang B&B,免费停车,31.106578,120.388293,491,0,545,1,592,1,805,0
+194,苏州消夏湾渔归度假民宿,Xiaoxiawan Farmhouse,农家乐,31.094068,120.281475,556,1,616,0,670,0,911,1
+195,书香门第精选酒店(苏州石路三香路地铁站店),Scholars Hotel · Select (Suzhou Shilu Sanxiang Road Metro Station),免费停车,31.298097,120.598879,289,1,320,0,348,0,473,1
+196,苏州柒月·北岸民宿,Qiyue Bei'an Guesthouse,免费停车,31.162449,120.272432,691,1,766,1,833,1,1133,0
+197,KaNas民宿(苏州太湖西山店),KaNas Homestay (Suzhou Taihu Xishan Branch),日光浴场,31.171878,120.272766,1233,2,1366,1,1485,1,2020,2
+198,苏州虹HONG精品民宿,Hong Boutique Hostel,免费停车,31.098459,120.234105,749,0,831,4,903,2,1228,0
+199,苏州叙姑苏忆江南民宿(西山二店),Suzhou Xugusu Yijiangnan Homestay (Xishan Homestay Branch),免费停车,31.172838,120.27236,870,2,964,1,1048,2,1425,0
+200,巷子里的阳光民宿(苏州拙政园平江路店),Alley Sunshine Hostel (Suzhou Zhuozhengyuan Pingjiang Road),民宿,31.31863,120.632759,413,1,458,2,498,1,677,1
+201,璞拾环球188公寓(苏州园区金鸡湖店),the Pushi 188 Serviced Apartment (Suzhou Industrial Park Jinji Lake),管家服务,31.313739,120.669301,383,3,424,0,461,0,627,0
+202,苏州盘门景区亚朵X酒店,Atour X Hotel Panmen Scenic Area Suzhou,免费停车,31.286246,120.621776,327,1,362,0,394,0,536,1
+203,花筑奢·同里泰睦庭人文园林酒店,Floral Lux Hotel · Taimuting Hotel (Tongli),管家服务,31.157022,120.720156,809,0,897,2,975,3,1326,1
+204,格雷斯精选酒店(苏州金鸡湖店),GRACE SELECT HOTEL(Suzhou Jinjihu),免费停车,31.313297,120.653535,279,3,309,1,336,2,457,1
+205,禾山宿·湖景亲子度假Villa美宿(岱心湾店),Suzhou Lushan Su B&B (Luxinwan Branch),免费停车,31.106615,120.408617,447,1,495,3,538,0,732,1
+206,WOPAI我拍·设计师酒店(苏州观前街养育巷地铁站店),WOPAI Designer Hotel (Suzhou Guanqian Street Yangyuxiang Subway Station Branch),情侣房,31.301018,120.612313,463,0,513,3,558,1,759,4
+207,苏州谦喜居民宿(太湖西山店),Suzhou Qianxiju Homestay (Taihu Xishan),窗外好景,31.125914,120.242472,324,2,359,0,390,2,530,1
+208,三山岛·水韵湖景·民宿(苏州太湖店),Taihu Sanshan Island Shuiyun Homestay,网红泳池,31.033708,120.295603,354,1,393,3,427,1,581,0
+209,半月湾民宿(苏州平江路店),Banyuewan Hotel (Suzhou Pingjiang Road),茶室,31.316987,120.63251,372,0,412,2,448,1,609,0
+210,苏州茶韵和园民宿,TEE TIME,网红泳池,31.121892,120.225916,485,2,537,0,584,1,794,0
+211,苏州泊Hotel,Bo Hotel,客栈,31.09817,120.384568,365,2,405,0,440,1,598,3
+212,苏州太阳广场酒店,Suzhou Sun Plaza Hotel,免费停车,31.31381,120.60091,246,1,272,1,296,2,403,1
+213,翰尔酒店(苏州观前街平江路店),Haner Hotel (Suzhou Guanqian Street Pingjiang Road),家庭房,31.312578,120.634181,413,0,458,1,498,0,677,2
+214,三山岛忘山民宿,Sanshan Island Wangshan Homestay,泳池,31.026771,120.292794,487,0,540,1,587,0,798,2
+215,过云山居湖上庄园(苏州太湖三山岛景区店),Cloud Retreat Sanshan Island,泳池,31.034246,120.294595,873,2,968,1,1052,2,1431,3
+216,苏州陌隐精品设计师民宿(西山风景区店),Suzhou Moyin Boutique Designer B&B (Xishan Scenic Area Branch),免费停车,31.065314,120.292872,324,0,359,0,390,2,530,0
+217,微泮·前湾谷璟民宿(苏州太湖西山景区店),Qianwan Guxuan Homestay (Taihu Xishan Scenic Area),免费停车,31.144239,120.335405,373,1,413,1,449,1,611,0
+218,隐庐同里别院,Yinlu Tongli House,管家服务,31.154604,120.718177,1266,0,1403,2,1525,2,2074,0
+219,翰尔酒店(苏州金鸡湖博览中心店),Higher Hotel,免费停车,31.321276,120.705183,414,1,459,1,499,0,679,0
+220,苏州茂苑绮罗·璞拾公馆,The Pushi Mansion,免费停车,31.315828,120.604998,445,2,493,0,536,0,729,1
+221,花筑奢·苏州吾山居园林民宿,Floral Hotel· Suzhou wushanju Garden Hotel,免费停车,31.29315,120.383274,400,0,443,2,482,2,656,0
+222,苏州金鸡湖博览中心瑞贝庭公寓酒店,Suisse Apartment Hotel Suzhou Jinji Lake Expo Center,免费停车,31.324327,120.719156,302,4,335,0,364,3,495,1
+223,太湖千舍海岛风情度假民宿,Taihu Qianshe Island Style Holiday Homestay,免费停车,31.124786,120.241096,414,0,459,0,499,0,679,1
+224,香雪海饭店(苏州友联店),Xiangxuehai Hotel (Suzhou Youlian),免费停车,31.281328,120.608845,315,2,349,1,379,0,515,0
+225,娄澜庭院酒店(苏州平江路拙政园店),Loulan Courtyard Hotel (Suzhou Pingjiang Road Humble Administrator's Garden),免费停车,31.324868,120.639087,296,0,328,1,357,2,486,0
+226,水云涧Fairyland·云雾里新中式设计师亲子度假美宿(太湖西山店),Shuiyunxuan Fairyland·Yunwuli New Chinese Designer Parent-child Holiday Meisu (Taihu Xishan),网红泳池,31.138628,120.257751,380,3,421,2,458,2,623,1
+227,顾小姐家精品民宿,Miss Gu's Boutique Homestay,影音房,31.267357,120.352933,639,0,708,2,770,0,1047,1
+228,苏州观前街有熊酒店,Jiangnan House Guanqianjie,空调,31.30966,120.628743,539,1,597,1,649,2,883,4
+229,苏州花叙民宿(太湖西山店),Suzhou Huaxu Homestay (Taihu Xishan Branch),免费停车,31.137114,120.254133,520,0,577,2,627,2,853,1
+230,巷往小院(苏州平江路拙政园店),Alley to the courtyard (Suzhou Pingjiang Road Humble Administrator's Garden),窗外好景,31.317296,120.636753,402,0,445,2,484,2,658,0
+231,苏州悦湖隐居民宿,Suzhou Yuehu Yinjujusu,日光浴场,31.081247,120.368797,320,1,355,3,386,1,525,0
+232,苏州高铁北站相城大道亚朵酒店,North Station of Suzhou high speed railway Xiangcheng Avenue Yaduo Hotel,免费停车,31.410708,120.629381,299,1,331,0,360,0,490,1
+233,苏州叙姑苏民宿(拙政园店),Suzhou Xugusu Homestay,管家服务,31.320719,120.63487,480,2,532,1,578,0,786,0
+234,苏州文旅姑苏小院·端善堂,Gusu Yard Duanshantang,免费停车,31.31274,120.632957,746,2,827,0,899,1,1223,0
+235,和颐至尚酒店(苏州金鸡湖东振路地铁站店),Yitel Zhishang Hotel (Suzhou Jinji Lake Dongzhen Road Metro Station Store),免费停车,31.287967,120.676206,213,2,236,0,257,3,350,0
+236,Clouds.预见云上服务公寓(苏州国际博览中心金鸡湖店),Clouds.Foresight Clouds Service Apartment (Suzhou International Expo CenterJinji Lake),湖景房,31.317589,120.718074,333,2,369,0,401,0,545,1
+237,苏州雅杰大酒店(龙湖东吴天街石湖东路地铁站店),Grace Hotel,免费停车,31.252265,120.635671,255,0,282,4,307,2,418,1
+238,湖语意境民宿(横山岛店),Huyu Yijing Homestay (Hengshan Island Shop),免费停车,31.171244,120.272787,707,0,784,1,852,3,1159,1
+239,苏州姑苏小院·平江里,Gusu Yard Pingjiangli,停车场,31.310499,120.633681,530,1,588,3,639,2,869,2
+240,苏州湖野民宿,Suzhou Huye Homestay,私汤房,31.171314,120.295309,526,4,583,2,634,1,862,1
+241,苏州园林酒店·文杏里,Garden Hotel Wenxingli,免费停车,31.111336,120.317392,694,3,769,0,836,3,1137,2
+242,苏州横山翠体验式民宿(太湖西山景区店),Suzhou Hengshan Cui Experienced Homestay (Taihu Xishan Scenic Area),免费停车,31.162386,120.271838,378,1,420,1,456,2,620,2
+243,苏宁雅悦酒店(苏州高铁北站吾悦广场店),Suning Yayue Hotel (Suzhou North High-speed Railway Station Wuyue Plaza Branch),免费停车,31.409876,120.628775,222,1,246,1,267,0,363,1
+244,全季酒店(苏州金鸡湖通园路店),JI Hotel(Suzhou Jinji Lake Tongyuan Road),窗外好景,31.287762,120.666855,320,3,354,2,385,2,524,1
+245,苏州相城活力岛地铁站亚朵X酒店,Youngor Hanp Hotel,免费停车,31.377269,120.603295,263,2,292,0,317,1,431,2
+246,苏州拾玥泊太湖民宿,Suzhou Shiyu boTaihu Homestay,日光浴场,31.156582,120.288122,413,0,458,3,498,3,677,2
+247,漫湖·拾光民宿(苏州太湖西山岛店),MAN HU TIME Guesthouse(Suzhou Taihu Xishan Island Store),免费停车,31.065564,120.277075,402,1,445,0,484,3,658,3
+248,墅之韵太湖垂钓泳池烧烤大庄园别墅(东山外婆桥店),Villa Rhyme Taihu Lake Fishing Pool BBQ Manor Villa (Dongshan Grandma Bridge Branch),免费停车,31.08574,120.377536,371,0,411,1,447,0,608,2
+249,苏州缥缈居民宿,Residential quarters in Suzhou,免费停车,31.138575,120.256229,579,0,641,2,697,0,948,0
+250,苏州ATE·阿缇伊湖景民宿(太湖东山景区店),Suzhou ATE Akyi Resort (Taihu Dongshan Scenic Area),泳池,31.075247,120.358818,632,2,701,0,762,1,1036,0
+251,苏州欣得酒店(虎丘地铁站店),Cendre Hotel,免费停车,31.322683,120.581217,222,2,246,0,267,1,363,3
+252,计家墩萱舍·黄莺花园美宿(昆山锦溪古镇店),Jijiadun Yushe Huangying Garden Homestay (Kunshan Jinxi Ancient Town Branch),民宿,31.15219,120.92062,480,2,532,2,578,1,786,2
+253,和颐至格酒店(苏州金鸡湖博览中心店),Yitel Trend (Suzhou Jinji Lake Expo Center),免费停车,31.345302,120.697951,258,1,286,0,311,1,423,0
+254,一滴斋民宿(苏州寒山寺店),Yidizhai Guesthouse,江河景房,31.310632,120.567758,465,4,515,0,560,1,762,1
+255,苏州花惜美拾酒店(黑曜吴江店),Suzhou Huaxi Meishi Hotel (Heiyi Wujiang Branch),免费停车,31.162804,120.645654,171,1,190,1,206,3,280,1
+256,苏州叙姑苏忆江南民宿,Suzhou Xugusu Yijiangnan Boutique Hotel,免费停车,31.168009,120.273462,663,0,735,1,799,1,1087,0
+257,苏州太美雪绿民宿,Taimei Xuelv Guesthouse,免费停车,31.259344,120.391211,610,1,676,4,735,2,1000,0
+258,苏州漫心岛民宿,Suzhou Manxin Island Homestay,免费停车,31.164656,120.286525,682,1,756,3,822,1,1118,3
+259,呆呆海民宿,Dull sea lodgings (Taihu Lake store in Suzhou),家庭房,31.082847,120.297757,691,1,766,1,833,1,1133,3
+260,太湖甲山园民宿,JIA SHAN YUAN B&B,免费停车,31.173149,120.271892,603,4,668,1,726,0,987,1
+261,花筑·苏州心宿杨湾民宿,Floral Hotel Xinsu,民宿,31.043593,120.368007,359,1,398,3,433,2,589,1
+262,苏州吴江东太湖诺阁雅酒店,Neqta Suzhou East Taihu Lake,免费停车,31.134534,120.594548,265,1,293,0,319,3,434,2
+263,苏州石湖大学城智选假日酒店(蠡墅地铁站店),Holiday Inn Express Suzhou Shihu University Town,家庭房,31.230978,120.619792,256,0,284,0,309,0,420,2
+264,湖吟泊屿丨270°环山氧吧·北欧设计美宿(太湖西山景区店),Lake Yinbo Islet 270 ° Mountain Oxygen Bar · Nordic Design Resort,家庭房,31.142983,120.278222,426,0,472,1,513,1,698,2
+265,苏州拙政别苑酒店(观前街拙政园店),Zhuozheng Bieyuan Hotel,免费停车,31.324436,120.631628,280,2,310,1,337,1,458,1
+266,苏·礼遇行政酒店公寓(苏州金鸡湖博览中心店),Su Liyu Executive Apartment Hotel (Suzhou Jinji Lake Expo Center),充电桩,31.317607,120.717836,299,1,331,0,360,0,490,0
+267,漫际酒店(苏州龙湖东吴天街石湖东路地铁站店),Manji Hotel (Suzhou Longhu Tianjie Shihu East Road Subway Station),免费停车,31.241537,120.630749,262,2,291,0,316,1,430,0
+268,苏州吴郡逸庭酒店,Suzhou Wujun Yiting Hotel,免费停车,31.3457,120.61597,280,1,310,1,337,0,458,0
+269,曲水善湾,Qushuishanwan,免费停车,31.087068,120.860065,587,0,650,0,707,0,962,2
+270,艺龙酒店(苏州大学平江路店),eLong Hotel (Soochow University Pingjiang Road),影音房,31.310751,120.643941,242,0,269,1,292,0,397,0
+271,苏州隐居天平山人文度假酒店,Suzhou Seclusive Tianpingshan Cultural Resort Hotel,免费停车,31.28232,120.503338,287,2,318,1,346,0,471,3
+272,泽一居精舍(苏州观前街平江路店),Zeyiju Jingshe (Suzhou Guanqian Street Pingjiang Road),园林建筑,31.313048,120.627017,208,0,230,2,250,0,340,0
+273,苏州拙见·思绩堂(拙政园店),Suzhou Humble View Sijitang (Humble Administrator's Garden),管家服务,31.32509,120.62656,314,0,348,0,378,0,514,1
+274,怡程酒店(苏州观前街七里山塘店),Yicheng Hotel (Suzhou Guanqian Street Qili Shantang Branch),停车场,31.305475,120.605027,271,1,300,0,326,0,443,0
+275,苏州新区科技城壹棠服务公寓,CM+ Service Apartment,免费停车,31.314409,120.431737,303,2,336,1,365,2,496,1
+276,苏州冠云大酒店,Glamor Hotel,园林建筑,31.318675,120.590154,286,2,316,1,344,2,468,1
+277,苏州震泽水岸寒舍酒店,Zhenze Waterside Houses,免费停车,30.912579,120.503706,262,0,291,2,316,0,430,0
+278,大阳山林泉里民宿(国家森林公园植物园景区店),Dayang Mountain Forest Quanli Homestay,湖景房,31.326571,120.456696,398,1,441,0,479,1,651,1
+279,LANYARD岚舍(太湖西山景区店),LAN YARD B&B,免费停车,31.09385,120.28786,380,0,421,1,458,1,623,0
+280,苏州高铁北站璞拾酒店,Suzhou High-speed Railway North Station Pushi Hotel,免费停车,31.46265,120.667683,248,0,275,1,299,0,407,0
+281,苏州妙庭·燕子坞智慧江南庭院,Miaotang yanziwu Guesthouse,免费停车,31.135567,120.324415,284,1,315,3,342,1,465,2
+282,苏州怡家民宿(太湖西山风景区店),Suzhou Yijia Homestay (Taihu Xishan Scenic Area),农家乐,31.156146,120.286313,373,0,413,1,449,1,611,5
+283,苏州三元宾馆,Sanyuan Hotel,免费停车,31.299533,120.622737,289,2,320,1,348,1,473,1
+284,苏州悦季·蝶来精品度假酒店,Yue-Season Hotels & Resorts,免费停车,31.452962,120.696658,823,0,913,3,992,1,1349,1
+285,花筑·同里西亭馨园民宿(同里古镇店),Floral Hotel· Tongli Xiting Xinyuan Homestay(Tongli Ancient Town Store),免费停车,31.15846,120.716255,291,2,323,1,351,2,477,1
+286,美豪酒店(苏州湾东太湖店),Meihao Hotel (Suzhou Wandong Taihu Branch),家庭房,31.134447,120.594557,280,0,310,0,337,0,458,1
+287,苏州苏新府酒店,Suzhou Suxinfu Hotel,家庭房,31.317581,120.717993,342,1,379,1,412,0,560,3
+288,H酒店(苏州留园寒山寺虎丘婚纱城店),H Hotel (Suzhou Liuyuan Hanshan Temple Huqiu Wedding City Branch),免费停车,31.315077,120.57375,187,2,207,1,225,0,306,1
+289,花筑·栖云心舍花园酒店(苏州观前街平江路店),Huazhu Qiyun Xinshe Garden Hotel,家庭房,31.310064,120.626193,236,0,261,0,284,0,386,2
+290,苏州云朵·宿度假民宿,Suzhou Yunduo Su Holiday Homestay,家庭房,31.138625,120.255852,879,0,974,0,1059,0,1440,3
+291,山岛渔念民宿(苏州太湖东山风景区店),Shandao Yunian Homestay (Suzhou Taihu Dongshan Scenic Area),免费停车,31.093331,120.415651,352,0,390,0,424,1,577,1
+292,花筑·育青阁恒园酒店(同里店),Flower Zhu Yuqingge Hengyuan Hotel (Tongli Branch),家庭房,31.157537,120.718495,189,0,210,0,228,1,310,6
+293,等你酒店（苏州观前街平江路店）,Dengni Hotel (Suzhou Guanqian Street Pingjiang Road Branch),停车场,31.314034,120.626858,97,7,112,7,120,3,205,6
+294,LBED精选服务公寓（苏州滨河路地铁站寒山寺店）,LBED Selected Service Apartment (Suzhou Binhe Road Subway Station Hanshan Temple Branch),停车场,31.297739,120.565418,91,3,106,4,113,7,193,1
+295,青季酒店MiNi（苏州火车站山塘街店）,Qingji Hotel Mini (Suzhou Railway Station Shantang Street Branch),停车场,31.315811,120.611692,59,8,69,6,74,8,126,1
+296,悦庭湾商务公寓（苏州十全街南园北路地铁站店）,Yuetingwan Business Apartment (Suzhou Shiquan Street Nanyuan North Road Subway Station Branch),停车场,31.291836,120.635834,76,5,89,3,95,2,162,4
+297,LBED精选服务公寓（苏州博物馆西馆狮子山地铁站店）,LBED Service Selected Apartment (Suzhou Museum West Hall Lion Mountain Subway Station Branch),停车场,31.291351,120.542285,95,0,110,6,118,2,201,5
+298,遇见拾光酒店（苏州火车站拙政园店）,Yujian Shiguang Hotel (Suzhou Railway Station Zhuozheng Garden Branch),停车场,31.334997,120.626523,78,0,91,0,97,1,165,2
+299,若有设计师民宿（苏州火车站地铁站店）,Ruoyou Designer Homestay (Suzhou Railway Station Subway Station Branch),停车场,31.333602,120.611756,31,6,36,2,39,4,66,3
+300,UMi悠米美宿（苏州火车站万达广场店）,UMi Youmi Beautiful Stay (Suzhou Railway Station Wanda Plaza Branch),停车场,31.342579,120.611168,72,2,83,4,89,1,152,7
+301,LBED ANSWER酒店(苏州观前街山塘街店）,LBED ANSWER Hotel (Suzhou Guanqian Street Shantang Street Branch),停车场,31.309413,120.610725,104,1,121,5,129,4,220,1
+302,斯维登精品公寓（横山地铁站宝龙广场店）,Switons Boutique Apartment (Hengshan Subway Station Baolong Plaza Branch),行李寄存,30.58592,114.261753,97,0,112,2,120,1,205,3
+303,锦江之星品尚(苏州吴江同里云梨桥店),Jinjiang Inn Premium (Suzhou Wujiang Tongli Yunli Bridge Branch),行李寄存,31.161854,120.662037,83,5,96,8,103,4,176,2
+304,苏州LBED精选酒店（观前街乐桥地铁站店）,Suzhou LBED Selected Hotel (Guanqian Street Leqiao Subway Station Branch),停车场,31.299963,120.617694,74,6,86,6,92,0,157,5
+305,所选酒店（苏州观前街七里山塘店）,Selected Hotel (Suzhou Guanqian Street Qili Shantang Branch),行李寄存,31.309579,120.608847,61,4,71,0,76,4,129,0
+306,苏州梅乐蒂酒店式公寓（苏州金鸡湖博览中心店）,Suzhou Melody Serviced Apartment (Suzhou Jinji Lake Convention and Exhibition Center Branch),儿童乐园,31.317594,120.717879,96,8,111,4,119,6,203,5
+307,所选酒店（苏州十全街人民桥南地铁站店）,Selected Hotel (Suzhou Shiquan Street Renminqiao South Subway Station Branch),停车场,31.282678,120.62645,102,5,118,1,126,3,215,7
+308,悦庭湾雅居民宿(苏州山塘街运河剧场店),Yuetingwan Yaoju Homestay (Suzhou Shantang Street Canal Theatre Branch),普通酒店,31.309103,120.603375,63,5,74,4,79,5,135,0
+309,LBED ANSWER酒店（苏州观前街拙政园店）,LBED ANSWER Hotel (Suzhou Guanqian Street Zhuozheng Garden Branch),行李寄存,31.31846,120.620666,119,2,139,3,148,6,253,1
+310,虎丘·幸福居｜Warmth·Sweethomedays酒店(姑苏区长泾地铁站店),Huqiu · Xingfuju | Warmth · Sweethomedays Hotel (Gusu District Changjing Subway Station Branch),停车场,31.352837,120.555224,100,4,116,5,124,6,212,0
+311,长风归隐酒店(苏州拙政园平江路店),Changfeng Guiyin Hotel (Suzhou Zhuozheng Garden Pingjiang Road Branch),停车场,31.324548,120.635842,112,4,130,0,139,4,237,0
+312,苏州城市假期酒店（十全街网师园店）,Suzhou City Holiday Hotel (Shiquan Street Wangshi Garden Branch),停车场,31.292193,120.635801,120,2,140,1,149,2,254,7
+313,星辰酒店（苏州拙政园平江路店）,Xingchen Hotel (Suzhou Zhuozheng Garden Pingjiang Road Branch),停车场,31.32494,120.640549,92,6,107,8,114,3,194,3
+314,拾柒美宿（苏州十全街南门地铁站店）,Shiqi Beautiful Stay (Suzhou Shiquan Street Nanmen Subway Station Branch),停车场,31.289334,120.622933,76,7,89,3,95,1,162,8
+315,LBED青暮·驿舍（苏州观前街平江路店）,LBED Qingmu · Yishe (Suzhou Guanqian Street Pingjiang Road Branch),停车场,31.320552,120.62463,104,5,121,3,129,8,220,2
+316,阚山塘雅居（苏州山塘街石路地铁站店）,Kanshantang Yaju (Suzhou Shantang Street Shilu Subway Station Branch),普通酒店,31.311995,120.601146,63,0,73,2,78,5,133,2
+317,丹香酒店（苏州观前街七里山塘景区店）,Danxiang Hotel (Suzhou Guanqian Street Qili Shantang Scenic Area Branch),停车场,31.3103,120.606292,65,0,76,0,81,3,138,5
+318,行乐酒店（苏州观前街平江路店）,Xingle Hotel (Suzhou Guanqian Street Pingjiang Road Branch),停车场,31.307549,120.63217,81,4,94,7,101,5,172,6
+319,耘岚•Ancient客栈（苏州观前街平江路店）,Yunlan · Ancient Inn (Suzhou Guanqian Street Pingjiang Road Branch),停车场,31.31873,120.632001,112,1,130,5,139,7,237,0
+320,晨枫臻品酒店（苏州观前街平江路店）,Chenfeng Zhenpin Hotel (Suzhou Guanqian Street Pingjiang Road Branch),停车场,31.316563,120.620797,89,4,103,5,110,5,188,4
+321,不期而寓·本木客栈(苏州观前街平江路店),Buqieryu · Benmu Inn (Suzhou Guanqian Street Pingjiang Road Branch),停车场,31.316374,120.628017,82,1,95,1,102,0,174,7
+322,苏州LBED精选酒店（汽车南站团结桥地铁站店）,Suzhou LBED Selected Hotel (South Bus Station Tuanjieqiao Subway Station Branch),儿童乐园,31.27779,120.638055,86,0,100,1,107,0,182,6
+323,鼎盛精品酒店（苏州新市桥地铁站店）,Dingsheng Boutique Hotel (Suzhou Xinshiqiao Subway Station Branch),棋牌室,31.291098,120.610889,69,8,80,0,86,5,147,2
+324,如家酒店·neo(苏州枫桥路寒山寺店),Home Inn · neo (Suzhou Fengqiao Road Hanshan Temple Branch),停车场,31.31113,120.57572,116,1,135,1,144,0,246,7
+325,泽一居精舍（苏州观前街平江路店）,Zeyiju Jingshe (Suzhou Guanqian Street Pingjiang Road Branch),停车场,31.313102,120.627166,114,4,132,3,141,6,241,6
+326,相见·H精品城宿（苏州火车站平泷路东地铁站店）,Xiangjian · H Boutique City Stay (Suzhou Railway Station Pinglong Road East Subway Station Branch),停车场,31.34317,120.610855,89,2,103,7,110,1,188,6
+327,LBED精选酒店（苏州观前街察院场地铁站店）,LBED Selected Hotel (Suzhou Guanqian Street Chayuanchang Subway Station Branch),停车场,31.314324,120.620346,81,4,94,7,101,0,172,5
+328,星辰酒店（苏州吴江市步行街店）,Xingchen Hotel (Suzhou Wujiang District Pedestrian Street Branch),停车场,30.581362,114.28477,89,7,104,6,111,5,189,5
+329,苏州椿廷假日酒店(汽车南站店),Suzhou Chunting Holiday Hotel (South Bus Station Branch),停车场,31.277761,120.638057,72,4,83,0,89,7,152,7
+330,五号文艺酒店（苏州观前街平江路店）,No. 5 Art Hotel (Suzhou Guanqian Street Pingjiang Road Branch),停车场,31.322341,120.626362,70,7,81,7,87,3,148,6
+331,苏州留香酒店（观前街平江路店）,Suzhou Liuxiang Hotel (Guanqian Street Pingjiang Road Branch),停车场,31.310104,120.631092,114,4,132,1,141,5,241,6
+332,凯亚智选酒店（金鸡墩地铁站店）,Kaiya Select Hotel (Jinjidun Subway Station Branch),停车场,30.620514,114.413078,94,0,109,7,117,0,200,2
+333,格林豪泰智选(苏州火车站虎丘店),GreenTree Inn Select (Suzhou Railway Station Tiger Hill Branch),停车场,31.339667,120.59691,88,4,102,6,109,8,186,1
+334,万信R酒店(苏州石路地铁站山塘街景区店),Wanxin R Hotel (Suzhou Station Shilu Shway Subantang Street Scenic Area Branch),停车场,31.311469,120.600613,113,0,131,5,140,0,239,3
+335,小城故事酒店（苏州观前街七里山塘店）,Xiaocheng Gushi Hotel (Suzhou Guanqian Street Qili Shantang Branch),行李寄存,31.309945,120.613952,68,1,78,3,84,4,143,8
+336,艺龙安悦酒店（苏州寒山寺山塘街店）,E Long Anyue Hotel (Suzhou Hanshan Temple Shantang Street Branch),停车场,31.311939,120.581271,112,0,130,4,139,2,237,5
+337,楠溪酒店（苏州观前街平江路店）,Nanxi Hotel (Suzhou Guanqian Street Pingjiang Road Branch),停车场,31.307914,120.620291,113,8,131,4,140,4,239,8
+338,茉丽·所选酒店（苏州观前街七里山塘店）,Moli · Selected Hotel (Suzhou Guanqian Street Qili Shantang Branch),行李寄存,31.308863,120.610951,88,6,102,3,109,0,186,1
+339,花居轻奢酒店（苏州观前街北寺塔地铁站店）,Huaju Luxury Hotel (Suzhou Guanqian Street Beisi Pagoda Subway Station Branch),停车场,31.3184,120.619387,82,5,95,6,102,8,174,7
+340,苏州鹿闲设计师酒店（观前街平江路店）,Suzhou Luxian Designer Hotel (Guanqian Street Pingjiang Road Branch),停车场,31.319325,120.620275,120,8,140,0,149,6,254,2
+341,天逅酒店（苏州观前街宫巷店）,Tianhou Hotel (Suzhou Guanqian Street Gongxiang Branch),停车场,31.308638,120.626409,98,7,113,1,121,2,206,0
+342,丹香酒店（苏州凤凰街平江路店）,Danxiang Hotel (Suzhou Fenghuang Street Pingjiang Road Branch),茶室,31.301511,120.632267,72,1,83,8,89,8,152,1
+343,玖喜酒店（苏州观前步行街平江路店）,Jiuxi Hotel (Suzhou Guanqian Pedestrian Street Pingjiang Road Branch),停车场,31.313723,120.626677,98,7,113,5,121,5,206,5
+344,锦江之星(苏州火车站虎丘店),Jinjiang Inn (Suzhou Railway Station Tiger Hill Branch),停车场,31.339687,120.596854,85,4,98,3,105,3,179,6
+345,丹香酒店（苏州七里山塘街留园景区店）,Danxiang Hotel (Suzhou Qili Shantang Street Liuyuan Scenic Area Branch),停车场,31.318106,120.593329,72,6,83,0,89,4,152,3
+346,苏州且喜酒店（龙湖狮山天街寒山寺店）,Suzhou Qiexi Hotel (Longhu Shishan Tianjie Hanshan Temple Branch),停车场,31.306959,120.554408,108,2,125,5,134,8,229,5
+347,LBED精选酒店（金鸡湖西娄葑地铁站店）,LBED Selected Hotel (West of Jinji Lake Loufeng Subway Station Branch),健身室,31.289465,120.663366,113,7,131,3,140,4,239,4
+348,拾玥美宿（苏州观前街平江路店）,Shiyue Beautiful Stay (Suzhou Guanqian Street Pingjiang Road Branch),停车场,31.3139,120.62687,105,6,122,0,130,7,222,2
+349,LBED BHAUS酒店（苏州十全街南园北路地铁站店）,LBED BHAUS Hotel (Suzhou Shiquan Street Nanyuan North Road Subway Station Branch),停车场,31.293071,120.63424,102,3,119,8,127,8,217,4
+350,壹·ONE酒店（苏州观前步行街平江路店）,One · ONE Hotel (Suzhou Guanqian Pedestrian Street Pingjiang Road Branch),停车场,31.313092,120.622345,119,3,138,0,147,7,251,5
+351,美锦商务服务公寓式酒店(苏州寒山寺狮山店),Meijin Business Service Apartment Hotel (Suzhou Hanshan Temple Shishan Branch),停车场,31.29174,120.567981,119,3,139,1,148,0,253,4
+352,如家酒店·neo(苏州大学平江路店),Home Inn · neo (Soochow University Pingjiang Road Branch),停车场,31.321912,120.64666,106,8,124,5,132,3,225,5
+353,如家商旅酒店(苏州人民南路店),Home Inn Business (Suzhou Renmin South Road Branch),行李寄存,31.271975,120.626365,119,7,138,6,147,7,251,0
+354,名城苏悦酒店（苏州火车站苏锦地铁站店）,Mingcheng Suyue Hotel (Suzhou Railway Station Sujin Subway Station Branch),停车场,31.334702,120.60623,96,1,111,0,119,4,203,8
+355,颐和美瑞酒店（苏州木渎古镇渎川桥地铁站店）,Yihe Meirui Hotel (Suzhou Mudu Ancient Town Duchuanqiao Subway Station Branch),停车场,31.258993,120.51845,89,4,104,8,111,8,189,6
+356,御品源酒店（苏州大学东校区十全街店）,Yupinyuan Hotel (Soochow University East Campus Shiquan Street Branch),停车场,31.299442,120.646383,60,5,70,7,75,3,128,4
+357,新竹酒店（苏州十全街南门地铁站店）,Xinzhu Hotel (Suzhou Shiquan Street Nanmen Subway Station Branch),停车场,31.292699,120.630399,94,5,109,5,117,0,200,7
+358,苏州苏忆时光酒店（观前街察院场地铁站店）,Suzhou Suyi Shiguang Hotel (Guanqian Street Chayuanchang Subway Station Branch),停车场,31.313786,120.624723,117,1,136,2,145,0,247,6
+359,Murm姑苏私语·山塘雅舍（山塘街石路地铁站店）,Murm Gusu Siyu · Shantang Yashe (Shantang Street Shilu Subway Station Branch),停车场,31.31364,120.59655,111,3,129,6,138,8,235,4
+360,北塔别院（苏州拙政园观前街店）,Beita Bieyuan (Suzhou Zhuozheng Garden Guanqian Street Branch),停车场,31.321538,120.620843,103,7,120,2,128,8,218,3
+361,安徕酒店（苏州观前街平江路店）,Anlai Hotel (Suzhou Guanqian Street Pingjiang Road Branch),茶室,31.310802,120.621844,103,4,120,6,128,2,218,3
+362,如家商旅酒店（苏州淮海街沙金桥地铁站店）,Home Inn Business (Suzhou Huaihai Street Shajinqiao Subway Station Branch),停车场,31.288739,120.563045,120,6,140,7,149,2,254,7
+363,M·漫酒店（苏州木渎古镇灵岩山地铁站店）,M · Man Hotel (Suzhou Mudu Ancient Town Lingyan Mountain Subway Station Branch),行李寄存,31.252579,120.495107,92,4,107,1,114,1,194,5
+364,天逅酒店(苏州观前步行街店),Tianhou Hotel (Suzhou Guanqian Pedestrian Street Branch),停车场,31.310196,120.625176,102,1,118,3,126,2,215,4
+365,苏礼酒店（盘门景区桐泾公园地铁站店）,Suli Hotel (Panmen Scenic Area Tongjing Park Subway Station Branch),停车场,31.281819,120.609757,95,1,110,0,118,4,201,5
+366,城遇酒店式公寓（苏州火车站苏州大学附属第一医院总院店）,Chengyu Serviced Apartment (Suzhou Railway Station The First Affiliated Hospital of Soochow University Branch),停车场,31.34158,120.609318,60,7,70,8,75,7,128,0
+367,锦江都城酒店（苏州华龙团结桥地铁站店）,Jinjiang Metropolo Hotel (Suzhou Hualong Tuanjieqiao Subway Station Branch),健身室,31.275547,120.628787,103,7,120,8,128,7,218,3
+368,盛昌客栈（苏州观前街平江文化历史街区店）,Shengchang Inn (Suzhou Guanqian Street Pingjiang Cultural and Historical Block Branch),停车场,31.316438,120.62917,59,0,69,5,74,5,126,0
+369,诗语暖居公寓（苏州火车站平江万达店）,Shiyu Nuanju Apartment (Suzhou Railway Station Pingjiang Wanda Branch),行李寄存,31.341303,120.611601,92,3,107,5,114,1,194,4
+370,清雅贤居・六号小院(苏州观前街平江路店),Qingya Xianju · No. 6 Courtyard (Suzhou Guanqian Street Pingjiang Road Branch),行李寄存,31.315122,120.619482,76,3,89,1,95,1,162,5
+371,所选酒店（苏州盘门景区新市桥地铁站店）,Selected Hotel (Suzhou Panmen Scenic Area Xinshiqiao Subway Station Branch),停车场,31.289767,120.608357,64,0,75,6,80,2,136,2
+372,湖畔酒店式公寓（苏州火车站店）,Lakeside Serviced Apartment (Suzhou Railway Station Branch),停车场,31.341191,120.609846,74,8,86,7,92,1,157,6
+373,棠吟酒店（苏州留园山塘街店）,Tangyin Hotel (Suzhou Liuyuan Shantang Street Branch),停车场,31.310379,120.589821,85,0,98,0,105,4,179,1
+374,轻枫印象酒店（苏州观前街平江路店）,Qingfeng Impression Hotel (Suzhou Guanqian Street Pingjiang Road Branch),停车场,31.305541,120.632374,99,6,115,8,123,1,210,4
+375,LBED精选酒店（寒山寺景区苏州科技大学店）,LBED Selected Hotel (Hanshan Temple Scenic Area Suzhou University of Science and Technology Branch),健身室,31.312128,120.565357,89,2,104,8,111,4,189,2
+376,苏州遇见・嘉樂里｜GALORY酒店(观前街平江路店),Suzhou Yujian · Jiale Li | GALORY Hotel (Guanqian Street Pingjiang Road Branch),停车场,31.300587,120.626208,67,7,78,8,83,2,141,1
+377,莫克酒店式公寓（苏州高铁北站吾悦广场店）,Moke Serviced Apartment (Suzhou North High - Speed Railway Station Wuyue Plaza Branch),停车场,31.413221,120.642186,115,3,133,3,142,1,242,0
+378,U Echo•告白精品酒店(苏州站店),U Echo • Gaobai Boutique Hotel (Suzhou Station Branch),停车场,30.584446,114.288455,91,2,106,4,113,8,193,8
+379,泊云居酒店(苏州观前街平江路店),Boyunju Hotel (Suzhou Guanqian Street Pingjiang Road Branch),停车场,31.313542,120.624607,119,7,139,1,148,1,253,6
+380,门里门外酒店(苏州观前街平江路店),Menlimenwai Hotel (Suzhou Guanqian Street Pingjiang Road Branch),停车场,31.313073,120.624907,112,5,130,3,139,6,237,2
+381,苏见home·云端全湖景公寓(东太湖苏州湾大剧院店),Sujian home · Cloud - top Full - Lake - view Apartment (East Taihu Lake Suzhou Bay Grand Theatre Branch),停车场,31.186338,120.585995,111,2,129,4,138,1,235,5
+382,凯亚智选酒店（虎丘婚纱城虎北路地铁站店）,Kaiya Select Hotel (Tiger Hill Wedding Dress City Hubei Road Subway Station Branch),停车场,31.348093,120.571096,107,6,125,4,133,5,227,0
+383,如家酒店·neo（苏州火车站繁花中心店）,Home Inn · neo (Suzhou Railway Station Fanhua Center Branch),停车场,31.361002,120.602237,112,4,130,5,139,8,237,8
+384,苏州莲花快捷宾馆（苏州火车站拙政园店）,Suzhou Lotus Express Hotel (Suzhou Railway Station Zhuozheng Garden Branch),停车场,31.326649,120.614509,71,3,82,5,88,4,150,6
+385,希尔曼酒店（苏州观前街平江路店）,Hillman Hotel (Suzhou Guanqian Street Pingjiang Road Branch),停车场,31.308515,120.625503,91,6,106,7,113,2,193,1
+386,花筑·苏然居酒店(苏州石路地铁站山塘街店),Huazhu · Suranju Hotel (Suzhou Shilu Subway Station Shantang Street Branch),停车场,31.309395,120.6034,77,7,90,6,96,1,164,1
+387,艺龙安云酒店(苏州十全街南门地铁站店),E Long Anyun Hotel (Suzhou Shiquan Street Nanmen Subway Station Branch),停车场,31.28889,120.624695,110,5,128,6,137,6,234,3
+388,CITY·不二居客栈(苏州观前街平江路店),CITY · Bu'erju Inn (Suzhou Guanqian Street Pingjiang Road Branch),停车场,31.31801,120.628809,110,8,128,4,137,2,234,1
+389,雅苏酒店(苏州留园山塘街地铁站店),Yasu Hotel (Suzhou Liuyuan Shantang Street Subway Station Branch),停车场,31.314991,120.590325,72,0,83,5,89,0,152,7
+390,苏州LBED精选酒店（观前街平江路店）,Suzhou LBED Selected Hotel (Guanqian Street Pingjiang Road Branch),儿童乐园,31.314324,120.620346,119,7,139,2,148,6,253,5
+391,忆家（苏州高铁北站店）,Yijia (Suzhou North High - Speed Railway Station Branch),停车场,31.422437,120.639987,81,5,94,0,101,2,172,2
+392,安邦湖景美学行政公寓（苏州国际博览中心金鸡湖摩天轮店）,Anbang Lakeside Aesthetic Executive Apartment (Suzhou International Expo Center Jinji Lake Ferris Wheel Branch),停车场,31.317607,120.717836,118,6,137,4,146,8,249,5
+393,有一居青年旅舍（苏州观前街店）,Youyiju Youth Hostel (Suzhou Guanqian Street Branch),行李寄存,31.306585,120.620429,33,1,38,2,41,5,70,0
+394,留香尚萃酒店（苏州观前街平江路店）,Liuxiang Shangcui Hotel (Suzhou Guanqian Street Pingjiang Road Branch),停车场,31.311118,120.630143,114,5,132,5,141,3,241,3
+395,亚居酒店（苏州石路地铁站山塘街景区店）,Yaju Hotel (Suzhou Shilu Subway Station Shantang Street Scenic Area Branch),停车场,31.309996,120.601881,78,1,91,2,97,3,165,5
+396,LBED BHAUS酒店（苏州观前街平江路店）,LBED BHAUS Hotel (Suzhou Guanqian Ping Streetjiang Road Branch),停车场,31.310704,120.617731,119,6,138,2,147,8,251,5
+397,苏州迷白艺术酒店（团结桥地铁站店）,Suzhou Mibai Art Hotel (Tuanjieqiao Subway Station Branch),停车场,31.272075,120.625075,72,8,84,2,90,6,153,0
+398,苏州枕河民宿(平江路观前街店）,Suzhou Zhenhe Homestay (Pingjiang Road Guanqian Street Branch),棋牌室,31.316196,120.636366,101,0,117,2,125,8,213,3
+399,星汇佳品酒店(苏州新区站富强地铁站店),Xinghui Jiapin Hotel (Suzhou New Area Station Fuqiang Subway Station Branch),停车场,31.363875,120.547387,72,1,84,2,90,5,153,1
+400,金智生活酒店（苏州世茂广场新郭地铁站店）,Jinzhi Life Hotel (Suzhou Shimao Square Xinguo Subway Station Branch),停车场,31.262318,120.597284,94,3,109,2,117,4,200,8
+401,蒙特利公寓(苏州金鸡湖店),Montreal Apartment (Suzhou Jinji Lake Branch),停车场,31.317524,120.717719,107,8,125,6,133,5,227,4
+402,江南听语民宿（苏州火车站平江万达店）,Jiangnan Tingyu Homestay (Suzhou Railway Station Pingjiang Wanda Branch),停车场,31.341736,120.610909,71,8,82,1,88,8,150,7
+403,维也纳酒店(苏州工业园区时尚舞台奥特莱斯店),Vienna Hotel (Suzhou Industrial Park Fashion Stage Outlets),健身室 ,31.337822,120.825299,160,0,186,5,198,2,338,0
+404,苏州漫时光 ·Serendipity休闲度假美宿（平江路拙政园店）,Suzhou Serendipity Leisure Resort Inn (Pingjiang Road Humble Administrator's Garden),停车场 ,31.318621,120.632147,140,2,162,8,173,8,295,6
+405,芝田设计师酒店(苏州何山地铁站寒山寺店),Zhitian Designer Hotel (Suzhou Heshan Metro Station Hanshan Temple),停车场,31.305125,120.528825,136,8,157,7,168,3,287,1
+406,本真酒店（苏州观前街平江路店）,Benzhen Hotel (Suzhou Guanqian Street Pingjiang Road),健身室,31.321913,120.623994,160,3,186,0,198,1,338,2
+407,CITY·璞玉酒店（苏州观前街平江路店）,CITY·Puyu Hotel (Suzhou Guanqian Street Pingjiang Road),停车场,31.31772,120.627813,150,2,174,3,186,2,318,8
+408,星程酒店(苏州狮山路高新广场店),Starway Hotel (Suzhou Shishan Road Hi-Tech Plaza),停车场,31.296726,120.570206,149,4,172,1,184,0,314,8
+409,苏州嘉伯瑞服务公寓(寒山寺西环路地铁站店),Suzhou Jiaberui Serviced Apartment (Hanshan Temple Xihuan Road Metro Station),健身室,31.296907,120.576231,152,8,176,7,188,6,321,1
+410,香雪海饭店（苏州盘门景区店）,Xiangxuehai Hotel (Suzhou Panmen Scenic Area),停车场,31.281215,120.608747,161,2,187,2,199,6,340,1
+411,美树酒店（苏州平江路拙政园店）,Meisu Hotel (Suzhou Pingjiang Road Humble Administrator's Garden),停车场,31.321445,120.629757,111,7,129,8,138,0,235,1
+412,书香门第精选酒店(苏州石路三香路地铁站店),Scholars Inn Select Hotel (Suzhou Shilu Sanxiang Road Metro Station),停车场,31.297683,120.599899,161,7,187,8,199,0,340,3

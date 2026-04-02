@@ -1,0 +1,122 @@
+[
+  {
+    "TrainID": "D2224",
+    "TrainType": "动车",
+    "From": "成都东站",
+    "To": "杭州东站",
+    "BeginTime": "07:36",
+    "EndTime": "21:36",
+    "Duration": 14.0,
+    "Cost": 670.0
+  },
+  {
+    "TrainID": "G463",
+    "TrainType": "高铁",
+    "From": "成都东站",
+    "To": "杭州东站",
+    "BeginTime": "08:16",
+    "EndTime": "17:35",
+    "Duration": 9.32,
+    "Cost": 1046.0
+  },
+  {
+    "TrainID": "G2191",
+    "TrainType": "高铁",
+    "From": "成都东站",
+    "To": "杭州东站",
+    "BeginTime": "09:23",
+    "EndTime": "21:33",
+    "Duration": 12.17,
+    "Cost": 1031.0
+  },
+  {
+    "TrainID": "G2187",
+    "TrainType": "高铁",
+    "From": "成都东站",
+    "To": "杭州东站",
+    "BeginTime": "10:09",
+    "EndTime": "22:10",
+    "Duration": 12.02,
+    "Cost": 1089.5
+  },
+  {
+    "TrainID": "K530",
+    "TrainType": "快速",
+    "From": "成都西站",
+    "To": "杭州站",
+    "BeginTime": "17:59",
+    "EndTime": "21:47",
+    "Duration": 27.8,
+    "Cost": 264.0
+  },
+  {
+    "TrainID": "K352",
+    "TrainType": "快速",
+    "From": "成都西站",
+    "To": "杭州南站",
+    "BeginTime": "18:57",
+    "EndTime": "05:24",
+    "Duration": 34.5,
+    "Cost": 263.5
+  },
+  {
+    "TrainID": "D954",
+    "TrainType": "动车",
+    "From": "成都东站",
+    "To": "杭州东站",
+    "BeginTime": "07:47",
+    "EndTime": "21:36",
+    "Duration": 13.82,
+    "Cost": 670.0
+  },
+  {
+    "TrainID": "D2238",
+    "TrainType": "动车",
+    "From": "成都东站",
+    "To": "杭州西站",
+    "BeginTime": "09:17",
+    "EndTime": "23:14",
+    "Duration": 13.95,
+    "Cost": 690.0
+  },
+  {
+    "TrainID": "D6196",
+    "TrainType": "动车",
+    "From": "成都东站",
+    "To": "杭州南站",
+    "BeginTime": "09:44",
+    "EndTime": "21:43",
+    "Duration": 35.98,
+    "Cost": 139.0
+  },
+  {
+    "TrainID": "D620",
+    "TrainType": "动车",
+    "From": "成都东站",
+    "To": "杭州东站",
+    "BeginTime": "07:00",
+    "EndTime": "21:36",
+    "Duration": 14.6,
+    "Cost": 670.0
+  },
+  {
+    "TrainID": "D3058",
+    "TrainType": "动车",
+    "From": "成都东站",
+    "To": "杭州东站",
+    "BeginTime": "06:10",
+    "EndTime": "21:36",
+    "Duration": 15.43,
+    "Cost": 670.0
+  },
+  {
+    "TrainID": "D2224",
+    "TrainType": "动车",
+    "From": "成都东站",
+    "To": "杭州西站",
+    "BeginTime": "07:36",
+    "EndTime": "21:07",
+    "Duration": 13.52,
+    "Cost": 683.0
+  }
+]

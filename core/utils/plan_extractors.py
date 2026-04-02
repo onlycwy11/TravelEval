@@ -174,21 +174,23 @@ class PlanExtractor:
             start_h, start_m = map(int, start_time.split(':'))
             end_h, end_m = map(int, end_time.split(':'))
 
-            duration = (end_h - start_h) + (end_m - start_m) / 60.0
+            if start_h > end_h:
+                duration = (end_h + 24 - start_h) + (end_m - start_m) / 60.0
+            else:
+                duration = (end_h - start_h) + (end_m - start_m) / 60.0
+
             return max(0, duration)
 
         except (ValueError, AttributeError):
             return 0.0
 
     @staticmethod
-    def _extract_intercity_time(transport: Dict[str, Any], start: str, end: str, sandbox_data: Dict[str, Any]) -> float:
+    def _extract_intercity_time(transport: Dict[str, Any], sandbox_data: Dict[str, Any]) -> float:
         """
         从沙盒数据中提取指定交通方式和编号的城际交通持续时间。
 
         Args:
-            transport_type: 交通类型（如 'train' 或 'airplane'）。
-            start: 起点
-            end: 终点
+            transport: 交通类型（如 'train' 或 'airplane'）。
             sandbox_data: 包含交通数据的字典。
 
         Returns:
@@ -209,21 +211,24 @@ class PlanExtractor:
 
         start_time = transport['start_time']
         end_time = transport['end_time']
-        location_name = transport['location_name']
-
-        if location_name == start:
-            start = end
-            end = location_name
+        end = transport['location_name']
 
         for flight in transport_list:
-            if flight.get('From') == start and flight.get('To') == end:
+            if flight.get('To').startswith(end[:2]):
+                if flight.get('TrainType') and transport_type not in ['高铁', '动车']:
+                    if flight.get('TrainType') in ['高铁', '动车']:
+                        continue
                 diff = PlanExtractor._get_time_difference(start_time, end_time, flight['BeginTime'], flight['EndTime'])
                 if diff < min_diff:
                     min_diff = diff
                     closest_flight = flight
-        # print(closest_flight)
+                    # print(closest_flight)
 
-        return closest_flight.get('Duration')
+        # print(closest_flight)
+        if closest_flight:
+            return closest_flight.get('Duration')
+        else:
+            return 0.0
 
     @staticmethod
     def _get_time_difference(start1: str, end1: str, start2: str, end2: str) -> float:
@@ -237,6 +242,9 @@ class PlanExtractor:
         end1_dt = parse_time(end1)
         start2_dt = parse_time(start2)
         end2_dt = parse_time(end2)
+
+        if end1_dt < start1_dt:
+            end1_dt += timedelta(hours=24)
 
         diff_start = abs((start1_dt - start2_dt).total_seconds() / 60)
         diff_end = abs((end1_dt - end2_dt).total_seconds() / 60)
@@ -387,6 +395,8 @@ class PlanExtractor:
             for exp_type in exp_list:
                 type_scores[exp_type] += 1 / n
 
+        print(type_scores)
+
         # 计算总得分（用于概率计算）
         total_score = sum(type_scores.values())
         if total_score == 0:
@@ -394,6 +404,8 @@ class PlanExtractor:
 
         # 计算各类型概率
         probabilities = {t: score / total_score for t, score in type_scores.items()}
+
+        print(probabilities)
 
         # 计算香农指数
         shannon_h = 0.0
@@ -421,19 +433,23 @@ class PlanExtractor:
 
         # 按优先级检查
         if "特种兵式" in preferences:
-            return "特种兵式"
-        elif "慢旅游" in preferences:
-            return "慢旅游"
+            return "特种兵"
+        elif "慢游" in preferences:
+            return "慢游"
         elif has_family:
-            return "亲子家庭游"
+            return "亲子"
         else:
             return "普通"
 
     @staticmethod
     def _calculate_total_travel_time(summary, intercity_transport):
-        # 提取第一天城际交通的开始时间和最后一天城际交通的结束时间
-        start_time = intercity_transport[0]['start_time']
-        end_time = intercity_transport[-1]['end_time']
+        if not intercity_transport:
+            start_time = "8:00"
+            end_time = "22:00"
+        else:
+            # 提取第一天城际交通的开始时间和最后一天城际交通的结束时间
+            start_time = intercity_transport[0]['start_time']
+            end_time = intercity_transport[-1]['end_time']
 
         # 将时间转换为小时数
         start_hour = int(start_time.split(':')[0]) + int(
@@ -463,10 +479,15 @@ class PlanExtractor:
 
         # 1. 提取城际交通成本
         cost = 0
+        details = None
         for transport in ai_plan["intercity_transport"]["transport_type"]:
             details = transport.get('details')
             cost = cost + float(details.get('price')) * float(details.get('number'))
         actual_costs["intercity_transportation"] = cost
+        if details is None:
+            details = {
+                "price": float("inf")
+            }
 
         # 2. 提取住宿成本
         cost = 0
@@ -478,15 +499,18 @@ class PlanExtractor:
         # 3. 遍历每日计划，计算其他成本
         for day_plan in ai_plan["daily_plans"]:
             for activity in day_plan["activities"]:
-                price = activity["details"].get("ticket_price", 0)
-                number = activity["details"].get("ticket_number", 0)
-                if price:
-                    if number:
-                        cost = price * number
-                    else:
-                        cost = price * total_travelers
-                else:
+                if "details" not in activity or activity["details"] is None:
                     cost = float(activity.get("cost", 0))
+                else:
+                    price = float(activity["details"].get("ticket_price", 0) or 0.0)
+                    number = int(activity["details"].get("ticket_number", 0) or 0)
+                    if price:
+                        if number:
+                            cost = price * number
+                        else:
+                            cost = price * total_travelers
+                    else:
+                        cost = float(activity.get("cost", 0))
                 transport_cost = float(activity.get("transportation_cost", 0))
 
                 # 景点成本
@@ -497,16 +521,23 @@ class PlanExtractor:
                 elif activity["type"] == "meal":
                     actual_costs["meals"] += cost
 
+                elif activity["type"] in [
+                    "intercity_transport", "accommodation", "accommodation_check_in", "accommodation_check_out", "intracity_transport"
+                ]:
+                    pass
+
                 else:
                     actual_costs["other"] += cost
 
                 # 市内交通成本（所有活动的交通费用，包括步行/地铁等）
-                actual_costs["intracity_transportation"] += transport_cost
+                if transport_cost < details.get('price'):
+                    actual_costs["intracity_transportation"] += transport_cost
 
             # 处理每日结束点的交通成本（如返回酒店的地铁）
             ending_point = day_plan.get("ending_point", {})
             if ending_point:
-                actual_costs["intracity_transportation"] += float(ending_point.get("transportation_cost", 0))
+                if float(ending_point.get("transportation_cost", 0)) < details.get('price'):
+                    actual_costs["intracity_transportation"] += float(ending_point.get("transportation_cost", 0))
 
         return actual_costs
 

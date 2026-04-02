@@ -1,0 +1,222 @@
+[
+  {
+    "TrainID": "K512",
+    "TrainType": "快速",
+    "From": "广州白云站",
+    "To": "上海松江站",
+    "BeginTime": "07:52",
+    "EndTime": "06:56",
+    "Duration": 23.1,
+    "Cost": 201.0
+  },
+  {
+    "TrainID": "K528",
+    "TrainType": "快速",
+    "From": "广州白云站",
+    "To": "上海松江站",
+    "BeginTime": "08:18",
+    "EndTime": "03:46",
+    "Duration": 19.5,
+    "Cost": 189.5
+  },
+  {
+    "TrainID": "G818",
+    "TrainType": "高铁",
+    "From": "广州南站",
+    "To": "上海虹桥站",
+    "BeginTime": "08:27",
+    "EndTime": "15:03",
+    "Duration": 6.6,
+    "Cost": 880.0
+  },
+  {
+    "TrainID": "G3068",
+    "TrainType": "高铁",
+    "From": "广州东站",
+    "To": "上海南站",
+    "BeginTime": "09:09",
+    "EndTime": "17:20",
+    "Duration": 8.18,
+    "Cost": 902.0
+  },
+  {
+    "TrainID": "G3068",
+    "TrainType": "高铁",
+    "From": "广州新塘站",
+    "To": "上海南站",
+    "BeginTime": "09:36",
+    "EndTime": "17:20",
+    "Duration": 7.73,
+    "Cost": 871.0
+  },
+  {
+    "TrainID": "G800",
+    "TrainType": "高铁",
+    "From": "广州东站",
+    "To": "上海虹桥站",
+    "BeginTime": "12:12",
+    "EndTime": "19:25",
+    "Duration": 7.22,
+    "Cost": 900.0
+  },
+  {
+    "TrainID": "G800",
+    "TrainType": "高铁",
+    "From": "广州新塘站",
+    "To": "上海虹桥站",
+    "BeginTime": "12:37",
+    "EndTime": "19:25",
+    "Duration": 6.8,
+    "Cost": 869.0
+  },
+  {
+    "TrainID": "G1302",
+    "TrainType": "高铁",
+    "From": "广州南站",
+    "To": "上海虹桥站",
+    "BeginTime": "13:19",
+    "EndTime": "21:47",
+    "Duration": 8.47,
+    "Cost": 903.0
+  },
+  {
+    "TrainID": "G3078",
+    "TrainType": "高铁",
+    "From": "广州东站",
+    "To": "上海虹桥站",
+    "BeginTime": "14:13",
+    "EndTime": "22:26",
+    "Duration": 8.22,
+    "Cost": 844.0
+  },
+  {
+    "TrainID": "G3078",
+    "TrainType": "高铁",
+    "From": "广州新塘站",
+    "To": "上海虹桥站",
+    "BeginTime": "14:37",
+    "EndTime": "22:26",
+    "Duration": 7.82,
+    "Cost": 813.0
+  },
+  {
+    "TrainID": "G1306",
+    "TrainType": "高铁",
+    "From": "广州东站",
+    "To": "上海南站",
+    "BeginTime": "15:00",
+    "EndTime": "22:49",
+    "Duration": 7.82,
+    "Cost": 867.0
+  },
+  {
+    "TrainID": "G820",
+    "TrainType": "高铁",
+    "From": "广州南站",
+    "To": "上海虹桥站",
+    "BeginTime": "15:10",
+    "EndTime": "21:54",
+    "Duration": 6.73,
+    "Cost": 949.0
+  },
+  {
+    "TrainID": "G1306",
+    "TrainType": "高铁",
+    "From": "广州新塘站",
+    "To": "上海南站",
+    "BeginTime": "15:25",
+    "EndTime": "22:49",
+    "Duration": 7.4,
+    "Cost": 836.0
+  },
+  {
+    "TrainID": "D130",
+    "TrainType": "动车",
+    "From": "广州白云站",
+    "To": "上海南站",
+    "BeginTime": "18:14",
+    "EndTime": "10:48",
+    "Duration": 16.6,
+    "Cost": 263.0
+  },
+  {
+    "TrainID": "D933",
+    "TrainType": "动车",
+    "From": "广州南站",
+    "To": "上海虹桥站",
+    "BeginTime": "19:19",
+    "EndTime": "06:47",
+    "Duration": 11.5,
+    "Cost": 599.0
+  },
+  {
+    "TrainID": "D937",
+    "TrainType": "动车",
+    "From": "广州南站",
+    "To": "上海虹桥站",
+    "BeginTime": "19:23",
+    "EndTime": "06:52",
+    "Duration": 11.5,
+    "Cost": 599.0
+  },
+  {
+    "TrainID": "D943",
+    "TrainType": "动车",
+    "From": "广州南站",
+    "To": "上海虹桥站",
+    "BeginTime": "19:33",
+    "EndTime": "06:42",
+    "Duration": 11.2,
+    "Cost": 599.0
+  },
+  {
+    "TrainID": "G800",
+    "TrainType": "高铁",
+    "From": "广州新塘站",
+    "To": "上海金山北站",
+    "BeginTime": "12:37",
+    "EndTime": "19:24",
+    "Duration": 6.78,
+    "Cost": 850.0
+  },
+  {
+    "TrainID": "G818",
+    "TrainType": "高铁",
+    "From": "广州南站",
+    "To": "上海金山北站",
+    "BeginTime": "08:27",
+    "EndTime": "15:19",
+    "Duration": 6.87,
+    "Cost": 854.0
+  },
+  {
+    "TrainID": "G800",
+    "TrainType": "高铁",
+    "From": "广州东站",
+    "To": "上海金山北站",
+    "BeginTime": "12:12",
+    "EndTime": "19:24",
+    "Duration": 7.2,
+    "Cost": 881.0
+  },
+  {
+    "TrainID": "G3068",
+    "TrainType": "高铁",
+    "From": "广州新塘站",
+    "To": "上海练塘站",
+    "BeginTime": "09:36",
+    "EndTime": "17:43",
+    "Duration": 8.12,
+    "Cost": 848.0
+  },
+  {
+    "TrainID": "G820",
+    "TrainType": "高铁",
+    "From": "广州南站",
+    "To": "上海南站",
+    "BeginTime": "15:10",
+    "EndTime": "22:26",
+    "Duration": 7.27,
+    "Cost": 925.0
+  }
+]

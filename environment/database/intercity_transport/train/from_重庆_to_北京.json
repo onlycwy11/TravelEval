@@ -1,0 +1,192 @@
+[
+  {
+    "TrainID": "G52",
+    "TrainType": "高铁",
+    "From": "重庆北站",
+    "To": "北京西站",
+    "BeginTime": "07:30",
+    "EndTime": "14:31",
+    "Duration": 7.02,
+    "Cost": 917.0
+  },
+  {
+    "TrainID": "G352",
+    "TrainType": "高铁",
+    "From": "重庆北站",
+    "To": "北京西站",
+    "BeginTime": "08:15",
+    "EndTime": "17:04",
+    "Duration": 8.82,
+    "Cost": 932.0
+  },
+  {
+    "TrainID": "G388",
+    "TrainType": "高铁",
+    "From": "重庆西站",
+    "To": "北京丰台站",
+    "BeginTime": "08:38",
+    "EndTime": "20:22",
+    "Duration": 11.73,
+    "Cost": 983.0
+  },
+  {
+    "TrainID": "T10",
+    "TrainType": "特快",
+    "From": "重庆西站",
+    "To": "北京西站",
+    "BeginTime": "09:22",
+    "EndTime": "11:27",
+    "Duration": 26.1,
+    "Cost": 229.0
+  },
+  {
+    "TrainID": "G334",
+    "TrainType": "高铁",
+    "From": "重庆西站",
+    "To": "北京西站",
+    "BeginTime": "10:39",
+    "EndTime": "19:08",
+    "Duration": 8.48,
+    "Cost": 843.0
+  },
+  {
+    "TrainID": "G334",
+    "TrainType": "高铁",
+    "From": "重庆北站",
+    "To": "北京西站",
+    "BeginTime": "11:10",
+    "EndTime": "19:08",
+    "Duration": 7.97,
+    "Cost": 825.0
+  },
+  {
+    "TrainID": "G372",
+    "TrainType": "高铁",
+    "From": "重庆西站",
+    "To": "北京西站",
+    "BeginTime": "11:51",
+    "EndTime": "21:39",
+    "Duration": 9.8,
+    "Cost": 869.0
+  },
+  {
+    "TrainID": "G372",
+    "TrainType": "高铁",
+    "From": "重庆北站",
+    "To": "北京西站",
+    "BeginTime": "12:23",
+    "EndTime": "21:39",
+    "Duration": 9.27,
+    "Cost": 857.0
+  },
+  {
+    "TrainID": "G54",
+    "TrainType": "高铁",
+    "From": "重庆北站",
+    "To": "北京西站",
+    "BeginTime": "14:33",
+    "EndTime": "21:44",
+    "Duration": 7.18,
+    "Cost": 917.0
+  },
+  {
+    "TrainID": "D50",
+    "TrainType": "动车",
+    "From": "重庆北站",
+    "To": "北京西站",
+    "BeginTime": "15:50",
+    "EndTime": "10:05",
+    "Duration": 18.2,
+    "Cost": 298.0
+  },
+  {
+    "TrainID": "D4",
+    "TrainType": "动车",
+    "From": "重庆北站",
+    "To": "北京西站",
+    "BeginTime": "16:07",
+    "EndTime": "10:11",
+    "Duration": 18.1,
+    "Cost": 291.0
+  },
+  {
+    "TrainID": "D96",
+    "TrainType": "动车",
+    "From": "重庆北站",
+    "To": "北京西站",
+    "BeginTime": "16:28",
+    "EndTime": "10:37",
+    "Duration": 18.1,
+    "Cost": 298.0
+  },
+  {
+    "TrainID": "D998",
+    "TrainType": "动车",
+    "From": "重庆西站",
+    "To": "北京丰台站",
+    "BeginTime": "17:59",
+    "EndTime": "07:01",
+    "Duration": 13.0,
+    "Cost": 757.0
+  },
+  {
+    "TrainID": "K508",
+    "TrainType": "快速",
+    "From": "重庆北站",
+    "To": "北京西站",
+    "BeginTime": "20:14",
+    "EndTime": "21:47",
+    "Duration": 25.6,
+    "Cost": 217.0
+  },
+  {
+    "TrainID": "G52",
+    "TrainType": "高铁",
+    "From": "重庆北站",
+    "To": "北京西站",
+    "BeginTime": "07:30",
+    "EndTime": "15:04",
+    "Duration": 7.57,
+    "Cost": 889.0
+  },
+  {
+    "TrainID": "G334",
+    "TrainType": "高铁",
+    "From": "重庆北站",
+    "To": "北京西站",
+    "BeginTime": "11:10",
+    "EndTime": "19:25",
+    "Duration": 8.25,
+    "Cost": 860.0
+  },
+  {
+    "TrainID": "G3422",
+    "TrainType": "高铁",
+    "From": "重庆北站",
+    "To": "北京西站",
+    "BeginTime": "10:41",
+    "EndTime": "19:08",
+    "Duration": 8.45,
+    "Cost": 825.0
+  },
+  {
+    "TrainID": "G54",
+    "TrainType": "高铁",
+    "From": "重庆北站",
+    "To": "北京西站",
+    "BeginTime": "14:33",
+    "EndTime": "22:06",
+    "Duration": 7.55,
+    "Cost": 916.0
+  },
+  {
+    "TrainID": "G54",
+    "TrainType": "高铁",
+    "From": "重庆北站",
+    "To": "北京西站",
+    "BeginTime": "14:33",
+    "EndTime": "22:01",
+    "Duration": 7.47,
+    "Cost": 928.0
+  }
+]

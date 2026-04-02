@@ -1,0 +1,152 @@
+[
+  {
+    "TrainID": "G637",
+    "TrainType": "高铁",
+    "From": "南京南站",
+    "To": "广州南站",
+    "BeginTime": "07:25",
+    "EndTime": "14:29",
+    "Duration": 7.07,
+    "Cost": 708.0
+  },
+  {
+    "TrainID": "G4665",
+    "TrainType": "高铁",
+    "From": "南京南站",
+    "To": "广州北站",
+    "BeginTime": "03:13",
+    "EndTime": "10:36",
+    "Duration": 7.38,
+    "Cost": 494.0
+  },
+  {
+    "TrainID": "G1783",
+    "TrainType": "高铁",
+    "From": "南京南站",
+    "To": "广州北站",
+    "BeginTime": "19:04",
+    "EndTime": "10:36",
+    "Duration": 15.53,
+    "Cost": 495.0
+  },
+  {
+    "TrainID": "G3075",
+    "TrainType": "高铁",
+    "From": "南京南站",
+    "To": "广州新塘站",
+    "BeginTime": "07:31",
+    "EndTime": "16:36",
+    "Duration": 9.08,
+    "Cost": 852.0
+  },
+  {
+    "TrainID": "G3075",
+    "TrainType": "高铁",
+    "From": "南京南站",
+    "To": "广州东站",
+    "BeginTime": "07:31",
+    "EndTime": "17:00",
+    "Duration": 9.48,
+    "Cost": 883.0
+  },
+  {
+    "TrainID": "G385",
+    "TrainType": "高铁",
+    "From": "南京南站",
+    "To": "广州南站",
+    "BeginTime": "10:25",
+    "EndTime": "16:56",
+    "Duration": 6.52,
+    "Cost": 708.0
+  },
+  {
+    "TrainID": "T151",
+    "TrainType": "特快",
+    "From": "南京站",
+    "To": "广州白云站",
+    "BeginTime": "13:55",
+    "EndTime": "10:51",
+    "Duration": 20.93,
+    "Cost": 192.0
+  },
+  {
+    "TrainID": "K527",
+    "TrainType": "快速",
+    "From": "南京站",
+    "To": "广州白云站",
+    "BeginTime": "14:38",
+    "EndTime": "17:06",
+    "Duration": 26.47,
+    "Cost": 213.0
+  },
+  {
+    "TrainID": "G1553",
+    "TrainType": "高铁",
+    "From": "南京南站",
+    "To": "广州南站",
+    "BeginTime": "15:07",
+    "EndTime": "22:34",
+    "Duration": 7.45,
+    "Cost": 708.0
+  },
+  {
+    "TrainID": "G1745",
+    "TrainType": "高铁",
+    "From": "南京南站",
+    "To": "广州南站",
+    "BeginTime": "15:52",
+    "EndTime": "23:17",
+    "Duration": 7.42,
+    "Cost": 660.0
+  },
+  {
+    "TrainID": "G1745",
+    "TrainType": "高铁",
+    "From": "南京南站",
+    "To": "广州南站",
+    "BeginTime": "15:52",
+    "EndTime": "23:28",
+    "Duration": 7.6,
+    "Cost": 674.0
+  },
+  {
+    "TrainID": "G2781",
+    "TrainType": "高铁",
+    "From": "南京南站",
+    "To": "广州新塘站",
+    "BeginTime": "07:31",
+    "EndTime": "15:29",
+    "Duration": 7.97,
+    "Cost": 732.0
+  },
+  {
+    "TrainID": "G2785",
+    "TrainType": "高铁",
+    "From": "南京南站",
+    "To": "广州新塘站",
+    "BeginTime": "09:07",
+    "EndTime": "17:29",
+    "Duration": 8.37,
+    "Cost": 723.0
+  },
+  {
+    "TrainID": "G7137",
+    "TrainType": "高铁",
+    "From": "南京南站",
+    "To": "广州南站",
+    "BeginTime": "12:20",
+    "EndTime": "20:40",
+    "Duration": 8.33,
+    "Cost": 1161.0
+  },
+  {
+    "TrainID": "G2789",
+    "TrainType": "高铁",
+    "From": "南京南站",
+    "To": "广州南站",
+    "BeginTime": "14:52",
+    "EndTime": "22:27",
+    "Duration": 7.58,
+    "Cost": 787.0
+  }
+]

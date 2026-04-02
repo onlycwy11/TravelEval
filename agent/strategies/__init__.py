@@ -22,7 +22,7 @@ class StrategyFactory:
         strategies = {
             "Direct Prompting": DirectPromptingStrategy,
             "Zero-shot CoT": ZeroShotCoTStrategy,
-            "ReAct/Reflection": ReActReflectionStrategy,
+            "ReAct&Reflection": ReActReflectionStrategy
         }
 
         if strategy_name not in strategies:

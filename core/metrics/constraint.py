@@ -141,36 +141,49 @@ class ConstraintMetrics:
         for transport in ai_plan["intercity_transport"]["transport_type"]:
             details = transport.get('details')
             planned_people = float(details.get('number'))
-            if planned_people != actual_people:
+            if planned_people < actual_people:
                 return 0
 
         # 2. 提取住宿人数偏差
+        planned_people = 0
         for accommodation in ai_plan["accommodation"]["room_type"]:
             types = accommodation.get('type')
             matched_type = next((key for key in room_type if key in types), None)
             type_number = room_type.get(matched_type, 0)
-            planned_people = float(accommodation.get('quantity')) * type_number
-            if planned_people != actual_people:
-                return 0
+            planned_people += float(accommodation.get('quantity')) * type_number
+        if planned_people < actual_people:
+            return 0
 
         # 3. 遍历每日计划，计算其他人数偏差
         for day_plan in ai_plan["daily_plans"]:
             for activity in day_plan["activities"]:
+                if "details" not in activity or activity["details"] is None:
+                    continue
+
                 ticket_number = activity["details"].get("ticket_number", 0)
-                if ticket_number and ticket_number != actual_people:
+                if ticket_number and ticket_number < actual_people:
                     return 0
-                seat_number = float(activity["details"].get("load_limit", 0)) - 1
-                car_number = float(activity["details"].get("car_number", 0))
-                if seat_number and car_number and seat_number * car_number != actual_people:
-                    return 0
+
+                load_limit = activity["details"].get("load_limit")
+                car_number = activity["details"].get("car_number")
+
+                if load_limit is not None and car_number is not None:
+                    seat_number = float(load_limit) - 1
+                    car_number = float(car_number)
+                    if seat_number and car_number and seat_number * car_number < actual_people:
+                        return 0
 
             # 处理每日结束点的交通成本（如返回酒店的地铁）
             ending_point = day_plan.get("ending_point", {})
-            if ending_point:
-                seat_number = float(ending_point["details"].get("load_limit", 0)) - 1
-                car_number = float(ending_point["details"].get("car_number", 0))
-                if seat_number and car_number and seat_number * car_number < actual_people:
-                    return 0
+            if ending_point and "details" in ending_point and ending_point["details"] is not None:
+                load_limit = ending_point["details"].get("load_limit")
+                car_number = ending_point["details"].get("car_number")
+
+                if load_limit is not None and car_number is not None:
+                    seat_number = float(load_limit) - 1
+                    car_number = float(car_number)
+                    if seat_number and car_number and seat_number * car_number < actual_people:
+                        return 0
 
         return 1
 
@@ -194,8 +207,11 @@ class ConstraintMetrics:
         name = ai_plan.get('accommodation').get('hotel_name', '')
 
         night = 0
+        night_index = 0
         for accommodation in ai_plan['accommodation'].get('room_type'):
             night += int(accommodation.get('nights', 0))
+            night_index += 1
+        night = night / night_index
         if night != (total_day - 1):
             return 0
 
@@ -277,7 +293,7 @@ class ConstraintMetrics:
 
         types = ''
         for day_number, activities in daily_schedules.items():
-            meal_activities = [act for act in activities if act.get('type') == 'meal']
+            meal_activities = [act for act in activities if act and act.get('type') == 'meal']
 
             for activity in meal_activities:
                 name = activity.get('location_name')
@@ -327,6 +343,7 @@ class ConstraintMetrics:
                             activity, day_type, effective_hours_map[name].get('type'), self.config_waiting)
                         if effective_hours < effective_hours_map[name].get('recommendmintime') or \
                                 effective_hours > effective_hours_map[name].get('recommendmaxtime'):
+                            # print(name)
                             return 0
 
         return 1

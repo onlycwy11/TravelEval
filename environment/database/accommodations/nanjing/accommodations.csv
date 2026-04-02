@@ -1,0 +1,484 @@
+﻿id,name,hotelname_en,featurehoteltype,lat,lon,single_room_price,single_room_stock,king_room_price,king_room_stock,double_bed_price,double_bed_stock,family_room_price,family_room_stock
+0,南京南站逸扉酒店,UrCove by HYATT Nanjing South Railway Station,健身室,31.965803,118.801942,311,1,368,1,379,0,553,1
+1,南京玄武饭店,Lakeview Xuanwu Hotel,桑拿,32.070791,118.783697,456,0,539,0,556,1,812,2
+2,南京城市名人酒店,Celebrity City Hotel Nanjing,湖景房,32.062756,118.780628,353,1,418,0,431,2,629,1
+3,南京维景国际大酒店,Grand Metropark Hotel Nanjing,泳池,32.040158,118.823291,383,1,453,0,467,0,682,1
+4,南京高淳域见芳草地度假酒店,Wonderland  Resort Nan Jing,湖景房,31.350625,119.051378,444,2,525,0,541,0,790,4
+5,美仑国际酒店(南京禄口机场店),Meilun International Hotel (Nanjing Lukou Airport),免费停车,31.733677,118.957325,296,1,350,3,361,0,527,1
+6,南京古南都饭店,Nanjing Grand Hotel,泳池,32.051632,118.773456,432,1,511,2,527,2,769,0
+7,南京固城湾开元名都度假酒店,Grand New Century Resort Gaochun Nanjing,泳池,31.317174,118.874748,453,0,535,1,552,0,806,1
+8,南京开元大酒店,Dingye New Century Hotel Nanjing,泳池,32.060854,118.631036,310,0,367,1,378,1,552,0
+9,南京汤山涵田·悦酒店,Nanjing Tangshan Hentique Spring Valley Hotel,SPA,32.046005,119.058134,409,1,484,1,499,2,729,2
+10,康铂酒店(南京江宁河海大学地铁站店),Kangyi Hotel (Nanjing Jiangning Hehai University Subway Station),免费停车,31.898445,118.790809,251,2,297,3,306,1,447,0
+11,南京仁恒柏薇酒店公寓,ParcVue Hotel Residence Nanjing,桑拿,32.028983,118.70421,453,3,535,0,552,1,806,2
+12,南京富力万达嘉华酒店,Wanda Realm Nanjing,泳池,31.951971,118.845033,492,0,582,1,600,1,876,1
+13,南京钟山宾馆(江苏省会议中心),Nanjing Zhongshan Hotel (Jiangsu Conference Center),泳池,32.040498,118.811714,303,2,358,2,369,0,539,1
+14,南京苏宁环球套房饭店,Suning Universal Hotel,泳池,32.051134,118.774939,394,1,466,0,480,0,701,0
+15,南京奥体博览中心优逸酒店,Youyi Hotel Nanjing Olympic Sports Expo Center,管家服务,31.983114,118.731653,440,0,521,0,537,1,784,0
+16,南京瑞斯丽酒店,Swisstouches Hotel Nanjing,泳池,32.040405,118.642822,371,0,438,3,452,0,660,0
+17,南京世茂滨江希尔顿酒店,Hilton Nanjing Riverside,泳池,32.077225,118.733025,488,2,577,1,595,3,869,1
+18,南京隽恒酒店,Junheng Hotel,管家服务,32.054475,118.76297,312,4,369,2,380,0,555,1
+19,美豪丽致酒店(南京南站明发广场地铁站店),Meihao Lizhi Hotel (Nanjing South Railway Station Mingfa Plaza Subway Station Store),管家服务,31.97784,118.799202,382,2,452,2,466,2,680,2
+20,南京金陵状元楼大酒店,Jinling Mandarin Garden Hotel Nanjing,泳池,32.022119,118.788124,399,1,472,1,487,3,711,2
+21,南京明发珍珠泉大酒店,Mingfa Pearl Spring Hotel,湖景房,32.11979,118.660805,317,2,375,1,387,4,565,1
+22,南京空港温德姆花园酒店,Wyndham Garden Nanjing AIrport,泳池,31.788368,118.831132,409,1,484,3,499,2,729,0
+23,南京水游城假日酒店,Holiday Inn Nanjing Aqua City,亲子主题房,32.024224,118.786014,425,1,502,0,518,0,756,3
+24,南京怡华酒店,Yihua Hotel,泳池,32.062356,118.779652,310,0,367,1,378,0,552,0
+25,南京北站文景酒店(星火路地铁站),Nanjing North Railway Station Wenjing Hotel,山景房,32.162325,118.689949,360,0,426,1,439,0,641,0
+26,南京苏宁索菲特银河大酒店,Sofitel Nanjing Galaxy  Suning,泳池,32.067433,118.772321,420,0,497,0,512,0,748,1
+27,李在凤粮仓酒店,Ruyi Xiangye Hot Spring Hotel,泳池,31.657284,118.962549,327,1,387,2,399,2,583,1
+28,南京熹禾涵田酒店,XIHE HENTIQUE HOTEL,管家服务,32.020349,118.61598,394,2,466,1,480,2,701,1
+29,南京玄武湖假日酒店,Holiday Inn Nanjing Xuanwu Lake,湖景房,32.066615,118.815767,449,0,532,0,548,2,800,4
+30,南京金陵江滨酒店,Jinling Riverside Hotel,湖景房,32.010767,118.708706,389,3,460,0,474,2,692,0
+31,南京湖滨金陵饭店,Jinling Resort,泳池,31.940443,118.816924,355,1,420,1,433,1,632,0
+32,南京上秦淮假日酒店,Holiday Inn Nanjing Qinhuai South,桑拿,31.869777,118.829859,485,0,574,0,592,0,864,1
+33,南京丽湖雅致酒店,Lakehome Nanjing,桑拿,31.937899,118.820346,437,0,517,2,533,0,778,2
+34,南京上秦淮套房假日酒店,Holiday Inn Nanjing Qinhuai South Suites,湖景房,31.868713,118.829201,485,1,574,0,592,2,864,0
+35,南京恒大酒店,Hengda Hotel,泳池,31.699581,119.066924,393,3,465,3,479,0,699,0
+36,南京雨润涵月楼酒店,Han Yue Lou Hotel,SPA,32.007805,118.732859,467,0,552,0,569,1,831,1
+37,南京翠屏新港假日酒店,Holiday Inn Nanjing Harbour,江河景房,32.163003,118.868089,463,2,548,3,565,1,825,0
+38,南京金鹰珠江壹号国际酒店,Golden Eagle Summit Hotel,泳池,32.050677,118.785127,490,1,580,1,598,2,873,2
+39,南京玄武苏宁诺富特酒店,Novotel Nanjing East Suning,泳池,32.085999,118.89133,346,0,409,0,422,1,616,0
+40,南京金陵饭店,Jinling Hotel,SPA,32.042447,118.782824,558,2,660,3,680,2,993,1
+41,桔子水晶南京总统府中山东路酒店,Crystal Orange Nanjing Presidential Palace Zhongshan East Road Hotel,免费停车,32.040044,118.801882,346,0,409,0,422,2,616,2
+42,桔子水晶南京新街口酒店,Crystal Orange Hotel (Nanjing Xinjiekou),免费停车,32.034885,118.783734,374,0,442,1,456,2,666,0
+43,南京南站万达美华酒店,Wanda Moments Nanjing South Railway Station,机器人服务,31.96475,118.801883,298,2,353,3,364,1,531,1
+44,南京中心大酒店,Central Hotel,泳池,32.045436,118.783855,451,2,534,1,550,1,803,2
+45,南京武家嘴国际大酒店,Wujiazui International Hotel,管家服务,31.334253,118.895206,367,0,435,0,448,1,654,1
+46,南京紫清湖温泉度假酒店(野生动物世界店),Nanjing Ziqing Lake Hot Spring Resort (Wildlife World),桑拿,32.064524,119.032975,515,4,609,0,628,0,917,4
+47,国际青年会议酒店(南京国际青年文化中心店),International Youth Convention Hotel (Nanjing International Youth Cultural Centre),泳池,31.991206,118.708629,484,0,572,0,590,1,861,0
+48,南京金鹰尚美酒店,G.E. Summit Hotel,泳池,31.931395,118.819778,531,0,629,1,648,0,946,1
+49,南京东方珍珠voco酒店,voco Nanjing Oriental Pearl,免费停车,32.048892,118.795365,494,2,584,0,602,2,879,1
+50,南京新街口苏宁诺富特酒店,Novotel Nanjing Central Suning,免费停车,32.037035,118.786169,364,0,431,0,444,1,648,2
+51,南京蜂巢酒店,Beehive Hotel,泳池,32.140808,118.677356,549,0,649,1,669,0,977,1
+52,南京金鹰世界G酒店,"G·Hotel, Nanjing",泳池,32.024335,118.740927,784,1,927,0,956,0,1396,1
+53,南京金鹰国际酒店,Golden Eagle International Hotel,泳池,32.041678,118.778252,581,3,688,0,709,1,1035,1
+54,南京栖霞山涵田栖云山房酒店,Nanjing Qixia Mountain Hentique Qiyun Resorts,山景房,32.14832,118.955787,515,0,609,3,628,1,917,0
+55,南京天丰大酒店,Tianfeng Hotel,免费停车,32.040464,118.787635,344,2,406,0,419,1,612,0
+56,南京鲁能美高梅美荟酒店,Mhub by MGM Nanjing Jiangning,泳池,31.905776,118.889067,516,0,610,1,629,0,918,0
+57,南京园博园悦榕庄,Banyan Tree Nanjing Garden Expo,SPA,32.076975,119.021676,1601,0,1894,1,1953,0,2851,0
+58,南京紫峰洲际酒店,InterContinental Nanjing,泳池,32.06101,118.783434,678,3,802,1,827,3,1207,1
+59,南京金茂威斯汀大酒店,The Westin Nanjing Xuanwu Lake,泳池,32.072352,118.783256,655,0,775,0,799,1,1167,0
+60,南京山水大酒店,Shanshui Hotel,免费停车,32.044572,118.806021,384,1,454,0,468,0,683,0
+61,南京凯宾斯基酒店,Kempinski Hotel Nanjing,泳池,32.035341,118.805016,818,3,968,0,998,0,1457,1
+62,南京香格里拉大酒店,Shangri-La Nanjing,Boss推荐,32.077771,118.782672,672,2,795,3,820,0,1197,3
+63,南京南站希尔顿欢朋酒店,Hampton by Hilton (Nanjing South Railway Station),免费停车,31.946661,118.811247,387,0,458,4,472,0,689,3
+64,南京希尔顿酒店,Hilton Nanjing,泳池,32.031116,118.73817,574,4,679,0,700,1,1022,3
+65,南京丽思卡尔顿酒店,"The Ritz-Carlton, Nanjing",桑拿,32.043963,118.784897,1961,2,2319,2,2391,2,3491,2
+66,南京THE TAI太和紫金大酒店,THE TAI HOTEL,管家服务,32.045633,118.794964,515,1,609,2,628,1,917,2
+67,南京喜玛拉雅假日酒店,Holiday Inn Nanjing South Station,泳池,31.965233,118.805172,492,0,582,3,600,1,876,2
+68,南京泊金黄埔酒店,Bojin Huangpu Hotel,免费停车,32.042469,118.811395,376,0,444,0,458,1,669,1
+69,南京金奥国际酒店,Keyne Hotel Nanjing,桑拿,31.997874,118.724979,715,1,846,0,872,1,1273,1
+70,南京麒麟中山陵景区希尔顿欢朋酒店,Hilton Huanpeng Hotel in Nanjing Qilin Zhongshan Mausoleum Scenic Area,免费停车,32.017804,118.899318,310,2,367,0,378,0,552,1
+71,南京南站美居酒店,Mercure Hotel,泳池,31.926494,118.800588,368,2,436,0,449,0,656,0
+72,南京河西安达仕酒店,Andaz Nanjing Hexi,泳池,31.993356,118.721081,842,0,996,1,1027,0,1499,3
+73,花筑奢·老门东百戏园酒店(南京夫子庙店),Floral Lux Hotel Kun Opera,客栈,32.02647,118.781287,338,1,400,1,412,0,602,3
+74,南京禄口机场铂尔曼大酒店,Pullman Nanjing Lukou Airport,泳池,31.731079,118.873411,645,0,762,2,786,0,1148,2
+75,书香世家酒店(南京新街口三元巷店),Scholars Hotel,亲子主题房,32.034799,118.782515,327,1,387,0,399,1,583,1
+76,南京老门东漫心府,"Manxin Hotel of Laomendong,Nanjing",免费停车,32.007034,118.789064,417,1,493,2,508,3,742,2
+77,南京卓美亚酒店,Jumeirah Nanjing,桑拿,31.990583,118.709366,844,0,998,0,1029,2,1502,0
+78,南京鼓楼晶丽酒店,Jingli Hotel,多功能厅,32.058742,118.779362,351,1,415,0,428,1,625,1
+79,南京长江之舟华邑酒店,HUALUXE Nanjing Yangtze River,泳池,32.045013,118.666224,576,1,681,2,702,0,1025,0
+80,南京南站亚朵酒店,Atour Hotel (Nanjing South Railway Station),免费停车,31.966775,118.788329,403,0,476,0,491,1,717,0
+81,南京丰盛五季凯悦臻选酒店,"Grand WUJI Hotel, The Unbound Collection by Hyatt",桑拿,31.977606,118.762291,695,1,822,1,847,2,1237,1
+82,南京中山陵景区苜蓿园地铁站亚朵酒店,"Atour Hotel, Liyuan Metro Station, Nanjing Zhongshan Mausoleum Scenic Area",免费停车,32.039135,118.841237,359,0,425,1,438,0,639,2
+83,桔子水晶南京鼓楼酒店,Orange Crystal Nanjing Drum Tower Hotel,健身室,32.062154,118.781021,381,2,451,0,465,2,679,2
+84,南京苏宁钟山国际高尔夫酒店,Nanjing Suning ZhongShan Golf Resort,桑拿,32.078742,118.878146,983,0,1163,2,1199,2,1751,0
+85,吉尔福德酒店,Guildford Hotel,免费停车,32.021841,118.792736,371,0,439,1,453,1,661,2
+86,南京奥体中心亚朵S酒店,Atour S Hotel Nanjing Olympic Sports Center,免费停车,31.992679,118.733289,352,0,416,0,429,4,626,0
+87,桔子水晶南京夫子庙中山南路酒店,Crystal Orange Hotel (Nanjing Confucius Temple Zhongshan South Road),免费停车,32.028232,118.783351,353,2,418,0,431,1,629,0
+88,亚朵酒店(南京禄口机场店),Atour Hotel (Nanjing Lukou International Airport),空气净化器,31.736607,118.872527,380,0,450,1,464,0,677,1
+89,南京威斯汀温泉度假酒店,The Westin Nanjing Resort & Spa,SPA,32.070742,119.006678,900,0,1065,1,1098,0,1603,4
+90,南京丽笙精选度假酒店,Radisson Collection Resort Nanjing,泳池,32.0745,119.010037,701,0,829,1,855,2,1248,2
+91,吉尔福德酒店(夫子庙老门东店),Guildford Hotel,免费停车,32.01818,118.787794,393,1,465,0,479,0,699,0
+92,南京南都会酒店,NANDUHUI Hotel,窗外好景,32.013622,118.781235,501,1,593,0,611,2,892,2
+93,南京隐南门东酒店,in N&S MEN DONG Hotel,泳池,32.012434,118.786244,608,1,720,0,742,2,1083,2
+94,南京鼓楼玄武湖轻居酒店,Nanjing Drum Tower Xuanwu Lake light Residence Hotel,免费停车,32.067193,118.780614,323,2,382,1,394,0,575,1
+95,南京园博园voco酒店,voco Nanjing Garden Expo,桑拿,32.081181,119.011583,552,1,653,2,673,0,983,2
+96,南京新晶丽酒店,New Jingli Hotel,免费停车,31.991565,118.793155,548,3,648,2,668,2,975,1
+97,南京天诗居行政公寓,Tianshiju Executive Apartment (Nanjing International Youth Culture Center),酒店公寓,31.990627,118.708241,494,0,585,2,603,1,880,0
+98,南京园博园英迪格酒店,"Indigo Nanjing Garden Expo, an IHG Hotel",桑拿,32.073085,119.000338,747,0,884,1,911,0,1330,2
+99,桔子水晶南京夫子庙酒店,Orange Crystal Nanjing Confucius Temple Hotel,机器人服务,32.026249,118.790221,332,1,393,2,405,1,591,1
+100,南京仙林中心金鹰广场亚朵酒店,"Atour Hotel, Golden Eagle Plaza, Xianlin center, Nanjing",免费停车,32.096451,118.92117,395,3,468,0,482,2,704,1
+101,建国·璞隐酒店(南京中山陵景区店),Jianguo Puyin Hotel Nanjing Zhongshan Mausoleum scenic spot store,免费停车,32.044144,118.841974,325,0,384,0,396,1,578,0
+102,南京银城皇冠假日酒店,Crowne Plaza Nanjing Jiangning,泳池,31.942265,118.818319,572,5,676,1,697,1,1018,0
+103,江苏饭店,Jiangsu Hotel,免费停车,32.032336,118.79269,412,1,487,0,502,1,733,0
+104,南京圣和府邸豪华精选酒店,"The Grand Mansion Hotel, Nanjing",桑拿,32.042409,118.798747,1166,0,1379,0,1422,1,2076,0
+105,Club Med地中海白日方舟·南京仙林度假村,Club Med Urban Oasis Xianlin Nanjing Resort,免费停车,32.080229,118.92734,892,2,1055,1,1088,2,1588,2
+106,南京颐和芥子园酒店,Yihe Jieziyuan Hotel,泳池,32.012592,118.789,694,1,821,0,846,1,1235,1
+107,南京总统府亚朵酒店,Atour Hotel,健身室,32.039892,118.802383,374,2,442,1,456,3,666,2
+108,南京扬子江国际会议中心酒店,Yangzi River International Conference Center,泳池,32.081109,118.70562,572,0,676,4,697,1,1018,2
+109,南京心颐荟·星俪辰酒店,Nanjing Citilink Hotel,免费停车,32.039161,118.735877,302,1,357,0,368,2,537,1
+110,南京夫子庙银桥亚朵酒店,Nanjing Confucian Temple Yinqiao Yaduo Hotel,免费停车,32.013449,118.765177,367,1,434,1,447,2,653,1
+111,南京珺懋酒店傲途格精选,"Nanjing, Jiangning, Autograph Collection",免费停车,32.071529,119.004178,847,0,1002,0,1033,0,1508,1
+112,南京华泰万丽酒店,Renaissance Nanjing Olympic Centre Hotel,桑拿,32.002821,118.724709,736,0,870,1,897,1,1310,3
+113,金陵小城·满庭芳客栈,Jinling Xiaocheng Mantingfang Inn,管家服务,31.900023,118.722281,1049,0,1241,2,1279,3,1867,0
+114,罗莱夏朵·南京颐和公馆,Relais & Chateaux The Yihe Mansions,别墅,32.062601,118.770028,1044,1,1235,2,1273,1,1859,2
+115,南京牛首山希尔顿酒店,Hilton Nanjing Niushoushan,桑拿,31.911871,118.75473,947,0,1120,1,1155,1,1686,2
+116,南京金融城Modena辉盛名致服务公寓(奥体博览中心店),Modena by Fraser Nanjing,桑拿,31.984598,118.714517,442,0,523,1,539,0,787,1
+117,桔子水晶南京奥体中心酒店,Crystal Orange Hotel (Nanjing Olympic Sports Center),免费停车,32.010166,118.734548,346,1,409,4,422,1,616,1
+118,南京世界村酒店,Global Village Hotel,泳池,31.330248,118.902251,318,0,376,2,388,1,566,0
+119,世纪缘酒店(南京溧水店),SHIJIYUAN HOTEL(Nanjing Lishui Branch),管家服务,31.674408,119.019627,303,3,359,2,370,1,540,2
+120,美豪丽致酒店(南京奥体国际博览中心店),Mehood Lestie Hotel (Nanjing Olympic Sports International Expo Center),免费停车,32.001756,118.727536,340,1,403,2,415,1,606,1
+121,南京航空航天大学博物院亚朵酒店,"Atour Hotel Museum, Nanjing University of Aeronautics and Astronautics",管家服务,32.031177,118.817129,352,4,416,1,429,1,626,2
+122,南京安朴酒店,The Amber House Nanjing,免费停车,31.970388,118.763812,408,0,483,2,498,1,727,1
+123,南京夫子庙爱涛酒店,Nanjing Confucius Temple Aitao Hotel,江河景房,32.015943,118.792724,456,2,539,1,556,3,812,2
+124,南京玄武湖智选假日酒店,Holiday Inn Express Nanjing Xuanwu Lake,儿童乐园,32.057089,118.81414,329,2,389,3,401,1,585,2
+125,南京华山饭店,Huashan Hotel,免费停车,32.051194,118.806052,382,0,452,0,466,1,680,0
+126,南京新地酒店,Xindi Hotel,免费停车,32.103097,118.932024,425,1,502,1,518,0,756,0
+127,南京秦淮人家精品酒店,Nanjing family,免费停车,32.019491,118.791076,313,2,371,3,382,1,558,2
+128,南京长江之舟逸衡酒店,Nanjing Yangtze River EVEN Hotel,免费停车,32.044567,118.664996,347,1,410,2,423,2,618,3
+129,南京奥体国际博览中心漫心府,Nanjing Olympic Sports International Expo Center Manxinfu,家庭房,31.981384,118.710475,353,1,418,2,431,1,629,2
+130,全季酒店(南京广州路省人民医院店),All Seasons Hotel (Nanjing Guangzhou Road Provincial People's Hospital Branch),免费停车,32.050757,118.773136,299,3,354,0,365,0,533,3
+131,花筑·南京汤山左邻右舍温泉民宿,Floral Hotel·Nanjing Tangshan left adjacent right house hot spring homestay,免费停车,32.065053,119.06367,348,2,412,1,425,1,620,1
+132,無同·CHINAR酒店(南京夫子庙店),WUTONG HOTEL,停车场,32.021603,118.79215,478,3,566,0,583,1,851,1
+133,南京夫子庙夜泊秦淮尊经书院酒店,Nanjing Yebo Qinhuai Zunjing College Hotel,免费停车,32.021531,118.787813,426,0,503,0,519,1,758,1
+134,南京南站软件大道地铁站亚朵酒店,Atour Hotel Nanjing South Railway Station Software Avenue Subway Station,免费停车,31.981562,118.775446,431,3,510,0,526,0,768,4
+135,夫子庙柒·金陵精品酒店,Qi Hotel,免费停车,32.012162,118.784984,354,0,419,0,432,1,631,0
+136,南京江宁航空航天大学亚朵酒店,Atour Hotel Nanjing Jiangning University of Aeronautics and Astronautics,停车场,31.928414,118.799494,330,1,391,1,403,4,588,0
+137,南京奥体博览中心中山精品酒店,Nanjing Zhongshan Boutique Hotel,免费停车,31.994776,118.7283,418,1,495,0,510,0,745,0
+138,南京南大国际会议中心,Nanjing University International Conference Center,多功能厅,32.114535,118.96371,358,1,423,2,436,2,637,1
+139,花筑·僖堂民宿(南京夫子庙老门东店),Floral Hotel Xitang B&B (Nanjing Confucius Temple Laomendong Branch),家庭房,32.020721,118.792811,423,3,501,2,516,1,753,2
+140,秦淮十里·明代嘉靖皇后故居·杏苑酒店(南京夫子庙老门东店),Qinhuai Ten Miles · Former Residence of Empress Jiajing of the Ming Dynasty · Xingyuan Hotel,多功能厅,32.012307,118.785241,408,2,483,0,498,2,727,1
+141,南京慢城枕松云居,The Pinellow Dreams Hotel,免费停车,31.41383,119.073652,441,0,522,0,538,2,785,0
+142,南京又见江南民宿(幕燕滨江燕子矶店),Youjian Jiangnan Hostel,管家服务,32.146815,118.817148,384,1,454,0,468,0,683,1
+143,E·HOTEL逸住艺术酒店(南京南站南广场店),E·HOTEL  (Nanjing South Railway Station South Square Branch),家庭房,31.963017,118.797027,374,3,442,1,456,0,666,1
+144,南京河西奥体中心希尔顿花园酒店,Hilton Garden Inn Nanjing Hexi Olympic Sports Center,免费停车,31.981071,118.736949,380,0,449,1,463,1,676,2
+145,咏尚春温泉度假民宿,Shangchun Hot Spring Resort Hotel,免费停车,32.024647,118.969703,458,2,541,0,558,2,815,2
+146,古南都逸居酒店(南京夫子庙建康路店),Grand Jiankang Hotel,管家服务,32.022771,118.787275,228,1,270,5,278,0,406,0
+147,南京总统府逸里酒店,Presidential Palace YiLi Hotel Nanjing,家庭房,32.04008,118.802482,342,2,404,2,417,2,609,1
+148,南京夫子庙秦淮游船码头亚朵酒店,Atour Hotel (Nanjing Fuzimiao Qinhuai cruise terminal),家庭房,32.020579,118.792507,387,2,458,1,472,2,689,1
+149,楚韵花香温泉民宿村,CHUYUN HUAXIANG HOT SPRING HOMESTAY,免费停车,32.051523,118.480032,328,2,388,0,400,3,584,1
+150,南京金轮万怡酒店,Courtyard by Marriott Nanjing Jiangning,免费停车,31.951886,118.821635,490,1,580,0,598,2,873,1
+151,南京和福园酒店,Hefuyuan Hotel,免费停车,32.088221,118.786709,334,0,395,3,407,2,594,2
+152,SANDJOY沙悦温泉酒店(南京汤山店),SANDJOY Shayue Hot Spring Hotel (Nanjing Tangshan),免费停车,32.04025,119.062429,416,0,492,1,507,3,740,3
+153,南京紫清湖生态旅游温泉度假区,Nanjing Ziqinghu Hotspring Hotel,山景房,32.064513,119.032969,343,1,405,0,418,0,610,1
+154,南京东苑宾馆,Nanjing Dongyuan Hotel,免费停车,32.055177,118.846655,412,0,488,2,503,0,734,2
+155,南京青龙山庄酒店,Qinglongshanzhuang Hotel,免费停车,31.970062,118.929834,366,1,433,2,446,0,651,1
+156,南京九华饭店,Jiuhua Hotel,免费停车,32.057651,118.807226,409,3,484,2,499,0,729,2
+157,南京机场诺富特酒店,Novotel Nanjing Airport,停车场,31.782081,118.854721,405,2,479,2,494,1,721,3
+158,南京白马玲陇酒店,Baima Linglong Hotel,湖景房,31.613557,119.186532,327,1,387,2,399,0,583,0
+159,南京江北万汇城智选假日酒店,"Holiday Inn Express Nanjing Jiangbei Wonhall Mall, an IHG Hotel",窗外好景,32.062755,118.657286,286,2,339,0,349,1,510,1
+160,南京江宁Moxy酒店,Nanjing Jiangning Moxy,免费停车,31.933237,118.846894,365,1,432,0,445,0,650,0
+161,E·HOTEL逸住府(南京夫子庙老门东店),E·HOTEL Yizhu Mansion,家庭房,32.013061,118.783816,435,2,515,2,531,1,775,3
+162,机场宾馆(南京夫子庙店),Airport Hotel (Nanjing Confucius Temple),棋牌室,32.019732,118.800554,344,1,406,4,419,1,612,1
+163,金帆万源酒店(麒麟人工智能产业园店),WanYuan By Jinsail Hotel (Qi Lin Science & Technology Innovation Park Branch),免费停车,32.028677,118.925461,335,1,397,1,409,0,597,1
+164,南京南站北广场亚朵酒店,Atour Hotel Nanjing South Station North Square,停车场,31.969906,118.792247,417,1,493,3,508,1,742,1
+165,南京汉润1882大酒店,Hanrun 1882 Hotel,免费停车,31.988819,118.73581,345,2,408,1,421,1,615,0
+166,南京得半庄园度假酒店,Deban Manor Resort Hotel,免费停车,31.347976,119.030326,341,1,404,0,416,3,607,1
+167,美豪丽致G次元电竞酒店,Meihao Lizhi G Diyuan E-sports Hotel,免费停车,32.001756,118.727536,340,3,403,2,415,1,606,0
+168,南京仙林大学城希尔顿欢朋酒店,Hampton by Hilton Nanjing Xianlin University Town,窗外好景,32.095134,118.922404,330,1,391,1,403,0,588,3
+169,桔子南京新街口中心酒店,Orange Hotel (Nanjing  Xinjiekou Center),机器人服务,32.034759,118.783841,290,0,343,1,354,1,517,0
+170,如家精选酒店(南京夫子庙景区店),Home Inn Plus (Nanjing Confucius Temple),机器人服务,32.018042,118.788277,289,1,341,1,352,0,514,3
+171,云居·楠山里温泉度假酒店,Yunju Lushanli Hot Spring Resort,家庭房,31.961355,118.9552,326,1,386,0,398,0,581,4
+172,书香世家酒店(南京新街口德基广场店),Scholars Hotel (Nanjing Xinjiekou Deji Plaza),亲子主题房,32.044419,118.78315,262,0,309,0,319,0,466,8
+173,南京奥体中心诺阁雅酒店,Nanjing Keyne NEQTA Hotel,动人夜景,31.993826,118.729107,361,3,427,1,440,2,642,2
+174,南京金帆万源酒店,Jinfan Wanyuan Hotel,免费停车,32.045238,118.772196,244,1,288,3,297,2,434,1
+175,全季酒店(南京软件大道地铁站店),Ji Hotel (Nanjing Ruanjian Avenue),免费停车,31.975588,118.771226,454,1,537,0,554,0,809,0
+176,南京紫东酒店(紫东生态会议中心),Zidong Design Hotels (Zidong Ecological Conference Center),免费停车,32.079562,118.911687,334,1,395,1,407,0,594,3
+177,桔子酒店(南京奥体江东中路店),"Orange hotel(nanjing Olympic sports Center, jiangdong road)",机器人服务,32.000064,118.726172,379,0,448,0,462,2,675,1
+178,南京白金汉爵大酒店,Baijin Hanjue Hotel,多功能厅,32.103204,118.892153,261,0,308,0,318,0,464,1
+179,全季酒店(南京龙江新城市广场漓江路店),All Seasons Hotel (Nanjing Longjiang New City Plaza Lijiang Road Branch),管家服务,32.053934,118.736576,310,4,367,0,378,2,552,0
+180,全季酒店(南京南站前广场店),Ji Hotel (Nanjing South Railway Station Square Store),健身室,31.966009,118.802232,417,1,493,2,508,3,742,0
+181,古南都逸居酒店(南京夫子庙景区店),Grand Cozy Hotels (Nanjing Qianhuai Confucius Temple),儿童乐园,32.022408,118.786803,233,0,275,1,284,1,415,1
+182,花筑·栖梧民宿(苏家理想村店),Floral Hotel·Qiwu Homestay (Sujia Ideal Village Store),免费停车,31.805068,118.723914,339,1,402,0,414,1,604,1
+183,宜尚酒店(南京夫子庙地铁站店),Yishang Hotel (Nanjing Confucius Temple Subway Station),窗外好景,32.022385,118.791825,286,1,339,1,349,4,510,1
+184,花筑·南京半山悠然民宿(银杏湖乐园店),Floral Hotel·Nanjing Mid Mountain Leisure Homestay (Ginkgo Lake Paradise Store),免费停车,31.77137,118.725741,406,2,480,0,495,1,723,1
+185,云几·澄心堂度假酒店(南京玄武湖店),Yunji Chengxintang Resort Hotel (Nanjing Xuanwumen Branch),免费停车,32.070832,118.78657,329,2,389,2,401,2,585,1
+186,全季酒店(南京江宁交院地铁站店),JI Hotel (Nanjing Jiangning Jiaoyuan Subway Station),停车场,31.913081,118.90045,303,2,358,2,369,2,539,1
+187,南京黄埔大酒店,Huangpu Hotel,免费停车,32.042562,118.811333,302,1,357,0,368,3,537,1
+188,南京无事山居民宿,Leisure time of the mountains,免费停车,31.583648,119.007214,344,1,406,3,419,3,612,0
+189,南京素一花园民宿,Suyi Garden Guesthouse,免费停车,31.346379,119.041314,400,0,473,3,488,2,712,2
+190,全季酒店(南京百家湖胜太路地铁站店),All Seasons Hotel (Nanjing Baijiahu Shengtai Road Subway Station),家庭房,31.946528,118.820893,324,1,383,2,395,1,577,2
+191,全季酒店(南京奥体国际博览中心店),All Seasons Hotel (Nanjing Olympic Sports International Expo Center),家庭房,31.986253,118.717778,290,0,343,0,354,0,517,6
+192,南京西康宾馆,Xikang Hotel,免费停车,32.062889,118.762831,281,2,333,0,343,1,501,1
+193,H+酒店(南京鸡鸣寺鼓楼地铁站店),H Hotel,免费停车,32.057798,118.787893,261,0,308,1,318,1,464,0
+194,南京半夏民宿(黄龙岘一店),NanJing Midsummer Boutique Hotel,免费停车,31.781015,118.686927,417,3,493,1,508,2,742,1
+195,南京蝶梦山丘飞行民宿,Diemeng Shangzhuang Feixing Hotel,免费停车,32.119811,118.598368,369,1,436,1,450,3,657,0
+196,山林悦民宿(南京银杏湖店),Shanlinyue B&B (Nanjing Yinxinghu Branch),免费停车,31.804712,118.727417,426,1,504,3,520,3,759,1
+197,沐江南酒店(南京新街口地铁站友谊广场店),Mujiangnan Hotel (Nanjing Xinjiekou Subway Station Friendship Square),影音房,32.04116,118.782257,310,0,367,1,378,1,552,0
+198,南京融空间雾落间民宿,rongkongjian·wuluojian Hostel,民宿,31.804165,118.726217,344,1,407,2,420,3,613,0
+199,南京星空宿泡泡屋(银杏湖店),Starry Lodge Bubble House Guesthouse,免费停车,31.81166,118.713534,416,1,492,2,507,0,740,2
+200,全季酒店(南京理工大店),All Season Hotel (Nanjing University of Technology Branch),停车场,32.023241,118.852759,301,1,356,0,367,0,536,1
+201,南京石塘田园e站竹卿舍田园民宿,Shitang Tianyuan E Zhan Zhu Qing She Hotel,民宿,31.722946,118.71276,372,1,440,0,454,0,663,0
+202,南京半城·大山房车度假区,Bancheng Dashan RV Resort,特色住宿,31.416855,119.079378,346,2,409,2,422,0,616,1
+203,宜尚酒店(南京南站南广场喜玛拉雅店),Echarm hotel(Sanhe Wal Mart store&Yanling Road&Yanjiao),停车场,31.967064,118.804836,267,2,316,0,326,1,476,0
+204,蘭園民宿(南京高淳老街店),Lanyuan B&B (Nanjing Gaochun Old Street),桑拿,31.320465,118.866566,288,2,340,1,351,0,512,2
+205,花筑·南京云上温泉酒店,Floral Hotel·Yunshang Hot Spring Hotel,免费停车,32.092467,118.613731,360,3,426,2,439,2,641,1
+206,花筑·南京不老村原舍民宿 (老山国家森林公园店),Floral Hotel·Nanjing Bulao Village Original B&B (Laoshan National Forest Park Branch),充电桩,32.093064,118.608941,363,1,430,1,443,0,647,1
+207,南京交苑宾馆,Nanjing Jiaoyuan Hotel,免费停车,31.913999,118.915292,341,0,404,1,416,0,607,0
+208,南京云舍温泉客栈,Yunshe Hot Spring Inn,客栈,32.065869,119.062966,284,2,336,3,346,2,505,0
+209,全季酒店(南京国际博览中心江东中路店),Ji Hotel (Nanjing International Expo Center Jiangdong Middle Road Branch),停车场,31.987726,118.71563,304,0,360,2,371,1,542,0
+210,南京东南大学榴园宾馆(玄武湖店),Nanjing Southeast University Liuyuan Hotel (Xuanwu Lake Branch),免费停车,32.056203,118.791406,361,0,427,1,440,0,642,1
+211,南京农业大学翰苑宾馆,Hanyuan Hotel,免费停车,32.029604,118.838623,339,1,401,1,413,1,603,0
+212,南京等你民宿,Waiting for your homestay in Nanjing,免费停车,31.781743,118.68517,310,0,367,1,378,0,552,0
+213,美豪丽致酒店(南京江北新区工业大学店),Meihao Lizhi Hotel (Nanjing Jiangbei New District Institute of Technology Store),免费停车,32.069131,118.646117,250,2,296,2,305,2,445,1
+214,南京古风·行其野民宿,Gufeng Xingqiye Homestay,免费停车,31.980224,118.927386,304,1,360,0,371,1,542,0
+215,南京新街口王府大街亚朵酒店,Atour Hotel (Nanjing Xinjiekou Wangfu Street),免费停车,32.036818,118.777356,330,1,391,1,403,3,588,1
+216,江苏凤凰台饭店,Jiangsu Phoenix Palace Hotel,湖畔美居,32.068689,118.780809,244,1,288,0,297,1,434,2
+217,南京仙林大道金马路亚朵酒店,"Atour Hotel (Xianlin Avenue, Jinma Road)",免费停车,32.069674,118.898803,287,1,340,0,350,4,511,1
+218,孜图酒店(南京夫子庙景区店),Zitu Hotel(Nanjng Confucius Temple ),空调,32.020799,118.792188,274,4,324,2,334,2,488,0
+219,花筑·南京夫子庙老门东知否民宿(秦淮河景区店),Floral Hotel·the old gate East of Nanjing Confucius Temple,免费停车,32.012936,118.784228,469,0,555,0,572,3,835,2
+220,南京圣和文化交流中心(中山陵店),Nanjing Sanhome Cultural Communication Center Hotel,免费停车,32.01707,118.880388,301,1,356,2,367,1,536,0
+221,桔子水晶南京玄武湖酒店,Crystal Orange Hotel (Nanjing Xuanwu Lake),免费停车,32.069688,118.777767,303,2,359,1,370,2,540,1
+222,南京华江饭店,Huajiang Hotel,免费停车,32.071919,118.769625,253,2,299,1,308,1,450,1
+223,孜图酒店(南京明故宫店),Zitu Hotel (Nanjing Minggugong),免费停车,32.03149,118.816287,270,0,319,2,329,1,480,2
+224,筱满·AZITA设计师城市客栈(南京玄武湖店),Xiaoman·AZITA City Inn (Nanjing Xuanwu Lake),免费停车,32.065817,118.778277,294,1,347,1,358,2,523,4
+225,孜图酒店(南京南站胜太路地铁站店),Z-Two Boutique Hotel( Nanjing  South Railway Station Shengtailu Station),管家服务,31.944994,118.820088,259,0,307,0,316,2,461,0
+226,南京夫子庙夜泊秦淮君亭酒店(秦淮书舍店),Nanjing Yebo Qinhuai Junting Hotel Qinhuai Bookstore,免费停车,32.017902,118.787149,490,0,580,0,598,0,873,1
+227,和颐至尚酒店(南京鼓楼玄武湖店),Yitel Collection (Nanjing Gulou Xuanwuhu Road),机器人服务,32.06706,118.77778,235,0,277,1,286,0,418,0
+228,宜尚酒店(南京弘阳博览中心刘村地铁站店),Yishang Hotel (Nanjing Hongyang Expo Center Liucun Subway Station Store),免费停车,31.940713,118.667166,224,1,265,3,273,3,399,1
+229,南京南站尚好商旅公寓酒店(天隆寺地铁站店),Shanghao Business Travel Apartment Hotel (Tianlong Temple Subway Station),酒店公寓,31.978916,118.765002,167,1,198,0,204,1,298,0
+230,南京仙林大学城生创园亚朵酒店,Atour Hotel (Nanjing Xianlin University City Shengchuangyuan),免费停车,32.130815,118.962314,281,3,333,1,343,0,501,0
+231,晨町酒店(南京玄武湖公园店),Chenxi Hotel (Nanjing Xuanwu Lake Park),家庭房,32.067535,118.784495,204,1,242,1,249,1,364,2
+232,南京高盛阁酒店(国际博览中心升龙汇金店),Nanjing Gaoshengge Hotel (International Expo Center Shenglong Huijin),免费停车,31.979116,118.710813,285,1,337,1,347,0,507,0
+233,南京玄武湖公园亚朵酒店,"Atour Hotel, Xuanwu Lake Park, Nanjing",免费停车,32.09012,118.788652,308,2,365,0,376,1,549,1
+234,玺悦·弘酒店(南京南站店),HOTEL CELESTIS GREAT(Nanjing South Railway Station),免费停车,31.970446,118.793562,302,3,357,1,368,3,537,1
+235,南京华东饭店,Hua Dong Hotel,免费停车,32.059457,118.761933,318,0,376,1,388,0,566,0
+236,清沐铂金酒店(南京理工大学孝陵卫地铁站店),Qingmu Platinum Hotel,家庭房,32.035409,118.860165,166,0,196,1,202,1,295,1
+237,南京滨江智选假日酒店,"Holiday Inn Express Nanjing Riverside, an IHG hotel",停车场,32.090741,118.738424,312,2,369,1,380,2,555,1
+238,南京溧水海乐城亚朵X酒店,Nanjing Lishui Haile City Atour X Hotel,免费停车,31.654179,119.027322,266,0,314,3,324,0,473,1
+239,窝石榴城市精品酒店(南京夫子庙武定门地铁站店),WO16,免费停车,32.00881,118.793231,189,0,224,1,231,0,337,0
+240,南京悦豪酒店(国际博览中心升龙汇金店),Yuehao Hotel,24小时前台,31.97996,118.710474,171,2,203,1,209,1,305,2
+241,锦江都城酒店(南京站国展中心店),Jinjiang Metropolis Hotel (Nanjing Railway Station National Exhibition Center),免费停车,32.084189,118.806406,221,1,262,3,270,2,394,1
+242,江苏辰茂新世纪大酒店,Maochen New Century Hotel,免费停车,32.083838,118.80052,326,3,386,1,398,2,581,2
+243,金陵故事酒店(南京南站店),Jinling Story Hotel,停车场,31.966678,118.805907,112,1,132,0,136,1,199,1
+244,苏辽酒店(南京奥体中心绿博园店),Suliao Hotel (Nanjing Olympic Sports Center Green Expo Park),免费停车,32.021959,118.720686,154,0,182,0,188,0,274,1
+245,弗思特连锁酒店(南京江宁天印大道地铁站店),FAST109,免费停车,31.938465,118.865166,120,1,142,0,146,0,213,0
+246,馨茉莉花园酒店(南京东部战区总医院博物院店),Xinmoli Garden Hotel (Nanjing Eastern Theater General Hospital Museum Branch),空气净化器,32.035563,118.810083,166,1,196,0,202,0,295,2
+247,维也纳国际酒店(南京南站中心店),Vienna International Hotel (Nanjing South Railway Station Center),免费停车,31.946324,118.806393,212,0,250,0,258,0,377,1
+248,宜必思尚品酒店(南京江宁麒麟门地铁站店),Ibis Styles Hotel (Nanjing Jiangning Qilin Gate Subway Station Store),免费停车,32.049305,118.926338,219,1,259,1,267,1,390,2
+249,蓝湾臻选酒店(江宁东山汽车4S园店),Blue Bay Selection Hotel (Jiangning Dongshan Automobile 4S Yuan Branch),影音房,31.98615,118.875549,121,0,144,2,148,1,216,0
+250,桔子水晶南京江北新区工业大学酒店,Orange Crystal Nanjing Jiangbei New District University of Technology Hotel,免费停车,32.070799,118.645971,254,1,301,0,310,0,453,0
+251,古南都玉澜庭酒店(南京博物院明故宫地铁站店),Gunandu Yulanting Hotel (Nanjing Museum Ming Palace Metro Station),免费停车,32.038154,118.823517,188,4,222,1,229,1,334,2
+252,维也纳国际酒店(南京溧水中山西路店),Vienna International Hotel (Nanjing Lishui Zhongshan West Road),免费停车,31.648514,119.019176,161,2,190,3,196,3,286,0
+253,宜必思酒店(南京桥北弘阳广场店),Ibis Hotel  (Nanjing Bridge North Hongyang Plaza Store),免费停车,32.13489,118.730049,158,1,187,1,193,3,282,3
+254,南京南气宾馆,Nuist Hotel,免费停车,32.20736,118.723346,210,1,248,0,256,0,374,0
+255,丽呈睿轩酒店(南京南站河定桥地铁站店),RezenSelect Hotel Nanjing South Railway Station,免费停车,31.949901,118.812561,208,0,246,3,254,0,371,2
+256,和颐酒店(南京博物院明故宫地铁站店),Yitel (Nanjing Museum Minggugong Metro Station),管家服务,32.040683,118.818931,158,0,187,0,193,0,282,1
+257,邑宿温泉酒店(南京秦淮河畔夫子庙店),Yi Su Hot Spring Hotel (Nanjing Qinhuai Confucius Temple),免费停车,32.022666,118.797174,177,2,210,2,216,0,315,1
+258,如家酒店·NEO(南京中山陵景区孝陵卫地铁站店),"Home Inn NEO (Xiaolingwei Subway Station, Nanjing Zhongshanling Scenic Area)",免费停车,32.034758,118.86064,224,0,265,1,273,0,399,5
+259,维也纳酒店(南京浦口浦珠中路店),Vienna Hotel,免费停车,32.10987,118.691466,157,4,185,1,191,2,279,0
+260,南京苏宁雅悦洲豪公寓(新街口地铁站店),Nanjing Zhouhao Apartment,免费停车,32.036847,118.786541,212,4,251,3,259,0,378,1
+261,南京金杏楼康养酒店(汉中门地铁站店),Nanjing Jinxinglou Health Care Hotel (Xinjiekou Jiangsu Provincial People's Hospital Branch),免费停车,32.044729,118.76626,175,0,207,1,213,0,311,0
+262,南京站红山动物园亚朵酒店,"Atour Hotel (Nanjing Railway Station, Hongshan Zoo)",免费停车,32.099507,118.803544,317,1,374,1,386,2,564,0
+263,古南都逸居酒店(南京艺术学院龙江地铁站店),Grand Cozy Hotel (Nanjing University of the Arts Longjiang Subway Station Store),管家服务,32.055804,118.744837,196,3,232,2,239,1,349,2
+264,网鱼电竞酒店(南京南站店),Netfish E-sports Hotel (Nanjing South Railway Station),电竞房,31.969848,118.8055,239,3,283,3,292,1,426,1
+265,如家·neo(南京新街口大行宫地铁站文昌巷店),Home Inn neo (Nanjing Xinjiekou Daxinggong Metro Station),24小时前台,32.036947,118.794088,188,1,222,2,229,2,334,1
+266,如家商旅酒店(南京夫子庙通济门店),Home Inn (Nanjing Confucius Temple Tongji Branch),会议厅,32.019281,118.79939,192,2,227,1,234,3,342,0
+267,美旭L酒店(南京高淳体育馆店),Meixu L Hotel (Nanjing Gaochun Gymnasium),免费停车,31.341999,118.90261,113,0,134,2,138,1,201,2
+268,宜佳精品影院公寓(南京南站店),Yijia Boutique Cinema Apartment (Nanjing South Railway Station),家庭房,31.965793,118.806314,119,3,141,0,145,2,212,2
+269,星程酒店(南京葛塘地铁站店),Starway Hotel (Nanjing Getang Metro Station),免费停车,32.247868,118.758173,132,0,156,2,161,1,235,3
+270,清沐精选酒店(南京玄武湖鼓楼地铁站店),qingmuhotel,24小时前台,32.061655,118.787188,172,1,204,1,210,1,307,0
+271,星程酒店(南京高淳经济开发区花样城店),Starway Hotel (Nanjing Gaochun Economic Development Zone Pattern city store),免费停车,31.353079,118.939016,138,3,163,2,168,1,245,0
+272,格菲酒店(南京江宁天印大道地铁站店),Gefei Hotel (Nanjing Jiangning Tianyin Avenue Subway Station),免费停车,31.942442,118.865302,149,3,177,1,182,1,266,2
+273,南京紫晶兰湾酒店(百家湖地铁站店),Nanjing Amethyst Lanwan Hotel (Baijia Lake Jingfeng Center),24小时前台,31.933678,118.820605,143,0,169,2,174,3,254,1
+274,溪地酒店(南京江宁滨江开发区店),xidi Metropolo Hotel Nanjing Jiangning Binjiang Development Zone Hotel,免费停车,31.835802,118.597592,96,0,113,1,117,0,171,0
+275,丽呈六洲荟酒店(高淳宝塔公园店),Liuzhouhui Boutique Hotel (Baota Park Store),免费停车,31.32258,118.890879,161,0,190,0,196,4,286,2
+276,南京沐榕酒店,Nanjing Murong Hotel,停车场,32.073521,118.906699,124,1,146,0,151,1,220,2
+277,曼美轻居酒店(南京南站河定桥地铁站店),ManMei Hotel (Nanjing South Railway Station Hedingqiao Subway Station Branch),免费停车,31.954026,118.821171,86,0,102,1,105,0,153,0
+278,艺选安來酒店(南京禄口机场店),Yixuan Anlai Hotel (Nanjing Lukou Airport),停车场,31.768701,118.869816,126,1,149,0,154,0,225,0
+279,花筑·闲居酒店(南京六合凤凰山公园店),Floral Hotel·Leisure Hotel(Nanjing Liuhe Fenghuangshan Park store),免费停车,32.3496,118.850182,110,3,130,0,134,2,196,0
+280,星源酒店(南京岱山新城店),Xingyuan Hotel,24小时前台,31.937586,118.696386,79,1,93,3,96,0,140,1
+281,宁静快捷酒店(南京南站明发广场地铁站店),Quiet Express Hotel (Nanjing South Railway Station Mingfa Square Subway Station),24小时前台,31.977301,118.795263,85,1,101,2,104,4,152,1
+282,清沐精选酒店(南京中山陵麒麟门园博园店),Qingmu Select Hotel (The Sun Yat-sen Mausoleum Qilin Arch),免费停车,32.055157,118.932971,111,1,131,2,135,1,197,1
+283,南京扬子江金茂悦壹家湾公寓,Nanjing Yangzijiang Jinmao Yuejiawan Apartment,自营影音房,32.076352,118.691465,65,1,77,0,79,3,115,2
+284,白玉兰酒店(南京禄口机场店),Magotel  Lukou Airport Nanjing,免费停车,31.778537,118.842854,138,4,163,0,168,2,245,1
+285,南京南站ihome电竞影院公寓,Nanjing South Railway Station ihome E-sports Cinema Apartment,电竞酒店,31.981065,118.803908,156,1,184,1,190,0,277,2
+286,艾米酒店公寓(南京奥体新城科技园店),AiMi Serviced apartment,充电桩,31.98864,118.739035,139,1,164,0,169,1,247,1
+287,如家华驿精选酒店(南京禄口国际机场铜山地铁站店),Home Inn Huaxuan Collection Hotel (Nanjing Lukou International Airport Tongshan Subway Station),家庭房,31.696388,118.883304,112,0,132,1,136,0,199,1
+288,嘉美·影院公寓(南京新街口地铁站店),JiaMei Hotel,民宿,32.034001,118.786167,157,2,185,0,191,0,279,0
+289,我得家酒店(南京东部军区总院总统府店),My Home Hotel (Nanjing East Military District General Courtyard Presidential Palace Branch),充电桩,32.046808,118.802186,84,1,99,0,102,1,149,1
+290,桔子水晶南京浦口研创园酒店,Orange Crystal Hotel (Nanjing Pukou Yanchuangyuan Branch),家庭房,32.054109,118.639355,254,0,301,0,310,0,453,1
+291,筑梦家酒店公寓(弘阳广场店),Nanjing BuildHome Cinema apartment,24小时前台,32.137819,118.720862,62,0,74,1,76,1,111,0
+292,闲之旅公寓(南京南站店),Xianzhilv Apartment (Nanjing South Railway Station),自营影音房,31.963932,118.797476,92,2,109,1,112,1,164,1
+293,南京夫子庙夜泊秦淮君亭酒店(金陵书画院店),Nanjing Confucius Temple Night Park Qinhuai Junting Hotel,免费停车,32.022348,118.794584,572,2,676,1,697,1,1018,0
+294,如家酒店.neo(南京夫子庙地铁站景区店),Home Inn,免费停车,32.02266,118.791175,247,0,292,1,301,4,439,1
+295,南京仙林万达茂金廷豫酒店,Nanjing Xianlin Wanda Mao Jintingyu Hotel,棋牌室,32.120598,118.987578,92,1,109,1,112,1,164,3
+296,南京棉朵酒店公寓,Nanjing Mianduo Hotel Apartment,24小时前台,32.030566,118.737275,154,1,182,1,188,2,274,2
+297,南京卓悦温泉康养民宿,Zhuoyue Health Hot Spring Homestay,免费停车,32.062096,119.042181,590,0,698,1,720,1,1051,0
+298,南京新街口宁居漫旅民宿,Nanjing Xinjiekou Ningju Manlv Homestay,停车场,32.039437,118.782047,105,3,124,1,128,2,187,1
+299,南京竹官园宾馆(禄口机场店),Nanjing Zhuguanyuan Hotel (Qikou Airport Branch),免费停车,31.71839,118.891618,68,1,81,2,83,0,121,3
+300,如家·neo(南京桥北弘阳广场泰山新村地铁站店),"Home Inn Neo (Nanjing Qiaobei Hongyang Plaza, Taishan New Village Metro Station)",免费停车,32.144545,118.715365,93,0,110,1,113,1,165,1
+301,清沐精选酒店(南京六合沪江商贸城店),Qingmu Select Hotel (Nanjing Liuhe Hujiang Trade City),家庭房,32.296832,118.790718,135,2,160,0,165,2,241,3
+302,南京汤山壹亩方塘·山谷温泉度假民宿(园博园店),Acre of Pure Land · Valley Hot Spring Resort,免费停车,32.025073,118.967837,506,2,598,2,617,1,901,1
+303,南京河西万达宜居·酒店公寓,Nanjing Hexi Wanda Yiju Hotel Apartment,酒店公寓,32.030697,118.737392,161,1,190,0,196,2,286,0
+304,南京金陵隐漫心酒店,Manxin Hotel(Nanjing Jinlingyin),免费停车,32.001691,118.713132,332,0,393,3,405,0,591,1
+305,掌宿新街口Loft影院酒店,CactusSpace E-sports Video Hotel,停车场,32.035251,118.788457,289,1,341,0,352,2,514,1
+306,南京江宁希尔顿欢朋酒店,:Hampton by Hilton Nanjing Jiangning,免费停车,31.975413,118.875472,295,2,349,0,360,1,526,1
+307,有巢空间公寓(南京南站南广场万科都荟天地城店),Youchao Space Apartment (Nanjing South Railway Station South Square Vanke Duxu World Shop),24小时前台,31.964109,118.796664,110,0,130,1,134,0,196,1
+308,清沐精选酒店(南京新街口地铁站金鹰国际广场店),"Qingmu Selected Hotel (Jinying Branch, Nanjing Xinjiekou Subway Station)",家庭房,32.040678,118.777714,131,0,155,0,160,1,234,1
+309,南京夫子庙夜泊秦淮君亭酒店(棋峰试馆店),Yebo Qinhuai SSAW Hotel (Qifeng Shiguan),免费停车,32.018176,118.788105,727,0,860,1,887,2,1295,2
+310,花筑奢·牛首隐岚民宿(南京牛首山西门金陵小城店),Floral Luxury Niushou Yinlan B&B (Nanjing Niushou West Gate Jinling Town Branch),家庭房,31.910619,118.730079,467,0,552,1,569,2,831,3
+311,金地酒店公寓(南京火车站建宁路店),Nanjing Golden Land Hotel Apartment,24小时前台,32.092129,118.769398,110,2,130,0,134,0,196,2
+312,南京夫子庙夜泊秦淮君亭酒店(桃叶渡店),Yebo Qinhuai SSAW Hotel (Taoyedu),免费停车,32.022005,118.794099,727,2,860,1,887,1,1295,2
+313,南京新街口中央商场漫心酒店,manxin Hotel (Nanjing Xinjiekou central shopping mall),机器人服务,32.039124,118.786398,317,1,375,1,387,1,565,0
+314,南京河西万达涵轩酒店公寓,Nanjing Hanxuan Hotel apartment,24小时前台,32.031088,118.737261,175,1,208,1,214,1,312,0
+315,花筑奢·良竺设计师艺术酒店(南京银杏湖店),Flower Building Luxury Designer Art Hotel (Nanjing Ginkgo Lake Shop),民宿,31.804226,118.726031,476,0,564,0,581,1,848,0
+316,光荫里休闲度假民宿,Green villa,免费停车,31.804029,118.726517,678,4,802,1,827,1,1207,1
+317,南京南站紫怡天悦酒店,Nanjing South Railway Station Ziyi Tianyue Hotel,免费停车,31.964844,118.795747,237,2,280,0,289,1,422,1
+318,响堂·宿里度假酒店,Xiangtang Suli Hotel,日光浴场,32.078226,118.580171,655,0,775,1,799,0,1167,0
+319,南京中山陵景区启迪大街亚朵酒店,Nanjing Zhongshan Mausoleum Scenic Area Qidi Street Atour Hotel,免费停车,32.022257,118.906599,272,0,322,1,332,2,485,1
+320,锦江都城酒店(南京夫子庙中心店),Jinjiang Metropolo Nanjing Confucius temple Center Hotel,免费停车,32.023677,118.788927,262,1,310,3,320,2,467,2
+321,原舍平湖民宿(南京苏家理想村店),Yuanshe Pinghu B&B (Nanjing Sujia  Ideal  Village store  ),免费停车,31.805845,118.729248,567,2,671,0,692,3,1010,2
+322,世纪缘国际会议中心(南京南站百家湖店),Shijiyuan International Conference Center,免费停车,31.933438,118.819589,256,2,303,1,312,1,456,3
+323,南京高兴的家私汤民宿,Gaoxingdejia Sitang B&B,免费停车,32.063203,119.060239,749,0,887,1,914,0,1334,3
+324,南京1865晨光嘉晖酒店,Nanjing 1865 Chenguang Jiahe Hotel,多功能厅,32.00738,118.784431,277,1,328,1,338,3,493,1
+325,花筑·南京映归途精品民宿(夫子庙老门东店),Floral Hotel·Nanjing Yingguitu Boutique Homestay (Fuzimiao Old Gate East Branch),停车场,32.012996,118.785491,322,0,381,0,393,1,574,3
+326,南京夫子庙步行街轻居酒店,Lighthouse Hotel,机器人服务,32.019864,118.79175,323,0,382,0,394,3,575,1
+327,宽渡酒店(南京夫子庙店),Kuandu Hotel(Nanjing Confucius Temple Branch),客栈,32.024431,118.781567,274,0,324,4,334,0,488,0
+328,南京曙光国际大酒店,Shuguang International Hotel,湖景房,32.087462,118.79414,327,0,387,0,399,1,583,1
+329,尚花奢酒店(南京夫子庙店),shanghuashe Hotel(nanjing confucius temple)),24小时前台,32.027435,118.786275,132,1,156,1,161,2,235,2
+330,梵居酒店式公寓(南京南站天隆寺地铁站店),"Fan Ju Hotel (Tianlongsi Subway Station, Nanjing South Railway Station)",酒店公寓,31.979061,118.765234,122,0,145,3,149,1,218,1
+331,南京大学地铁站仙林大学城亚朵酒店,Atour Hotel Xianlin University Town Nanjing University Subway Station,免费停车,32.108786,118.963634,315,1,372,2,384,0,561,2
+332,花季酒店(南京夫子庙平江府路店),Flower Season Hotel (Nanjing Confucius Temple Pingjiangfu Road Shop),24小时前台,32.015766,118.792591,199,0,236,0,243,1,355,1
+333,如家精选酒店(南京火车站玄武湖店),"Home Inn Plus (Nanjing Railway Station, Xuanwu Lake)",机器人服务,32.089209,118.790403,176,1,209,0,215,0,314,0
+334,全季酒店(南京新街口店),Ji Hotel (Nanjing Xinjiekou),机器人服务,32.036931,118.785552,277,2,328,0,338,2,493,0
+335,南京茶乡星谷酒店,Nanjing Tea Valley hotel,免费停车,31.768348,118.705652,697,1,824,1,850,0,1241,1
+336,南京山居秋茗酒店(汤山龙尚湖店),Nanjing Shanju Qiuhui Hotel (Tangshan Longshanghu Branch),家庭房,32.020561,118.966597,1064,0,1259,0,1298,0,1895,1
+337,瑞澜庭院酒店(南京博物院店),"Ruilan Courtyard Hotel, Nanjing",免费停车,32.033694,118.810054,258,0,306,0,315,1,460,1
+338,花筑奢·南京若谷民宿,Floral Lux Hotel·Nanjing Ruogu Homestay,免费停车,31.844506,118.680488,248,1,294,0,303,1,442,0
+339,花筑·南京华康酒店(南京明故宫地铁站店),Floral Hotel·Nanjing Huakang Hotel (Nanjing Ming Palace Subway Station Branch),免费停车,32.04555,118.818109,239,3,282,1,291,1,425,1
+340,南京枕松度假酒店,Pinellow Hotel,免费停车,31.373944,119.065916,713,2,843,0,869,2,1269,1
+341,金鹏云居酒店(南京夫子庙中心店),Jinpeng Yunju Hotel (Nanjing Confucius Temple Center Branch),免费停车,32.024743,118.788992,244,3,288,3,297,2,434,0
+342,花筑·南京市博物院夫子庙秦淮酒店,Floral Hotel ·Qinhuai,健身室,32.029362,118.810105,215,1,254,2,262,0,383,1
+343,曙光薇酒店(南京夫子庙店),The Hotel V (Nanjing Confucius Temple),动人夜景,32.017264,118.78874,312,2,369,2,380,2,555,2
+344,南京石塘竹海无尽藏民宿,Nanjing Shitang Bamboo Sea Infinite Homestay,窗外好景,31.719623,118.701589,227,2,269,0,277,0,404,0
+345,南京南站上润酒店,Shangrun Hotel (Nanjing South Railway Station),免费停车,31.978468,118.79132,210,0,248,2,256,0,374,0
+346,花筑·南京夫子庙琵琶行精品酒店,Floral Hotel · Nanjing pipahang Boutique Hotel,动人夜景,32.019161,118.790663,266,0,315,1,325,2,474,1
+347,南京南站A1·小公馆影院公寓,Nanjing South Railway Station A1 Xiaogongguan Cinema Apartment,酒店公寓,31.970855,118.792736,132,0,156,2,161,0,235,1
+348,树呆熊电竞公寓(南京南站店),Shudu Bear E-sports Apartment (Nanjing South Railway Station),管家服务,31.971458,118.792947,260,3,307,0,317,2,463,1
+349,花筑奢·南京园博园云尚曼境温泉民宿,Floral Lux Hotel· Yunshang Manjing Homestay,免费停车,32.034924,119.007873,322,1,381,0,393,0,574,0
+350,南京万汇城酒店,Nanjing Wonhall Mall Hotel,影音房,32.062755,118.657286,231,0,274,1,282,0,412,1
+351,美程度假酒店(南京夫子庙秦淮河畔店),Meic Resort Hotel,免费停车,32.018708,118.789275,216,0,255,3,263,2,384,1
+352,东航华美达酒店(南京机场店),Ramada by Wyndham Nanjing,免费停车,31.743806,118.888666,203,0,240,1,247,0,361,0
+353,南京幸庄金陵嘉珑酒店,"Jinling Jialong Hotel, Xingzhuang, Nanjing",免费停车,31.616365,119.047053,254,2,301,1,310,1,453,3
+354,南京竹上云想酒店,Zhushang Yunxiang Hotel,免费停车,31.508828,119.089622,466,3,551,3,568,1,829,1
+355,南京凤桐院民宿,Nanjing Fengjingyuan Homestay,免费停车,32.09512,118.60922,466,0,551,1,568,2,829,0
+356,爱电竞酒店(南京新街口总统府旗舰店),Ai E-sports Hotel (Nanjing Xinjiekou Presidential Palace Flagship Store),机器人服务,32.049686,118.79677,253,2,299,1,308,3,450,0
+357,南京己居野奢民宿,Jiju Chalet,桑拿,32.093019,118.608942,585,2,693,0,714,4,1042,0
+358,清沐•尚酒店(南京南站南广场店),Qingmu • Shang Hotel NanjingNan Sation,窗外好景,31.963908,118.797826,247,0,292,0,301,1,439,0
+359,锦江南京饭店,Jinjiang Nanjing Hotel,免费停车,32.073536,118.764695,269,0,318,0,328,2,479,0
+360,格林东方酒店(南京禄口机场店),GreenTree Eastern Hotel (Nanjing Lukou Airport Branch),家庭房,31.735763,118.882963,255,0,302,0,311,0,454,1
+361,如家睿柏·云酒店(南京夫子庙景区步行街店),Home Inn Ripple Hotel (Nanjing Confucius Temple Pedestrian Street),管家服务,32.019113,118.790368,208,2,246,2,254,2,371,0
+362,沃孜酒店(南京夫子庙步行街店),WHLZ Hotel Nanjing Confucius Temple,动人夜景,32.018762,118.790056,157,0,186,0,192,0,280,1
+363,星程轻居酒店(南京温泉度假区汤山地铁站店),Starway Light Hotel (Nanjing Tangshan Hot Spring Resort Tangshan Subway Station),温泉泡汤,32.043606,119.068852,167,1,198,1,204,1,298,1
+364,南京圃舍·卿水民宿(苏家理想村店),Nanjing Sujia Pushe Qingshui Homestay,免费停车,31.804178,118.726298,335,0,396,0,408,1,596,0
+365,南京花迹无想山居,Huaji Wuxiang Mountain Hotel,免费停车,31.568488,119.059959,517,1,611,0,630,0,920,1
+366,谷语·花园温泉亲子度假民宿(南京园博园店),Guyu Garden Hot Spring Family Resort Homestay (Nanjing Garden Expo),免费停车,32.064169,119.059259,285,1,338,1,348,1,508,3
+367,拾穗花园民宿(南京徐家院店),GLEANER HOUSE HOTEL(Nanjing xujiayuan),免费停车,31.845387,118.679594,327,2,387,3,399,1,583,2
+368,乐优居商旅酒店公寓(南京奥体新城科技园店),Le You Ju Movie Hotel (Nanjing Olympic Sports New City Science and Technology Park),充电桩,31.988749,118.738513,154,2,182,0,188,3,274,1
+369,花筑·南京浮生温泉民宿(汤山温泉度假区店),Floral Hotel·Nanjing Fusheng Hot Spring Guest House (Tangshan Hot Spring Resort),民宿,32.065793,119.063268,269,0,318,2,328,0,479,1
+370,南京汤山竹隐温泉民宿,Nanjing Tangshan Bamboo Yin Hot Spring Homestay,民宿,32.063963,119.059567,330,0,390,1,402,1,587,1
+371,花筑奢·南京漫谷漫心温泉民宿,Floral Lux Hotel·Mangu Manxin hot spring homestay in Nanjing,儿童乐园,32.024438,118.96791,432,0,511,0,527,0,769,2
+372,花筑·南京家墅会精品民宿(秦淮河夫子庙老门东店),Floral Hotel Family Villa Club,免费停车,32.014146,118.785406,292,0,345,0,356,0,520,1
+373,清沐国际酒店（南京南站南广场店）,Qingmu International Hotel,健身室,31.965233,118.796171,161,6,187,0,199,1,340,6
+374,汀简·Tingjian民宿（南京新街口地铁站店）,Tingjian Tingjian Homestay,停车场,32.039574,118.782682,48,3,56,1,60,5,102,3
+375,南梧影院公寓（南京南站都荟天地店）,Nanwu Cinema Apartment,行李寄存,31.963916,118.797307,76,2,89,5,95,4,162,7
+376,壹家湾公寓（南京新街口店）,Yijiwan Apartment,停车场,32.033175,118.787475,56,4,65,5,70,4,119,1
+377,上润酒店（南京南站北广场店）,Shangrun Hotel,停车场,31.978338,118.791244,160,6,186,2,198,1,338,4
+378,南京S公寓（城北万象汇万寿地铁站店）,Nanjing S Apartment,行李寄存,32.123699,118.835656,54,1,62,3,67,7,114,2
+379,南京那幅堂文旅酒店(新街口总统府店),Nanjing Nafutang Cultural Tourism Hotel,健身室,32.047575,118.796325,127,3,148,6,158,7,270,5
+380,二十九层青年旅舍（南京新街口夫子庙店）,29th Floor Youth Hostel,停车场,32.029539,118.78697,26,0,31,3,33,8,56,1
+381,清沐酒店（南京夫子庙三山街地铁站店）,Qingmu Hotel,停车场,32.025565,118.776937,85,6,98,6,105,7,179,0
+382,南北菩宿民宿（南京新街口地铁站店）,Nanbei Pusu Homestay,停车场,32.039371,118.78252,63,3,73,1,78,4,133,6
+383,南京凤凰京华大酒店,Nanjing Fenghuang Jinghua Hotel,停车场,32.066884,118.771634,149,6,173,4,185,3,316,5
+384,如家精选酒店(南京夫子庙白下路店),Home Inn Select,行李寄存,32.027887,118.793564,133,0,155,4,165,6,282,4
+385,沐雅铂金酒店（南京新街口常府街地铁站店）,Muya Platinum Hotel,停车场,32.032656,118.792321,116,2,135,4,144,3,246,1
+386,南京归居民宿（新街口总统府店）,Nanjing Guiju Homestay,停车场,32.032255,118.784666,111,8,129,3,138,6,235,6
+387,都汇壹品公寓（南京南站南广场都荟天地城店）,Duhui Yipin Apartment,停车场,31.964065,118.795753,63,6,73,0,78,8,133,6
+388,星朵公寓（南京南站万科都荟天地店）,Xingduo Apartment,停车场,31.964003,118.797396,66,0,77,5,82,7,140,4
+389,嘉哆酒店（新街口店）,Jiayi Hotel,普通酒店,32.040341,118.777982,58,6,67,7,72,0,123,3
+390,蒋家公馆（新街口地铁站店）,Jiangjia Mansion,停车场,32.034281,118.787469,71,6,82,5,88,6,150,4
+391,旅途愈舍艺术民宿（南京夫子庙张府园地铁站店）,Lvtu Yushe Art Homestay,停车场,32.030693,118.786309,120,4,140,5,149,6,254,3
+392,咖居铂金酒店（南京新街口地铁站德基广场店）,Kaju Platinum Hotel,健身室,32.036559,118.784427,130,1,151,0,161,1,275,5
+393,沐江南酒店（南京河西金鹰世界店）,Mujiannan Hotel,健身室,32.023761,118.742373,156,0,181,2,193,7,330,0
+394,清沐铂金酒店（南京夫子庙秦淮风光带通济门地铁站店）,Qingmu Platinum Hotel,停车场,32.025161,118.805346,130,3,151,8,161,7,275,7
+395,美笙轻居酒店(南京湖南路青春广场地铁站店),Meisheng Light Residence Hotel,停车场,32.067181,118.773914,117,2,136,1,145,4,247,6
+396,南京夫子庙秦淮河流蘇·栖云酒店,Nanjing Confucius Temple Qinhuai Liusu Qiyun Hotel,停车场,32.015536,118.784455,149,8,173,7,185,3,316,1
+397,南京新街口总统府好季酒店,Nanjing Xinjiekou Presidential Palace Good Season Hotel,停车场,32.032141,118.793126,127,3,148,1,158,6,270,3
+398,旅梦设计师民宿(南京新街口德基广场店）,Lvmeng Designer Homestay,停车场,32.036266,118.784661,142,4,165,5,176,3,300,8
+399,简未·SimpliYet民宿（南京新街口地铁站店）,Jianwei SimpliYet Homestay,停车场,32.039625,118.781692,76,3,88,5,94,7,160,7
+400,艺龙安云酒店（南京南站店）,Elong Anyun Hotel,停车场,31.976272,118.792707,123,5,142,7,152,7,259,3
+401,美程度假酒店（南京夫子庙秦淮河畔店）,Meicheng Resort Hotel,停车场,32.018665,118.789264,138,2,160,3,171,8,292,0
+402,河畔枍筑酒店(南京新街口朝天宫地铁站店),Riverside Ningzhu Hotel,停车场,32.039625,118.781692,144,5,167,7,178,6,304,0
+403,GERISLE格玙酒店（南京南站南广场店）,GERISLE Hotel,停车场,31.963534,118.802296,158,2,184,6,196,6,335,2
+404,TiMo电竞公寓（南京南站万科都荟天地店）,TiMo E-Sports Apartment,停车场,31.964826,118.796999,94,1,109,8,117,4,200,0
+405,千居·泊秦淮酒店（南京夫子庙老门东店）,Qianju Boqin Hotel,停车场,32.013582,118.78378,136,2,157,5,168,2,287,4
+406,宝丽酒店(南京火车站新模范马路地铁站店),Baoli Hotel,行李寄存,32.083973,118.784335,97,6,112,5,120,3,205,5
+407,喜湾酒店（南京奥体中心店）,Xiwan Hotel,停车场,32.000687,118.726539,149,1,172,5,184,5,314,1
+408,清沐铂金酒店(南京汉中门大街河西万达店),Qingmu Platinum Hotel,停车场,32.03872,118.745222,140,4,162,3,173,0,295,5
+409,如家精选酒店(南京火车站玄武湖店),Home Inn Select,行李寄存,32.089259,118.790319,161,0,187,6,199,6,340,8
+410,南京H·hotel酒店公寓(江宁大学城店),Nanjing H Hotel Apartment,停车场,31.914825,118.895289,57,5,66,1,71,3,121,5
+411,美季影院酒店(南京玄武湖青春广场地铁站店),Meiji Cinema Hotel,停车场,32.067193,118.774127,120,7,140,1,149,3,254,2
+412,宽渡酒店(南京玄武湖青春广场地铁站),Kuandu Hotel,停车场,32.070629,118.769323,144,4,167,7,178,8,304,6
+413,清沐铂金酒店(南京新街口张府园地铁站店),Qingmu Platinum Hotel,停车场,32.034471,118.783874,140,0,162,1,173,7,295,5
+414,南京元庭设计师酒店(河西金鹰世界店),Nanjing Yuanting Design Hotel,健身室,32.016279,118.755542,132,2,154,0,164,5,280,6
+415,如家派柏·云酒店(南京南站北广场店),Home Inn Paibo Yun Hotel,停车场,31.976727,118.794918,68,0,78,1,84,4,143,4
+416,筑梦家酒店公寓(弘阳广场店),Zhumengjia Hotel Apartment,停车场,32.137819,118.720862,55,2,64,3,69,1,117,6
+417,南京新街口景程酒店（总统府店）,Nanjing Xinjiekou Jingcheng Hotel,停车场,32.053021,118.792737,93,1,108,5,115,7,196,8
+418,南京夫子庙景区老门东璟里臻园,Nanjing Confucius Temple Scenic Area Laomen East Zhenli Garden,停车场,32.019695,118.784131,59,6,69,5,74,3,126,7
+419,云书智慧酒店（南京雨花万象天地贾西地铁站店）,Yunshu Smart Hotel,健身室,31.963265,118.733679,111,0,129,7,138,3,235,8
+420,如家睿柏·云酒店(南京夫子庙景区步行街店),Home Inn Ruibo Yun Hotel,停车场,32.019049,118.790373,106,7,123,7,131,8,224,1
+421,如家精选酒店(南京博物院光华门地铁站店),Home Inn Select,行李寄存,32.023835,118.813629,154,4,179,4,191,1,326,3
+422,如家莫泰酒店(南京夫子庙地铁站平江府路店),Home Inn Motel,停车场,32.019366,118.792762,127,6,147,0,157,2,268,5
+423,莫那笛臻品酒店（南京江宁龙湖滨江上城店）,Monadi Boutique Hotel,停车场,31.855817,118.581197,66,1,77,4,82,4,140,2
+424,如家·Neo酒店(南京新街口地铁站明瓦廊美食街店),Home Inn Neo Hotel,行李寄存,32.037554,118.783116,149,8,172,5,184,2,314,5
+425,南京?尚客优MOMMYSWOWWINOWWORLDBIG酒店(中山陵麒麟门地铁站店),Nanjing Shangke Youpin MOMMYSHOWWINOWWORLD BIG Hotel,停车场,31.775988,118.863656,79,5,92,8,98,4,167,5
+426,东方臻选酒店公寓（南京浦口万汇城地铁站青奥体育公园体育馆店）,Dongfang Select Hotel Apartment,停车场,32.06313,118.659367,59,7,68,7,73,2,124,5
+427,南京新街口总统府花迹行旅酒店,Nanjing Xinjiekou Presidential Palace Huaji Travel Hotel,停车场,32.040134,118.798412,121,2,141,5,150,0,256,0
+428,佰利兹酒店（南京夫子庙通济门地铁站店）,Bailizi Hotel,停车场,32.027228,118.799106,106,4,123,3,131,1,224,8
+429,云曦精品公寓（南京南站地铁站店）,Yunxi Boutique Apartment,停车场,31.971117,118.792719,72,1,83,4,89,1,152,7
+430,沐雅·礼酒店（南京新街口地铁站友谊广场店）,Muya Li Hotel,停车场,32.041419,118.781364,130,5,151,5,161,1,275,0
+431,美璟大酒店（南京城北万象汇万寿地铁站店）,Meijing Grand Hotel,停车场,32.123499,118.83337,91,8,106,5,113,5,193,3
+432,熙住新青年旅舍（新街口店）,Xizhu New Youth Hostel,停车场,32.040121,118.833874,38,5,45,7,48,3,82,6
+433,启刻酒店（南京站红山动物园店）,Qike Hotel,停车场,32.088903,118.796168,40,4,47,4,50,2,85,2
+434,蒋家公馆（南京新街口明瓦廊美食街店）,Jiangjia Mansion,行李寄存,32.033828,118.781995,50,0,58,3,62,1,106,0
+435,美璟大酒店（南京博物院苜蓿园大街店）,Meijing Grand Hotel,健身室,32.017272,118.832151,103,2,120,2,128,4,218,8
+436,拾夕小筑（南京夫子庙地铁站夫子庙景区店）,Shixi Xiaozhu,行李寄存,32.019446,118.791443,23,6,27,0,29,6,49,2
+437,君鑫国际公寓(南京南站店),Junxin International Apartment,健身室,31.961126,118.800454,60,7,70,2,75,7,128,7
+438,好拾光公寓（南京万达广场莫愁湖公园店）,Haoshiguang Apartment,普通酒店,32.032025,118.743275,27,8,31,7,34,8,58,0
+439,瑞华酒店(南京新街口店),Ruihua Hotel,停车场,32.038007,118.781129,102,8,118,8,126,7,215,5
+440,美璟精选酒店（南京大桥南路店）,Meijing Select Hotel,行李寄存,32.09171,118.758123,61,2,71,3,76,1,129,2
+441,拾慕·SHIMU酒店（南京夫子庙景区店）,Shimu SHIMU Hotel,停车场,32.02459,118.784912,98,1,114,6,122,7,208,6
+442,丽斯未来酒店（南京鼓楼新城市广场店）,Lisi Future Hotel,停车场,32.065525,118.740728,132,7,154,5,164,0,280,1
+443,锯木头·独栋青年旅舍（南京夫子庙新街口步行街店）,Jumutou Duju Youth Hostel,行李寄存,32.027926,118.780272,31,3,36,5,39,6,66,2
+444,艺龙瑞云酒店(南京新街口德基广场店),Elong Ruiyun Hotel,停车场,32.038665,118.788534,136,7,157,6,168,2,287,8
+445,页帆河畔民宿（南京夫子庙秦淮河畔店）,Yefan Riverside Homestay,停车场,32.016281,118.785049,72,5,83,1,89,3,152,8
+446,清沐·礼酒店（南京新街口地铁站金陵中环店）,Qingmu Li Hotel,停车场,32.038386,118.782139,133,6,155,3,165,1,282,1
+447,云璟假日酒店（南京博物院苜蓿园大街店）,Yunjing Holiday Hotel,停车场,32.017336,118.831429,103,7,120,0,128,3,218,5
+448,归璞艺术酒店（南京理工大学中山陵景区店）,Guipu Art Hotel,停车场,32.036266,118.860238,128,5,149,2,159,5,271,4
+449,水上楼酒店（南京夫子庙老门东店）,Shuishanglou Hotel,停车场,32.013415,118.78329,148,5,172,0,183,1,312,5
+450,山月小筑民宿(南京总统府大行宫地铁站店),Shanyue Xiaozhu Homestay,停车场,32.044622,118.799083,96,4,111,2,119,8,203,6
+451,禧映·青年行旅酒店（南京夫子庙老门东店）,Xiying Youth Travel Hotel,停车场,32.016125,118.793025,28,0,32,1,35,5,59,4
+452,南京尚知行民宿（新街口店）,Nanjing Shangzhixing Homestay,行李寄存,32.039307,118.782548,63,4,73,1,78,6,133,4
+453,南京壹诺民宿（新街口地铁站店）,Nanjing Yinuo Homestay,停车场,32.039437,118.782047,58,1,67,3,72,3,123,2
+454,提莫玩·本电竞酒店（南京新街口金陵中环店））,Timo Wan E-Sports Hotel,停车场,32.039597,118.782454,128,2,149,3,159,1,271,6
+455,四季府酒店（南京夫子庙步行街店）,Sijifu Hotel,停车场,32.019585,118.788728,103,7,120,3,128,5,218,0
+456,如家酒店(南京夫子庙大明路店),Home Inn,行李寄存,32.007273,118.809609,103,6,120,2,128,4,218,7
+457,米居酒店（南京玄武门地铁站店）,Miju Hotel,健身室,32.073616,118.782082,126,1,146,4,156,6,266,5
+458,清沐·礼酒店(南京新街口常府街地铁站店),Qingmu Li Hotel,停车场,32.035783,118.791275,97,7,112,8,120,5,205,7
+459,光寓影音民宿(夫子庙地铁站店),Guangyu Cinema Homestay,停车场,32.023975,118.792125,108,8,125,7,134,4,229,2
+460,如家酒店·neo(南京夫子庙地铁站秦淮河店),Home Inn Neo,停车场,32.019849,118.791585,140,6,163,6,174,2,297,5
+461,南京新街口总统府大地君悦酒店,Nanjing Xinjiekou Presidential Palace Dadi Junyue Hotel,停车场,32.03937,118.792007,140,2,163,1,174,5,297,0
+462,阑珊美居民宿（南京新街口地铁站店）,Lanshan Meiju Homestay,停车场,32.039371,118.78252,76,8,88,1,94,8,160,5
+463,龙猫精灵酒店(南京火车站红山动物园店),Longmao Spirit Hotel,停车场,32.095491,118.799275,111,5,129,1,138,8,235,6
+464,南京夫子庙景区流苏·致意行旅酒店,Nanjing Confucius Temple Scenic Area Liusu Zhuyi Travel Hotel,行李寄存,32.019763,118.78743,111,1,129,6,138,2,235,7
+465,清沐铂金酒店（南京理工大学中山陵景区店）,Qingmu Platinum Hotel,健身室,32.035426,118.860158,139,3,161,8,172,6,294,0
+466,御华庭酒店(南京博物院光华门地铁站店),Yuhuating Hotel,停车场,32.024197,118.816299,63,0,73,4,78,0,133,4
+467,南京未迟公寓（新街口地铁站店）,Nanjing Weichi Apartment,行李寄存,32.039227,118.64212,72,4,84,7,90,8,153,0
+468,清沐·礼酒店(南京总统府新街口店),Qingmu Li Hotel,健身室,32.049427,118.794728,136,2,157,1,168,3,287,1
+469,汉奢假日酒店(南京夫子庙秦淮河风光带店),Hanshe Holiday Hotel,停车场,32.024167,118.788935,98,7,113,0,121,1,206,3
+470,木汐小筑民宿(南京新街口地铁站店),Muxi Xiaozhu Homestay,停车场,32.039329,118.782547,64,6,75,6,80,2,136,8
+471,如家·neo酒店(南京钟山风景区苜蓿园大街店),Home Inn Neo Hotel,停车场,32.029355,118.831613,109,7,126,3,135,1,230,3
+472,未时酒店（南京夫子庙老门东店）,Weishi Hotel,停车场,32.016842,118.785219,142,0,165,6,176,2,300,8
+473,如家商旅酒店(南京新街口朝天宫地铁站店),Home Inn Business Hotel,停车场,32.035975,118.771828,140,2,162,4,173,6,295,3
+474,清沐·礼酒店（南京徐庄苏宁总部地铁站店）,Qingmu Li Hotel,茶室,32.084955,118.893943,113,7,131,2,140,3,239,8
+475,汉庭酒店(南京明故宫瑞金路店),Hanting Hotel,停车场,32.032165,118.813329,158,6,184,1,196,7,335,5
+476,宽渡酒店(南京夫子庙三山街地铁站店),Kuandu Hotel,停车场,32.024502,118.78156,150,1,174,3,186,1,318,2
+477,艾米酒店公寓（夫子庙老门东店）,Amy Hotel Apartment,停车场,32.008046,118.792892,74,4,86,6,92,4,157,6
+478,如家酒店(南京博物院解放路店),Home Inn,停车场,32.034629,118.809899,137,7,159,7,170,6,290,7
+479,沐江南酒店（南京南站南广场店）,Mujiannan Hotel,健身室,31.965446,118.80118,162,7,188,1,200,6,342,2
+480,南京新街口总统府颐景臻选酒店,Nanjing Xinjiekou Presidential Palace Yijing Select Hotel,停车场,32.033355,118.796687,107,7,125,7,133,4,227,5
+481,轻奢茜雅公寓（南京南站店）,Light Luxury Xiya Apartment,普通酒店,31.964038,118.795849,51,1,59,0,63,5,107,3
+482,丽呈睿轩酒店（南京南站河定桥地铁站店）,Rezen Ruixuan Hotel,行李寄存,31.950343,118.812399,134,6,156,6,166,8,283,3

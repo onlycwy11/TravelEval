@@ -22,11 +22,15 @@ class TimeMetrics:
         extracted_data = enhanced_plan['extracted_data']
         daily_schedules = extracted_data['daily_schedules']
 
-        metrics['tour_ratio'] = self._calculate_tour_ratio(daily_schedules, user_query, sandbox_data)
-        metrics['daily_time_utilization'] = self._calculate_daily_time_utilization(
-            original_plan, metrics['tour_ratio'])
+        tours_ratio = self._calculate_tour_ratio(daily_schedules, user_query, sandbox_data)
+        daily_time_utilization = self._calculate_daily_time_utilization(original_plan, tours_ratio)
+
+        print("time！")
+        metrics['average_tour_ratio'] = sum(tours_ratio.values()) / len(tours_ratio) if tours_ratio else 0.0
+        metrics['daily_time_utilization'] = sum(
+            daily_time_utilization.values()) / len(daily_time_utilization) if daily_time_utilization else 0.0
         metrics['overall_time_utilization'] = self._calculate_overall_time_utilization(
-            original_plan, metrics['tour_ratio'])
+            original_plan, tours_ratio)
 
         # metrics['score'] = self._calculate_score(metrics)
 
@@ -34,7 +38,7 @@ class TimeMetrics:
 
     def _calculate_tour_ratio(self, daily_schedules: Dict[int, List[Dict]],
                               user_query: Dict[str, Any],
-                              sandbox_data: Dict[str, Any]) -> Dict:
+                              sandbox_data: Dict[str, Any]) -> dict[Any, Any] | float:
         """
         计算游览比重
         """
@@ -68,7 +72,13 @@ class TimeMetrics:
                             tour_ratio = effective_hours / duration
                         tours_ratio[name] = tour_ratio
 
-        return  tours_ratio
+        print("=" * 10 + "Tour Ratio" + "=" * 10)
+        for name in tours_ratio.keys():
+            print(f"景点 {name} 有效游览时间为 {tours_ratio[name]}")
+
+        print("\n")
+
+        return tours_ratio
 
     def _calculate_daily_time_utilization(self, ai_plan: Dict[str, Any], tours_ratio: Dict) -> Dict[int, float]:
         """
@@ -77,32 +87,67 @@ class TimeMetrics:
         daily_utilization = {}
         total_day = ai_plan.get('summary').get('total_days')
         transport = ai_plan.get('intercity_transport').get('transport_type')
+        departure = ai_plan.get('summary').get('departure')
 
         for day_plan in ai_plan.get('daily_plans'):
             day_number = day_plan.get('day')
-            start_time = day_plan.get('activities')[0].get('start_time')
-            if day_number == 1:
-                start_time = transport[0].get('start_time')
-            end_time = day_plan.get('ending_point').get('end_time')
-            if day_number == total_day:
-                end_time = transport[1].get('end_time')
+            utilization = 0
 
-            start_hour = int(start_time.split(':')[0]) + int(
-                start_time.split(':')[1]) / 60
-            end_hour = int(end_time.split(':')[0]) + int(
-                end_time.split(':')[1]) / 60
+            if day_plan.get('activities'):
+                start_time = day_plan.get('activities')[0].get('start_time')
+                end_time = day_plan.get('ending_point').get('end_time')
 
-            tour_ratio = 0
-            for activity in day_plan.get('activities'):
-                name = activity.get('location_name')
-                types = activity.get('type')
-                if name in tours_ratio.keys() and types == 'attraction':
-                    duration = self.extractors._calculate_activity_duration(activity)
-                    tour_ratio += tours_ratio[name] * duration
+                if day_number == 1 and transport:
+                    start_time = transport[0].get('start_time')
 
-            utilization = tour_ratio / (end_hour - start_hour)
+                start_hour = int(start_time.split(':')[0]) + int(
+                    start_time.split(':')[1]) / 60
+                end_hour = int(end_time.split(':')[0]) + int(
+                    end_time.split(':')[1]) / 60
+                # print("xx")
+                if day_number == total_day and len(transport) > 1:
+                    end_time = transport[1].get('end_time').split(':')
+                    start_time = transport[1].get('start_time').split(':')
+                    end_t = int(end_time[0]) + int(end_time[1]) / 60
+                    start_t = int(start_time[0]) + int(start_time[1]) / 60
+                    if end_t < start_t:
+                        end_hour = 24
+                    else:
+                        end_hour = end_t
+                elif day_number == total_day and not day_plan.get(
+                        'ending_point').get('location_name').startswith(departure):
+                    # print("mm")
+                    end_hour = 24
+
+                for activity in day_plan.get('activities'):
+                    earlier = activity.get('start_time')
+                    later = activity.get('end_time')
+                    early_index = int(earlier.split(':')[0]) + int(
+                        earlier.split(':')[1]) / 60
+                    late_index = int(later.split(':')[0]) + int(
+                        later.split(':')[1]) / 60
+                    if early_index < start_hour:
+                        start_hour = early_index
+                    if late_index > end_hour:
+                        end_hour = late_index
+
+                tour_ratio = 0
+
+                for activity in day_plan.get('activities'):
+                    name = activity.get('location_name')
+                    types = activity.get('type')
+                    if name in tours_ratio.keys() and types == 'attraction':
+                        duration = self.extractors._calculate_activity_duration(activity)
+                        tour_ratio += tours_ratio[name] * duration
+
+                utilization = tour_ratio / (end_hour - start_hour)
 
             daily_utilization[day_number] = utilization
+
+        print("=" * 10 + "Daily Utilization" + "=" * 10)
+        for day_number in daily_utilization.keys():
+            print(f"第 {day_number} 天有效游览时间为 {daily_utilization[day_number]}")
+        print("\n")
 
         return daily_utilization
 
@@ -133,13 +178,13 @@ class TimeMetrics:
         计算时间维度综合得分
         """
         weights = {
-            'tour_ratio': 0.34,
+            'average_tour_ratio': 0.34,
             'overall_time_utilization': 0.33,
             'daily_time_utilization': 0.33
         }
 
         normalized_metrics = {
-            'tour_ratio': metrics['tour_ratio'],
+            'average_tour_ratio': metrics['tour_ratio'],
             'overall_time_utilization': metrics['overall_time_utilization'],
             'daily_time_utilization': metrics['daily_time_utilization']
         }

@@ -1,0 +1,56 @@
+# 1. 缓存/数据文件（本地生成，不需要远程同步）
+geo_cache (1).json
+geo_cache2026.json
+geo_cache_1.json
+geo_cache_2.0.json
+flights.jsonl
+flights_1.0.jsonl
+flights_coords.json
+core/utils/test_geo_cache.json
+core/utils/test2_geo_cache.json
+core/utils/travel_time_cache1.json
+core/geo_cache1.json
+
+# 2. 临时/结果文件（本地运行生成，远程不需要）
+analysis_results.zip
+environment/data/results/experiments
+environment/data/plans/old
+environment/data/plans/raw
+environment/data/plans/records
+environment/data/plans/experiments
+*.html  # 所有html文件
+
+# 3. 日志/缓存文件夹（整个文件夹忽略）
+cache/
+logs/
+poi_processor.log
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env/
+venv/
+env/
+
+# 4. 测试文件（如果不需要提交到远程）
+restore.py
+test.py
+test_extraction_functions.py
+agent/main_test.py
+core/test
+core/metrics/utility_polish.py
+core/evaluator_polish.py
+core/main_polish.py
+environment/data/queries/test.json
+
+# 5. 邮件脚本（如果包含敏感信息，不要提交）
+mail.py
+
+# 6. 旧版数据
+environment/database/intercity_transport/airplane_old.jsonl
+environment/database/intercity_transport/train_old
+
+# 7. 系统临时文件
+.idea/
+.vscode/
+.DS_Store

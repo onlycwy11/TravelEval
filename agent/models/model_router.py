@@ -14,6 +14,8 @@ import logging
 from typing import List, Dict, Any
 from datetime import datetime
 
+import instructor
+from agent.schemas.travel_plan import FinalTravelPlan
 from openai import OpenAI  # 使用官方的OpenAI客户端
 import google.generativeai as genai  # 使用官方的Gemini客户端
 
@@ -27,11 +29,13 @@ class ModelRouter:
 
         self.model_instances = {
             "gpt4o": self._init_openai_model("gpt4o"),
-            "gpt4o_mini": self._init_openai_model("gpt4o_mini"),
-            "gemini_pro": self._init_gemini(),
+            "gpt-5-chat": self._init_openai_model("gpt-5-chat"),
+            "gpt4o-mini": self._init_openai_model("gpt4o-mini"),
+            "claude-sonnet-4-5-20250929": self._init_openai_model("claude-sonnet-4-5-20250929"),
+            "gemini-2.0-flash": self._init_gemini("gemini-2.0-flash"),
             "deepseek-chat": self._init_openai_compatible("deepseek-chat"),
             "qwen3-8b": self._init_qwen("qwen3-8b"),
-            "mistral-7b": self._init_openai_compatible("mistral-7b")
+            "open-mistral-7b": self._init_openai_compatible("open-mistral-7b")
         }
 
     def _save_token_usage(self, model_name: str, usage_data: dict, filename_suffix: str = None):
@@ -116,7 +120,8 @@ class ModelRouter:
                     model=cfg["model_name"],
                     messages=messages,
                     max_tokens=cfg["max_tokens"],
-                    temperature=cfg["temperature"]
+                    temperature=cfg["temperature"],
+                    stream=False
                 )
 
                 # 调试：打印完整响应
@@ -235,54 +240,46 @@ class ModelRouter:
 
         return qwen_call
 
-    def _init_gemini(self):
+    def _init_gemini(self, model_key: str):
         """初始化Gemini模型"""
-        cfg = self.config["gemini_pro"]
+        cfg = self.config[model_key]
 
         def gemini_call(messages: List[Dict[str, str]]) -> str:
             try:
-                # 配置Gemini
-                genai.configure(api_key=cfg["api_key"])
+                client = OpenAI(
+                    api_key=cfg["api_key"],
+                    base_url=cfg.get("api_base", "https://api.openai.com/v1")
+                )
 
-                # 创建模型实例
-                model = genai.GenerativeModel(cfg["model_name"])
+                response = client.chat.completions.create(
+                    model=cfg["model_name"],
+                    messages=messages,
+                    max_tokens=cfg["max_tokens"],
+                    temperature=cfg["temperature"],
+                    stream=False
+                )
 
-                # 从消息中提取内容
-                # Gemini需要将system和user消息合并
-                system_content = ""
-                user_content = ""
+                # 调试：打印完整响应
+                print("✅ 原始响应:", response)
 
-                for msg in messages:
-                    if msg["role"] == "system":
-                        system_content = msg["content"]
-                    elif msg["role"] == "user":
-                        user_content = msg["content"]
+                # 保存token使用情况
+                if hasattr(response, 'usage') and response.usage:
+                    usage_data = {
+                        "prompt_tokens": response.usage.prompt_tokens,
+                        "completion_tokens": response.usage.completion_tokens,
+                        "total_tokens": response.usage.total_tokens
+                    }
 
-                # 合并系统提示和用户提示
-                full_prompt = f"{system_content}\n\n{user_content}" if system_content else user_content
+                    query_uid = self._extract_query_uid(messages)
+                    self._save_token_usage(cfg["model_name"], usage_data, query_uid)
 
-                # 生成内容
-                response = model.generate_content(full_prompt)
+                    print(
+                        f"📊 Token使用: 总{response.usage.total_tokens}"
+                        f" (输入{response.usage.prompt_tokens} + 输出{response.usage.completion_tokens})")
 
-                # Gemini没有详细的token计数，但我们可以估算
-                total_chars = len(full_prompt) + len(response.text)
-                estimated_tokens = total_chars // 4  # 粗略估算：1个token≈4个字符
-
-                usage_data = {
-                    "estimated_tokens": estimated_tokens,
-                    "prompt_chars": len(full_prompt),
-                    "response_chars": len(response.text),
-                    "note": "Gemini没有提供详细的token计数，此为估算值"
-                }
-
-                query_uid = self._extract_query_uid(messages)
-                self._save_token_usage(cfg["model_name"], usage_data, query_uid)
-
-                print(f"📊 Gemini估算Token: 约{estimated_tokens}")
-
-                return response.text
+                return response.choices[0].message.content
             except Exception as e:
-                print(f"❌ Gemini 调用失败: {e}")
+                print(f"❌ {model_key} 调用失败: {e}")
                 return ""
 
         return gemini_call

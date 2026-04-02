@@ -1,0 +1,392 @@
+[
+  {
+    "TrainID": "G3722",
+    "TrainType": "高铁",
+    "From": "广州南站",
+    "To": "重庆西站",
+    "BeginTime": "07:31",
+    "EndTime": "13:44",
+    "Duration": 6.22,
+    "Cost": 502.0
+  },
+  {
+    "TrainID": "G2942",
+    "TrainType": "高铁",
+    "From": "广州南站",
+    "To": "重庆西站",
+    "BeginTime": "07:42",
+    "EndTime": "13:25",
+    "Duration": 5.72,
+    "Cost": 502.0
+  },
+  {
+    "TrainID": "G3714",
+    "TrainType": "高铁",
+    "From": "广州南站",
+    "To": "重庆西站",
+    "BeginTime": "08:10",
+    "EndTime": "15:52",
+    "Duration": 7.7,
+    "Cost": 637.0
+  },
+  {
+    "TrainID": "G3724",
+    "TrainType": "高铁",
+    "From": "广州南站",
+    "To": "重庆西站",
+    "BeginTime": "08:30",
+    "EndTime": "14:24",
+    "Duration": 5.9,
+    "Cost": 502.0
+  },
+  {
+    "TrainID": "Z332",
+    "TrainType": "直达",
+    "From": "广州北站",
+    "To": "重庆北站",
+    "BeginTime": "08:57",
+    "EndTime": "05:28",
+    "Duration": 20.5,
+    "Cost": 198.0
+  },
+  {
+    "TrainID": "G3750",
+    "TrainType": "高铁",
+    "From": "广州南站",
+    "To": "重庆西站",
+    "BeginTime": "08:57",
+    "EndTime": "15:51",
+    "Duration": 6.9,
+    "Cost": 502.0
+  },
+  {
+    "TrainID": "G3726",
+    "TrainType": "高铁",
+    "From": "广州南站",
+    "To": "重庆西站",
+    "BeginTime": "09:02",
+    "EndTime": "15:45",
+    "Duration": 6.72,
+    "Cost": 455.0
+  },
+  {
+    "TrainID": "G3726",
+    "TrainType": "高铁",
+    "From": "广州南站",
+    "To": "重庆北站",
+    "BeginTime": "09:02",
+    "EndTime": "16:18",
+    "Duration": 7.27,
+    "Cost": 467.0
+  },
+  {
+    "TrainID": "G2944",
+    "TrainType": "高铁",
+    "From": "广州南站",
+    "To": "重庆西站",
+    "BeginTime": "09:05",
+    "EndTime": "15:10",
+    "Duration": 6.08,
+    "Cost": 502.0
+  },
+  {
+    "TrainID": "D1820",
+    "TrainType": "动车",
+    "From": "广州南站",
+    "To": "重庆西站",
+    "BeginTime": "09:46",
+    "EndTime": "17:38",
+    "Duration": 7.87,
+    "Cost": 481.0
+  },
+  {
+    "TrainID": "G2240",
+    "TrainType": "高铁",
+    "From": "广州南站",
+    "To": "重庆西站",
+    "BeginTime": "09:57",
+    "EndTime": "17:05",
+    "Duration": 7.13,
+    "Cost": 455.0
+  },
+  {
+    "TrainID": "D1826",
+    "TrainType": "动车",
+    "From": "广州南站",
+    "To": "重庆西站",
+    "BeginTime": "10:25",
+    "EndTime": "18:41",
+    "Duration": 8.27,
+    "Cost": 455.0
+  },
+  {
+    "TrainID": "D1788",
+    "TrainType": "动车",
+    "From": "广州南站",
+    "To": "重庆西站",
+    "BeginTime": "11:31",
+    "EndTime": "19:41",
+    "Duration": 8.17,
+    "Cost": 481.0
+  },
+  {
+    "TrainID": "K486",
+    "TrainType": "快速",
+    "From": "广州北站",
+    "To": "重庆北站",
+    "BeginTime": "11:43",
+    "EndTime": "09:21",
+    "Duration": 21.6,
+    "Cost": 198.0
+  },
+  {
+    "TrainID": "G2250",
+    "TrainType": "高铁",
+    "From": "广州南站",
+    "To": "重庆西站",
+    "BeginTime": "12:04",
+    "EndTime": "18:54",
+    "Duration": 6.83,
+    "Cost": 480.0
+  },
+  {
+    "TrainID": "G2250",
+    "TrainType": "高铁",
+    "From": "广州南站",
+    "To": "重庆北站",
+    "BeginTime": "12:04",
+    "EndTime": "19:22",
+    "Duration": 7.3,
+    "Cost": 492.0
+  },
+  {
+    "TrainID": "G2276",
+    "TrainType": "高铁",
+    "From": "广州南站",
+    "To": "重庆西站",
+    "BeginTime": "12:25",
+    "EndTime": "19:04",
+    "Duration": 6.65,
+    "Cost": 480.0
+  },
+  {
+    "TrainID": "K202",
+    "TrainType": "快速",
+    "From": "广州白云站",
+    "To": "重庆北站",
+    "BeginTime": "12:42",
+    "EndTime": "10:16",
+    "Duration": 21.6,
+    "Cost": 198.0
+  },
+  {
+    "TrainID": "G320",
+    "TrainType": "高铁",
+    "From": "广州南站",
+    "To": "重庆西站",
+    "BeginTime": "12:51",
+    "EndTime": "18:59",
+    "Duration": 6.13,
+    "Cost": 502.0
+  },
+  {
+    "TrainID": "K814",
+    "TrainType": "快速",
+    "From": "广州白云站",
+    "To": "重庆北站",
+    "BeginTime": "12:55",
+    "EndTime": "11:11",
+    "Duration": 22.3,
+    "Cost": 198.0
+  },
+  {
+    "TrainID": "K1172",
+    "TrainType": "快速",
+    "From": "广州北站",
+    "To": "重庆北站",
+    "BeginTime": "13:08",
+    "EndTime": "08:23",
+    "Duration": 19.2,
+    "Cost": 173.5
+  },
+  {
+    "TrainID": "G3728",
+    "TrainType": "高铁",
+    "From": "广州南站",
+    "To": "重庆西站",
+    "BeginTime": "13:17",
+    "EndTime": "19:30",
+    "Duration": 6.22,
+    "Cost": 480.0
+  },
+  {
+    "TrainID": "K356",
+    "TrainType": "快速",
+    "From": "广州北站",
+    "To": "重庆北站",
+    "BeginTime": "13:21",
+    "EndTime": "12:21",
+    "Duration": 23.0,
+    "Cost": 198.0
+  },
+  {
+    "TrainID": "K776",
+    "TrainType": "快速",
+    "From": "广州北站",
+    "To": "重庆北站",
+    "BeginTime": "13:47",
+    "EndTime": "08:08",
+    "Duration": 18.4,
+    "Cost": 173.5
+  },
+  {
+    "TrainID": "D1838",
+    "TrainType": "动车",
+    "From": "广州南站",
+    "To": "重庆西站",
+    "BeginTime": "14:05",
+    "EndTime": "21:22",
+    "Duration": 7.28,
+    "Cost": 481.0
+  },
+  {
+    "TrainID": "D1838",
+    "TrainType": "动车",
+    "From": "广州南站",
+    "To": "重庆北站",
+    "BeginTime": "14:05",
+    "EndTime": "21:59",
+    "Duration": 7.9,
+    "Cost": 493.0
+  },
+  {
+    "TrainID": "D1840",
+    "TrainType": "动车",
+    "From": "广州南站",
+    "To": "重庆西站",
+    "BeginTime": "14:15",
+    "EndTime": "22:51",
+    "Duration": 8.6,
+    "Cost": 423.0
+  },
+  {
+    "TrainID": "G3712",
+    "TrainType": "高铁",
+    "From": "广州南站",
+    "To": "重庆西站",
+    "BeginTime": "14:48",
+    "EndTime": "20:45",
+    "Duration": 5.95,
+    "Cost": 502.0
+  },
+  {
+    "TrainID": "K688",
+    "TrainType": "快速",
+    "From": "广州北站",
+    "To": "重庆北站",
+    "BeginTime": "14:55",
+    "EndTime": "11:52",
+    "Duration": 20.9,
+    "Cost": 198.0
+  },
+  {
+    "TrainID": "G3730",
+    "TrainType": "高铁",
+    "From": "广州南站",
+    "To": "重庆西站",
+    "BeginTime": "15:15",
+    "EndTime": "21:47",
+    "Duration": 6.53,
+    "Cost": 480.0
+  },
+  {
+    "TrainID": "G2930",
+    "TrainType": "高铁",
+    "From": "广州南站",
+    "To": "重庆西站",
+    "BeginTime": "15:25",
+    "EndTime": "22:01",
+    "Duration": 6.6,
+    "Cost": 480.0
+  },
+  {
+    "TrainID": "G1936",
+    "TrainType": "高铁",
+    "From": "广州南站",
+    "To": "重庆西站",
+    "BeginTime": "16:20",
+    "EndTime": "22:22",
+    "Duration": 6.03,
+    "Cost": 480.0
+  },
+  {
+    "TrainID": "K1096",
+    "TrainType": "快速",
+    "From": "广州白云站",
+    "To": "重庆北站",
+    "BeginTime": "22:37",
+    "EndTime": "17:29",
+    "Duration": 18.9,
+    "Cost": 177.5
+  },
+  {
+    "TrainID": "Z586",
+    "TrainType": "直达",
+    "From": "广州北站",
+    "To": "重庆北站",
+    "BeginTime": "22:41",
+    "EndTime": "15:24",
+    "Duration": 16.7,
+    "Cost": 173.5
+  },
+  {
+    "TrainID": "G3706",
+    "TrainType": "高铁",
+    "From": "广州南站",
+    "To": "重庆西站",
+    "BeginTime": "15:55",
+    "EndTime": "22:22",
+    "Duration": 6.45,
+    "Cost": 491.0
+  },
+  {
+    "TrainID": "D1838",
+    "TrainType": "动车",
+    "From": "广州南站",
+    "To": "重庆西站",
+    "BeginTime": "14:05",
+    "EndTime": "20:45",
+    "Duration": 6.67,
+    "Cost": 502.0
+  },
+  {
+    "TrainID": "G3730",
+    "TrainType": "高铁",
+    "From": "广州南站",
+    "To": "重庆西站",
+    "BeginTime": "15:15",
+    "EndTime": "22:01",
+    "Duration": 6.77,
+    "Cost": 492.0
+  },
+  {
+    "TrainID": "G2250",
+    "TrainType": "高铁",
+    "From": "广州南站",
+    "To": "重庆西站",
+    "BeginTime": "12:04",
+    "EndTime": "19:04",
+    "Duration": 7.0,
+    "Cost": 487.0
+  },
+  {
+    "TrainID": "D1820",
+    "TrainType": "动车",
+    "From": "广州南站",
+    "To": "重庆西站",
+    "BeginTime": "09:46",
+    "EndTime": "17:05",
+    "Duration": 7.32,
+    "Cost": 749.0
+  }
+]

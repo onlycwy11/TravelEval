@@ -38,8 +38,9 @@ class SpaceMetrics:
 
         # 景点顺序合理性
         # 路线惩罚 (Route Penalty)
-        results['RP'] = self.calculate_RP(attractions_sequence_by_day_1, poi_file_path)
-
+        route_penalty = self.calculate_RP(attractions_sequence_by_day_1, poi_file_path)
+        results['RP'] = sum(route_penalty.values()) / len(route_penalty) if route_penalty else 0.0
+        print("RP!")
         # 跨日空间错配度 (Cross-Day Spatial Misalignment)
         results['CSM'] = self.calculate_CSM(attractions_sequence_by_day_2, poi_file_path, special_pois)
 
@@ -58,18 +59,20 @@ class SpaceMetrics:
             else:
                 for day_number in sorted(attractions_sequence_by_day.keys()):
                     print(f"提取第 {day_number} 天的景点访问序列...")
-                    attractions_sequence = attractions_sequence_by_day[day_number]
-                    coordinates = self.geo_calculator.get_poi_coordinates(poi_file_path, attractions_sequence)
+                    raw_attractions_sequence = attractions_sequence_by_day[day_number]
+                    coordinates = self.geo_calculator.get_poi_coordinates(poi_file_path, raw_attractions_sequence)
+
+                    attractions_sequence = [attraction for attraction in raw_attractions_sequence if attraction in coordinates.keys()]
                     # print(coordinates)
                     # print(attractions_sequence)
 
-                    actual_distances = self.geo_calculator.calculate_segment_distance(attractions_sequence, coordinates, "walking")
+                    actual_distances = self.geo_calculator.calculate_segment_distance(attractions_sequence, coordinates, "driving")
 
                     route_penalty = self.geo_calculator.calculate_route_penalty(
                         attractions_sequence,
                         actual_distances,
                         coordinates,
-                        optimal_route_method="brute"
+                        optimal_route_method="dp"
                     )
 
                     print(f"Route Penalty (RP): {route_penalty}")
@@ -93,16 +96,22 @@ class SpaceMetrics:
 
             trip_plan_coordinates = self.geo_calculator.get_poi_coordinates(poi_file_path, list(all_attractions))
 
+            for day_number in sorted(attractions_sequence_by_day.keys()):
+                attractions_sequence = attractions_sequence_by_day[day_number]
+                new_attractions_sequence = [attraction for attraction in attractions_sequence if attraction in trip_plan_coordinates.keys()]
+                attractions_sequence_by_day[day_number] = new_attractions_sequence
+
             result = self.geo_calculator.calculate_cross_day_misalignment(attractions_sequence_by_day, trip_plan_coordinates, special_pois)
             csm_values = result['csm_values']
             problem_spots = result['problem_spots']
 
             # print(result)
             print(f"景点MisFit值: {csm_values}")
-            print("\n需优化的景点:")
-            for spot in problem_spots:
-                print(f"- {spot['attraction']} (第{spot['current_day']}天): MisFit={spot['misfit']:.2f}")
-                print(f"  建议移至第{spot['recommended_day']}天，可减少{spot['improvement']}通勤成本")
+            if problem_spots:
+                print("\n需优化的景点:")
+                for spot in problem_spots:
+                    print(f"- {spot['attraction']} (第{spot['current_day']}天): MisFit={spot['misfit']:.2f}")
+                    print(f"  建议移至第{spot['recommended_day']}天，可减少{spot['improvement']}通勤成本")
 
             # 使用90%和95%分位数
             p90 = np.percentile(csm_values, 90)
@@ -111,8 +120,8 @@ class SpaceMetrics:
             print(f"95%分位数(P95): {p95:.2f}")
 
             return {
-                'misfit_value': csm_values,
-                'problem_spots': problem_spots,
+                # 'misfit_value': csm_values,
+                # 'problem_spots': problem_spots,
                 'P90': p90,
                 'P95': p95
             }

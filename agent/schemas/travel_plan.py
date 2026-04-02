@@ -1,3 +1,4 @@
+import instructor
 from pydantic import BaseModel, Field
 from typing import List, Optional, Literal, Dict, Any
 
@@ -55,7 +56,7 @@ class DailyActivity(BaseModel):
     details: Dict[str, Any] = Field(..., description="根据类型填充详细信息")
 
 class DailyEndingPoint(BaseModel):
-    type: Literal["intercity_transport", "accommodation"] = Field(..., description="终点类型")
+    type: Literal["intercity_transport", "accommodation_check_in", "accommodation"] = Field(..., description="终点类型")
     description: str = Field(..., description="今日终点描述")
     start_time: str = Field(..., pattern=r"^([01]\d|2[0-3]):([0-5]\d)$", description="出发时间，格式 HH:MM")
     end_time: str = Field(..., pattern=r"^([01]\d|2[0-3]):([0-5]\d)$", description="到达时间，格式 HH:MM")
@@ -100,3 +101,12 @@ class ItineraryContent(BaseModel):
 class FinalTravelPlan(BaseModel):
     query_uid: str = Field(..., description="对应用户提问唯一ID，例如：Txxxx 或 Gxx-x")
     itinerary: ItineraryContent = Field(..., description="行程详情")
+
+if __name__ == "__main__":
+    client = instructor.from_provider("openai/deepseek", api_key="sk-d658bd05649148499ad2aeeeba1c1c07")
+    user = client.chat.completions.create(
+        response_model=FinalTravelPlan,
+        messages=[{"role": "user", "content": "我和朋友两人要从北京到杭州玩3天，预算4000。"}]
+    )
+
+    print(user)

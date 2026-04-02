@@ -10,6 +10,8 @@ import json
 import sys
 import traceback
 
+import re
+import mail
 from models.model_router import ModelRouter
 from core.utils.data_loader import DataLoader
 from core.utils.output_handler import OutputHandler
@@ -17,6 +19,7 @@ from core.utils.plan_extractors import PlanExtractor
 from strategies.direct import DirectPromptingStrategy
 from strategies.zero_shot_cot import ZeroShotCoTStrategy
 from strategies.react_reflection import ReActReflectionStrategy
+
 
 def main(file_name):
     # 1. 加载配置
@@ -39,8 +42,8 @@ def main(file_name):
     # 5. 初始化所有策略
     strategies = [
         DirectPromptingStrategy(),
-        # ZeroShotCoTStrategy(),
-        # ReActReflectionStrategy()
+        ZeroShotCoTStrategy(),
+        ReActReflectionStrategy()
     ]
 
     # 6. 遍历所有用户提问
@@ -64,40 +67,58 @@ def main(file_name):
             ]
 
             # 6. 遍历所有模型生成方案
-            # for model_name in ["qwen3-8b"]:
-            for model_name in ["gpt4o_mini", "deepseek-chat", "gpt4o", "qwen3-8b"]:
+            for model_name in ["deepseek-chat"]:
+            # for model_name in ["gpt4o_mini", "deepseek-chat", "gpt4o", "qwen3-8b", "open-mistral-7b"]:
                 try:
                     raw_response = model_router.generate_response(model_name, messages)
-                    if raw_response.startswith("```json") and raw_response.endswith("```"):
-                        json_content = raw_response.strip("```json").strip("```").strip()
-                        try:
-                            # 解析 JSON 内容
-                            response = json.loads(json_content)
-                            print(response)
-                        except json.JSONDecodeError as e:
-                            print(f"❌ 解析 JSON 响应失败: {e}")
-                    elif isinstance(raw_response, str):
-                        try:
-                            response = json.loads(raw_response)
-                        except json.JSONDecodeError:
-                            # 处理 JSON 解析错误
-                            raise ValueError("Invalid JSON response from model")
-                    else:
-                        response = raw_response
-                    # print("here")
+                    reasoning_part, response = OutputHandler.process_raw_response(raw_response)
+                    OutputHandler.save_results(
+                        reasoning_part, response, uid, output_dir, model_name, strategy.strategy_name)
 
-                    # 7. 解析并保存结构化数据
-                    travel_plan = OutputHandler.parse_response(
-                        response, os.path.join(os.path.dirname(os.path.dirname(__file__)), output_dir), model_name, strategy.strategy_name)
-                    saved_path = OutputHandler.save_to_file(
-                        travel_plan, os.path.join(os.path.dirname(os.path.dirname(__file__)), output_dir), model_name, strategy.strategy_name)
+                    if strategy.strategy_name == 'ReAct&Reflection':
+                        print("Reflection!")
+                        strategy = ReActReflectionStrategy()
+                        system_prompt = strategy.get_reflection_prompt(response)
+                        messages = [
+                            {"role": "system", "content": system_prompt}
+                        ]
 
-                    print(f"Successfully saved plan from {model_name} to {saved_path}")
+                        raw_response = model_router.generate_response(model_name, messages)
+                        reasoning_part, response = OutputHandler.process_raw_response(raw_response)
+                        OutputHandler.save_results(
+                            reasoning_part, response, uid, output_dir, model_name, strategy.strategy_name)
+
                 except Exception as e:
                     print(f"Error with {model_name}: {e}")
 
 
 if __name__ == "__main__":
-    for file_name in ['medium-1.json', 'hard.json', 'progressive.json']:
-
+    # for file_name in ['easy.json', 'medium.json', 'hard.json', 'progressive.json']:
+    for file_name in ['test.json']:
         main(file_name)
+    mail.sendMail('您的程序已经运行完成！')
+
+    # base_path = os.path.join(os.path.dirname(
+    #     os.path.dirname(__file__)), 'environment', 'database', 'intercity_transport')
+    #
+    # city = {
+    #     "北京",
+    #     "上海",
+    #     "广州",
+    #     "深圳",
+    #     "杭州",
+    #     "南京",
+    #     "成都",
+    #     "重庆",
+    #     "武汉",
+    #     "苏州"
+    # }
+    #
+    # stations = set()
+    # for start_city in city:
+    #     for end_city in city:
+    #         if start_city != end_city:
+    #             station_constraints = PlanExtractor._extract_routes_from_file(
+    #                 base_path, start_city, end_city)
+    #             stations.update(station_constraints)
+    # print(stations)

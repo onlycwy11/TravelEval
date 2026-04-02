@@ -13,25 +13,25 @@
         "adults": 2,
         "children": 0,
         "seniors": 0
-    },
+      },
       "budget": 3200,
       "dates": "2024-12-15 to 2024-12-19",
       "transportation": {
         "preferences": ["高铁"],
         "constraints": ["飞机"]
-    },
+      },
       "accommodations": {
         "preferences": ["位置超好", "免费停车"],
         "constraints": []
-    },
+      },
       "diet": {
         "preferences": [],
         "constraints": ["火锅", "川菜"]
-    },
+      },
       "attractions": {
         "preferences": ["小众秘境", "历史古迹"],
         "constraints": []
-    },
+      },
       "rhythm": {},
       "nature_language": "我和朋友想从北京坐高铁去上海玩5天，预算3200元，不要坐飞机，住宿要位置好有免费停车，不吃火锅和川菜，偏爱小众秘境和历史古迹。",
       "nature_language_en": "My friend and I want to travel from Beijing to Shanghai by high-speed rail for 5 days with a budget of 3200 RMB, no flights, accommodation with good location and free parking, no hotpot or Sichuan cuisine, prefer hidden gems and historical sites."

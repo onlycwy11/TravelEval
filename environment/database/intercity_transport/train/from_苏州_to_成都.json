@@ -1,0 +1,212 @@
+[
+  {
+    "TrainID": "D3076",
+    "TrainType": "动车",
+    "From": "苏州张家港站",
+    "To": "成都东站",
+    "BeginTime": "06:31",
+    "EndTime": "19:43",
+    "Duration": 13.2,
+    "Cost": 661.0
+  },
+  {
+    "TrainID": "D352",
+    "TrainType": "动车",
+    "From": "苏州站",
+    "To": "成都东站",
+    "BeginTime": "06:48",
+    "EndTime": "20:39",
+    "Duration": 13.85,
+    "Cost": 659.0
+  },
+  {
+    "TrainID": "D2206",
+    "TrainType": "动车",
+    "From": "苏州张家港站",
+    "To": "成都东站",
+    "BeginTime": "06:55",
+    "EndTime": "21:53",
+    "Duration": 14.97,
+    "Cost": 681.0
+  },
+  {
+    "TrainID": "D636",
+    "TrainType": "动车",
+    "From": "苏州新区站",
+    "To": "成都东站",
+    "BeginTime": "07:09",
+    "EndTime": "20:33",
+    "Duration": 13.4,
+    "Cost": 655.0
+  },
+  {
+    "TrainID": "G1974",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "成都东站",
+    "BeginTime": "07:44",
+    "EndTime": "18:27",
+    "Duration": 10.72,
+    "Cost": 941.0
+  },
+  {
+    "TrainID": "G3382",
+    "TrainType": "高铁",
+    "From": "苏州园区站",
+    "To": "成都西站",
+    "BeginTime": "13:54",
+    "EndTime": "23:38",
+    "Duration": 33.73,
+    "Cost": 295.0
+  },
+  {
+    "TrainID": "D3056",
+    "TrainType": "动车",
+    "From": "苏州园区站",
+    "To": "成都东站",
+    "BeginTime": "07:57",
+    "EndTime": "21:46",
+    "Duration": 13.82,
+    "Cost": 663.0
+  },
+  {
+    "TrainID": "D3056",
+    "TrainType": "动车",
+    "From": "苏州站",
+    "To": "成都东站",
+    "BeginTime": "08:06",
+    "EndTime": "21:46",
+    "Duration": 13.67,
+    "Cost": 659.0
+  },
+  {
+    "TrainID": "G3288",
+    "TrainType": "高铁",
+    "From": "苏州常熟站",
+    "To": "成都东站",
+    "BeginTime": "08:33",
+    "EndTime": "19:55",
+    "Duration": 11.37,
+    "Cost": 907.0
+  },
+  {
+    "TrainID": "G3292",
+    "TrainType": "高铁",
+    "From": "苏州常熟站",
+    "To": "成都东站",
+    "BeginTime": "09:11",
+    "EndTime": "20:33",
+    "Duration": 11.37,
+    "Cost": 904.0
+  },
+  {
+    "TrainID": "K290",
+    "TrainType": "快速",
+    "From": "苏州站",
+    "To": "成都西站",
+    "BeginTime": "10:13",
+    "EndTime": "19:13",
+    "Duration": 33.0,
+    "Cost": 263.5
+  },
+  {
+    "TrainID": "G1476",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "成都东站",
+    "BeginTime": "10:20",
+    "EndTime": "23:10",
+    "Duration": 12.83,
+    "Cost": 1231.5
+  },
+  {
+    "TrainID": "G3284",
+    "TrainType": "高铁",
+    "From": "苏州太仓站",
+    "To": "成都东站",
+    "BeginTime": "11:09",
+    "EndTime": "23:17",
+    "Duration": 12.13,
+    "Cost": 899.0
+  },
+  {
+    "TrainID": "G3284",
+    "TrainType": "高铁",
+    "From": "苏州张家港站",
+    "To": "成都东站",
+    "BeginTime": "11:36",
+    "EndTime": "23:17",
+    "Duration": 11.68,
+    "Cost": 873.0
+  },
+  {
+    "TrainID": "K1156",
+    "TrainType": "快速",
+    "From": "苏州站",
+    "To": "成都西站",
+    "BeginTime": "12:13",
+    "EndTime": "17:34",
+    "Duration": 29.4,
+    "Cost": 259.0
+  },
+  {
+    "TrainID": "K282",
+    "TrainType": "快速",
+    "From": "苏州站",
+    "To": "成都西站",
+    "BeginTime": "21:42",
+    "EndTime": "05:49",
+    "Duration": 32.1,
+    "Cost": 277.5
+  },
+  {
+    "TrainID": "D2212",
+    "TrainType": "动车",
+    "From": "苏州新区站",
+    "To": "成都东站",
+    "BeginTime": "08:34",
+    "EndTime": "21:01",
+    "Duration": 12.45,
+    "Cost": 656.0
+  },
+  {
+    "TrainID": "D3056",
+    "TrainType": "动车",
+    "From": "苏州站",
+    "To": "成都东站",
+    "BeginTime": "08:06",
+    "EndTime": "21:01",
+    "Duration": 12.92,
+    "Cost": 828.0
+  },
+  {
+    "TrainID": "D3056",
+    "TrainType": "动车",
+    "From": "苏州园区站",
+    "To": "成都东站",
+    "BeginTime": "07:57",
+    "EndTime": "21:01",
+    "Duration": 13.07,
+    "Cost": 834.0
+  },
+  {
+    "TrainID": "D636",
+    "TrainType": "动车",
+    "From": "苏州新区站",
+    "To": "成都东站",
+    "BeginTime": "07:09",
+    "EndTime": "20:45",
+    "Duration": 13.6,
+    "Cost": 655.0
+  },
+  {
+    "TrainID": "D352",
+    "TrainType": "动车",
+    "From": "苏州站",
+    "To": "成都东站",
+    "BeginTime": "06:48",
+    "EndTime": "20:28",
+    "Duration": 13.67,
+    "Cost": 659.0
+  }
+]

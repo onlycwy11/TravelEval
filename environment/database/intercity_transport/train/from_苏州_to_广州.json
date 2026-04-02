@@ -1,0 +1,152 @@
+[
+  {
+    "TrainID": "G1305",
+    "TrainType": "高铁",
+    "From": "苏州南站",
+    "To": "广州新塘站",
+    "BeginTime": "07:19",
+    "EndTime": "14:16",
+    "Duration": 6.95,
+    "Cost": 822.0
+  },
+  {
+    "TrainID": "G1305",
+    "TrainType": "高铁",
+    "From": "苏州南站",
+    "To": "广州东站",
+    "BeginTime": "07:19",
+    "EndTime": "14:40",
+    "Duration": 7.35,
+    "Cost": 853.0
+  },
+  {
+    "TrainID": "G3073",
+    "TrainType": "高铁",
+    "From": "苏州盛泽站",
+    "To": "广州新塘站",
+    "BeginTime": "08:08",
+    "EndTime": "15:34",
+    "Duration": 7.43,
+    "Cost": 779.0
+  },
+  {
+    "TrainID": "G3073",
+    "TrainType": "高铁",
+    "From": "苏州盛泽站",
+    "To": "广州东站",
+    "BeginTime": "08:08",
+    "EndTime": "15:57",
+    "Duration": 7.82,
+    "Cost": 810.0
+  },
+  {
+    "TrainID": "G1301",
+    "TrainType": "高铁",
+    "From": "苏州张家港站",
+    "To": "广州南站",
+    "BeginTime": "09:14",
+    "EndTime": "19:00",
+    "Duration": 9.77,
+    "Cost": 990.0
+  },
+  {
+    "TrainID": "G1301",
+    "TrainType": "高铁",
+    "From": "苏州太仓南站",
+    "To": "广州南站",
+    "BeginTime": "09:47",
+    "EndTime": "19:00",
+    "Duration": 9.22,
+    "Cost": 959.0
+  },
+  {
+    "TrainID": "G3087",
+    "TrainType": "高铁",
+    "From": "苏州南站",
+    "To": "广州新塘站",
+    "BeginTime": "13:25",
+    "EndTime": "20:39",
+    "Duration": 7.23,
+    "Cost": 842.0
+  },
+  {
+    "TrainID": "G3087",
+    "TrainType": "高铁",
+    "From": "苏州南站",
+    "To": "广州东站",
+    "BeginTime": "13:25",
+    "EndTime": "21:02",
+    "Duration": 7.62,
+    "Cost": 873.0
+  },
+  {
+    "TrainID": "G1744",
+    "TrainType": "高铁",
+    "From": "苏州张家港站",
+    "To": "广州南站",
+    "BeginTime": "14:19",
+    "EndTime": "23:18",
+    "Duration": 8.98,
+    "Cost": 768.0
+  },
+  {
+    "TrainID": "K527",
+    "TrainType": "快速",
+    "From": "苏州站",
+    "To": "广州白云站",
+    "BeginTime": "17:17",
+    "EndTime": "17:30",
+    "Duration": 24.2,
+    "Cost": 198.0
+  },
+  {
+    "TrainID": "G7491",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "广州南站",
+    "BeginTime": "18:52",
+    "EndTime": "06:56",
+    "Duration": 12.1,
+    "Cost": 679.0
+  },
+  {
+    "TrainID": "G1407",
+    "TrainType": "高铁",
+    "From": "苏州南站",
+    "To": "广州新塘站",
+    "BeginTime": "13:05",
+    "EndTime": "20:39",
+    "Duration": 7.57,
+    "Cost": 804.0
+  },
+  {
+    "TrainID": "G1305",
+    "TrainType": "高铁",
+    "From": "苏州南站",
+    "To": "广州新塘站",
+    "BeginTime": "07:19",
+    "EndTime": "15:34",
+    "Duration": 8.25,
+    "Cost": 773.0
+  },
+  {
+    "TrainID": "G3059",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "广州南站",
+    "BeginTime": "07:06",
+    "EndTime": "14:39",
+    "Duration": 7.55,
+    "Cost": 980.0
+  },
+  {
+    "TrainID": "G7583",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "广州南站",
+    "BeginTime": "13:55",
+    "EndTime": "22:29",
+    "Duration": 8.57,
+    "Cost": 1203.0
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "TrainID": "G2963",
+    "TrainType": "高铁",
+    "From": "成都东站",
+    "To": "深圳北站",
+    "BeginTime": "10:41",
+    "EndTime": "18:31",
+    "Duration": 7.83,
+    "Cost": 734.5
+  },
+  {
+    "TrainID": "G1835",
+    "TrainType": "高铁",
+    "From": "成都东站",
+    "To": "深圳东站",
+    "BeginTime": "21:07",
+    "EndTime": "19:04",
+    "Duration": 21.95,
+    "Cost": 335.5
+  },
+  {
+    "TrainID": "G1822",
+    "TrainType": "高铁",
+    "From": "成都东站",
+    "To": "深圳北站",
+    "BeginTime": "07:41",
+    "EndTime": "19:25",
+    "Duration": 11.73,
+    "Cost": 653.5
+  },
+  {
+    "TrainID": "Z334",
+    "TrainType": "直达",
+    "From": "成都西站",
+    "To": "深圳东站",
+    "BeginTime": "11:14",
+    "EndTime": "14:11",
+    "Duration": 26.9,
+    "Cost": 240.0
+  },
+  {
+    "TrainID": "G2941",
+    "TrainType": "高铁",
+    "From": "成都东站",
+    "To": "深圳北站",
+    "BeginTime": "15:09",
+    "EndTime": "22:59",
+    "Duration": 7.83,
+    "Cost": 720.5
+  },
+  {
+    "TrainID": "Z588",
+    "TrainType": "直达",
+    "From": "成都西站",
+    "To": "深圳东站",
+    "BeginTime": "20:36",
+    "EndTime": "19:05",
+    "Duration": 22.5,
+    "Cost": 217.0
+  },
+  {
+    "TrainID": "D961",
+    "TrainType": "动车",
+    "From": "成都东站",
+    "To": "深圳北站",
+    "BeginTime": "22:25",
+    "EndTime": "10:05",
+    "Duration": 11.7,
+    "Cost": 584.0
+  },
+  {
+    "TrainID": "G3705",
+    "TrainType": "高铁",
+    "From": "成都东站",
+    "To": "深圳北站",
+    "BeginTime": "07:39",
+    "EndTime": "15:28",
+    "Duration": 7.82,
+    "Cost": 672.5
+  },
+  {
+    "TrainID": "G2941",
+    "TrainType": "高铁",
+    "From": "成都东站",
+    "To": "深圳北站",
+    "BeginTime": "15:09",
+    "EndTime": "23:10",
+    "Duration": 8.02,
+    "Cost": 720.5
+  },
+  {
+    "TrainID": "G2963",
+    "TrainType": "高铁",
+    "From": "成都东站",
+    "To": "深圳北站",
+    "BeginTime": "10:41",
+    "EndTime": "18:36",
+    "Duration": 7.92,
+    "Cost": 734.5
+  },
+  {
+    "TrainID": "G3711",
+    "TrainType": "高铁",
+    "From": "成都东站",
+    "To": "深圳北站",
+    "BeginTime": "07:10",
+    "EndTime": "15:23",
+    "Duration": 8.22,
+    "Cost": 720.5
+  },
+  {
+    "TrainID": "G2941",
+    "TrainType": "高铁",
+    "From": "成都东站",
+    "To": "深圳北站",
+    "BeginTime": "15:09",
+    "EndTime": "23:20",
+    "Duration": 8.18,
+    "Cost": 720.0
+  }
+]

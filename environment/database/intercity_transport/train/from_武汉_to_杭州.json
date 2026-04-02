@@ -1,0 +1,302 @@
+[
+  {
+    "TrainID": "D2198",
+    "TrainType": "动车",
+    "From": "武汉汉口站",
+    "To": "杭州东站",
+    "BeginTime": "06:43",
+    "EndTime": "11:12",
+    "Duration": 4.48,
+    "Cost": 295.0
+  },
+  {
+    "TrainID": "G1435",
+    "TrainType": "高铁",
+    "From": "武汉站",
+    "To": "杭州西站",
+    "BeginTime": "07:53",
+    "EndTime": "12:35",
+    "Duration": 4.7,
+    "Cost": 375.0
+  },
+  {
+    "TrainID": "G1521",
+    "TrainType": "高铁",
+    "From": "武汉站",
+    "To": "杭州西站",
+    "BeginTime": "09:09",
+    "EndTime": "14:00",
+    "Duration": 4.85,
+    "Cost": 375.0
+  },
+  {
+    "TrainID": "G584",
+    "TrainType": "高铁",
+    "From": "武汉站",
+    "To": "杭州东站",
+    "BeginTime": "09:10",
+    "EndTime": "13:31",
+    "Duration": 4.35,
+    "Cost": 344.0
+  },
+  {
+    "TrainID": "G2351",
+    "TrainType": "高铁",
+    "From": "武汉站",
+    "To": "杭州东站",
+    "BeginTime": "09:18",
+    "EndTime": "14:35",
+    "Duration": 5.28,
+    "Cost": 381.0
+  },
+  {
+    "TrainID": "D2190",
+    "TrainType": "动车",
+    "From": "武汉汉口站",
+    "To": "杭州西站",
+    "BeginTime": "09:36",
+    "EndTime": "14:26",
+    "Duration": 4.83,
+    "Cost": 300.0
+  },
+  {
+    "TrainID": "G1796",
+    "TrainType": "高铁",
+    "From": "武汉汉口站",
+    "To": "杭州东站",
+    "BeginTime": "10:04",
+    "EndTime": "14:31",
+    "Duration": 4.45,
+    "Cost": 343.0
+  },
+  {
+    "TrainID": "D2194",
+    "TrainType": "动车",
+    "From": "武汉汉口站",
+    "To": "杭州西站",
+    "BeginTime": "10:58",
+    "EndTime": "15:22",
+    "Duration": 4.4,
+    "Cost": 300.0
+  },
+  {
+    "TrainID": "K531",
+    "TrainType": "快速",
+    "From": "武汉武昌站",
+    "To": "杭州站",
+    "BeginTime": "11:02",
+    "EndTime": "21:47",
+    "Duration": 10.75,
+    "Cost": 112.0
+  },
+  {
+    "TrainID": "G592",
+    "TrainType": "高铁",
+    "From": "武汉汉口站",
+    "To": "杭州东站",
+    "BeginTime": "12:09",
+    "EndTime": "17:00",
+    "Duration": 4.85,
+    "Cost": 341.0
+  },
+  {
+    "TrainID": "G1792",
+    "TrainType": "高铁",
+    "From": "武汉站",
+    "To": "杭州东站",
+    "BeginTime": "12:10",
+    "EndTime": "16:07",
+    "Duration": 3.95,
+    "Cost": 344.0
+  },
+  {
+    "TrainID": "G1184",
+    "TrainType": "高铁",
+    "From": "武汉站",
+    "To": "杭州西站",
+    "BeginTime": "13:00",
+    "EndTime": "17:28",
+    "Duration": 4.47,
+    "Cost": 334.0
+  },
+  {
+    "TrainID": "G1445",
+    "TrainType": "高铁",
+    "From": "武汉站",
+    "To": "杭州西站",
+    "BeginTime": "13:30",
+    "EndTime": "18:37",
+    "Duration": 5.12,
+    "Cost": 363.0
+  },
+  {
+    "TrainID": "G1444",
+    "TrainType": "高铁",
+    "From": "武汉站",
+    "To": "杭州西站",
+    "BeginTime": "13:54",
+    "EndTime": "17:59",
+    "Duration": 4.08,
+    "Cost": 326.0
+  },
+  {
+    "TrainID": "D658",
+    "TrainType": "动车",
+    "From": "武汉汉口站",
+    "To": "杭州东站",
+    "BeginTime": "13:57",
+    "EndTime": "18:41",
+    "Duration": 4.73,
+    "Cost": 306.0
+  },
+  {
+    "TrainID": "G596",
+    "TrainType": "高铁",
+    "From": "武汉汉口站",
+    "To": "杭州西站",
+    "BeginTime": "14:08",
+    "EndTime": "18:21",
+    "Duration": 4.22,
+    "Cost": 328.0
+  },
+  {
+    "TrainID": "G3271",
+    "TrainType": "高铁",
+    "From": "武汉站",
+    "To": "杭州西站",
+    "BeginTime": "15:01",
+    "EndTime": "22:37",
+    "Duration": 7.6,
+    "Cost": 505.0
+  },
+  {
+    "TrainID": "D2248",
+    "TrainType": "动车",
+    "From": "武汉汉口站",
+    "To": "杭州东站",
+    "BeginTime": "15:20",
+    "EndTime": "19:53",
+    "Duration": 4.55,
+    "Cost": 295.0
+  },
+  {
+    "TrainID": "G1546",
+    "TrainType": "高铁",
+    "From": "武汉站",
+    "To": "杭州西站",
+    "BeginTime": "15:48",
+    "EndTime": "20:06",
+    "Duration": 4.3,
+    "Cost": 322.0
+  },
+  {
+    "TrainID": "D2224",
+    "TrainType": "动车",
+    "From": "武汉汉口站",
+    "To": "杭州东站",
+    "BeginTime": "16:38",
+    "EndTime": "21:36",
+    "Duration": 4.97,
+    "Cost": 295.0
+  },
+  {
+    "TrainID": "K353",
+    "TrainType": "快速",
+    "From": "武汉武昌站",
+    "To": "杭州南站",
+    "BeginTime": "17:09",
+    "EndTime": "05:24",
+    "Duration": 12.2,
+    "Cost": 128.5
+  },
+  {
+    "TrainID": "G3264",
+    "TrainType": "高铁",
+    "From": "武汉汉口站",
+    "To": "杭州西站",
+    "BeginTime": "18:56",
+    "EndTime": "23:14",
+    "Duration": 4.3,
+    "Cost": 315.0
+  },
+  {
+    "TrainID": "K121",
+    "TrainType": "快速",
+    "From": "武汉武昌站",
+    "To": "杭州南站",
+    "BeginTime": "19:05",
+    "EndTime": "07:26",
+    "Duration": 12.3,
+    "Cost": 128.5
+  },
+  {
+    "TrainID": "K1125",
+    "TrainType": "快速",
+    "From": "武汉武昌站",
+    "To": "杭州南站",
+    "BeginTime": "19:17",
+    "EndTime": "06:36",
+    "Duration": 11.3,
+    "Cost": 112.0
+  },
+  {
+    "TrainID": "D113",
+    "TrainType": "动车",
+    "From": "武汉武昌站",
+    "To": "杭州南站",
+    "BeginTime": "22:40",
+    "EndTime": "05:49",
+    "Duration": 7.2,
+    "Cost": 143.0
+  },
+  {
+    "TrainID": "G3244",
+    "TrainType": "高铁",
+    "From": "武汉汉口站",
+    "To": "杭州东站",
+    "BeginTime": "12:26",
+    "EndTime": "17:22",
+    "Duration": 4.93,
+    "Cost": 326.0
+  },
+  {
+    "TrainID": "G584",
+    "TrainType": "高铁",
+    "From": "武汉站",
+    "To": "杭州东站",
+    "BeginTime": "09:10",
+    "EndTime": "14:01",
+    "Duration": 4.85,
+    "Cost": 337.0
+  },
+  {
+    "TrainID": "D2274",
+    "TrainType": "动车",
+    "From": "武汉汉口站",
+    "To": "杭州东站",
+    "BeginTime": "15:04",
+    "EndTime": "19:53",
+    "Duration": 4.82,
+    "Cost": 295.0
+  },
+  {
+    "TrainID": "G1792",
+    "TrainType": "高铁",
+    "From": "武汉站",
+    "To": "杭州东站",
+    "BeginTime": "12:10",
+    "EndTime": "17:22",
+    "Duration": 5.2,
+    "Cost": 337.0
+  },
+  {
+    "TrainID": "G1184",
+    "TrainType": "高铁",
+    "From": "武汉站",
+    "To": "杭州东站",
+    "BeginTime": "13:00",
+    "EndTime": "18:17",
+    "Duration": 5.28,
+    "Cost": 335.0
+  }
+]

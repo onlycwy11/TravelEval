@@ -1,0 +1,652 @@
+[
+  {
+    "TrainID": "D3076",
+    "TrainType": "动车",
+    "From": "苏州张家港站",
+    "To": "武汉汉口站",
+    "BeginTime": "06:31",
+    "EndTime": "11:10",
+    "Duration": 4.65,
+    "Cost": 286.0
+  },
+  {
+    "TrainID": "G3124",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "武汉站",
+    "BeginTime": "06:40",
+    "EndTime": "12:35",
+    "Duration": 5.92,
+    "Cost": 378.0
+  },
+  {
+    "TrainID": "G8353",
+    "TrainType": "高铁",
+    "From": "苏州盛泽站",
+    "To": "武汉武昌站",
+    "BeginTime": "13:21",
+    "EndTime": "06:10",
+    "Duration": 16.49,
+    "Cost": 234.0
+  },
+  {
+    "TrainID": "D352",
+    "TrainType": "动车",
+    "From": "苏州站",
+    "To": "武汉汉口站",
+    "BeginTime": "06:48",
+    "EndTime": "11:21",
+    "Duration": 4.55,
+    "Cost": 284.0
+  },
+  {
+    "TrainID": "D2206",
+    "TrainType": "动车",
+    "From": "苏州张家港站",
+    "To": "武汉汉口站",
+    "BeginTime": "06:55",
+    "EndTime": "12:11",
+    "Duration": 5.27,
+    "Cost": 306.0
+  },
+  {
+    "TrainID": "D636",
+    "TrainType": "动车",
+    "From": "苏州新区站",
+    "To": "武汉汉口站",
+    "BeginTime": "07:09",
+    "EndTime": "11:49",
+    "Duration": 4.67,
+    "Cost": 280.0
+  },
+  {
+    "TrainID": "G1772",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "武汉站",
+    "BeginTime": "07:11",
+    "EndTime": "11:23",
+    "Duration": 4.2,
+    "Cost": 304.0
+  },
+  {
+    "TrainID": "G1540",
+    "TrainType": "高铁",
+    "From": "苏州张家港站",
+    "To": "武汉站",
+    "BeginTime": "07:40",
+    "EndTime": "11:49",
+    "Duration": 4.15,
+    "Cost": 307.0
+  },
+  {
+    "TrainID": "G3272",
+    "TrainType": "高铁",
+    "From": "苏州盛泽站",
+    "To": "武汉站",
+    "BeginTime": "07:45",
+    "EndTime": "14:31",
+    "Duration": 6.77,
+    "Cost": 462.0
+  },
+  {
+    "TrainID": "D3056",
+    "TrainType": "动车",
+    "From": "苏州园区站",
+    "To": "武汉汉口站",
+    "BeginTime": "07:57",
+    "EndTime": "12:26",
+    "Duration": 4.48,
+    "Cost": 288.0
+  },
+  {
+    "TrainID": "D3056",
+    "TrainType": "动车",
+    "From": "苏州站",
+    "To": "武汉汉口站",
+    "BeginTime": "08:06",
+    "EndTime": "12:26",
+    "Duration": 4.33,
+    "Cost": 284.0
+  },
+  {
+    "TrainID": "D2216",
+    "TrainType": "动车",
+    "From": "苏州太仓站",
+    "To": "武汉站",
+    "BeginTime": "08:08",
+    "EndTime": "14:41",
+    "Duration": 6.55,
+    "Cost": 356.0
+  },
+  {
+    "TrainID": "D2216",
+    "TrainType": "动车",
+    "From": "苏州太仓站",
+    "To": "武汉汉口站",
+    "BeginTime": "08:08",
+    "EndTime": "15:10",
+    "Duration": 7.03,
+    "Cost": 369.0
+  },
+  {
+    "TrainID": "D2212",
+    "TrainType": "动车",
+    "From": "苏州站",
+    "To": "武汉汉口站",
+    "BeginTime": "08:22",
+    "EndTime": "13:13",
+    "Duration": 4.85,
+    "Cost": 284.0
+  },
+  {
+    "TrainID": "D2216",
+    "TrainType": "动车",
+    "From": "苏州常熟站",
+    "To": "武汉站",
+    "BeginTime": "08:26",
+    "EndTime": "14:41",
+    "Duration": 6.25,
+    "Cost": 337.0
+  },
+  {
+    "TrainID": "D2216",
+    "TrainType": "动车",
+    "From": "苏州常熟站",
+    "To": "武汉汉口站",
+    "BeginTime": "08:26",
+    "EndTime": "15:10",
+    "Duration": 6.73,
+    "Cost": 350.0
+  },
+  {
+    "TrainID": "D2268",
+    "TrainType": "动车",
+    "From": "苏州太仓站",
+    "To": "武汉汉口站",
+    "BeginTime": "08:28",
+    "EndTime": "14:35",
+    "Duration": 6.12,
+    "Cost": 337.0
+  },
+  {
+    "TrainID": "D2212",
+    "TrainType": "动车",
+    "From": "苏州新区站",
+    "To": "武汉汉口站",
+    "BeginTime": "08:34",
+    "EndTime": "13:13",
+    "Duration": 4.65,
+    "Cost": 280.0
+  },
+  {
+    "TrainID": "D2268",
+    "TrainType": "动车",
+    "From": "苏州常熟站",
+    "To": "武汉汉口站",
+    "BeginTime": "08:49",
+    "EndTime": "14:35",
+    "Duration": 5.77,
+    "Cost": 317.0
+  },
+  {
+    "TrainID": "G586",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "武汉站",
+    "BeginTime": "08:51",
+    "EndTime": "13:23",
+    "Duration": 4.53,
+    "Cost": 309.0
+  },
+  {
+    "TrainID": "D2268",
+    "TrainType": "动车",
+    "From": "苏州张家港站",
+    "To": "武汉汉口站",
+    "BeginTime": "09:01",
+    "EndTime": "14:35",
+    "Duration": 5.57,
+    "Cost": 310.0
+  },
+  {
+    "TrainID": "G676",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "武汉汉口站",
+    "BeginTime": "09:03",
+    "EndTime": "13:43",
+    "Duration": 4.67,
+    "Cost": 307.0
+  },
+  {
+    "TrainID": "G3272",
+    "TrainType": "高铁",
+    "From": "苏州常熟站",
+    "To": "武汉站",
+    "BeginTime": "09:20",
+    "EndTime": "14:31",
+    "Duration": 5.18,
+    "Cost": 372.0
+  },
+  {
+    "TrainID": "D3068",
+    "TrainType": "动车",
+    "From": "苏州盛泽站",
+    "To": "武汉汉口站",
+    "BeginTime": "09:26",
+    "EndTime": "15:30",
+    "Duration": 6.07,
+    "Cost": 355.0
+  },
+  {
+    "TrainID": "D3090",
+    "TrainType": "动车",
+    "From": "苏州常熟站",
+    "To": "武汉站",
+    "BeginTime": "09:46",
+    "EndTime": "15:16",
+    "Duration": 5.5,
+    "Cost": 337.0
+  },
+  {
+    "TrainID": "D3064",
+    "TrainType": "动车",
+    "From": "苏州太仓站",
+    "To": "武汉汉口站",
+    "BeginTime": "09:52",
+    "EndTime": "16:11",
+    "Duration": 6.32,
+    "Cost": 337.0
+  },
+  {
+    "TrainID": "D3090",
+    "TrainType": "动车",
+    "From": "苏州张家港站",
+    "To": "武汉站",
+    "BeginTime": "09:57",
+    "EndTime": "15:16",
+    "Duration": 5.32,
+    "Cost": 330.0
+  },
+  {
+    "TrainID": "D956",
+    "TrainType": "动车",
+    "From": "苏州站",
+    "To": "武汉汉口站",
+    "BeginTime": "10:00",
+    "EndTime": "14:07",
+    "Duration": 4.12,
+    "Cost": 284.0
+  },
+  {
+    "TrainID": "D3064",
+    "TrainType": "动车",
+    "From": "苏州常熟站",
+    "To": "武汉汉口站",
+    "BeginTime": "10:13",
+    "EndTime": "16:11",
+    "Duration": 5.97,
+    "Cost": 317.0
+  },
+  {
+    "TrainID": "D3060",
+    "TrainType": "动车",
+    "From": "苏州站",
+    "To": "武汉汉口站",
+    "BeginTime": "10:22",
+    "EndTime": "15:05",
+    "Duration": 4.72,
+    "Cost": 284.0
+  },
+  {
+    "TrainID": "D3068",
+    "TrainType": "动车",
+    "From": "苏州站",
+    "To": "武汉汉口站",
+    "BeginTime": "10:44",
+    "EndTime": "15:30",
+    "Duration": 4.77,
+    "Cost": 284.0
+  },
+  {
+    "TrainID": "G1426",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "武汉站",
+    "BeginTime": "11:24",
+    "EndTime": "15:16",
+    "Duration": 3.87,
+    "Cost": 308.0
+  },
+  {
+    "TrainID": "G1724",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "武汉汉口站",
+    "BeginTime": "12:05",
+    "EndTime": "15:46",
+    "Duration": 3.68,
+    "Cost": 318.0
+  },
+  {
+    "TrainID": "G1716",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "武汉汉口站",
+    "BeginTime": "12:27",
+    "EndTime": "17:00",
+    "Duration": 4.55,
+    "Cost": 303.0
+  },
+  {
+    "TrainID": "D2496",
+    "TrainType": "动车",
+    "From": "苏州张家港站",
+    "To": "武汉汉口站",
+    "BeginTime": "13:03",
+    "EndTime": "17:44",
+    "Duration": 4.68,
+    "Cost": 296.0
+  },
+  {
+    "TrainID": "D3026",
+    "TrainType": "动车",
+    "From": "苏州园区站",
+    "To": "武汉汉口站",
+    "BeginTime": "13:54",
+    "EndTime": "18:54",
+    "Duration": 5.0,
+    "Cost": 288.0
+  },
+  {
+    "TrainID": "D3026",
+    "TrainType": "动车",
+    "From": "苏州站",
+    "To": "武汉汉口站",
+    "BeginTime": "14:03",
+    "EndTime": "18:54",
+    "Duration": 4.85,
+    "Cost": 284.0
+  },
+  {
+    "TrainID": "G3263",
+    "TrainType": "高铁",
+    "From": "苏州南站",
+    "To": "武汉汉口站",
+    "BeginTime": "14:12",
+    "EndTime": "18:21",
+    "Duration": 4.15,
+    "Cost": 344.0
+  },
+  {
+    "TrainID": "G1744",
+    "TrainType": "高铁",
+    "From": "苏州张家港站",
+    "To": "武汉站",
+    "BeginTime": "14:19",
+    "EndTime": "18:28",
+    "Duration": 4.15,
+    "Cost": 309.0
+  },
+  {
+    "TrainID": "G3120",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "武汉站",
+    "BeginTime": "14:23",
+    "EndTime": "20:00",
+    "Duration": 5.62,
+    "Cost": 381.0
+  },
+  {
+    "TrainID": "D3006",
+    "TrainType": "动车",
+    "From": "苏州站",
+    "To": "武汉汉口站",
+    "BeginTime": "14:33",
+    "EndTime": "19:17",
+    "Duration": 4.73,
+    "Cost": 284.0
+  },
+  {
+    "TrainID": "G1437",
+    "TrainType": "高铁",
+    "From": "苏州盛泽站",
+    "To": "武汉站",
+    "BeginTime": "14:56",
+    "EndTime": "20:47",
+    "Duration": 5.85,
+    "Cost": 438.0
+  },
+  {
+    "TrainID": "D3010",
+    "TrainType": "动车",
+    "From": "苏州站",
+    "To": "武汉汉口站",
+    "BeginTime": "15:17",
+    "EndTime": "19:55",
+    "Duration": 4.63,
+    "Cost": 284.0
+  },
+  {
+    "TrainID": "G2384",
+    "TrainType": "高铁",
+    "From": "苏州常熟站",
+    "To": "武汉站",
+    "BeginTime": "15:40",
+    "EndTime": "20:24",
+    "Duration": 4.73,
+    "Cost": 372.0
+  },
+  {
+    "TrainID": "G2384",
+    "TrainType": "高铁",
+    "From": "苏州常熟站",
+    "To": "武汉汉口站",
+    "BeginTime": "15:40",
+    "EndTime": "20:48",
+    "Duration": 5.13,
+    "Cost": 385.0
+  },
+  {
+    "TrainID": "G1776",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "武汉站",
+    "BeginTime": "15:48",
+    "EndTime": "19:38",
+    "Duration": 3.83,
+    "Cost": 308.0
+  },
+  {
+    "TrainID": "D3032",
+    "TrainType": "动车",
+    "From": "苏州站",
+    "To": "武汉汉口站",
+    "BeginTime": "15:52",
+    "EndTime": "20:39",
+    "Duration": 4.78,
+    "Cost": 284.0
+  },
+  {
+    "TrainID": "G1768",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "武汉汉口站",
+    "BeginTime": "16:22",
+    "EndTime": "20:22",
+    "Duration": 4.0,
+    "Cost": 299.0
+  },
+  {
+    "TrainID": "G1523",
+    "TrainType": "高铁",
+    "From": "苏州南站",
+    "To": "武汉站",
+    "BeginTime": "16:39",
+    "EndTime": "22:30",
+    "Duration": 5.85,
+    "Cost": 453.0
+  },
+  {
+    "TrainID": "D3046",
+    "TrainType": "动车",
+    "From": "苏州站",
+    "To": "武汉汉口站",
+    "BeginTime": "16:43",
+    "EndTime": "21:33",
+    "Duration": 4.83,
+    "Cost": 284.0
+  },
+  {
+    "TrainID": "G1782",
+    "TrainType": "高铁",
+    "From": "苏州太仓站",
+    "To": "武汉站",
+    "BeginTime": "17:12",
+    "EndTime": "22:02",
+    "Duration": 4.83,
+    "Cost": 327.0
+  },
+  {
+    "TrainID": "G2818",
+    "TrainType": "高铁",
+    "From": "苏州常熟站",
+    "To": "武汉站",
+    "BeginTime": "17:13",
+    "EndTime": "22:22",
+    "Duration": 5.15,
+    "Cost": 372.0
+  },
+  {
+    "TrainID": "G2410",
+    "TrainType": "高铁",
+    "From": "苏州站",
+    "To": "武汉汉口站",
+    "BeginTime": "17:20",
+    "EndTime": "22:21",
+    "Duration": 5.02,
+    "Cost": 325.0
+  },
+  {
+    "TrainID": "G2818",
+    "TrainType": "高铁",
+    "From": "苏州张家港站",
+    "To": "武汉站",
+    "BeginTime": "17:24",
+    "EndTime": "22:22",
+    "Duration": 4.97,
+    "Cost": 365.0
+  },
+  {
+    "TrainID": "G1782",
+    "TrainType": "高铁",
+    "From": "苏州常熟站",
+    "To": "武汉站",
+    "BeginTime": "17:31",
+    "EndTime": "22:02",
+    "Duration": 4.52,
+    "Cost": 306.0
+  },
+  {
+    "TrainID": "G2410",
+    "TrainType": "高铁",
+    "From": "苏州新区站",
+    "To": "武汉汉口站",
+    "BeginTime": "17:39",
+    "EndTime": "22:21",
+    "Duration": 4.7,
+    "Cost": 319.0
+  },
+  {
+    "TrainID": "G2422",
+    "TrainType": "高铁",
+    "From": "苏州太仓站",
+    "To": "武汉站",
+    "BeginTime": "18:12",
+    "EndTime": "23:48",
+    "Duration": 5.6,
+    "Cost": 408.0
+  },
+  {
+    "TrainID": "D3014",
+    "TrainType": "动车",
+    "From": "苏州站",
+    "To": "武汉汉口站",
+    "BeginTime": "18:22",
+    "EndTime": "23:00",
+    "Duration": 4.63,
+    "Cost": 284.0
+  },
+  {
+    "TrainID": "G2422",
+    "TrainType": "高铁",
+    "From": "苏州张家港站",
+    "To": "武汉站",
+    "BeginTime": "18:35",
+    "EndTime": "23:48",
+    "Duration": 5.22,
+    "Cost": 376.0
+  },
+  {
+    "TrainID": "G3247",
+    "TrainType": "高铁",
+    "From": "苏州盛泽站",
+    "To": "武汉汉口站",
+    "BeginTime": "18:45",
+    "EndTime": "23:10",
+    "Duration": 4.42,
+    "Cost": 323.0
+  },
+  {
+    "TrainID": "C3652",
+    "TrainType": "城际",
+    "From": "苏州张家港站",
+    "To": "武汉汉口站",
+    "BeginTime": "10:22",
+    "EndTime": "15:05",
+    "Duration": 4.72,
+    "Cost": 293.0
+  },
+  {
+    "TrainID": "D2212",
+    "TrainType": "动车",
+    "From": "苏州新区站",
+    "To": "武汉汉口站",
+    "BeginTime": "08:34",
+    "EndTime": "12:55",
+    "Duration": 4.35,
+    "Cost": 281.0
+  },
+  {
+    "TrainID": "G124",
+    "TrainType": "高铁",
+    "From": "苏州北站",
+    "To": "武汉站",
+    "BeginTime": "11:09",
+    "EndTime": "15:16",
+    "Duration": 4.12,
+    "Cost": 491.0
+  },
+  {
+    "TrainID": "D2928",
+    "TrainType": "动车",
+    "From": "苏州园区站",
+    "To": "武汉汉口站",
+    "BeginTime": "07:33",
+    "EndTime": "12:26",
+    "Duration": 4.88,
+    "Cost": 448.0
+  },
+  {
+    "TrainID": "D3056",
+    "TrainType": "动车",
+    "From": "苏州园区站",
+    "To": "武汉汉口站",
+    "BeginTime": "07:57",
+    "EndTime": "12:55",
+    "Duration": 4.97,
+    "Cost": 288.0
+  }
+]

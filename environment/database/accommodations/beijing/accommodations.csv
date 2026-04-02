@@ -1,0 +1,512 @@
+﻿id,name,hotelname_en,featurehoteltype,lat,lon,single_room_price,single_room_stock,king_room_price,king_room_stock,double_bed_price,double_bed_stock,family_room_price,family_room_stock
+0,北京天安门王府井漫心酒店,Beijing Tiananmenwangfujing Manxin Hotel,机器人服务,39.915718,116.408128,579,1,655,2,689,1,875,2
+1,北京京都信苑饭店,Beijing Xinyuan Hotel,泳池,39.898089,116.31215,535,0,605,0,637,0,809,2
+2,北京北投台湖演艺酒店,Beijing Beitou Taihu Performing Arts Hotel,免费停车,39.830898,116.62203,622,0,703,2,740,4,940,2
+3,桔子水晶北京王府井大街酒店,Crystal Orange Beijing Wangfujing Street Hotel,机器人服务,39.91525,116.410422,570,1,645,2,679,1,862,1
+4,赛特饭店,Scitech Hotel,泳池,39.906667,116.441675,570,1,644,0,678,1,861,1
+5,嘉年华酒店(北京亦庄经济开发区店),Carnival Hotel (Beijing Yizhuang Economic Development Zone),亲子主题房,39.807812,116.52796,281,0,318,0,335,0,425,3
+6,北京大兴国际机场木棉花酒店,Mumian Beijing Daxing International Airport,泳池,39.516491,116.415634,612,1,693,2,729,1,926,0
+7,北京龙熙维景国际会议中心,Grand Metropark Longxi Conference Center Beijing,温泉,39.624784,116.302285,537,1,607,1,639,1,812,1
+8,北京三元桥CitiGO欢阁酒店,CitiGO Hotel Sanyuanqiao Beijing,机器人服务,39.961257,116.454867,500,1,565,2,595,2,756,0
+9,桔子水晶北京国贸合生汇酒店,Crystal Orange Beijing International Trade Heshenghui Hotel,机器人服务,39.894652,116.47704,439,1,497,3,523,3,664,0
+10,北京德胜门华宇假日酒店,Holiday Inn Beijing Deshengmen,健身室,39.957588,116.378635,603,0,682,0,718,1,912,0
+11,北京中航泊悦酒店,Boyue Beijing Hotel,桑拿,39.95719,116.463577,578,1,654,0,688,1,874,0
+12,北京三元桥亚朵X酒店,Beijing Sanyuanqiao Atour X Hotel,免费停车,39.953753,116.451347,612,3,692,2,728,2,925,0
+13,北京天坛漫心酒店,Beijing Tiantan Manxin Hotel,免费停车,39.876257,116.421599,528,3,597,1,628,1,798,1
+14,北京广安门维景国际大酒店,Guanganmen Grand Metropark Hotel Beijing,免费停车,39.888884,116.354755,613,0,694,0,730,1,927,0
+15,秋果酒店智选(北京朝阳高铁站东坝中路店),Qiuguo Hotel Smart Choice (Beijing Chaoyang High-speed Railway Station Dongba Middle Road),家庭房,39.949285,116.55619,318,0,360,2,379,0,481,2
+16,秋果酒店(北京复兴门中央音乐学院店),TRUE GO HOTEL Fuxingmen Central Conservatory of Music Store,免费停车,39.898434,116.347467,444,0,503,1,529,0,672,2
+17,北京亦庄智选假日酒店,Holiday Inn Express (Beijing Yizhuang),免费停车,39.788721,116.513926,518,0,586,0,617,0,784,1
+18,桔子水晶北京南站木樨园酒店,Crystal  Orange Beijing South Railway Station Muxiyuan Hotel,免费停车,39.855894,116.406984,434,1,491,1,517,3,657,1
+19,北京三里屯国安亚朵S酒店,Beijing Sanlitun Guo'an Atour S Hotel,免费停车,39.922442,116.453113,590,0,667,1,702,2,892,0
+20,朗丽兹酒店(稻香湖路地铁站中关村环保园店),Lang Liz Hotel (Daoxianghu Road Subway Station Zhongguancun Environmental Protection Park),停车场,40.06545,116.179739,438,0,496,1,522,0,663,0
+21,桔子水晶北京安贞酒店,Crystal Orange Beijing Anzhen Hotel,免费停车,39.968572,116.412118,540,0,611,2,643,2,817,2
+22,秋果S酒店·1924(北京五棵松解放军301总医院店),Qiuguo S Hotel·1924 (Beijing Wukesong PLA 301 General Hospital),免费停车,39.905825,116.270873,419,1,474,0,499,1,634,0
+23,北京朝阳路大悦城亚朵酒店,"Atour Hotel (Joy City, Chaoyang Road, Beijing)",免费停车,39.919076,116.513535,553,3,625,0,658,1,836,4
+24,秋果酒店(北京学清路农业大学店),TRUE GO Hotel (Beijing Xueqing Road Agricultural University Branch),管家服务,40.010721,116.351104,444,0,502,1,528,1,671,2
+25,北京西站南广场亚朵酒店,Atour Hotel (Beijing West Railway Station South Square),免费停车,39.891613,116.322925,559,3,633,1,666,1,846,1
+26,桔子水晶北京天坛酒店,Crystal  Orange Beijing Temple of Heaven Hotel,管家服务,39.863727,116.413599,473,1,535,1,563,0,715,1
+27,北京新侨饭店,Beijing Xinqiao Hotel,机器人服务,39.901688,116.416884,487,4,551,0,580,1,737,2
+28,秋果酒店(北京三里屯工体店),Qiuguo Hotel (Beijing Sanlitun Gongti Branch),机器人服务,39.930665,116.456526,419,2,474,1,499,1,634,1
+29,北京丰大国际大酒店,Fengda International Hotel,泳池,39.795921,116.508729,477,2,540,2,568,3,721,1
+30,北京朝阳北路长楹天街亚朵酒店,"Atour Hotel, Changyingtian Street, Chaoyang North Road, Beijing",免费停车,39.921525,116.590835,508,3,575,3,605,1,768,0
+31,宝欐酒店(北京协和医院东单院区店),Bolly Wood Hotel,管家服务,39.916376,116.417544,573,1,648,0,682,0,866,1
+32,北京亦庄新城马驹桥亚朵酒店,"Atour Hotel (Majuqiao, Yizhuang Xincheng)",免费停车,39.733535,116.545619,457,3,517,1,544,0,691,1
+33,北京天安门广场CitiGO欢阁酒店,CitiGO Hotel Beijing Tian'anmen Square,拍照出片,39.892335,116.398476,488,0,552,2,581,0,738,1
+34,北京花乡天坛医院亚朵酒店,Atour Hotel Beiijng Huaxiang New Temple of Heaven,免费停车,39.835921,116.320016,457,1,517,1,544,2,691,0
+35,北京燕莎三元桥亚朵酒店,Atour Hotel (Beijing Yansha Sanyuanqiao),洗衣房,39.95433,116.461666,582,1,658,1,693,1,880,1
+36,北京总部基地亚朵酒店,Artour Hotel,机器人服务,39.826003,116.287827,516,0,583,0,614,1,780,1
+37,桔子水晶北京丽泽商务区天坛医院酒店,Crystal Orange Beijing Lize Business District Tiantan Hospital Hotel,免费停车,39.842202,116.327483,455,0,515,3,542,3,688,1
+38,北京银保建国酒店,Yinbao Jianguo Hotel,泳池,39.943367,116.184595,496,1,560,3,590,0,749,4
+39,北京后海鼓楼四合院漫心府,Beijing Houhai Gulou courtyard MANXIN Hotel,智能客控,39.947828,116.392893,685,1,774,2,815,0,1035,1
+40,北京临空皇冠假日酒店,Crowne Plaza Beijing International Airport,泳池,40.063836,116.556456,468,2,529,0,557,2,707,4
+41,北京福庭酒店,Livefortuna Hotel,免费停车,39.916277,116.438176,550,0,622,3,655,2,832,1
+42,北京南站右安门桥亚朵酒店,Atour Hotel Youanmenqiao Beijing South Railway Station,家庭房,39.869178,116.367299,590,2,667,0,702,0,892,2
+43,北京东方茂酒店(簋街北新桥地铁站店),Beijing Oriental Mao Hotel (Gujie Beixinqiao Subway Station),管家服务,39.941345,116.411923,611,0,691,2,727,0,923,3
+44,秋果酒店(北京望京科技园店),True Go Hotel (Beijing Wangjing Science Park store),免费停车,40.008296,116.477856,570,1,645,1,679,1,862,4
+45,北京北辰汇园酒店公寓(贵宾楼),North Star Huiyuan Apartment Hotel (VIP building),酒店公寓,39.992771,116.406112,496,3,560,1,590,1,749,0
+46,北京CBD国贸桥亚朵X酒店,Beijing CBD Guomao Bridge Yaduo X Hotel,免费停车,39.905022,116.466549,590,0,667,0,702,1,892,0
+47,建国铂萃酒店(北京环球度假区店),Jianguo baicui Hotel (Beijing Universal resort),免费停车,39.864021,116.666418,406,1,459,2,483,0,613,0
+48,THE HUMBLE 厚居酒店(北京国家会议中心鸟巢店),The Humble Hotel,免费停车,39.999064,116.411535,432,1,488,1,514,0,653,2
+49,北京国贸CBD亚朵S酒店xFunsCenter,Beijing International Trade CBD Yaduo s Hotel xfunscenter,机器人服务,39.915287,116.478263,494,0,559,1,588,0,747,1
+50,北京安贞地坛亚朵酒店,Atour Hotel Beijing Anzhenditan,管家服务,39.964259,116.40721,590,2,667,1,702,1,892,2
+51,北京朝阳公园亚朵酒店,Atour Hotel (Beijing Chaoyang Park),免费停车,39.921441,116.494674,627,2,709,3,746,0,947,2
+52,北京长白山国际酒店,Changbaishan International Hotel,茶室,39.984832,116.410305,423,0,478,2,503,1,639,3
+53,秋果酒店(北京西单金融街店),Qiuguo Hotel (Beijing Xidan Financial Street Fuwai Hospital),机器人服务,39.926261,116.37292,461,0,522,1,549,2,697,1
+54,北京东方安颐国际酒店,Orient-Anyi international Hotel,桑拿,39.809789,116.095907,631,2,713,0,751,0,954,2
+55,北京朝阳门亚朵酒店,Atour Hotel,免费停车,39.915889,116.436186,727,0,822,0,865,1,1099,0
+56,北京宝欐酒店(国贸SKP店),Beijing BoLLy Wood  Hotel (Guomao SKP Store),SPA,39.912758,116.477598,494,0,559,0,588,1,747,2
+57,北京中关村理工大学漫心酒店,"Manxin Hotel, Beijing Zhongguancun University of Technology",洗衣房,39.95675,116.316845,540,1,611,1,643,2,817,2
+58,北京和平里对外经贸大学亚朵酒店,Atour Hotel  Hepingli&University of International Business Beijing,免费停车,39.978811,116.424332,679,0,768,1,808,0,1026,0
+59,桔子水晶北京国贸建国门酒店,Crystal Orange Hotel (Beijing International Trade Jianguomen),免费停车,39.905472,116.448027,535,1,605,0,637,3,809,1
+60,隐卓酒店(团结湖店),Enjoy Hotel,免费停车,39.932867,116.462316,435,1,492,0,518,0,658,0
+61,北京天安门王府井美仑酒店,Madison Hotel Wangfujing Tiananmen Beijing,多功能厅,39.91138,116.408976,622,2,704,1,741,0,941,1
+62,原拓酒店(北京环球度假区店),Yuantuo Hotel (Beijing Global Resort),免费停车,39.883874,116.666369,386,1,436,0,459,0,583,0
+63,秋果酒店·景星(北京协和医院王府井店),Qiuguo Hotel Jingxing (Beijing Union Hospital Wangfujing Branch),机器人服务,39.916364,116.430557,417,0,472,1,497,1,631,0
+64,北京中关村美居酒店,Mercure Hotel,机器人服务,39.946814,116.323134,579,2,655,0,689,0,875,3
+65,北京天安门王府井合院漫心府,Beijing Tiananmen Wangfujing courtyard Manxin Hotel,管家服务,39.916838,116.415008,666,0,753,0,793,1,1007,2
+66,秋果酒店(北京望京SOHO店),Qiu Guo Hotel (Beijing Wangjing SOHO),免费停车,39.985759,116.47522,478,0,541,3,569,3,723,2
+67,北京亚运村国家会议中心亚朵酒店,Atour Hotel Yayuncun National Conference Center,免费停车,39.996743,116.418651,590,0,667,1,702,1,892,0
+68,北京安贞奥体中心美居酒店,Mercure Beijing Anzhen Olympic Center,免费停车,39.971976,116.408013,533,0,603,1,635,4,806,0
+69,北京国贸潘家园亚朵酒店,Beijing Guomao Panjiayuan Yaduo Hotel,机器人服务,39.876434,116.464919,494,2,559,0,588,3,747,0
+70,秋果酒店(北京三元桥燕莎店),Qiu Guo Hotel (Beijing Sanyuanqiao Yansha),免费停车,39.958167,116.462072,445,2,504,3,530,1,673,2
+71,北京首都宾馆,Capital Hotel,多功能厅,39.901789,116.409261,637,0,720,1,758,3,963,0
+72,北京太阳花酒店(北京环球影城度假区店),Beijing Sunflower Hotel (Beijing Universal Studios Resort),免费停车,39.889146,116.653591,502,2,568,1,598,2,759,2
+73,北京大方瑞廷西郊酒店,Grand Kingtown Hotel Beijing,机器人服务,39.892895,116.32466,473,0,535,3,563,0,715,2
+74,和颐至尚酒店(北京国贸建国门店),Yitel Hotel,智能客控,39.907027,116.444095,437,0,494,0,520,2,660,0
+75,北京通州环球度假区美居酒店,Mercure Beijing Tongzhou Global Resort,免费停车,39.875104,116.662328,526,3,595,1,626,1,795,3
+76,北京豪庭国际酒店(朝阳大悦城青年路地铁站店),Beijing Grand Court International Hotel (Chaoyang Dayue City Qingnian Road subway station),免费停车,39.924788,116.521221,468,1,529,1,557,1,707,0
+77,北京中关村苏州街漫心酒店,Beijing Zhongguancun Suzhou Street Manxin Hotel,免费停车,39.96483,116.308812,550,3,622,1,655,0,832,2
+78,桔子水晶北京朝阳公园酒店,Crystal Orange Beijing Chaoyang Park Hotel,机器人服务,39.923541,116.494124,432,1,488,3,514,0,653,2
+79,桔子水晶北京酒仙桥酒店,Crystal Orange Beijing JiuXianQiao Hotel,免费停车,39.975931,116.489265,491,2,556,2,585,2,743,1
+80,北京石景山游乐园希尔顿欢朋酒店,Hampton by Hilton Beijing Shijingshan Amusemen Park,免费停车,39.920374,116.206177,449,1,508,2,535,0,679,1
+81,北京右安门西铁营地铁站亚朵酒店,Beijing You 'anmen West Railway Camp Station Atour Hotel,机器人服务,39.85809,116.354324,590,2,667,2,702,1,892,0
+82,秋果酒店(北京五棵松301解放军总医院店),Qiuguo Hotel (Beijing Wukesong 301 PLA General Hospital),免费停车,39.905771,116.271441,419,2,474,0,499,0,634,0
+83,北京临空新国展亚朵酒店,Atour Hotel (Beijing Linkong New National Exhibition Center),免费停车,40.107267,116.558807,442,0,500,2,526,0,668,2
+84,北京西站六里桥亚朵酒店,"Atour Hotel, Liuliqiao, Beijing West Railway Station",机器人服务,39.8826,116.312233,501,0,566,1,596,0,757,1
+85,北京天坛东门亚朵酒店,Yaduo Hotel  east gate of Tiantan Beijing,免费停车,39.887117,116.426159,553,2,625,2,658,1,836,1
+86,北京首都机场新国展亚朵酒店,Atour Hotel Beijing Capital Airport New National Exhibition,智能客控,40.060581,116.574869,479,2,542,1,570,1,724,0
+87,北京大兴国际机场亚朵S酒店,Atour S Hotel Beijing Daxing International Airport,免费停车,39.525811,116.411649,471,1,533,5,561,0,712,2
+88,北京建国门漫心酒店,Beijing Jianguomen Manxin Hotel,洗衣房,39.9164,116.436376,499,3,564,2,594,1,754,2
+89,桔子水晶北京朝阳门酒店,Crystal Orange Hotel Beijing Chaoyangmen,机器人服务,39.918166,116.443409,478,0,541,2,569,0,723,0
+90,北京上地智选假日酒店,Holiday Inn Express Shangdi Beijing,免费停车,40.03672,116.314615,515,0,582,2,613,0,779,0
+91,北京北七家温都水城漫心酒店,Beijing Beiqijia Wendu Shuicheng Manxin Hotel,免费停车,40.098793,116.366714,391,0,443,0,466,0,592,2
+92,京玺酒店(北京国贸劲松店),RIGHT HOTEL  BEIJING GUOMAO JINSONG,影音房,39.880396,116.455755,461,1,522,0,549,0,697,1
+93,城市有爱酒店(北京南站西铁营地铁站店),City Love Hotel (Beijing South Railway Station Capital Medical University Hotel),免费停车,39.858424,116.35609,444,1,503,2,529,1,672,3
+94,北京奥体中心鸟巢亚朵酒店,Atour Hotel (Beijing Olympic Sports Center),机器人服务,39.985751,116.412403,609,2,689,0,725,1,921,2
+95,北京望京798亚朵X酒店,"Yaduo X Hotel 798 Wangjing, Beijing",智能客控,39.976856,116.489383,503,0,569,1,599,0,761,0
+96,时光赞歌花园酒店(北京大兴旺兴湖公园店),A Memory Hotel (Beijing Daxing District Wangxinghu Park),充电桩,39.814119,116.432015,450,0,509,2,536,2,681,2
+97,北京南锣鼓巷亚朵酒店,Atour Hotel (Beijing South Luogu Lane),免费停车,39.931337,116.411391,612,1,692,2,728,0,925,0
+98,北京饭店,Beijing Hotel,设计师酒店,39.909061,116.410145,719,2,813,0,856,2,1087,2
+99,桔子水晶北京西站南广场酒店,Crystal Orange  Beijing West Railway Station South Plaza Hotel,免费停车,39.888495,116.317466,500,2,565,1,595,3,756,0
+100,北京西直门漫心酒店,Beijing Xizhimen Manxin Hotel,机器人服务,39.950841,116.358914,548,0,619,4,652,3,828,1
+101,桔子水晶北京南站酒店,Crystal Orange Hotel(South of Beijing Railway Station ),机器人服务,39.877749,116.360549,509,1,576,1,606,1,770,5
+102,秋果酒店(北京建国门首都儿研所店),Qiuguo Hotel (Beijing Jianguomen Capital Children's Research Institute),免费停车,39.916734,116.437504,425,3,481,0,506,1,643,1
+103,北京友谊宾馆,Friendship Hotel,会议厅,39.964085,116.321102,578,2,654,0,688,0,874,0
+104,花筑奢·北京怀柔兰亭温泉度假酒店(慕田峪长城店),Floral Lux Hotel·Lanting Hot Spring Resort(Mutianyu Great Wall shops),免费停车,40.416326,116.543574,522,0,590,2,621,2,789,2
+105,秋果S1918庭院式酒店(北京天安门店),TEUE GO S1918 Courtyard style Hotel((Beijing Tananmen),免费停车,39.883818,116.395022,461,2,522,4,549,2,697,0
+106,桔子水晶北京丽泽商务区中心酒店,Crystal Orange  Beijing Lize Business District Central Hotel,免费停车,39.874498,116.326943,491,0,556,2,585,0,743,0
+107,北京天安门逸扉酒店,UrCove by HYATT Beijing Forbidden City,管家服务,39.910304,116.407109,512,1,580,1,610,0,775,0
+108,北京顺义希尔顿惠庭酒店,HOME2 SUITES BY HILTON BEIJING SHUNYI,免费停车,40.126137,116.647518,425,0,481,1,506,4,643,1
+109,北京三里屯太古里CitiGO欢阁酒店,"CitiGO Hotel, Sanlitun, Beijing",机器人服务,39.937609,116.451027,470,0,531,2,559,0,710,0
+110,秋果酒店(北京东直门雍和宫簋街店),"Qiuguo Hotel (Beijing Yonghe Palace,Dongzhimen)",免费停车,39.947866,116.424865,461,0,522,1,549,0,697,1
+111,麗枫酒店(北京亚运村鸟巢国家会议中心店),"Lavande Hotel (Beijing Asian Sports Village,National Stadium,National Coference Center)",免费停车,39.99439,116.41779,426,5,482,0,507,0,644,3
+112,北京南站大观园漫心酒店,Beijing South Railway Station Grand View Garden Manxin Hotel,免费停车,39.873476,116.353708,470,0,532,0,560,0,711,1
+113,花韵丁香酒店(北京南站牛街店),Huayun Dingxiang Hotel (Beijing South Station Niujie Branch),管家服务,39.883767,116.371875,544,2,616,0,648,0,823,2
+114,北京长富宫饭店,Hotel New Otani Chang Fu Gong,桑拿,39.907484,116.437917,637,0,720,0,758,0,963,2
+115,北京首都机场亚朵酒店,Atour Hotel (Beijing Capital Airport),免费停车,40.045704,116.640637,501,0,566,1,596,0,757,1
+116,云郦酒店(北京南锣鼓巷簋街店),Yunli Hotel,四合院,39.94076,116.42088,427,2,483,2,508,1,645,3
+117,北京国贸劲松地铁站亚朵酒店,Atour Hotel Beiijng Guomao Jinsong Subway Station,免费停车,39.881257,116.45574,553,0,625,0,658,1,836,0
+118,北京黄花城水长城漫心府,Beijing Huanghuacheng Water Great Wall Manxin Mansion,泳池,40.409588,116.324866,441,0,499,2,525,1,667,0
+119,桔子水晶北京国贸商务区四惠酒店,Crystal Orange Beijing International Trade Business District Sihui Hotel,免费停车,39.909109,116.520382,407,0,460,0,484,0,615,1
+120,北京天伦松鹤大饭店,Sunworld Hotel,桑拿,39.918109,116.413292,556,0,629,0,662,1,841,0
+121,北京西直门展览馆轻居酒店,Beijing Xizhimen Exhibition Gallery Light Residence Hotel,机器人服务,39.933949,116.345834,479,1,542,1,570,0,724,3
+122,北京丽都维景酒店,"Metropark Lido Hotel, Beijing",泳池,39.977851,116.479214,536,0,606,2,638,1,810,0
+123,花筑·北京长城玖号院民宿,Floral Hotel·Beijing Great Wall No.9 house Homestay,日光浴场,40.432138,116.333461,537,2,607,2,639,4,812,0
+124,北京首钢秀池智选假日酒店,Beijing Shijingshan Lakeview Holiday Inn Express,机器人服务,39.917981,116.15205,572,0,647,1,681,1,865,1
+125,北京国泰饭店,Gotel Capital,免费停车,39.907031,116.448618,536,1,606,0,638,3,810,1
+126,北京望京华彩智选假日酒店,Holiday Inn Express (Beijing Wangjing Huacai),会议厅,40.01083,116.468375,518,0,586,2,617,0,784,1
+127,北京中关村五道口漫心酒店,Beijing Zhongguancun Wudaokou Manxin Hotel,管家服务,39.975281,116.345854,577,1,653,1,687,0,872,6
+128,北京贵州大厦,Guizhou Mansion,健身室,39.970099,116.418454,559,0,633,2,666,0,846,1
+129,北京天坛饭店,Tiantan Hotel,免费停车,39.884636,116.430539,407,2,460,0,484,2,615,2
+130,北京首钢工舍智选假日酒店,Holiday Inn Express (Beijing Shijingshan Parkview),免费停车,39.922595,116.155557,479,3,542,2,570,1,724,2
+131,北京西西友谊酒店,Xixi Youyi Hotel,免费停车,39.914351,116.373104,603,1,682,2,718,1,912,0
+132,北京五棵松漫心酒店,Beijing Wukesong MANXIN Hotel,机器人服务,39.920902,116.264949,470,0,532,0,560,1,711,2
+133,北京鼓楼亚朵酒店,Beijing Gulou Atour Hotel,免费停车,39.947365,116.401105,575,1,650,2,684,1,869,1
+134,北京长峰假日酒店,Holiday Inn Beijing ChangAn West,免费停车,39.908992,116.265188,514,2,581,1,612,2,777,0
+135,秋果酒店(北京三元桥使馆区店),True Go HOTEL(Embassy Of Sanyuanqiao),免费停车,39.958145,116.463702,416,0,470,0,495,2,629,0
+136,北京西站南路六里桥东亚朵酒店,Beijing West Station South Road Liuliqiao East Yaduo Hotel,家庭房,39.888184,116.320339,501,0,566,0,596,0,757,7
+137,朗丽兹酒店(北京首都机场新国展店),PALACE HOTELS(Beijing Capital Airport New International Exhibition Center),免费停车,40.107021,116.557576,494,1,559,1,588,1,747,0
+138,北京国展三元桥逸扉酒店,UrCove by HYATT Beijing International Exhibition Center,管家服务,39.965509,116.436644,618,0,699,4,736,3,935,1
+139,北京房山希尔顿欢朋酒店,Hampton by Hilton,健身室,39.720824,116.04478,389,0,440,2,463,1,588,2
+140,北京亚运村漫心酒店,Beijing Yayuncun Manxin Hotel,免费停车,39.989934,116.414478,548,1,619,5,652,2,828,0
+141,北京天坛左安门亚朵酒店,"Atour Hotel Zuo'anmen, Temple of Heaven",自营亲子房,39.883297,116.434703,516,1,583,0,614,0,780,4
+142,秋果酒店(北京朝阳门三里屯店),TRUE GO HOTEL,机器人服务,39.922063,116.445648,419,1,474,2,499,2,634,3
+143,北京贯通建徽酒店,Guantong Jianhui Hotel,充电桩,39.877243,116.347591,360,3,407,0,428,2,544,1
+144,北京西长安美居酒店,Mercure Beijing Changan West,管家服务,39.909826,116.285112,525,0,594,1,625,0,794,0
+145,北京望京科技园亚朵酒店,Atour Hotel ( Beijing Wangjing Science Park),免费停车,40.005056,116.474014,568,0,642,0,676,0,859,2
+146,北京中乐六星酒店,Zhongle Six Star Hotel,免费停车,39.86156,116.426593,494,1,559,0,588,0,747,1
+147,北京金奇树酒店(大兴义和庄地铁站店),Beijing Jinqishu Hotel (Daxing Yihezhuang Metro Station),免费停车,39.711634,116.31682,469,2,530,1,558,0,709,1
+148,桔子水晶北京总部基地酒店,Crystal Orange Beijing Headquarters Base Hotel,免费停车,39.823958,116.29068,540,0,611,2,643,2,817,2
+149,北京云瑧金陵莲花酒店,Yun-zen Jinling Lotus Hotel,充电桩,39.890512,116.319497,530,2,599,0,631,1,801,3
+150,北京雍和宫漫心酒店,Beijing Yonghegong Manxin Hotel,免费停车,39.953834,116.426148,548,0,619,0,652,2,828,2
+151,景里酒店(北京新国展首都机场店),Jingli Hotel (Beijing New National Exhibition Capital Airport),免费停车,40.093533,116.54369,386,1,436,0,459,2,583,1
+152,桔子水晶北京丰台火车站总部基地酒店,Orange Crystal Beijing Fengtai Railway Station Headquarters Base Hotel,家庭房,39.836785,116.296129,465,0,526,1,554,1,704,1
+153,北京雍和宫和平里亚朵X酒店,"Atour X Hotel , Hepingli，Yonghe Palace，Beijing",免费停车,39.96234,116.412684,538,2,608,1,640,0,813,5
+154,香柏艺术酒店(北京南锣鼓巷后海店),BaiYee Tree  art  hotel,自营亲子房,39.939639,116.405459,432,1,488,0,514,1,653,2
+155,墅苑酒店(北京南站店),Shuyuan Hotel,家庭房,39.854411,116.424243,433,0,490,0,516,0,655,1
+156,北京四季御园国际大酒店,Beijing Four Seasons Royal Garden International Hotel,免费停车,39.978909,116.241394,479,2,542,0,570,2,724,3
+157,北京亦庄通明湖智选假日酒店,Holiday Inn Express Beijing Tongminghu,免费停车,39.787649,116.577582,460,1,521,1,548,1,696,0
+158,金泰海博大酒店(北京海淀五路居地铁站店),Golden Harbor Hotel,免费停车,39.937566,116.274853,501,2,566,0,596,2,757,0
+159,桔子水晶北京南站洋桥酒店,Orange Crystal Hotel Beijing South Railway Station Yangqiao,影音房,39.852076,116.386188,460,2,521,3,548,1,696,2
+160,北京亦庄荣京西街亚朵酒店,Beijing Yizhuang Rongjingxijie Atour Hotel,免费停车,39.785928,116.502559,516,0,583,1,614,0,780,0
+161,蔚徕酒店(北京石景山万达广场八角游乐园地铁站店),Vyluk Hotel (Beijing Shijingshan Wanda Plaza Octagon Amusement Park Subway Station),家庭房,39.903601,116.215251,514,1,581,0,612,1,777,1
+162,山水S酒店(北京西站丽泽商务区店),Shanshui S Hotel (Beijing West Railway Station Lize Business District),免费停车,39.879479,116.327455,486,1,549,5,578,0,734,2
+163,北京慕田峪长城酒店,Mutianyu Great Wall Hotel,免费停车,40.433015,116.563758,554,2,627,0,660,2,838,3
+164,北京红旗渠京隆酒店(北京南站店),Beijing Hongqiqu Jinglong Hotel,免费停车,39.851834,116.386575,402,5,454,1,478,1,607,1
+165,希岸Deluxe酒店(北京中关村知春路地铁站店),Xi'an Deluxe Hotel (Beijing Zhongguancun Zhichun Road Subway Station Branch),免费停车,39.979104,116.33813,549,1,621,1,654,2,831,0
+166,北京中关村人民大学轻居酒店,Beijing Zhongguancun Renmin University Light Residence,免费停车,39.963616,116.327579,516,0,583,0,614,1,780,0
+167,北京海淀花园饭店,Garden Hotel,桑拿,39.977287,116.371504,463,1,523,1,551,6,700,0
+168,北京总部基地漫心酒店,Beijing Headquarters Base Manxin Hotel,免费停车,39.825497,116.292276,543,1,614,1,646,4,820,0
+169,桔子水晶北京上地中关村软件园酒店,Crystal Orange Beijing Shangdi Zhongguancun Software Park Hotel,免费停车,40.033985,116.31091,507,2,573,2,603,1,766,1
+170,北京唯实酒店(唯实国际文化交流中心),Vision Hotel (Vision International Cultural Exchange Center),泳池,39.978882,116.352879,705,2,797,1,839,3,1066,2
+171,北京和平里旅居酒店,Hepingli Traveler Inn,免费停车,39.957497,116.42587,422,2,477,1,502,0,638,4
+172,北京首都机场东海康得思酒店,"Cordis, Beijing Capital Airport",桑拿,40.048803,116.613327,638,0,722,3,760,2,965,2
+173,花筑·北京长城山之家壹号院民宿,Floral Hotel·Beijing Great Wall Mountain home One courtyard homestay,日光浴场,40.428949,116.333994,480,1,542,2,571,0,725,1
+174,花筑·北京长城山之家私汤贰号院民宿,Floral Hotel·Beijing Great Wall Mountain home private Tang No. 2 home hostel,免费停车,40.428892,116.333979,444,2,503,1,529,3,672,0
+175,北京世园凯悦嘉轩酒店,Hyatt Place Beijing Shiyuan,免费停车,40.443139,115.964302,419,0,474,0,499,0,634,1
+176,北京伯豪瑞廷酒店,Radegast Hotel Beijing Bohao,泳池,39.914193,116.471424,620,1,701,1,738,3,937,1
+177,花筑·桂庭俊舍(北京宽沟店),"Floral hotel·guitingjunshe, Beijing",免费停车,40.339281,116.558115,608,1,688,0,724,0,919,0
+178,春天映向空中花园酒店(北京天安门王府井店),Spring Yingxiang Sky Garden Hotel (Beijing Tiananmen Wangfujing Branch),管家服务,39.9186,116.425326,434,0,491,4,517,1,657,1
+179,北京民族园葉子里酒店,LeafIN Hotel Beijing Minzuyuan,多功能厅,39.978538,116.391316,503,0,569,3,599,2,761,3
+180,北京中关村学院桥地铁站亚朵酒店,Beijing Zhongguancun Xueyuanqiao Subway Station Yaduo Hotel,影音房,39.987147,116.350504,590,3,667,1,702,3,892,1
+181,北京亚太花园酒店(环球度假区梨园地铁站店),Beijing Asia Pacific Garden Hotel(Universal Studios  Resort  Liyuan Subway  Station Branch),免费停车,39.886759,116.671074,398,2,450,0,474,2,602,0
+182,北京橡树公馆,Oak Chateau Beijing,酒店公寓,39.95785,116.459177,570,1,645,1,679,3,862,2
+183,桔子水晶北京首都机场新国展酒店,Orange Crystal Beijing Capital Airport New International Exhibition Center Hotel,家庭房,40.044474,116.525427,427,0,483,1,508,0,645,4
+184,北京亮马河饭店,Landmark Towers Hotel,江河景房,39.945961,116.462746,570,1,644,1,678,1,861,4
+185,北京索菲特大酒店,Sofitel Beijing Central,网红泳池,39.906182,116.436882,923,0,1044,0,1099,1,1396,2
+186,朗丽兹酒店(北京中关村软件园农大店),PALACE HOTELS (Beijing Zhongguancun Software Park Nongda Shop),免费停车,40.033582,116.287296,475,2,537,1,565,3,718,1
+187,桔子水晶北京中关村人民大学酒店,Crystal Orange Beijing Zhongguancun People's University Hotel,机器人服务,39.964123,116.329124,555,1,628,2,661,1,839,0
+188,长城山下院子,Great Wall Hill Yard,家庭房,40.410906,116.313549,421,1,476,2,501,1,636,1
+189,北京南京大饭店,Nanjing Great Hotel,多功能厅,39.914538,116.408566,416,1,470,1,495,1,629,1
+190,北京临空假日酒店(首都机场新国展店),Holiday Inn Beijing Airport Zone,健身室,40.130797,116.615896,470,0,531,0,559,1,710,0
+191,北京大成路九号,No.9 Dacheng Road Hotel,免费停车,39.890656,116.269123,426,3,482,0,507,2,644,3
+192,北京贵都大酒店,Guidu Hotel Beijing,免费停车,39.889846,116.367505,606,1,686,0,722,2,917,1
+193,北京亦庄中芯智选假日酒店,Holiday Inn Express Beijing Yizhuang Center,免费停车,39.764714,116.508321,540,0,611,2,643,3,817,1
+194,朝阳宾馆,Chao Yang Hotel,免费停车,39.917097,116.46979,418,1,473,0,498,1,632,1
+195,北京光明饭店,Beijing Guangming Hotel,泳池,39.951412,116.469836,494,1,559,0,588,2,747,3
+196,北京金茂万丽酒店,Renaissance Beijing Wangfujing Hotel,桑拿,39.921186,116.410662,1289,1,1458,0,1535,4,1949,1
+197,北京柏悦酒店,Park Hyatt Beijing,桑拿,39.907477,116.459188,1893,0,2141,0,2254,1,2863,1
+198,北京东方君悦大酒店,Grand Hyatt Beijing,行政酒廊,39.909634,116.414622,1367,0,1546,3,1627,1,2066,0
+199,格兰云天·阅酒店(北京奥宇店),The skytel(Beijing Aoyu Hotel),免费停车,39.762289,116.351699,429,0,485,0,511,1,649,0
+200,北京三里屯通盈中心洲际酒店,InterContinental Beijing Sanlitun,桑拿,39.932918,116.45525,1621,0,1834,1,1930,0,2451,1
+201,朗丽兹酒店(中关村壹号永丰南地铁站店),Hotel ritz (Zhongguancun No.1 Yongfeng South Subway Station Branch),免费停车,40.068044,116.254651,501,2,567,0,597,0,758,0
+202,北京金隅八达岭皇冠假日酒店,Crowne Plaza Beijing Badaling,SPA,40.475597,115.973589,728,0,824,1,867,1,1101,2
+203,北京商都酒店,Shangdu Hotel,智能客控,39.869355,116.368067,472,2,534,0,562,1,714,1
+204,北京王府半岛酒店,The Peninsula Beijing,桑拿,39.915349,116.416428,2269,0,2566,0,2701,1,3430,0
+205,北京颐和安缦酒店,Aman Summer Palace,套房,39.999246,116.282762,4375,1,4948,0,5208,3,6614,2
+206,北京盛捷大兴酒店,Beijing Somerset Daxing Hotel,桑拿,39.77439,116.345965,533,0,603,3,635,1,806,1
+207,北京中国石化会议中心,Sinopec Conference Center,桑拿,40.243439,116.264308,487,0,551,0,580,3,737,0
+208,北京保利大厦酒店,Beijing Poly Plaza Hotel,泳池,39.934422,116.435541,596,1,674,2,710,3,902,0
+209,北京昌平逸扉酒店,UrCove by Hyatt Beijing Changping,家庭房,40.220589,116.242073,402,0,455,0,479,0,608,1
+210,北京励骏酒店,Legendale Hotel Beijing,泳池,39.91501,116.418934,926,2,1047,3,1102,0,1400,1
+211,宾安思丽都公寓(北京望京酒仙桥798丽都店),Bin An Si Lido Apartment (Beijing Wangjing Jiuxianqiao 798 Lidu),酒店公寓,39.978762,116.505418,524,3,593,0,624,4,792,1
+212,北京世纪金源大饭店,Empark Grand Hotel Beijing,泳池,39.952647,116.279358,823,1,931,0,980,0,1245,0
+213,桔子水晶北京崇文门酒店,Crystal Orange Beijing Chongwenmen Hotel,免费停车,39.894348,116.419351,563,3,636,1,670,3,851,0
+214,北京丽晶酒店,Regent Beijing,桑拿,39.916359,116.418801,1242,0,1404,0,1478,0,1877,1
+215,北京维景国际大酒店,Grand Metropark Hotel Beijing,泳池,39.9587,116.451501,1019,2,1152,0,1213,0,1541,1
+216,北京瑰丽酒店,Rosewood Beijing,桑拿,39.920376,116.460582,2375,1,2686,0,2827,0,3590,0
+217,北京前门建国饭店,Qianmen Jianguo Hotel,健身室,39.886655,116.385579,470,3,531,1,559,1,710,0
+218,北京璞瑄酒店,the Puxuan Hotel and Spa,管家服务,39.923984,116.410292,2214,0,2504,0,2636,2,3348,0
+219,北京中奥凯富国际酒店,Comfort Suites,健身室,40.004979,116.406967,567,3,641,2,675,1,857,0
+220,北京大学中关新园,Zhongguanyuan Global Village PKU,桑拿,39.989831,116.318956,444,0,502,1,528,3,671,0
+221,北京华尔道夫酒店,Waldorf Astoria Beijing,设计师酒店,39.916026,116.414069,2165,2,2448,2,2577,1,3273,1
+222,北京歌华开元大酒店,Gehua New Century Hotel Beijing,泳池,39.965069,116.393919,635,1,718,1,756,4,960,2
+223,雁柏山庄,Yanbai Villa,免费停车,40.407631,116.669822,4126,0,4666,4,4912,3,6238,1
+224,北京中关村科技园智选假日酒店,Holiday Inn Express Beijing Zhongguancun Tech Park,家庭房,40.021436,116.303733,578,1,654,1,688,1,874,3
+225,北京广播大厦酒店,Beijing Broadcasting Tower Hotel,多功能厅,39.907463,116.44319,536,0,606,1,638,2,810,0
+226,北京东方花园饭店,Oriental Garden Hotel,管家服务,39.938085,116.434902,561,3,635,1,668,0,848,1
+227,龙庆峡蒲里日记·冬至汤泉民宿,The diary of Puli in Longqing Gorge,温泉,40.530005,116.014896,433,1,490,0,516,1,655,3
+228,北京新世界中心同派酒店,Beijing New World Centre Tongpai Hotel,桌球室,39.899183,116.41735,529,2,598,0,630,0,800,1
+229,北京京通宾馆,beijing  jingtong Hotel,管家服务,39.901425,116.295777,582,0,658,0,693,0,880,1
+230,和颐酒店(北京中关村软件园店),Yitel (Beijing Zhongguancun Software Park),免费停车,40.044663,116.29607,435,0,492,0,518,2,658,0
+231,北京丽泽商务区原拓酒店,Y.TUO HOTEL(Beijing Lize FBD),免费停车,39.847044,116.334383,429,0,485,0,511,2,649,4
+232,北京泛太平洋酒店,Pan Pacific Beijing,SPA,39.911266,116.371515,1099,2,1243,1,1308,3,1661,2
+233,base佰舍服务式公寓(北京三里屯工体店),base-Sanlitun Serviced Apartment,管家服务,39.935201,116.445924,549,2,621,1,654,0,831,1
+234,北京君颐润华酒店,Junyi Runhua Hotel,棋牌室,39.85824,116.299478,525,0,594,4,625,1,794,1
+235,北京万达文华酒店,Beijing Wanda Vista Hotel,SPA,39.909278,116.4701,949,1,1074,0,1130,2,1435,1
+236,花筑·花蹊丽舍民宿(延庆景区店),Floral Hotel·Flower Inn Inn (Yanqing Scenic Area Branch),免费停车,40.409996,116.167852,513,0,580,2,611,1,776,1
+237,北京西站六里桥地铁站轻居酒店,Beijing West Station Liuliqiao Subway Station Atour Light Hotel,影音房,39.881698,116.297191,479,3,542,1,570,0,724,4
+238,北京丽思卡尔顿酒店(华贸中心),The Ritz-Carlton Beijing,桑拿,39.91055,116.480763,1616,0,1828,1,1924,0,2443,1
+239,北京宝格丽酒店,Bvlgari Hotel Beijing,桑拿,39.948001,116.457657,4897,0,5538,0,5830,1,7404,1
+240,北京圣水莲庭民宿,Shengshui Lianting Hostel,免费停车,39.649462,115.796802,460,2,521,0,548,0,696,3
+241,北京燕莎中心凯宾斯基饭店,Kempinski Hotel Beijing Yansha Center,泳池,39.949278,116.465127,1079,1,1221,0,1285,2,1632,2
+242,北京泰康研修院,Beijing Taikang Research Institute,免费停车,40.097439,116.271898,470,0,531,1,559,3,710,0
+243,北京中康国际酒店(北京朝阳高铁站店),Beijing C.KONG International Hotel (Beijing Chaoyang High-speed Railway Station),免费停车,39.931756,116.506813,486,0,549,3,578,3,734,1
+244,北京大悦酒店,Le Joy Hotel,泳池,39.910969,116.373479,747,1,845,2,889,0,1129,0
+245,北京西西里度假庄园,Sicilia Villa & Resort,免费停车,39.959612,116.246129,578,0,654,0,688,1,874,0
+246,北京唐山大厦,Tangshan Hotel,充电桩,39.911556,116.488161,433,1,490,0,516,1,655,2
+247,花筑·北京云山中人文度假酒店,Floral Hotel·Beijing Yunshan Zhongren Resort Hotel,日光浴场,40.565838,116.679571,553,0,625,0,658,0,836,1
+248,北京国二招宾馆,Guoerzhao Hotel,山景房,39.938811,116.356731,680,0,769,0,809,2,1027,4
+249,和颐至尊酒店(北京望京798店),Yitel Premium (Beijing Wangjing 798),智能客控,39.988392,116.491177,411,1,465,1,489,0,621,1
+250,北京世园璞燊酒店,Shiyuan Pusen Hotel,泳池,40.442923,115.943219,831,1,940,0,989,1,1256,4
+251,base佰舍服务式公寓(北京王府井隆福寺街店),base-Wangfujing Serviced Apartment,机器人服务,39.928167,116.414387,575,0,650,2,684,4,869,2
+252,艺龙酒店(北京清河高铁站小米科技园店),Elong Hotel (Beijing Qinghe High-speed Railway Station Xiaomi Science Park Branch),家庭房,40.056831,116.330971,348,0,393,2,414,1,526,4
+253,北京丽都皇冠假日酒店,Crowne Plaza Beijing Lido,桑拿,39.978133,116.478642,1044,0,1181,1,1243,1,1579,0
+254,北京三里屯工体北路亚朵酒店,Atour Hotel Beijing Sanlitun Gongti North Road,停车场,39.940257,116.44478,563,1,636,0,670,1,851,0
+255,北京万达嘉华酒店,Wanda Realm Beijing Hotel,行政酒廊,39.90681,116.227789,643,0,727,1,765,1,972,2
+256,北京千禧大酒店,Grand Millennium Beijing,动人夜景,39.917066,116.459251,851,0,962,2,1013,2,1287,2
+257,北京JW万豪酒店,JW Marriott Hotel Beijing,桑拿,39.910843,116.481777,2071,1,2342,2,2465,0,3131,0
+258,北京外国专家大厦,Foreign Experts Building,多功能厅,39.987005,116.381717,393,1,445,1,468,0,594,0
+259,北京大成路解放军302医院亚朵X酒店,"Building 1, No. 6 Dacheng Road, Fengtai District, Beijing",家庭房,39.888823,116.272087,442,1,500,1,526,1,668,2
+260,北京鲁弘宾馆,Lu Hong Hotel,免费停车,39.870653,116.429397,417,1,472,2,497,2,631,3
+261,泰莲庭溪畔酒店(北京雁栖湖店),Lotus‘s Secret Hotel (Beijing Yanqi Lake),免费停车,40.430395,116.589007,499,1,564,1,594,1,754,0
+262,佳龙酒店(北京朝阳门总店),Jialong Hotel (Beijing Chaoyangmen),SPA,39.925177,116.430072,514,0,581,0,612,2,777,1
+263,北京北纬四十度大酒店,NL40 Hotel,免费停车,39.961574,116.303127,428,3,484,0,510,3,648,2
+264,北京中成天坛假日酒店,Holiday Inn Beijing Temple of Heaven,免费停车,39.861919,116.414894,569,0,643,1,677,0,860,0
+265,北京百富怡大酒店,Bai Fu Yi Hotel,免费停车,39.943172,116.443918,536,2,606,0,638,0,810,3
+266,北京大成路亚朵X酒店,Atour X Hotel Beijing Wukesong Jinghui Plaza,停车场,39.888646,116.247167,443,2,501,0,527,1,669,0
+267,北京华侨大厦睿世酒店,Empark Prime Hotel Beijing,泳池,39.923917,116.411064,1058,0,1197,0,1260,0,1600,1
+268,北京冀中金牛酒店,Beijing Jizhong Taurus Hotel,管家服务,39.96392,116.308718,538,0,609,2,641,1,814,2
+269,北京王府井文华东方酒店,Mandarin Oriental Wangfujing Beijing,桑拿,39.912827,116.410183,4984,3,5636,2,5933,2,7535,0
+270,北京北辰五洲皇冠国际酒店,V-Continent Beijing Parkview Wuzhou Hotel,桑拿,39.989914,116.405578,1319,2,1492,2,1570,1,1994,1
+271,北京西荣阁酒店,West Mansion Hotel,免费停车,39.940505,116.280138,410,0,464,4,488,1,620,0
+272,北京远航国际酒店(首都机场新国展店),VOYAGE INTERNATIONAL HOTEL,免费停车,40.062271,116.585986,333,3,377,0,397,3,504,1
+273,北京东直门亚朵S酒店,Atour S Hotel (Beijing Dongzhimen),机器人服务,39.951329,116.443737,685,1,775,2,816,3,1036,0
+274,北京朝阳悠唐皇冠假日酒店,Crowne Plaza Beijing Chaoyang U-Town,泳池,39.921291,116.43847,797,4,902,3,949,0,1205,1
+275,北京海润艾丽华酒店及服务公寓,Ariva Beijing West Hotel & Serviced Apartments,桑拿,39.974024,116.302536,483,0,546,4,575,3,730,1
+276,北京西国贸大酒店,West International Trade Grand Hotel,管家服务,39.855613,116.3089,681,2,770,3,811,0,1030,0
+277,北京枫烨园酒店,Fortune Grove Hotel,泳池,40.037212,116.396986,1846,3,2088,1,2198,1,2791,0
+278,北京华彬费尔蒙酒店,Fairmont Beijing,SPA,39.905328,116.451961,998,0,1129,2,1188,0,1509,0
+279,北京星明湖金雁酒店,Xingming Lake Jinyan Hotel,桑拿,39.612752,116.441866,434,1,491,0,517,1,657,1
+280,蔚徕酒店(北京通州环球度假区店),Vyluk Hotel (Beijing Tongzhou Global Resort Branch),免费停车,39.891668,116.663827,345,1,390,0,411,1,522,0
+281,北京商务会馆,Beijing Commercial Business Hotel,免费停车,39.867613,116.359054,488,2,552,0,581,2,738,1
+282,北京山西大厦,Shanxi Hotel,免费停车,39.857654,116.382469,572,0,647,3,681,2,865,3
+283,北京西南华邑酒店,HUALUXE Beijing Xinan,泳池,39.899664,116.275295,951,0,1075,0,1132,0,1438,1
+284,北京怡亨酒店,Hotel Eclat Beijing,私人泳池,39.920379,116.450156,1502,1,1699,2,1788,0,2271,0
+285,北京国贸大酒店,"China World Summit Wing, Beijing",洗衣服务,39.913085,116.45871,1622,1,1834,0,1931,0,2452,0
+286,国际艺苑大酒店,Guo Ji Yi Yuan Hotel,多功能厅,39.918993,116.411278,571,1,646,2,680,1,864,1
+287,北京贵宾楼饭店,Grand Hotel Beijing,泳池,39.909078,116.407259,1008,1,1140,0,1200,3,1524,3
+288,壹色四合院酒店(北京天安门王府井店),Beijing Unified Courtyard Hotel,儿童乐园,39.920675,116.422773,647,2,732,2,770,2,978,1
+289,北京嘉度Resort,Jiadu Resort,免费停车,40.394672,116.513455,470,1,531,2,559,1,710,1
+290,北京浦金凯航国际酒店,Beijing Pujin Kai Hang International Hotel,免费停车,39.812608,116.144402,587,1,664,0,699,2,888,2
+291,北京中奥马哥孛罗大酒店,Marco Polo Parkside Beijing,泳池,40.005555,116.409835,696,2,788,1,829,0,1053,1
+292,北京日出东方凯宾斯基酒店,Sunrise Kempinski Hotel Beijing,泳池,40.386998,116.677182,1342,0,1518,1,1598,0,2029,0
+293,JEN北京新国贸饭店,Jen Beijing by Shangri-La,桑拿,39.913296,116.461245,1225,0,1385,0,1458,0,1852,3
+294,北京冠京嘉元酒店,Guanjing Jiayuan Hotel,免费停车,39.849371,116.382669,467,1,528,0,556,0,706,1
+295,北京世园悦沁酒店,Expo Serene Hotel Shiyuan,桑拿,40.439811,115.962738,914,0,1034,1,1088,0,1382,0
+296,北京怡湾酒店,Beijing Yiwan Hotel,免费停车,40.344175,116.622103,438,1,496,1,522,0,663,1
+297,泰福楼饭店(北京西站丽泽商务区店),Taifulou Hotel,免费停车,39.878612,116.30505,446,1,504,0,531,0,674,0
+298,北京地大国际会议中心,Geosciences International Conference Centre,免费停车,39.991579,116.345174,521,0,589,2,620,2,787,1
+299,北京京伦饭店,Jinglun Hotel,机器人服务,39.909004,116.454721,584,0,660,1,695,0,883,0
+300,北京金源丽晶酒店,Lijing Hotel,多功能厅,39.849618,116.386568,424,0,480,1,505,4,641,3
+301,秋果酒店(北京丽泽金融商务区店),QIUGUO HOTEL (Beijing Lize Financial Business District ),免费停车,39.873882,116.294064,332,1,375,0,395,2,502,1
+302,坊间花舍酒店(北京宋家庄地铁站店),Fangjian Huashe Hotel (Beijing Songjiazhuang Metro Station),停车场,39.851397,116.439363,409,1,463,3,487,1,618,0
+303,北京花间堂·后海,Blossom House·HouHai Beijing,湖景房,39.941296,116.38336,852,3,963,2,1014,1,1288,2
+304,秋果S酒店(北京首都机场二店),Qiuguo S Hotel (Beijing Capital Airport Second Branch),免费停车,40.062835,116.584684,268,0,303,1,319,2,405,2
+305,北京朗丽兹西山花园酒店,Palace Garden Hotel,免费停车,40.066988,116.249209,730,0,826,1,869,2,1104,2
+306,北京三里屯CHAO酒店,CHAO Sanlitun Beijing,免费停车,39.932883,116.451563,1702,0,1925,1,2026,0,2573,0
+307,丽柏酒店(北京通州环球度假区店),Park Inn by Radisson Beijing Tongzhou Universal Resort,免费停车,39.864476,116.666182,411,3,465,2,489,3,621,0
+308,北京远通维景国际大酒店,Grand Metropark Yuantong Hotel Beijing,动人夜景,39.931449,116.356568,754,1,853,1,898,1,1140,3
+309,北京云蒙山居民宿,Yunmeng Shanju Guesthouse,充电桩,40.556252,116.771045,494,3,559,1,588,1,747,0
+310,北京金融街威斯汀大酒店,the Westin Beijing Financial Street,泳池,39.917421,116.359176,1273,0,1440,1,1516,1,1925,1
+311,北京松鹤建国酒店(培训中心),Songhe Jianguo Hotel (Training Center),免费停车,40.084393,116.746086,446,1,504,0,531,1,674,0
+312,北京东直门智选假日酒店,Holiday Inn Express Beijing Dongzhimen,免费停车,39.936844,116.443363,685,1,775,3,816,0,1036,2
+313,环球影城大酒店,The Universal Studios Grand Hotel,行李寄存,39.853667,116.679896,1215,2,1375,1,1447,0,1838,4
+314,诺金度假酒店–北京环球度假区,NUO Resort Hotel-Universal Beijing Resort,提前入园,39.851004,116.682116,1299,0,1469,0,1546,1,1963,1
+315,国际种业培训中心酒店,International Seed Industry Training Center,免费停车,39.717426,116.689447,469,1,530,1,558,1,709,0
+316,北京香格里拉饭店,"Shangri-La Hotel, Beijing",桑拿,39.944303,116.308093,1066,0,1206,2,1269,3,1612,1
+317,北京四季酒店,Four Seasons Hotel Beijing,美食酒店,39.950086,116.466648,1499,1,1695,0,1784,1,2266,1
+318,北京北方佳苑饭店,The North Garden Hotel Beijing,多功能厅,39.910407,116.41272,570,2,644,1,678,0,861,0
+319,北京蔓兰酒店,Hotel MoMc,泳池,39.950638,116.438207,605,0,684,0,720,1,914,0
+320,秋果酒店(北京国展安贞中日友好医院店),TRUE GO HOTEL (National Exhibition Anzhen Sino-Japanese Friendship Hospital),免费停车,39.970119,116.425252,500,1,565,0,595,2,756,4
+321,麗枫酒店(北京天安门广场王府井大街店),Lavande Hotel (Beijing Tiananmen Square Wangfujing Street Branch),免费停车,39.916637,116.410549,527,1,596,0,627,3,796,4
+322,北京金台夕照酒店,Xi Zhao Temple Hotel,充电桩,39.890024,116.439725,427,0,483,0,508,1,645,0
+323,北京华侨夜泊君亭酒店,SSAW Garden Hotel Beijing,自营亲子房,39.943698,116.423064,669,0,757,1,797,0,1012,2
+324,北京香江意舍(天安门王府井店),Hotel Yoo,免费停车,39.90985,116.405697,444,1,502,1,528,3,671,1
+325,秋果酒店(北京华贸店),Qiu Guo Hotel (Beijing Huamao),会议厅,39.912372,116.489145,385,1,435,3,458,2,582,2
+326,北京乐多港万豪酒店,Beijing Marriott Hotel Changping,桑拿,40.23264,116.188888,755,1,854,2,899,1,1142,0
+327,北京新世界酒店,New World Beijing Hotel,桑拿,39.898291,116.412499,1058,1,1196,3,1259,2,1599,0
+328,北京昆泰酒店,Kuntai Hotel,桑拿,40.006102,116.491036,750,1,848,2,893,1,1134,0
+329,北京昆泰嘉华酒店,Kuntai Royal Hotel Beijing,桑拿,39.923166,116.442338,687,1,777,0,818,0,1039,0
+330,北京北辰洲际酒店,Intercontinental Beijing Beichen,桑拿,39.998429,116.388279,1011,0,1143,0,1203,0,1528,2
+331,北京友谊宾馆贵宾楼,Beijing Friendship Hotel Grand Builing,多功能厅,39.963727,116.320105,644,1,729,1,767,2,974,3
+332,汇廷国际酒店(北京宋家庄地铁站店),HUITING INTERNA TIONAL HOTEL,窗外好景,39.84338,116.424416,503,2,569,0,599,4,761,2
+333,北京嘉里大酒店,"Kerry Hotel, Beijing",泳池,39.913977,116.458198,1225,0,1385,0,1458,1,1852,0
+334,北京行宫国际酒店,Palace International Hotel Beijing,桑拿,39.932811,116.508232,533,0,602,0,634,1,805,0
+335,北京名人国际大酒店,Celebrity International Grand Hotel,行政酒廊,39.996032,116.406935,729,1,825,0,868,0,1102,0
+336,北京丽都服务式酒店公寓(芳园西路店),Lido Serviced Residence(Fangyuan West Road Branch),网红泳池,39.975838,116.480847,567,1,641,2,675,1,857,1
+337,北京希尔顿酒店,Hilton Beijing,泳池,39.952703,116.462387,1014,3,1147,1,1207,1,1533,2
+338,北京港澳中心瑞士酒店,Swissôtel Beijing Hong Kong Macau Center,泳池,39.933112,116.436278,823,0,931,0,980,0,1245,2
+339,北京佳兆业铂域行政公寓,Orientino Executive Apartments Beijing,酒店公寓,39.906785,116.479125,1201,2,1358,0,1430,0,1816,1
+340,北京朝林松源酒店,Zhaolin Grand Hotel,桑拿,39.792289,116.505711,1586,2,1794,1,1888,0,2398,2
+341,北京观禾酒店,GOOHUG BEIJING,行政酒廊,40.013955,116.468999,725,0,820,1,863,0,1096,0
+342,秋果S酒店(北京国家会议中心鸟巢店),Qiuguo S Hotel (Beijing National Convention Center Bird Nest Branch),免费停车,39.999339,116.401133,670,3,758,2,798,1,1013,2
+343,喆啡酒店(北京工体三里屯太古里店),James Joyce Coffetel (Beijing Gongti Sanlitun),家庭房,39.932412,116.452848,374,0,423,0,445,0,565,3
+344,桔子水晶北京南锣鼓巷酒店,Crystal Orange  Beijing Nanluoguxiang Hotel,儿童乐园,39.936527,116.407122,637,0,720,1,758,3,963,2
+345,北京中国大饭店,"China World Hotel, Beijing",桑拿,39.910244,116.459106,1225,0,1385,1,1458,2,1852,1
+346,北京东隅酒店,EAST Beijing,泳池,39.968729,116.492248,881,0,997,0,1049,1,1332,0
+347,长城脚下的公社,Commune by the Great Wall,设计师酒店,40.340327,116.055377,916,2,1036,2,1091,1,1386,3
+348,北京新云南皇冠假日酒店,Crowne Plaza Beijing Sun Palace,泳池,39.972409,116.434698,811,4,917,1,965,2,1226,0
+349,北京饭店诺金-王府井,Beijing Hotel NUO-Wangfujing,泳池,39.908799,116.410236,1034,0,1169,2,1231,3,1563,1
+350,麗枫酒店(北京南站木樨园地铁站店),Lavande Hotel (Guangzhou South Railway Station Muxiyuan),免费停车,39.855981,116.407103,365,2,413,1,435,0,552,2
+351,北京在之禾酒店,Zhi Resort,桑拿,40.014208,116.409625,1327,1,1501,1,1580,2,2007,2
+352,北京中关村皇冠假日酒店,Crowne Plaza Beijing Zhongguancun,泳池,39.975966,116.322604,1028,1,1163,1,1224,1,1554,2
+353,北京白河湾朝林松源酒店,Beijing Baihewan Zhaolin Grand Hotel,网红泳池,40.67272,116.67062,2015,0,2279,0,2399,1,3047,0
+354,北京泰富酒店,Tylfull Hotel Beijing,泳池,39.975092,116.352364,1116,2,1262,2,1328,2,1687,1
+355,北京怡生园会议中心,Eastern Garden Hotel,桑拿,40.199506,116.693492,711,1,805,0,847,0,1076,0
+356,北京金融街亚朵酒店,Atour Hotel Beijing Financial Street,机器人服务,39.903791,116.36459,685,0,775,0,816,2,1036,1
+357,希岸酒店(北京天安门前门步行街店),Xana Hotel at Qianmen Street,智能客控,39.894367,116.398334,423,3,478,0,503,2,639,1
+358,北京南锣鼓巷古韵坊四合院漫心府,Beijing Nanluoguxiang Ancient Rhyme Manxin Mansion,四合院,39.939309,116.40513,659,1,745,1,784,0,996,0
+359,北京金融街行政公寓,Financier Executive Residence,酒店公寓,39.918216,116.359064,967,0,1093,0,1151,0,1462,1
+360,北京牡丹宾馆,Peony Hotel,免费停车,39.977442,116.369264,510,3,577,0,607,2,771,3
+361,北京大兴机场丽筠酒店,Radisson Hotel Beijing Daxing Airport,亲子主题房,39.525616,116.412946,428,0,484,0,510,1,648,1
+362,古北水镇望京楼酒店,Wangjing Tower Hotel,桑拿,40.655949,117.278514,1021,1,1154,1,1215,0,1543,1
+363,东方圣达酒店(北京天安门广场王府井地铁站店),Dongfang Shengda Hotel(Near Beijing Tiananmen Square，the Forbidden City，Wangfujing Subway Station),管家服务,39.911354,116.412972,516,2,583,2,614,1,780,2
+364,北京天安门王府井步行街亚朵酒店,Atour Hotel of Beijing Tiananmen Wangfujing Pedestrian Street,机器人服务,39.914663,116.410811,730,1,826,0,869,0,1104,1
+365,橙芷·秋果酒店(北京天安门广场店),TRUE GO Hotel(Beijing Tiananmen Square),管家服务,39.89853,116.40087,646,3,731,2,769,2,977,1
+366,桔子酒店(北京学院路店),Orange Hotel (Beijing Xueyuan Road),免费停车,39.998686,116.364527,521,2,589,0,620,1,787,1
+367,栖湖饭店,Qihu Hotel,网红泳池,40.403381,116.678707,755,2,854,1,899,0,1142,0
+368,北京明珠酒店(北京大兴机场店),Beijing CSN Pearl Hotel,自营亲子房,39.521132,116.41096,379,0,428,0,451,0,573,1
+369,北京中关村北外亚朵S酒店,Atour S Hotel Zhongguancun Foreign Studies University Beijing,管家服务,39.955822,116.308762,627,0,709,0,746,2,947,1
+370,北京海航大厦万豪酒店,Beijing Marriott Hotel Northeast,泳池,39.95986,116.467363,997,2,1128,0,1187,2,1507,2
+371,北京和园景逸大酒店,Heyuan Royal Garden Hotel,泳池,40.085636,116.486682,529,2,598,2,630,1,800,2
+372,北京达美奥克伍德华庭酒店公寓,Oakwood Residence Damei Beijing,泳池,39.93811,116.516916,764,1,864,1,910,2,1156,0
+373,麗枫酒店(北京西站岳各庄桥店),Lavande Hotel (Beijing West Railway Station Yuegezhuang Bridge),免费停车,39.873112,116.280177,351,3,397,1,418,1,531,1
+374,北京南站亚朵酒店,Atour Hotel (Beijing South Railway Station),健身室,39.879314,116.375005,627,0,709,1,746,1,947,1
+375,桔子酒店(北京三里屯太古里店),Orange Hotel (Beijing Sanlitun taiguli),机器人服务,39.932203,116.453523,500,0,565,4,595,2,756,0
+376,北京文津国际酒店,Wenjin Hotel,桑拿,39.993219,116.327791,858,0,970,1,1021,1,1297,1
+377,北京前门四合院漫心府,Beijing Qianmen Courtyard Manxinfu Hotel,四合院,39.894936,116.399673,757,0,856,0,901,1,1144,0
+378,北京蓝湾国际酒店(首都机场新国展店),Beijing LanWan International Hotel (Capital Airport Xinguozhan Branch),免费停车,40.062654,116.571916,226,0,256,3,269,3,342,2
+379,云颐自在酒店(北京清河高铁站小米科技园店),Yunxuan Zizhu Hotel (Beijing Qinghe High-speed Railway Station Xiaomi Science Park Branch),免费停车,40.047739,116.327527,562,3,636,0,669,3,850,2
+380,北京上地清河高铁站亚朵S酒店,Atour Hotel Beiijng Shangdi Qinghe high speed railway station,免费停车,40.03911,116.31303,627,3,709,1,746,3,947,0
+381,一木酒店(北京三元桥燕莎使馆区店),Yimore,管家服务,39.957056,116.461871,444,0,503,1,529,4,672,2
+382,喆啡酒店(北京王府井大街协和医院店),James Joyce Coffetel (Beijing Wangfujing Street Union Hospital),家庭房,39.912508,116.411891,447,0,505,1,532,1,676,6
+383,北京三里屯首北兆龙饭店,"BEI Zhaolong Hotel, JdV by Hyatt",多功能厅,39.933322,116.460566,764,2,864,2,910,0,1156,0
+384,朗丽兹太和府酒店(北京生命科学园地铁站店),Langritz Taihefu Hotel,四合院,40.092686,116.286855,357,3,404,1,425,2,540,1
+385,北京丽亭华苑酒店,Park Plaza (Beijing Science Park),健身室,39.977469,116.345077,647,3,732,0,770,3,978,1
+386,北京复兴门亚朵酒店,Atour Hotel (Beijing Fuxingmen),免费停车,39.905647,116.3584,878,1,993,0,1045,0,1327,0
+387,麗枫酒店(北京回龙观龙泽地铁站店),Lavande Hotel Beijing Longze Metro Station Store,免费停车,40.073273,116.324798,380,0,429,1,452,2,574,0
+388,桔子酒店(北京五棵松体育馆店),Orange Hotel,机器人服务,39.903175,116.283776,477,0,540,0,568,0,721,1
+389,麗枫酒店(北京天安门广场北京站店),Lavande Hotel (Beijing Tiananmen Square Beijing Railway Station),管家服务,39.905405,116.425076,412,1,466,2,490,2,622,1
+390,桔子水晶北京国贸中心酒店,Crystal Orange Beijing International Trade Center Hotel,管家服务,39.906357,116.463045,641,0,725,2,763,1,969,4
+391,希岸Deluxe酒店(北京天安门珠市口地铁站店),Xi'an Deluxe Hotel Beijing Tiananmen ZhuKou subway station stoye,智能客控,39.890815,116.401366,472,2,534,1,562,2,714,2
+392,北京丽亭酒店,Park Plaza Beijing Wangfujing,机器人服务,39.916572,116.419459,801,1,906,2,954,1,1212,2
+393,北京天安门前门大街漫心酒店,Beijing Tiananmen Qianmen Street Manxin Hotel,机器人服务,39.895201,116.398351,651,3,736,1,775,1,984,0
+394,秋果酒店(北京西站六里桥东地铁站店),True Go Hotel (Beijing West Railway Station Liuliqiao East Subway Station),机器人服务,39.88005,116.312185,312,1,352,0,371,1,471,1
+395,艺龙酒店(北京通州环球梨园地铁站店),Elong Hotel (Beijing Tongzhou Liyuan Metro Station),机器人服务,39.884847,116.667012,360,0,407,0,428,0,544,2
+396,时光漫步S酒店(北京科技大学鸟巢店),Time Walk S Hotel (Beijing University of Science and Technology Bird's Nest),管家服务,40.001452,116.377578,511,2,578,0,608,1,772,1
+397,北京五洲大酒店,Beijing Continental Grand Hotel,免费停车,39.989379,116.404237,639,0,723,1,761,0,966,0
+398,桔子水晶北京奥体中心鸟巢酒店,Crystal Orange Beijing Olympic Sports Center Bird's Nest Hotel,免费停车,39.9823,116.409389,586,2,663,2,698,0,886,1
+399,北京18HOW前门葡萄院子,putaoyuanzi Hotel,儿童乐园,39.891357,116.393631,656,0,742,0,781,1,992,1
+400,景里酒店(北京合生汇大郊亭地铁站店),Jingli Hotel (Beijing Heshenghui Dajiaoting Subway Station Branch),智能客控,39.890206,116.490783,360,0,407,1,428,0,544,1
+401,艺龙安云酒店（北京农展馆地铁站燕莎使馆区店）,"eLong Anyun Hotel (Yansha Embassy Area, Beijing Agricultural Exhibition Center Subway Station)",停车场,39.944167,116.466832,191,2,222,0,237,8,405,2
+402,喆啡酒店（北京望京地铁站望京SOHO店）,"Zhefei Hotel (Wangjing SOHO, Beijing Wangjing Subway Station)",行李寄存,40.001339,116.4623,200,4,232,7,247,5,422,1
+403,汉庭酒店(北京广安门达官营地铁站店),"Hanting Hotel (Daguanying, Guang’anmen, Beijing Subway Station)",停车场,39.884513,116.341968,195,6,226,2,241,4,412,0
+404,海友酒店(北京西直门地铁站店),Haiyou Hotel (Beijing Xizhimen Subway Station),停车场,39.948918,116.361227,166,3,192,6,205,2,350,6
+405,福陵汇酒店(北京朝阳高铁站青年路店),"Fulinghui Hotel (Youth Road, Chaoyang High-Speed Railway Station, Beijing)",行李寄存,39.934144,116.513219,82,3,95,2,102,5,174,4
+406,喆啡酒店（北京大成路301解放军总医院店）,"Zhefei Hotel (301 General Hospital of the PLA, Dacheng Road, Beijing)",停车场,39.88903,116.271977,200,0,232,6,247,6,422,6
+407,汉庭酒店(北京望京地铁站店),Hanting Hotel (Beijing Wangjing Subway Station),行李寄存,40.003445,116.462654,234,4,271,2,289,6,494,3
+408,秋果X酒店（望京SOHO望京地铁站店）,"Qiuguo X Hotel (Wangjing SOHO, Wangjing Subway Station)",行李寄存,39.9996,116.4643,189,2,219,5,234,5,400,4
+409,桔子酒店（北京总部基地天坛医院店）,"Orange Hotel (Tiantan Hospital, Beijing Headquarters Base)",停车场,39.835895,116.311091,243,1,282,7,300,3,513,3
+410,柏纳酒店(北京西站丽泽商务区店),"Bainuo Hotel (Lize Business District, Beijing West Station)",健身室,39.879488,116.320233,177,4,205,1,219,7,374,3
+411,如家商旅酒店(北京西站莲宝路店),"Home Inn Business Hotel (Lianbao Road, Beijing West Station)",健身室,39.889206,116.303098,238,3,277,8,295,4,504,5
+412,云郦酒店（北京朝阳公园国贸商务区店）,"Yunli Hotel (Chaoyang Park, Guomao Business District, Beijing)",健身室,39.920832,116.494576,243,3,282,7,300,6,513,2
+413,喆啡酒店(北京国贸朝阳大悦城四惠地铁站店）,"Zhefei Hotel (Guomao, Chaoyang Joy City, Sihui Subway Station, Beijing)",停车场,39.91722,116.495649,215,8,250,4,266,5,454,2
+414,汉庭酒店（北京回龙观西大街文华路地铁站店）,"Hanting Hotel (Wenhua Road, Huilongguan West Street, Beijing Subway Station)",停车场,40.080581,116.337788,174,5,202,6,215,0,367,7
+415,秋果酒店(北京三元桥使馆区店),"Qiuguo Hotel (Embassy Area, Sanyuanqiao, Beijing)",停车场,39.958214,116.463449,211,5,245,3,261,6,446,6
+416,喆啡酒店(北京中关村海淀黄庄地铁站店),"Zhefei Hotel (Zhongguancun, Haidian Huangzhuang Subway Station, Beijing)",停车场,39.980743,116.323948,234,2,271,4,289,4,494,1
+417,秋果酒店X(北京朝阳高铁站姚家园地铁站店),"Qiuguo Hotel X (Yaojiayuan Subway Station, Chaoyang High-Speed Railway Station, Beijing)",停车场,39.947003,116.521296,161,0,187,7,199,7,340,3
+418,维也纳酒店(北京西站丽泽商务区店),"Vienna Hotel (Lize Business District, Beijing West Station)",停车场,39.876641,116.317508,219,2,254,0,271,1,463,4
+419,秋果S酒店·1924（北京五棵松301解放军总医院店）,"Qiuguo S Hotel·1924 (301 General Hospital of the PLA, Wukesong, Beijing)",停车场,39.905526,116.270794,232,1,269,5,287,7,490,2
+420,如家精选酒店(北京朝阳高铁站朝阳大悦城店),"Home Inn Selected Hotel (Chaoyang High-Speed Railway Station, Chaoyang Joy City, Beijing)",停车场,39.935798,116.5102,200,3,232,3,247,1,422,3
+421,速8酒店(北京房山燕化地铁站店),"Super 8 Hotel (Fangshan Yanhua Subway Station, Beijing)",停车场,39.722516,115.968602,118,4,137,2,146,6,249,2
+422,观悦行政公寓（北京西直门地铁站北京大学人民医院店）,"Guanyue Executive Apartment (Xizhimen Subway Station, Peking University People's Hospital, Beijing)",停车场,39.944561,116.350967,144,5,167,1,178,2,304,0
+423,臻选酒店(小红门成寿寺地铁站店),"Zhenxuan Hotel (Xiaohongmen Chengshousi Subway Station, Beijing)",停车场,39.837943,116.458904,177,6,205,2,219,5,374,7
+424,柏纳酒店(北京西客站六里桥东地铁站店),Baina Hotel (Beijing West Railway Station Liuliqiao East Subway Station),行李寄存,39.885357,116.312851,147,5,171,4,182,3,311,2
+425,连杰酒店(北京朝阳北路长楹天街店),"Lianjie Hotel (Chaoyang North Road Changying Tianjie, Beijing)",行李寄存,39.920709,116.589712,160,7,186,4,198,7,338,6
+426,如家华驿精选酒店（昌平体育中心店）,Home Inn Huayi Select Hotel (Changping Sports Center),停车场,40.210721,116.222085,103,6,120,6,128,4,218,0
+427,麗枫酒店(北京南站木樨园地铁站店),Lavande Hotel (Beijing South Station Muxiyuan Subway Station),停车场,39.855875,116.407019,241,0,280,6,298,5,509,0
+428,如宜FREEY酒店(北京潘家园劲松地铁站店),"Ruyi FREEY Hotel (Panjia Yuan Jinsong Subway Station, Beijing)",行李寄存,39.88585,116.456,134,8,156,7,166,7,283,0
+429,如家华驿精选酒店(北京大兴大悦春风里店),"Home Inn Huayi Select Hotel (Daxing Dayue Chunfengli, Beijing)",停车场,39.729185,116.346997,84,6,97,6,104,1,177,0
+430,观云轩酒店（北京西客站金融街店）,Guanyunxuan Hotel (Beijing West Railway Station Financial Street),停车场,39.898423,116.344763,134,3,156,5,166,4,283,4
+431,秋果酒店(北京望京科技园店),"Qiuguo Hotel (Wangjing Science Park, Beijing)",停车场,40.008425,116.477775,234,7,271,1,289,3,494,1
+432,柚米酒店式公寓(北京十里河地铁站店),"Youmi Serviced Apartment (Shilihe Subway Station, Beijing)",停车场,39.859259,116.46273,89,2,103,5,110,5,188,5
+433,潮漫酒店（北京国贸大望路站店）,"Chaoman Hotel (Guomao Dawanglu Subway Station, Beijing)",停车场,39.903243,116.47534,148,6,172,2,183,6,312,4
+434,全季酒店（北京环保园华为基地店）,"All Season Hotel (Environmental Protection Park Huawei Base, Beijing)",健身室,40.047713,116.180541,240,1,279,4,297,6,507,0
+435,麗枫酒店（北京潘家园肿瘤医院十里河地铁站店）,"Lavande Hotel (Panjia Yuan Tumor Hospital Shilihe Subway Station, Beijing)",停车场,39.869059,116.451884,210,3,244,0,260,1,444,8
+436,贝壳酒店（北京顺义理想汽车基地店）,"Shell Hotel (Shunyi Ideal Auto Base, Beijing)",停车场,40.099479,116.658647,89,2,103,4,110,1,188,7
+437,麗枫酒店(北京朝阳高铁站大悦城店),"Lavande Hotel (Chaoyang High-Speed Rail Station Joy City, Beijing)",行李寄存,39.934123,116.516517,241,2,280,1,298,4,509,4
+438,秋果酒店(北京朝阳门三里屯店),"Qiuguo Hotel (Chaoyangmen Sanlitun, Beijing)",停车场,39.922005,116.445288,237,7,275,3,293,0,501,6
+439,秋果酒店(北京西站六里桥东地铁站店）,Qiuguo Hotel (Beijing West Station Liuliqiao East Subway Station),健身室,39.880328,116.312055,231,0,268,7,286,2,489,0
+440,IU酒店(北京西站丽泽商务区六里桥东地铁站店),IU Hotel (Beijing West Station Lize Business District Liuliqiao East Subway Station),停车场,39.88262,116.312263,167,5,194,1,207,5,353,1
+441,漫曲酒店（北京欢乐水魔方大成路店）,Manqu Hotel (Beijing Happy Water Cube Dacheng Road Branch),健身室,39.888481,116.245015,161,3,187,8,199,4,340,6
+442,锦江之星风尚酒店(北京首都机场新国展店),Jinjiang Inn Fashion Hotel (Beijing Capital Airport New National Exhibition Branch),行李寄存,40.066088,116.570387,88,5,102,3,109,3,186,7
+443,喆啡酒店(北京天安门广场前门大街地铁站店),Zhefei Hotel (Beijing Tiananmen Square Qianmen Street Subway Station Branch),茶室,39.894146,116.39762,209,5,243,6,259,7,442,7
+444,速8精选酒店(北京朝阳高铁站石佛营地铁站店),Super 8 Select Hotel (Beijing Chaoyang High-Speed Railway Station Shifoying Subway Station Branch),停车场,39.934914,116.506016,104,2,121,8,129,1,220,5
+445,一木酒店（北京三元桥燕莎使馆区店）,Yimu Hotel (Beijing Sanyuanqiao Yansha Embassy District Branch),停车场,39.957072,116.461851,204,5,236,7,252,3,430,7
+446,桔子酒店(北京亦庄经济开发区店),Orange Hotel (Beijing Yizhuang Economic Development Zone Branch),健身室,39.811226,116.547529,242,5,281,7,299,1,511,0
+447,北京远航花园酒店（北京大兴国际机场店）,Beijing Yuanhang Garden Hotel (Beijing Daxing International Airport Branch),健身室,39.529893,116.440931,161,8,187,8,199,8,340,3
+448,色彩和光酒店(北京和平里国展店),Color and Light Hotel (Beijing Hepingli National Exhibition Branch),停车场,39.966067,116.431298,233,5,270,4,288,4,492,2
+449,汉庭酒店(北京朝阳八里桥地铁站店),Hanting Hotel (Beijing Chaoyang Balizhuangqiao Subway Station Branch),停车场,39.898828,116.61142,183,2,212,0,226,5,386,7
+450,喆啡酒店(北京欢乐谷五方桥店),Zhefei Hotel (Beijing Happy Valley Wufangqiao Branch),停车场,39.867657,116.538513,179,2,207,7,221,7,377,0
+451,如家精选酒店(北京通州宋庄安贞医院店),Home Inn Select Hotel (Beijing Tongzhou Songzhuang Anzhen Hospital Branch),停车场,39.943657,116.723403,232,0,269,4,287,5,490,7
+452,季枫酒店（北京工体东大桥地铁站店）,Jifeng Hotel (Beijing Workers' Stadium East Daqiao Subway Station Branch),停车场,39.923807,116.449468,155,6,180,1,192,7,328,3
+453,北京远航国际酒店（首都机场新国展店）,Beijing Yuanhang International Hotel (Capital Airport New National Exhibition Branch),儿童乐园,40.062477,116.585843,186,5,216,8,230,6,393,6
+454,如家派柏·云酒店（北京南站陶然亭地铁站店）,Home Inn Paibo Yun Hotel (Beijing South Station Taoranting Subway Station Branch),行李寄存,39.878461,116.377637,119,3,138,4,147,2,251,3
+455,小满•东方轻享酒店,Xiaoman Oriental Light Enjoy Hotel,停车场,39.989667,116.47666,55,0,63,3,68,5,116,3
+456,99优选酒店(北京大兴龙湖天街生物医药基地地铁站店),99 Preferred Hotel (Beijing Daxing Longhu Tianjie Biomedical Base Subway Station Branch),行李寄存,39.681217,116.322806,82,7,95,4,102,7,174,2
+457,汉庭酒店（北京回龙观店）,Hanting Hotel (Beijing Huilongguan Branch),停车场,40.080581,116.337788,190,2,220,6,235,8,401,2
+458,秋果酒店（北京鸟巢亚运村店）,Qiuguo Hotel (Beijing Bird's Nest Asian Games Village Branch),停车场,39.994586,116.417775,242,3,281,2,299,1,511,5
+459,云瑶居美宿（大兴国际机场店）,Yunyaoju Boutique Stay (Daxing International Airport Branch),停车场,39.552394,116.369509,79,2,92,8,98,7,167,0
+460,宿8酒店（北京方庄地铁站医学科学院肿瘤医院店）,Su8 Hotel (Beijing Fangzhuang Subway Station Medical Sciences Academy Oncology Hospital Branch),停车场,39.867156,116.445926,110,8,128,7,137,4,234,6
+461,喆啡酒店（北京西三旗育新地铁站店）,Zhefei Hotel (Beijing Xisanqi Yuxin Subway Station Branch),行李寄存,40.06376,116.344299,201,6,234,5,249,6,425,3
+462,麗枫酒店(北京望京SOHO科技园店),Lavande Hotel (Beijing Wangjing SOHO Science Park Branch),停车场,40.012945,116.479926,210,0,244,7,260,3,444,8
+463,雅荷·秋果酒店（北京阿里朝阳科技园崔各庄地铁站店）,Yahe·Qiuguo Hotel (Beijing Alibaba Chaoyang Science Park Cuigezhuang Subway Station Branch),停车场,40.019524,116.502632,185,6,215,0,229,4,391,7
+464,怡然酒店（北京潘家园肿瘤医院店）,Yiran Hotel (Beijing Panjiayuan Tumor Hospital Branch),停车场,39.869022,116.45188,175,0,203,0,217,8,371,7
+465,秋果酒店(北京望京798艺术区店),Qiuguo Hotel (Beijing Wangjing 798 Art District Branch),停车场,39.987408,116.496149,183,6,213,0,227,2,388,3
+466,喆啡酒店（北京顺义高丽营政府店）,Zhefei Hotel (Beijing Shunyi Gaoliying Government Branch),停车场,40.147026,116.553375,167,3,194,3,207,6,353,3
+467,喆啡酒店（北京亦庄经济开发区科创一街店）,Zhefei Hotel (Beijing Yizhuang Economic Development Zone Kechuang First Street Branch),停车场,39.821701,116.515007,170,8,198,8,211,8,360,5
+468,喆啡酒店(北京天安门广场桥湾地铁站店),Zhefei Hotel (Beijing Tiananmen Square Qiaowan Subway Station Branch),行李寄存,39.891105,116.406271,214,3,249,0,265,6,453,1
+469,北岸·商隐酒店（北京邮电大学西直门店）,Beian·Shangyin Hotel (Beijing University of Posts and Telecommunications Xizhimen Branch),停车场,39.958649,116.352646,160,8,186,5,198,4,338,0
+470,维酒店·凡(北京望京SOHO阜通地铁站店),VE Hotel·Fan (Beijing Wangjing SOHO Futong Subway Station Branch),停车场,39.990993,116.468837,179,6,208,8,222,7,379,0
+471,格林豪泰酒店(北京野生动物园大兴国际机场店),GreenTree Inn (Beijing Wildlife Park Daxing International Airport Branch),行李寄存,39.511053,116.323369,82,3,95,6,102,5,174,7
+472,逸枫酒店(北京亦庄开发区亦庄桥地铁站店),Yifeng Hotel (Beijing Yizhuang Development Zone Yizhuangqiao Subway Station Branch),停车场,39.800708,116.479496,168,2,195,4,208,6,355,7
+473,均禾·悦酒店(北京通州运河商务区店),Junhe·Yue Hotel (Beijing Tongzhou Canal Business District Branch),停车场,39.90723,116.662711,119,0,139,7,148,2,253,8
+474,北京柏客优选公寓(北京次渠北地铁店),Beijing Baker Select Apartment (Beijing Ci Qu North Subway Branch),停车场,39.818114,116.582324,182,7,211,2,225,7,384,1
+475,一木酒店（北京西站店）,Yimu Hotel (Beijing West Station Branch),行李寄存,39.887532,116.321342,161,7,187,7,199,5,340,7
+476,凯盛商务酒店（北京首都机场店）,Kaisheng Business Hotel (Beijing Capital Airport Branch),停车场,40.069802,116.568961,72,1,83,5,89,8,152,6
+477,汉庭酒店(北京花乡桥天坛医院店),Hanting Hotel (Beijing Huaxiangqiao Tiantan Hospital Branch),停车场,39.836975,116.307081,198,2,230,2,245,5,418,0
+478,福陵汇酒店（北京西直门交通大学店）,Fulinghui Hotel (Beijing Xizhimen Jiaotong University Branch),行李寄存,39.945253,116.345705,157,5,183,2,195,0,333,5
+479,景里红驿栈酒店（北京东直门三里屯店）,Jingli Hong Yizhan Hotel (Beijing Dongzhimen Sanlitun Branch),停车场,39.938893,116.445261,179,1,208,8,222,4,379,3
+480,如家派柏·云酒店(北京常营地铁站朝阳医院东院区店),Home Inn Plus·Yun Hotel (Beijing Changying Subway Station Chaoyang Hospital East Campus Branch),停车场,39.922114,116.596489,170,6,198,7,211,6,360,2
+481,安境酒店（北京西站丽泽商务区店）,Anjing Hotel (Beijing West Station Lize Business District Branch),健身室,39.858168,116.312499,183,7,212,3,226,4,386,1
+482,喆啡酒店(北京传媒大学双桥地铁站万达广场店),Zhefei Hotel (Beijing Communication University Shuangqiao Metro Station Wanda Plaza Branch),停车场,39.90855,116.57647,204,7,236,0,252,1,430,1
+483,北京立岩酒店（德胜门鼓楼大街地铁站店）,Beijing Liyan Hotel (Deshengmen Gulou Street Metro Station Branch),行李寄存,39.952738,116.386199,77,3,90,3,96,6,164,5
+484,桔子酒店（北京北清路中关村环保园）,Orange Hotel (Beijing Beiqing Road Zhongguancun Environmental Park),停车场,40.059394,116.166961,240,6,279,3,297,5,507,1
+485,全季酒店(北京大兴区政府黄村西大街地铁站店),All Season Hotel (Beijing Daxing District Government Huangcun West Street Metro Station Branch),停车场,39.733295,116.331368,213,6,247,6,263,2,449,5
+486,喆啡酒店(北京东坝地铁站店),Zhefei Hotel (Beijing Dongba Metro Station Branch),停车场,39.966491,116.557741,225,2,262,2,279,7,477,5
+487,宜必思酒店(北京昌平地铁站店),Ibis Hotel (Beijing Changping Metro Station Branch),健身室,40.220956,116.235086,129,0,150,0,160,8,273,3
+488,朝外MEN•轻奢酒店（北京工体朝阳门地铁站店）,Chaowai MEN • Light Luxury Hotel (Beijing Workers’ Stadium Chaoyangmen Metro Station Branch),行李寄存,39.921717,116.441486,186,6,216,5,230,7,393,0
+489,格林豪泰酒店(北京医科院肿瘤医院潘家园西地铁站店),GreenTree Inn Hotel (Beijing Medical Academy Oncology Hospital Panjiayuan West Metro Station Branch),健身室,39.878995,116.447275,149,4,173,2,185,5,316,0
+490,麗枫酒店(北京国展和平西桥地铁站店),Lavande Hotel (Beijing National Exhibition Peace West Bridge Metro Station Branch),停车场,39.964905,116.421389,216,6,250,0,267,6,456,4
+491,汉庭酒店（北京西三旗东升科技园店）,Hanting Hotel (Beijing Xisanqi Dongsheng Technology Park Branch),行李寄存,40.03265,116.367426,196,8,228,8,243,7,415,3
+492,柏曼酒店(北京三元桥地铁站燕莎使馆区店),Boman Hotel (Beijing Sanyuanqiao Metro Station Yansha Embassy Area Branch),停车场,39.958503,116.462921,213,0,247,0,263,1,449,6
+493,汉庭酒店（北京西二旗大街龙域中心店）,Hanting Hotel (Beijing Xierqi Street Longyu Center Branch),行李寄存,40.065945,116.312459,177,4,205,7,219,6,374,8
+494,7天优品酒店(北京十里河地铁站居然之家店),7 Days Premium Hotel (Beijing Shilihe Metro Station Easyhome Branch),行李寄存,39.858725,116.472175,130,4,151,0,161,2,275,5
+495,非繁城品酒店（北京三元桥燕莎使馆区店）,Feifan Chengpin Hotel (Beijing Sanyuanqiao Yansha Embassy Area Branch),健身室,39.957232,116.461645,151,2,175,5,187,3,319,6
+496,喆啡酒店(北京通州安贞医院店),Zhefei Hotel (Beijing Tongzhou Anzhen Hospital Branch),停车场,39.932515,116.691174,187,8,217,0,231,5,395,4
+497,秋果酒店(北京新国展首都机场店),Qiuguo Hotel (Beijing New National Exhibition Capital Airport Branch),棋牌室,40.062211,116.585178,208,0,241,8,257,3,439,1
+498,北京玖遇云居酒店（天坛医院首经贸大学店）,Beijing Jiuyuyunju Hotel (Tiantan Hospital Shoujingmao University Branch),停车场,39.835912,116.319984,206,0,239,5,255,5,436,7
+499,汉庭酒店(北京王府井协和医院店),Hanting Hotel (Beijing Wangfujing Xiehe Hospital Branch),行李寄存,39.912013,116.412034,225,2,262,2,279,8,477,1
+500,汉庭酒店(北京世界公园店),Hanting Hotel (Beijing World Park Branch),停车场,39.784956,116.297656,176,5,204,8,218,7,372,8
+501,北京美宿,Beijing Meisu,普通酒店,40.107428,116.631049,48,2,56,1,60,5,102,3
+502,Super8·悦酒店（北京潘家园劲松地铁站店）,Super8 Yue Hotel (Beijing Panjiayuan Jinsong Subway Station Branch),停车场,39.885757,116.451141,150,8,174,1,186,1,318,2
+503,全季酒店（北京昌平天通苑北交通枢纽站店）,Ji Hotel (Beijing Changping Tiantongyuan North Transportation Hub Branch),停车场,40.082855,116.412419,236,5,274,8,292,2,499,2
+504,如家商旅酒店（北京密云长城环岛店）,Home Inn Business Hotel (Beijing Miyun Great Wall Roundabout Branch),行李寄存,40.376943,116.867124,185,0,215,5,229,1,391,3
+505,IU酒店（北京潘家园西地铁站医学科学院肿瘤医院店）,IU Hotel (Beijing Panjiayuan West Subway Station Medical Science Academy Tumor Hospital Branch),行李寄存,39.879916,116.450506,172,2,200,2,213,4,364,0
+506,一禾复地酒店公寓（北京三里屯呼家楼地铁站店）,Yi He Fudi Hotel Apartment (Beijing Sanlitun Hujialou Subway Station Branch),停车场,39.924279,116.456203,162,3,188,2,200,8,342,2
+507,麗枫酒店(北京通州环球度假区店),Lavande Hotel (Beijing Tongzhou Universal Resort Branch),健身室,39.863951,116.662695,210,3,244,6,260,8,444,1
+508,秋果酒店（北京中日友好医院和平里北街地铁站店）,Qiuguo Hotel (Beijing China-Japan Friendship Hospital Hepingli North Street Subway Station Branch),停车场,39.962652,116.420839,217,2,251,2,268,4,458,7
+509,美华·轻奢酒店（北京南站石榴庄地铁站店）,Meihua Light Luxury Hotel (Beijing South Station Shiliuzhuang Subway Station Branch),停车场,39.841945,116.412212,201,5,234,6,249,0,425,5
+510,隐玉·陌上轻雅酒店（北京丰台体育中心卢沟桥店）,Yinyu Moshang Elegant Hotel (Beijing Fengtai Sports Center Lugouqiao Branch),停车场,39.855883,116.249085,132,1,153,8,163,4,278,5

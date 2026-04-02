@@ -1,0 +1,202 @@
+[
+  {
+    "TrainID": "G87",
+    "TrainType": "高铁",
+    "From": "北京西站",
+    "To": "成都东站",
+    "BeginTime": "07:00",
+    "EndTime": "14:32",
+    "Duration": 7.53,
+    "Cost": 840.5
+  },
+  {
+    "TrainID": "G1591",
+    "TrainType": "高铁",
+    "From": "北京西站",
+    "To": "成都东站",
+    "BeginTime": "08:26",
+    "EndTime": "17:38",
+    "Duration": 9.2,
+    "Cost": 810.5
+  },
+  {
+    "TrainID": "G307",
+    "TrainType": "高铁",
+    "From": "北京西站",
+    "To": "成都东站",
+    "BeginTime": "09:10",
+    "EndTime": "18:55",
+    "Duration": 9.75,
+    "Cost": 800.5
+  },
+  {
+    "TrainID": "G387",
+    "TrainType": "高铁",
+    "From": "北京丰台站",
+    "To": "成都东站",
+    "BeginTime": "09:29",
+    "EndTime": "19:00",
+    "Duration": 9.52,
+    "Cost": 830.0
+  },
+  {
+    "TrainID": "G333",
+    "TrainType": "高铁",
+    "From": "北京西站",
+    "To": "成都东站",
+    "BeginTime": "09:45",
+    "EndTime": "21:59",
+    "Duration": 12.23,
+    "Cost": 1034.0
+  },
+  {
+    "TrainID": "D49",
+    "TrainType": "动车",
+    "From": "北京西站",
+    "To": "成都东站",
+    "BeginTime": "11:08",
+    "EndTime": "07:55",
+    "Duration": 20.8,
+    "Cost": 327.0
+  },
+  {
+    "TrainID": "D1045",
+    "TrainType": "动车",
+    "From": "北京清河站",
+    "To": "成都东站",
+    "BeginTime": "11:41",
+    "EndTime": "23:00",
+    "Duration": 11.32,
+    "Cost": 692.5
+  },
+  {
+    "TrainID": "K117",
+    "TrainType": "快速",
+    "From": "北京西站",
+    "To": "成都西站",
+    "BeginTime": "11:53",
+    "EndTime": "19:16",
+    "Duration": 31.4,
+    "Cost": 251.0
+  },
+  {
+    "TrainID": "K545",
+    "TrainType": "快速",
+    "From": "北京站",
+    "To": "成都西站",
+    "BeginTime": "12:50",
+    "EndTime": "22:21",
+    "Duration": 33.5,
+    "Cost": 251.0
+  },
+  {
+    "TrainID": "K545",
+    "TrainType": "快速",
+    "From": "北京西站",
+    "To": "成都西站",
+    "BeginTime": "13:40",
+    "EndTime": "22:21",
+    "Duration": 32.7,
+    "Cost": 243.0
+  },
+  {
+    "TrainID": "G89",
+    "TrainType": "高铁",
+    "From": "北京西站",
+    "To": "成都东站",
+    "BeginTime": "15:00",
+    "EndTime": "22:30",
+    "Duration": 7.5,
+    "Cost": 862.5
+  },
+  {
+    "TrainID": "T7",
+    "TrainType": "特快",
+    "From": "北京西站",
+    "To": "成都西站",
+    "BeginTime": "16:43",
+    "EndTime": "20:57",
+    "Duration": 28.2,
+    "Cost": 251.0
+  },
+  {
+    "TrainID": "D995",
+    "TrainType": "动车",
+    "From": "北京丰台站",
+    "To": "成都东站",
+    "BeginTime": "20:36",
+    "EndTime": "08:43",
+    "Duration": 12.1,
+    "Cost": 636.0
+  },
+  {
+    "TrainID": "G551",
+    "TrainType": "高铁",
+    "From": "北京丰台站",
+    "To": "成都西站",
+    "BeginTime": "20:02",
+    "EndTime": "04:43",
+    "Duration": 32.85,
+    "Cost": 368.0
+  },
+  {
+    "TrainID": "D997",
+    "TrainType": "动车",
+    "From": "北京丰台站",
+    "To": "成都东站",
+    "BeginTime": "20:46",
+    "EndTime": "08:47",
+    "Duration": 12.0,
+    "Cost": 636.0
+  },
+  {
+    "TrainID": "G89",
+    "TrainType": "高铁",
+    "From": "北京西站",
+    "To": "成都东站",
+    "BeginTime": "15:00",
+    "EndTime": "23:06",
+    "Duration": 8.1,
+    "Cost": 840.5
+  },
+  {
+    "TrainID": "G667",
+    "TrainType": "高铁",
+    "From": "北京西站",
+    "To": "成都东站",
+    "BeginTime": "12:55",
+    "EndTime": "21:35",
+    "Duration": 8.67,
+    "Cost": 810.5
+  },
+  {
+    "TrainID": "G6703",
+    "TrainType": "高铁",
+    "From": "北京西站",
+    "To": "成都东站",
+    "BeginTime": "06:09",
+    "EndTime": "14:32",
+    "Duration": 8.38,
+    "Cost": 812.0
+  },
+  {
+    "TrainID": "S110",
+    "TrainType": "普快",
+    "From": "北京站",
+    "To": "成都东站",
+    "BeginTime": "06:31",
+    "EndTime": "14:32",
+    "Duration": 8.02,
+    "Cost": 844.5
+  },
+  {
+    "TrainID": "G667",
+    "TrainType": "高铁",
+    "From": "北京西站",
+    "To": "成都东站",
+    "BeginTime": "12:55",
+    "EndTime": "21:24",
+    "Duration": 8.48,
+    "Cost": 832.5
+  }
+]

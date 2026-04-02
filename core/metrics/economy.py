@@ -21,6 +21,8 @@ class EconomyMetrics:
 
         ai_plan = enhanced_plan['original_plan']
 
+        print("economy！")
+
         # 费用分布合理性
         metrics['cost_distribution'] = self.extractors._calculate_actual_cost(ai_plan)
 
@@ -47,7 +49,6 @@ class EconomyMetrics:
             daily_attractions[day_number] = attraction_sequence
 
         travel_experience = self.utility._calculate_experience_value(daily_attractions, sandbox_data, user_query)
-
         actual_costs = self.extractors._calculate_actual_cost(ai_plan)
         budget_used = 0
         for category in actual_costs:

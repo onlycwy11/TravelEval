@@ -10,7 +10,7 @@ class UtilityMetrics:
         self.config = config_manager.get_metric_config('utility')
         self.categories = config_manager.get_categories_config()
         self.waiting = config_manager.get_waiting_time()
-        self.target_density_map = self.config.get('target_attraction_density_map', {})
+        self.target_density_map = self.config.get('target_attraction_density', {})
         self.extractors = PlanExtractor()
 
     def calculate_all(self, user_query: Dict[str, Any], enhanced_plan: Dict[str, Any],
@@ -50,10 +50,11 @@ class UtilityMetrics:
         experience_value = self._calculate_experience_value(
             daily_attractions, sandbox_data, user_query
         )
-
+        print("utility！")
         # 规划行程总时间
         time = 24 * self.extractors._calculate_total_travel_time(
             ai_plan['summary'], ai_plan['intercity_transport']['transport_type'])
+
         # 高质量景点体验值（High-Quality Attraction Experience Value）
         hae_value = self._calculate_hai(raw_daily_attractions, user_query, sandbox_data)
 
@@ -61,7 +62,7 @@ class UtilityMetrics:
         metrics['aqe'] = hae_value / time
 
         # 旅行体验收益（平均价值）
-        metrics['profit'] = experience_value / n
+        metrics['profit'] = experience_value / n if n else 0
 
         # 体验多样性
         metrics['diversity'] = self._calculate_diversity(daily_attractions, sandbox_data)
@@ -71,6 +72,7 @@ class UtilityMetrics:
 
         # 计算综合得分
         # metrics['score'] = self._calculate_score(metrics)
+        print("end！")
 
         return metrics
 
@@ -135,7 +137,7 @@ class UtilityMetrics:
                     day_type = self.extractors._get_date_type(user_query.get('dates'), day_number)
                     effective_duration = self.extractors._calculate_effective_time(
                         attraction, day_type, attraction.get('type'), self.waiting)
-                    quality_score = attraction_quality_map.get(attraction_name, 3.0)
+                    quality_score = float(attraction_quality_map.get(attraction_name, 3.0))
                     total_quality_time += quality_score * effective_duration
 
         return total_quality_time
@@ -193,12 +195,19 @@ class UtilityMetrics:
             for attraction in day_attractions:
                 if attraction in attraction_info_map:
                     attraction_info = attraction_info_map[attraction]
-                    base_quality = attraction_info['star']
-                    preference_match = self.extractors._calculate_preference_match(
+                    star_value = attraction_info.get('star')
+                    if not star_value:
+                        star_value = 3.0
+                    base_quality = float(star_value)
+                    preference_match = float(self.extractors._calculate_preference_match(
                         attraction_info['type'], user_preferences
-                    )
+                    ))
+                    # print("base_quality type:", type(base_quality), "value:", base_quality)
+                    # print("preference_match type:", type(preference_match), "value:", preference_match)
                     attraction_value = base_quality * preference_match
                     total_value += attraction_value
+
+        # print("total value type:", type(total_value), "value:", total_value)
 
         return total_value
 

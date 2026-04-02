@@ -95,7 +95,7 @@ class ConfigManager:
                 'log_level': 'INFO'
             },
             'apis': {
-                'gaode_api_key': '56335e8ed2298117890c03dcbd1728a0',
+                'gaode_api_key': 'e2798b0529532fca9ec02e0fc6c43233',
                 'gaode_base_url': 'https://restapi.amap.com/v5/direction/walking',
                 'request_timeout': 10,
                 'rate_limit_delay': 0.5
