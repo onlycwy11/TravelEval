@@ -105,8 +105,8 @@ def main(file_name, selected_models=None, selected_strategies=None):
 
 
 if __name__ == "__main__":
-    # for file_name in ['easy.json', 'medium.json', 'hard.json', 'progressive.json']:
-    for file_name in ['test.json']:
+    for file_name in ['easy.json', 'medium.json', 'hard.json', 'progressive.json']:
+    # for file_name in ['test.json']:
         main(file_name)
     # mail.sendMail('您的程序已经运行完成！')
 

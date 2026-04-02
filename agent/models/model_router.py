@@ -102,12 +102,11 @@ class ModelRouter:
         """保存token使用情况到JSON文件"""
         try:
             # 创建token目录
-            token_dir = "token_usage"
+            token_dir = os.path.join("agent", "token_usage")
             os.makedirs(token_dir, exist_ok=True)
 
             # 生成文件名
             filename = f"{model_name}_tokens.json"
-
             file_path = os.path.join(token_dir, filename)
 
             # 准备保存的数据

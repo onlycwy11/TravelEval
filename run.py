@@ -330,13 +330,13 @@ if __name__ == "__main__":
     strategies = choose_strategies()
     models = choose_models(model_router)
 
-    # print("\nRunning...")
-    # print(f"Models: {models}")
-    # print(f"Strategies: {len(strategies)} of them")
-    #
-    # # 1. 生成计划
-    # for f in ['test.json']:
-    #     original_main(f, models, strategies)
+    print("\nRunning...")
+    print(f"Models: {models}")
+    print(f"Strategies: {len(strategies)} of them")
+
+    # 1. 生成计划
+    for f in ['test.json']:
+        original_main(f, models, strategies)
 
     # 2. 清洗 POI
     auto_run_poi_clean()

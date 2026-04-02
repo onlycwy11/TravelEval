@@ -3,6 +3,7 @@ geo_cache (1).json
 geo_cache2026.json
 geo_cache_1.json
 geo_cache_2.0.json
+geo_cache_restore.json
 flights.jsonl
 flights_1.0.jsonl
 flights_coords.json
@@ -11,6 +12,7 @@ core/utils/test2_geo_cache.json
 core/utils/travel_time_cache1.json
 core/geo_cache1.json
 config/metrics_config.yaml
+agent/token_usage
 
 # 2. 临时/结果文件（本地运行生成，远程不需要）
 analysis_results.zip
@@ -55,3 +57,4 @@ environment/database/intercity_transport/train_old
 .idea/
 .vscode/
 .DS_Store
+git
