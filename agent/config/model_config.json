@@ -27,7 +27,7 @@
     "api_base": "https://api.claude-plus.top/v1",
     "model_name": "claude-sonnet-4-5-20250929",
     "max_tokens": 8192,
-    "temperature": 1.0,
+    "temperature": 1.3,
     "timeout": 60
   },
   "gemini-2.0-flash": {
