@@ -62,7 +62,7 @@ class DailyEndingPoint(BaseModel):
     end_time: str = Field(..., pattern=r"^([01]\d|2[0-3]):([0-5]\d)$", description="到达时间，格式 HH:MM")
     location_name: str = Field(..., description="终点名称（车站或酒店）")
     cost: float = Field(..., description="费用")
-    transportation_to: Literal["走路", "步行", "骑行", "驾车", "公交", "地铁", "打车", "包车", "高铁", "飞机", "动车"] = Field(..., description="交通方式")
+    transportation_to: Literal["走路", "步行", "骑行", "驾车", "公交", "地铁", "打车", "包车", "高铁", "飞机"] = Field(..., description="交通方式")
     transportation_cost: float = Field(..., description="交通费用")
     details: Dict[str, Any] = Field(..., description="交通详情")
 
