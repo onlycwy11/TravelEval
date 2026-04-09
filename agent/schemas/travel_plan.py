@@ -62,7 +62,7 @@ class DailyEndingPoint(BaseModel):
     end_time: str = Field(..., pattern=r"^([01]\d|2[0-3]):([0-5]\d)$", description="到达时间，格式 HH:MM")
     location_name: str = Field(..., description="终点名称（车站或酒店）")
     cost: float = Field(..., description="费用")
-    transportation_to: Literal["走路", "步行", "骑行", "驾车", "公交", "地铁", "打车", "包车", "高铁", "飞机"] = Field(..., description="交通方式")
+    transportation_to: Literal["走路", "步行", "骑行", "驾车", "公交", "地铁", "打车", "包车", "高铁", "飞机", "动车"] = Field(..., description="交通方式")
     transportation_cost: float = Field(..., description="交通费用")
     details: Dict[str, Any] = Field(..., description="交通详情")
 
@@ -103,7 +103,7 @@ class FinalTravelPlan(BaseModel):
     itinerary: ItineraryContent = Field(..., description="行程详情")
 
 if __name__ == "__main__":
-    client = instructor.from_provider("openai/deepseek", api_key="sk-d658bd05649148499ad2aeeeba1c1c07")
+    client = instructor.from_provider("openai/deepseek", api_key="sk-**************************")
     user = client.chat.completions.create(
         response_model=FinalTravelPlan,
         messages=[{"role": "user", "content": "我和朋友两人要从北京到杭州玩3天，预算4000。"}]

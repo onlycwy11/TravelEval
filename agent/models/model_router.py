@@ -17,7 +17,6 @@ from datetime import datetime
 import instructor
 from agent.schemas.travel_plan import FinalTravelPlan
 from openai import OpenAI  # 使用官方的OpenAI客户端
-import google.generativeai as genai  # 使用官方的Gemini客户端
 
 logging.getLogger('google.generativeai').setLevel(logging.ERROR)
 
